@@ -1,0 +1,261 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tlpedia:HTML_table_example_on_Page_3_of_RFC_1942 a tlp:Page ;
+    rdfs:label "HTML table example on Page 3 of RFC 1942" ;
+    tlp:element _:ub777bL104C17,
+        _:ub777bL109C25,
+        _:ub777bL117C25,
+        _:ub777bL124C25,
+        _:ub777bL130C25,
+        _:ub777bL137C17,
+        _:ub777bL142C25,
+        _:ub777bL152C25,
+        _:ub777bL163C17,
+        _:ub777bL168C25,
+        _:ub777bL19C9,
+        _:ub777bL26C17,
+        _:ub777bL31C25,
+        _:ub777bL39C25,
+        _:ub777bL47C25,
+        _:ub777bL54C25,
+        _:ub777bL62C25,
+        _:ub777bL71C17,
+        _:ub777bL76C25,
+        _:ub777bL84C25,
+        _:ub777bL91C25,
+        _:ub777bL97C25 ;
+    tlp:indexList ( 0 ) ;
+    tlp:member _:ub777bL19C9 ;
+    owl:sameAs dbpedia:HTML_table_example_on_Page_3_of_RFC_1942 ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/HTML_table_example_on_Page_3_of_RFC_1942?oldid=> ;
+    foaf:isPrimaryTopicOf wikipedia:HTML_table_example_on_Page_3_of_RFC_1942 ;
+    foaf:name "HTML table example on Page 3 of RFC 1942" .
+
+_:fc4e01ea5af684daaa762729748b089f6b10 rdf:first 0 ;
+    rdf:rest () .
+
+_:fc4e01ea5af684daaa762729748b089f6b11 rdf:first 1 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b15 rdf:first 1 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b19 rdf:first 1 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b2 rdf:first 1 ;
+    rdf:rest ( 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b23 rdf:first 1 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b27 rdf:first 1 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b30 rdf:first 1 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b34 rdf:first 1 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b38 rdf:first 1 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b4 rdf:first 1 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b42 rdf:first 1 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b46 rdf:first 1 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b49 rdf:first 1 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b53 rdf:first 1 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b57 rdf:first 1 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b61 rdf:first 1 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b65 rdf:first 1 ;
+    rdf:rest ( 4 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b68 rdf:first 1 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b7 rdf:first 1 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b72 rdf:first 1 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b76 rdf:first 1 ;
+    rdf:rest ( 5 0 ) .
+
+_:fc4e01ea5af684daaa762729748b089f6b79 rdf:first 1 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:ub777bL104C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b46 ;
+    tlp:member _:ub777bL109C25,
+        _:ub777bL117C25,
+        _:ub777bL124C25,
+        _:ub777bL130C25 .
+
+_:ub777bL109C25 a tlp:Cell ;
+    rdfs:label "Average" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b49 ;
+    tlp:style tlp:ColSpanned,
+        tlp:Identified .
+
+_:ub777bL117C25 a tlp:Cell ;
+    rdfs:label "weight" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b53 ;
+    tlp:style tlp:Identified .
+
+_:ub777bL124C25 a tlp:Cell ;
+    rdfs:label "0.003" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b57 .
+
+_:ub777bL130C25 a tlp:Cell ;
+    rdfs:label "0.002" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b61 .
+
+_:ub777bL137C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b65 ;
+    tlp:member _:ub777bL142C25,
+        _:ub777bL152C25 .
+
+_:ub777bL142C25 a tlp:Cell ;
+    rdfs:label """other\r
+category""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b68 ;
+    tlp:style tlp:Identified,
+        tlp:RowSpanned .
+
+_:ub777bL152C25 a tlp:Cell ;
+    rdfs:label """other\r
+category""" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b72 ;
+    tlp:style tlp:Identified,
+        tlp:RowSpanned .
+
+_:ub777bL163C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b76 ;
+    tlp:member _:ub777bL168C25 .
+
+_:ub777bL168C25 a tlp:Cell ;
+    rdfs:label "Misc" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b79 ;
+    tlp:style tlp:Identified .
+
+_:ub777bL19C9 a tlp:Table ;
+    rdfs:label "A test table with merged cells" ;
+    tlp:dimension 2 ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b2 ;
+    tlp:member _:ub777bL104C17,
+        _:ub777bL137C17,
+        _:ub777bL163C17,
+        _:ub777bL26C17,
+        _:ub777bL71C17 .
+
+_:ub777bL26C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b4 ;
+    tlp:member _:ub777bL31C25,
+        _:ub777bL39C25,
+        _:ub777bL47C25,
+        _:ub777bL54C25,
+        _:ub777bL62C25 .
+
+_:ub777bL31C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b7 ;
+    tlp:style tlp:Identified,
+        tlp:RowSpanned .
+
+_:ub777bL39C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b11 ;
+    tlp:style tlp:Identified,
+        tlp:RowSpanned .
+
+_:ub777bL47C25 a tlp:Cell ;
+    rdfs:label "males" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b15 ;
+    tlp:style tlp:Identified .
+
+_:ub777bL54C25 a tlp:Cell ;
+    rdfs:label "females" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b19 ;
+    tlp:style tlp:Identified,
+        tlp:RowSpanned .
+
+_:ub777bL62C25 a tlp:Cell ;
+    rdfs:label "females" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b23 ;
+    tlp:style tlp:Identified,
+        tlp:RowSpanned .
+
+_:ub777bL71C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b27 ;
+    tlp:member _:ub777bL76C25,
+        _:ub777bL84C25,
+        _:ub777bL91C25,
+        _:ub777bL97C25 .
+
+_:ub777bL76C25 a tlp:Cell ;
+    rdfs:label "Average" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b30 ;
+    tlp:style tlp:ColSpanned,
+        tlp:Identified .
+
+_:ub777bL84C25 a tlp:Cell ;
+    rdfs:label "height" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b34 ;
+    tlp:style tlp:Identified .
+
+_:ub777bL91C25 a tlp:Cell ;
+    rdfs:label "1.9" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b38 .
+
+_:ub777bL97C25 a tlp:Cell ;
+    rdfs:label "1.7" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc4e01ea5af684daaa762729748b089f6b42 .
+
