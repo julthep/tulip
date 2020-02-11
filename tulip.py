@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 17 17:57:26 2019
-
 @author: julthep
 """
 
@@ -12,9 +10,9 @@ __license__ = "LGPL-3.0"
 import requests_cache
 import bs4
 
-from rdflib import Graph, Namespace, URIRef
+from rdflib import Graph, Namespace, URIRef     #, Literal
 from rdflib.collection import Collection
-from rdflib.namespace import RDF
+from rdflib.namespace import RDF    #, RDFS, FOAF
 from urllib.parse import urljoin
 
 requests_cache.install_cache()
@@ -25,7 +23,7 @@ base_url          = ''      # initial set global base_url
 
 class Tulip:
     def __init__(self, size):
-        self.member = [ Tulip(0) for i in range(size) ]
+        self.member = [ Tulip(0) for _ in range(size) ]
         self.type   = {'Group': None, 'Item':      None, 
                        'Page':  None, 'Paragraph': None, 
                        'Table': None, 'Column':    None, 'Row': None, 'Cell': None, 
@@ -170,6 +168,7 @@ def bs2tulip(bso):
                     br_new.string = '\n'
                     br_tag.replace_with(br_new)
                 tulip[tulip_idx].label = caption.get_text().strip()
+            # workaround to temporary get table header
             else:
                 for header in tulip_grp.previous_elements:
                     if header.name in ['h1','h2','h3','h4','h5','h6']:
