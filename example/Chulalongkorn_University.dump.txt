@@ -1,0 +1,2057 @@
+[] Type: Page
+│  Label: Chulalongkorn University
+└─ Number of Member: 34
+    [0] Type: Table
+    │   Label: Chulalongkorn University
+    │   Dimension: 3
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        └───── Number of Member: 22
+            [0, 0, 0] Type: Cell
+            │         Label: จุฬาลงกรณ์มหาวิทยาลัย
+            └──────── Style: ColSpanned
+            [0, 0, 1] Type: Cell
+            │         Label: Phra Kiao Chulalongkorn University Seal
+            │         Style: ColSpanned
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/135px-Phra_Kiao.svg.png': 'http://en.wikipedia.org/wiki/File:Phra_Kiao.svg', 'text:Chulalongkorn University Seal': 'http://en.wikipedia.org/wiki/Phra_Kiao'}
+            [0, 0, 2] Type: Cell
+            │         Label: Former names
+            └──────── Style: Identified
+            [0, 0, 3] Type: Cell
+            │         Label: Motto
+            └──────── Style: Identified
+            [0, 0, 4] Type: Cell
+            │         Label: Motto in English
+            └──────── Style: Identified
+            [0, 0, 5] Type: Cell
+            │         Label: Type
+            └──────── Style: Identified
+            [0, 0, 6] Type: Cell
+            │         Label: Established
+            └──────── Style: Identified
+            [0, 0, 7] Type: Cell
+            │         Label: Founder
+            └──────── Style: Identified
+            [0, 0, 8] Type: Cell
+            │         Label: Budget
+            └──────── Style: Identified
+            [0, 0, 9] Type: Cell
+            │         Label: President
+            │         Style: Identified
+            └──────── Link: {'text:President': 'http://en.wikipedia.org/wiki/University_president'}
+            [0, 0, 10] Type: Cell
+            │          Label: Students
+            └───────── Style: Identified
+            [0, 0, 11] Type: Cell
+            │          Label: Undergraduates
+            │          Style: Identified
+            └───────── Link: {'text:Undergraduates': 'http://en.wikipedia.org/wiki/Undergraduate_education'}
+            [0, 0, 12] Type: Cell
+            │          Label: Postgraduates
+            │          Style: Identified
+            └───────── Link: {'text:Postgraduates': 'http://en.wikipedia.org/wiki/Postgraduate_education'}
+            [0, 0, 13] Type: Cell
+            │          Label: Doctoral students
+            │          Style: Identified
+            └───────── Link: {'text:Doctoral students': 'http://en.wikipedia.org/wiki/Doctorate'}
+            [0, 0, 14] Type: Cell
+            │          Label: Location
+            └───────── Style: Identified
+            [0, 0, 15] Type: Cell
+            │          Label: Campus
+            └───────── Style: Identified
+            [0, 0, 16] Type: Cell
+            │          Label: Anthem
+            └───────── Style: Identified
+            [0, 0, 17] Type: Cell
+            │          Label: Colours
+            │          Style: Identified
+            └───────── Link: {'text:Colours': 'http://en.wikipedia.org/wiki/School_colors'}
+            [0, 0, 18] Type: Cell
+            │          Label: Affiliations
+            └───────── Style: Identified
+            [0, 0, 19] Type: Cell
+            │          Label: Mascot
+            └───────── Style: Identified
+            [0, 0, 20] Type: Cell
+            │          Label: Website
+            └───────── Style: Identified
+            [0, 0, 21] Type: Cell
+            │          Label: 
+            │          Style: ColSpanned
+            └───────── Link: {'image:http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Chula_logo_with_namestyle.svg/250px-Chula_logo_with_namestyle.svg.png': 'http://en.wikipedia.org/wiki/File:Chula_logo_with_namestyle.svg'}
+        [0, 1] Type: Column
+        └───── Number of Member: 22
+            [0, 1, 0] Type: Cell
+            │         Label: จุฬาลงกรณ์มหาวิทยาลัย
+            └──────── Style: ColSpanned
+            [0, 1, 1] Type: Cell
+            │         Label: Phra Kiao Chulalongkorn University Seal
+            │         Style: ColSpanned
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/135px-Phra_Kiao.svg.png': 'http://en.wikipedia.org/wiki/File:Phra_Kiao.svg', 'text:Chulalongkorn University Seal': 'http://en.wikipedia.org/wiki/Phra_Kiao'}
+            [0, 1, 2] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 2
+                [0, 1, 2, 0] Type: Item
+                └─────────── Label: Royal Pages School
+                [0, 1, 2, 1] Type: Item
+                └─────────── Label: Civil Service College of King Chulalongkorn
+            [0, 1, 3] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 3
+                [0, 1, 3, 0] Type: Item
+                └─────────── Label: ความรู้คู่คุณธรรม (official)
+                [0, 1, 3, 1] Type: Item
+                └─────────── Label: เกียรติภูมิจุฬาฯ คือเกียรติแห่งการรับใช้ประชาชน (unofficial)
+                [0, 1, 3, 2] Type: Item
+                └─────────── Label: เสาหลักแห่งแผ่นดิน (vision statement)
+            [0, 1, 4] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 3
+                [0, 1, 4, 0] Type: Item
+                └─────────── Label: Knowledge with Virtue (official)
+                [0, 1, 4, 1] Type: Item
+                └─────────── Label: Honour of Chula is the Honour of Serving the Public (unofficial)
+                [0, 1, 4, 2] Type: Item
+                └─────────── Label: Pillar of the Kingdom (vision statement)
+            [0, 1, 5] Type: Cell
+            │         Label: National
+            └──────── Link: {'text:National': 'http://en.wikipedia.org/wiki/National_university'}
+            [0, 1, 6] Type: Cell
+            └──────── Label: 26 March 1917 (1917-03-26)
+            [0, 1, 7] Type: Cell
+            │         Label: King Vajiravudh of Siam
+            └──────── Link: {'text:King Vajiravudh of Siam': 'http://en.wikipedia.org/wiki/Vajiravudh'}
+            [0, 1, 8] Type: Cell
+            └──────── Label: 5,535 million baht (FY2019)
+            [0, 1, 9] Type: Cell
+            │         Label: Prof. Bundhit Eua-arporn, PhD
+(บัณฑิต เอื้ออาภรณ์)
+            └──────── Link: {'text:Bundhit Eua-arporn': 'http://en.wikipedia.org/wiki/Bundhit_Eua-arporn', 'text:บัณฑิต เอื้ออาภรณ์': 'https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95_%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C'}
+            [0, 1, 10] Type: Cell
+            └───────── Label: 34,996
+            [0, 1, 11] Type: Cell
+            └───────── Label: 24,045
+            [0, 1, 12] Type: Cell
+            └───────── Label: 7,359
+            [0, 1, 13] Type: Cell
+            └───────── Label: 2,455
+            [0, 1, 14] Type: Cell
+            │          Label: Pathum Wan,  Bangkok, Thailand
+13°44′18″N 100°31′56″E﻿ / ﻿13.738359°N 100.532097°E﻿ / 13.738359; 100.532097
+            └───────── Link: {'text:Pathum Wan': 'http://en.wikipedia.org/wiki/Pathum_Wan_District', 'text:Bangkok': 'http://en.wikipedia.org/wiki/Bangkok', 'text:Thailand': 'http://en.wikipedia.org/wiki/Thailand', 'text:13°44′18″N 100°31′56″E\ufeff / \ufeff13.738359°N 100.532097°E\ufeff / 13.738359; 100.532097': 'http://tools.wmflabs.org/geohack/geohack.php?pagename=Chulalongkorn_University&params=13.738359_N_100.532097_E_type:edu_region:TH'}
+            [0, 1, 15] Type: Cell
+            │          Label: Downtown 2.0944 km2 (0.8087 sq mi)
+            └───────── Link: {'text:Downtown': 'http://en.wikipedia.org/wiki/Downtown'}
+            [0, 1, 16] Type: Cell
+            └───────── Label: "Maha Chulalongkorn"
+("Great Chulalongkorn")
+            [0, 1, 17] Type: Cell
+            └───────── Label: Pink
+            [0, 1, 18] Type: Cell
+            │          Label: ASAIHL, AUN, APRU, Washington University in St. Louis McDonnell International Scholars Academy
+            └───────── Link: {'text:ASAIHL': 'http://en.wikipedia.org/wiki/Association_of_Southeast_Asian_Institutions_of_Higher_Learning', 'text:AUN': 'http://en.wikipedia.org/wiki/ASEAN_University_Network', 'text:APRU': 'http://en.wikipedia.org/wiki/Association_of_Pacific_Rim_Universities', 'text:Washington University in St. Louis': 'http://en.wikipedia.org/wiki/Washington_University_in_St._Louis'}
+            [0, 1, 19] Type: Cell
+            │          Label: Chamchuri (tree)
+            └───────── Link: {'text:Chamchuri (tree)': 'http://en.wikipedia.org/wiki/Albizia_saman'}
+            [0, 1, 20] Type: Cell
+            │          Label: chula.ac.th
+            └───────── Link: {'text:chula.ac.th': 'https://chula.ac.th'}
+            [0, 1, 21] Type: Cell
+            │          Label: 
+            │          Style: ColSpanned
+            └───────── Link: {'image:http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Chula_logo_with_namestyle.svg/250px-Chula_logo_with_namestyle.svg.png': 'http://en.wikipedia.org/wiki/File:Chula_logo_with_namestyle.svg'}
+    [1] Type: List
+    │   Label: Contents
+    │   Dimension: 3
+    └── Number of Member: 17
+        [1, 0] Type: Item
+        │      Label: Budget
+        └───── Link: {'text:Budget': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Budget'}
+        [1, 1] Type: Item
+        │      Label: History
+        └───── Link: {'text:History': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#History'}
+        [1, 2] Type: Item, List
+        │      Label: Symbols
+        │      Link: {'text:Symbols': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Symbols'}
+        └───── Number of Member: 4
+            [1, 2, 0] Type: Item
+            │         Label: Phra Kiao
+            └──────── Link: {'text:Phra Kiao': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Phra_Kiao'}
+            [1, 2, 1] Type: Item
+            │         Label: Student uniform
+            └──────── Link: {'text:Student uniform': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Student_uniform'}
+            [1, 2, 2] Type: Item, List
+            │         Label: Academic dress
+            │         Link: {'text:Academic dress': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Academic_dress'}
+            └──────── Number of Member: 1
+                [1, 2, 2, 0] Type: Item
+                │            Label: Example of felt strips
+                └─────────── Link: {'text:Example of felt strips': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Example_of_felt_strips'}
+            [1, 2, 3] Type: Item
+            │         Label: Rain Trees
+            └──────── Link: {'text:Rain Trees': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Rain_Trees'}
+        [1, 3] Type: Item, List
+        │      Label: Organization
+        │      Link: {'text:Organization': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Organization'}
+        └───── Number of Member: 7
+            [1, 3, 0] Type: Item
+            │         Label: Health Sciences
+            └──────── Link: {'text:Health Sciences': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Health_Sciences'}
+            [1, 3, 1] Type: Item
+            │         Label: Sciences and Technologies
+            └──────── Link: {'text:Sciences and Technologies': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Sciences_and_Technologies'}
+            [1, 3, 2] Type: Item
+            │         Label: Social Sciences and Humanities
+            └──────── Link: {'text:Social Sciences and Humanities': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Social_Sciences_and_Humanities'}
+            [1, 3, 3] Type: Item
+            │         Label: Integrated Faculty
+            └──────── Link: {'text:Integrated Faculty': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Integrated_Faculty'}
+            [1, 3, 4] Type: Item
+            │         Label: Graduate institutes
+            └──────── Link: {'text:Graduate institutes': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Graduate_institutes'}
+            [1, 3, 5] Type: Item
+            │         Label: Research institutes
+            └──────── Link: {'text:Research institutes': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Research_institutes'}
+            [1, 3, 6] Type: Item
+            │         Label: Associated institutes
+            └──────── Link: {'text:Associated institutes': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Associated_institutes'}
+        [1, 4] Type: Item
+        │      Label: Research
+        └───── Link: {'text:Research': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Research'}
+        [1, 5] Type: Item
+        │      Label: Rankings
+        └───── Link: {'text:Rankings': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Rankings'}
+        [1, 6] Type: Item, List
+        │      Label: International programs
+        │      Link: {'text:International programs': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#International_programs'}
+        └───── Number of Member: 2
+            [1, 6, 0] Type: Item
+            │         Label: Undergraduate
+            └──────── Link: {'text:Undergraduate': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Undergraduate'}
+            [1, 6, 1] Type: Item
+            │         Label: Graduate
+            └──────── Link: {'text:Graduate': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Graduate'}
+        [1, 7] Type: Item, List
+        │      Label: Scholarships
+        │      Link: {'text:Scholarships': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Scholarships'}
+        └───── Number of Member: 2
+            [1, 7, 0] Type: Item
+            │         Label: Research Scholarships
+            └──────── Link: {'text:Research Scholarships': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Research_Scholarships'}
+            [1, 7, 1] Type: Item
+            │         Label: Education Scholarships
+            └──────── Link: {'text:Education Scholarships': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Education_Scholarships'}
+        [1, 8] Type: Item, List
+        │      Label: Campus
+        │      Link: {'text:Campus': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Campus'}
+        └───── Number of Member: 2
+            [1, 8, 0] Type: Item
+            │         Label: Chulalongkorn Centenary Park
+            └──────── Link: {'text:Chulalongkorn Centenary Park': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Chulalongkorn_Centenary_Park'}
+            [1, 8, 1] Type: Item
+            │         Label: Accommodation
+            └──────── Link: {'text:Accommodation': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Accommodation'}
+        [1, 9] Type: Item
+        │      Label: Honorary degrees
+        └───── Link: {'text:Honorary degrees': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Honorary_degrees'}
+        [1, 10] Type: Item
+        │       Label: Traditions
+        └────── Link: {'text:Traditions': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Traditions'}
+        [1, 11] Type: Item
+        │       Label: Student activities and clubs
+        └────── Link: {'text:Student activities and clubs': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Student_activities_and_clubs'}
+        [1, 12] Type: Item
+        │       Label: Notable alumni
+        └────── Link: {'text:Notable alumni': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Notable_alumni'}
+        [1, 13] Type: Item, List
+        │       Label: International reputation
+        │       Link: {'text:International reputation': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#International_reputation'}
+        └────── Number of Member: 1
+            [1, 13, 0] Type: Item
+            │          Label: Robocup competitions
+            └───────── Link: {'text:Robocup competitions': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#Robocup_competitions'}
+        [1, 14] Type: Item
+        │       Label: See also
+        └────── Link: {'text:See also': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#See_also'}
+        [1, 15] Type: Item
+        │       Label: References
+        └────── Link: {'text:References': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#References'}
+        [1, 16] Type: Item
+        │       Label: External links
+        └────── Link: {'text:External links': 'http://en.wikipedia.org/wiki/Chulalongkorn_University#External_links'}
+    [2] Type: List
+    │   Label: History
+    │   Dimension: 1
+    └── Number of Member: 5
+        [2, 0] Type: Item
+        └───── Label: School of International Relations in the Royal Palace
+        [2, 1] Type: Item
+        │      Label: School of Teacher Training at Baan Somdet Chao Phraya
+        └───── Link: {'text:School of Teacher Training at Baan Somdet Chao Phraya': 'http://en.wikipedia.org/wiki/Faculty_of_Education,_Chulalongkorn_University'}
+        [2, 2] Type: Item
+        │      Label: Royal Medical College at Siriraj Hospital
+        └───── Link: {'text:Royal Medical College': 'http://en.wikipedia.org/wiki/Faculty_of_Medicine_Siriraj_Hospital,_Mahidol_University'}
+        [2, 3] Type: Item
+        └───── Label: School of Legal Studies
+        [2, 4] Type: Item
+        └───── Label: School of Mechanical Sciences at Windsor Palace
+    [3] Type: List
+    │   Label: Example of felt strips
+    │   Dimension: 1
+    └── Number of Member: 5
+        [3, 0] Type: Item
+        │      Label: King of Thailand's ceremonial robe
+        └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/King%27s_Felt_Strip_CU.svg/60px-King%27s_Felt_Strip_CU.svg.png': 'http://en.wikipedia.org/wiki/File:King%27s_Felt_Strip_CU.svg'}
+        [3, 1] Type: Item
+        │      Label: Lecturer's ceremonial robe
+        └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Faculty%27s_Felt_Strip_CU.svg/60px-Faculty%27s_Felt_Strip_CU.svg.png': 'http://en.wikipedia.org/wiki/File:Faculty%27s_Felt_Strip_CU.svg'}
+        [3, 2] Type: Item
+        │      Label: Faculty of Science BSc
+        └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Felt_Strip_for_Bachelor_CU_%28Science%29.svg/60px-Felt_Strip_for_Bachelor_CU_%28Science%29.svg.png': 'http://en.wikipedia.org/wiki/File:Felt_Strip_for_Bachelor_CU_(Science).svg', 'text:BSc': 'http://en.wikipedia.org/wiki/Bachelor_of_Science'}
+        [3, 3] Type: Item
+        │      Label: Faculty of Science MSc
+        └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Felt_Strip_for_Master_CU_%28Science%29.svg/60px-Felt_Strip_for_Master_CU_%28Science%29.svg.png': 'http://en.wikipedia.org/wiki/File:Felt_Strip_for_Master_CU_(Science).svg', 'text:MSc': 'http://en.wikipedia.org/wiki/Master_of_Science'}
+        [3, 4] Type: Item
+        │      Label: Faculty of Science PhD
+        └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Felt_Strip_for_Doctor_CU_%28Science%29.svg/60px-Felt_Strip_for_Doctor_CU_%28Science%29.svg.png': 'http://en.wikipedia.org/wiki/File:Felt_Strip_for_Doctor_CU_(Science).svg', 'text:PhD': 'http://en.wikipedia.org/wiki/Doctor_of_Philosophy'}
+    [4] Type: List
+    │   Label: Health Sciences
+    │   Dimension: 1
+    └── Number of Member: 8
+        [4, 0] Type: Item
+        └───── Label: Faculty of Allied Health Sciences
+        [4, 1] Type: Item
+        └───── Label: Faculty of Dentistry
+        [4, 2] Type: Item
+        │      Label: Faculty of Medicine
+        └───── Link: {'text:Faculty of Medicine': 'http://en.wikipedia.org/wiki/Faculty_of_Medicine,_Chulalongkorn_University'}
+        [4, 3] Type: Item
+        └───── Label: Faculty of Nursing
+        [4, 4] Type: Item
+        │      Label: Faculty of Pharmaceutical Sciences
+        └───── Link: {'text:Faculty of Pharmaceutical Sciences': 'http://en.wikipedia.org/wiki/Faculty_of_Pharmaceutical_Sciences,_Chulalongkorn_University'}
+        [4, 5] Type: Item
+        └───── Label: Faculty of Psychology
+        [4, 6] Type: Item
+        └───── Label: Faculty of Sport Sciences
+        [4, 7] Type: Item
+        └───── Label: Faculty of Veterinary Science
+    [5] Type: List
+    │   Label: Sciences and Technologies
+    │   Dimension: 1
+    └── Number of Member: 4
+        [5, 0] Type: Item
+        └───── Label: Faculty of Architecture
+        [5, 1] Type: Item
+        └───── Label: Faculty of Engineering
+        [5, 2] Type: Item
+        └───── Label: Faculty of Science
+        [5, 3] Type: Item
+        └───── Label: School of Agricultural Resources
+    [6] Type: List
+    │   Label: Social Sciences and Humanities
+    │   Dimension: 1
+    └── Number of Member: 8
+        [6, 0] Type: Item
+        │      Label: Chulalongkorn Business School
+        └───── Link: {'text:Chulalongkorn Business School': 'http://www.cbs.chula.ac.th/home-th/'}
+        [6, 1] Type: Item
+        │      Label: Faculty of Arts (Language&Literature)
+        └───── Link: {'text:Faculty of Arts': 'http://en.wikipedia.org/wiki/Faculty_of_Arts,_Chulalongkorn_University'}
+        [6, 2] Type: Item
+        └───── Label: Faculty of Communication Arts
+        [6, 3] Type: Item
+        └───── Label: Faculty of Economics
+        [6, 4] Type: Item
+        └───── Label: Faculty of Education
+        [6, 5] Type: Item
+        └───── Label: Faculty of Fine and Applied Arts (Art)
+        [6, 6] Type: Item
+        └───── Label: Faculty of Law
+        [6, 7] Type: Item
+        │      Label: Faculty of Political Science
+        └───── Link: {'text:Faculty of Political Science': 'http://en.wikipedia.org/wiki/Faculty_of_Political_Science,_Chulalongkorn_University'}
+    [7] Type: List
+    │   Label: Integrated Faculty
+    │   Dimension: 1
+    └── Number of Member: 1
+        [7, 0] Type: Item
+        │      Label: School of Integrated Innovation
+        └───── Link: {'text:School of Integrated Innovation': 'http://en.wikipedia.org/w/index.php?title=School_of_Integrated_Innovation&action=edit&redlink=1'}
+    [8] Type: List
+    │   Label: Graduate institutes
+    │   Dimension: 1
+    └── Number of Member: 6
+        [8, 0] Type: Item
+        └───── Label: College of Population Studies
+        [8, 1] Type: Item
+        └───── Label: College of Public Health Science
+        [8, 2] Type: Item
+        └───── Label: Graduate School
+        [8, 3] Type: Item
+        └───── Label: Language Institute
+        [8, 4] Type: Item
+        └───── Label: Petroleum and Petrochemical College
+        [8, 5] Type: Item
+        │      Label: Sasin Graduate Institute of Business Administration
+        └───── Link: {'text:Sasin Graduate Institute of Business Administration': 'http://en.wikipedia.org/wiki/Sasin_Graduate_Institute_of_Business_Administration_of_Chulalongkorn_University'}
+    [9] Type: List
+    │   Label: Research institutes
+    │   Dimension: 1
+    └── Number of Member: 8
+        [9, 0] Type: Item
+        └───── Label: Aquatic Resources Research Institute
+        [9, 1] Type: Item
+        └───── Label: Energy Research Institute
+        [9, 2] Type: Item
+        └───── Label: Environmental Research Institute
+        [9, 3] Type: Item
+        └───── Label: Institute of Asian Studies
+        [9, 4] Type: Item
+        └───── Label: Institute of Biotechnology and Genetic Engineering
+        [9, 5] Type: Item
+        └───── Label: Metallurgy and Materials Science Research Institute
+        [9, 6] Type: Item
+        └───── Label: Social Research Institute
+        [9, 7] Type: Item
+        └───── Label: Transportation Institute
+    [10] Type: List
+    │    Label: Associated institutes
+    │    Dimension: 1
+    └─── Number of Member: 2
+        [10, 0] Type: Item
+        └────── Label: Police Nursing College
+        [10, 1] Type: Item
+        └────── Label: Red Cross College of Nursing
+    [11] Type: List
+    │    Label: Research
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [11, 0] Type: Item
+        └────── Label: Aquatic Resources Research Institute
+        [11, 1] Type: Item
+        └────── Label: Energy Research Institute
+        [11, 2] Type: Item
+        └────── Label: Environment Research Institute
+        [11, 3] Type: Item
+        └────── Label: Social Research Institute
+        [11, 4] Type: Item
+        └────── Label: The Institute of Biotechnology and Genetics Engineering
+        [11, 5] Type: Item
+        └────── Label: Metallurgy and Material Science Research Institute
+        [11, 6] Type: Item
+        └────── Label: Institute of Asian Studies
+        [11, 7] Type: Item
+        └────── Label: Transportation Institute
+    [12] Type: Table
+    │    Label: Rankings
+    │    Dimension: 2
+    └─── Number of Member: 3
+        [12, 0] Type: Column
+        └────── Number of Member: 16
+            [12, 0, 0] Type: Cell
+            │          Label: Ranking
+            └───────── Style: Identified, ColSpanned
+            [12, 0, 1] Type: Cell
+            └───────── Label: 
+            [12, 0, 2] Type: Cell
+            │          Label: QS Asia (2016)
+            └───────── Link: {'text:QS Asia': 'http://en.wikipedia.org/wiki/QS_World_University_Rankings'}
+            [12, 0, 3] Type: Cell
+            │          Label: QS World (2017)
+            └───────── Link: {'text:QS World': 'http://en.wikipedia.org/wiki/QS_World_University_Rankings'}
+            [12, 0, 4] Type: Cell
+            └───────── Label: QS GER (2017)
+            [12, 0, 5] Type: Cell
+            └───────── Label: CWUR (2017)
+            [12, 0, 6] Type: Cell
+            └───────── Label: RUR (2017)
+            [12, 0, 7] Type: Cell
+            └───────── Label: RUR Reputation
+            [12, 0, 8] Type: Cell
+            └───────── Label: RUR Research
+            [12, 0, 9] Type: Cell
+            └───────── Label: CWTS (2016)
+            [12, 0, 10] Type: Cell
+            └────────── Label: THE World (2016)
+            [12, 0, 11] Type: Cell
+            └────────── Label: ARWU (2017)
+            [12, 0, 12] Type: Cell
+            └────────── Label: SIR (2016)
+            [12, 0, 13] Type: Cell
+            └────────── Label: Nature Index (2016)
+            [12, 0, 14] Type: Cell
+            └────────── Label: U.S. News (2019)
+            [12, 0, 15] Type: Cell
+            └────────── Label: UI Green Metric City Center (2016)
+        [12, 1] Type: Column
+        └────── Number of Member: 16
+            [12, 1, 0] Type: Cell
+            │          Label: Ranking
+            └───────── Style: Identified, ColSpanned
+            [12, 1, 1] Type: Cell
+            └───────── Label: National Ranking
+            [12, 1, 2] Type: Cell
+            └───────── Label: 1
+            [12, 1, 3] Type: Cell
+            └───────── Label: 1
+            [12, 1, 4] Type: Cell
+            └───────── Label: 1
+            [12, 1, 5] Type: Cell
+            └───────── Label: 1
+            [12, 1, 6] Type: Cell
+            └───────── Label: 1
+            [12, 1, 7] Type: Cell
+            └───────── Label: 1
+            [12, 1, 8] Type: Cell
+            └───────── Label: 1
+            [12, 1, 9] Type: Cell
+            └───────── Label: 1
+            [12, 1, 10] Type: Cell
+            └────────── Label: 2
+            [12, 1, 11] Type: Cell
+            └────────── Label: 1
+            [12, 1, 12] Type: Cell
+            └────────── Label: 2
+            [12, 1, 13] Type: Cell
+            └────────── Label: 1
+            [12, 1, 14] Type: Cell
+            └────────── Label: 1
+            [12, 1, 15] Type: Cell
+            └────────── Label: 1
+        [12, 2] Type: Column
+        └────── Number of Member: 16
+            [12, 2, 0] Type: Cell
+            │          Label: Ranking
+            └───────── Style: Identified, ColSpanned
+            [12, 2, 1] Type: Cell
+            └───────── Label: Global Ranking
+            [12, 2, 2] Type: Cell
+            └───────── Label: 45
+            [12, 2, 3] Type: Cell
+            └───────── Label: 245
+            [12, 2, 4] Type: Cell
+            └───────── Label: 151-200
+            [12, 2, 5] Type: Cell
+            └───────── Label: 308
+            [12, 2, 6] Type: Cell
+            └───────── Label: 398
+            [12, 2, 7] Type: Cell
+            └───────── Label: 182
+            [12, 2, 8] Type: Cell
+            └───────── Label: 424
+            [12, 2, 9] Type: Cell
+            └───────── Label: 432
+            [12, 2, 10] Type: Cell
+            └────────── Label: 601-800
+            [12, 2, 11] Type: Cell
+            └────────── Label: 401-500
+            [12, 2, 12] Type: Cell
+            └────────── Label: 475
+            [12, 2, 13] Type: Cell
+            └────────── Label: -
+            [12, 2, 14] Type: Cell
+            └────────── Label: 522
+            [12, 2, 15] Type: Cell
+            └────────── Label: 15
+    [13] Type: List
+    │    Label: Rankings
+    │    Dimension: 1
+    └─── Number of Member: 15
+        [13, 0] Type: Item
+        └────── Label: In the QS Asia University Rankings 2016. Chulalongkorn has been ranked as the top Thai university and 45th in Asia
+        [13, 1] Type: Item
+        │       Label: In the QS World University Rankings 2017/18. Chulalongkorn is ranked the 1st in Thailand and 245th in the world
+        └────── Link: {'text:QS World University Rankings 2017/18': 'http://en.wikipedia.org/wiki/QS_World_University_Rankings'}
+        [13, 2] Type: Item
+        └────── Label: In the QS graduate employability rankings 2016. Chulalongkorn is No. 1 university in Thailand and No. 151 - 200 in the world
+        [13, 3] Type: Item
+        └────── Label: In the Center for World University Ranking or CWUR, Chulalongkorn is ranked as number 1 university in Thailand and 308th in world rankings in 2017, considered by alumni, researches, quality of curriculums and instructors.
+        [13, 4] Type: Item
+        │       Label: In the Round University Ranking 2017. Chulalongkorn is ranked the 1st in Thailand and ranked 398th in the world.
+        └────── Link: {'text:Round University Ranking': 'http://en.wikipedia.org/wiki/Round_University_Ranking'}
+        [13, 5] Type: Item
+        └────── Label: In the RUR Research Performance World University Rankings 2016. Chulalongkorn is No. 1 university in Thailand and No. 424 in the world
+        [13, 6] Type: Item
+        └────── Label: In the CWTS Leiden Ranking 2016. Chulalongkorn is ranked the 1st in Thailand and ranked 432nd in the world.
+        [13, 7] Type: Item
+        └────── Label: In the THE World University Rankings 2016. Chulalongkorn is ranked 601- 800 in the world.
+        [13, 8] Type: Item
+        └────── Label: In the RUR Reputation Rankings 2016. Chulalongkorn is No. 1 university in Thailand and No. 182 in the world.
+        [13, 9] Type: Item
+        └────── Label: In the SCImago institutions Ranking, which ranks international researches of universities. Chulalongkorn is ranked 475th in World rankings in 2016, up six places from last year.
+        [13, 10] Type: Item
+        └─────── Label: In the Academic Ranking of World Universities 2017. Chulalongkorn is No. 1 university in Thailand and No. 401-500 in the world.
+        [13, 11] Type: Item
+        └─────── Label: In the Nature Index, the affiliations of high-quality scientific articles. Chulalongkorn is ranked the 1st in Thailand in 2016.
+        [13, 12] Type: Item
+        └─────── Label: US News ranked Chulalongkorn 522th in the world. based on the university's reputation, medium, citations, international cooperation, and he quantity of PhD students.
+        [13, 13] Type: Item
+        └─────── Label: In the 2018 Times Higher Education Emerging Economies Index, Chula ranked 126.
+        [13, 14] Type: Item
+        └─────── Label: QS World University Ranking by Subject 2018
+    [14] Type: Table
+    │    Label: Rankings
+    │    Dimension: 3
+    └─── Number of Member: 2
+        [14, 0] Type: Column
+        └────── Number of Member: 7
+            [14, 0, 0] Type: Cell
+            │          Label: World rank
+            └───────── Style: Identified
+            [14, 0, 1] Type: Cell
+            │          Label: 48
+            └───────── Style: Identified
+            [14, 0, 2] Type: Cell
+            │          Label: 51 – 100
+            └───────── Style: Identified
+            [14, 0, 3] Type: Cell
+            │          Label: 101 – 150
+            └───────── Style: Identified
+            [14, 0, 4] Type: Cell
+            │          Label: 151 – 200
+            └───────── Style: Identified
+            [14, 0, 5] Type: Cell
+            │          Label: 201 – 250
+            └───────── Style: Identified
+            [14, 0, 6] Type: Cell
+            │          Label: 301 – 350
+            └───────── Style: Identified
+        [14, 1] Type: Column
+        └────── Number of Member: 7
+            [14, 1, 0] Type: Cell
+            │          Label: Subject
+            └───────── Style: Identified
+            [14, 1, 1] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [14, 1, 1, 0] Type: Item
+                └──────────── Label: Mineral & Mining Engineering
+            [14, 1, 2] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [14, 1, 2, 0] Type: Item
+                └──────────── Label: Chemical Engineering
+            [14, 1, 3] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 7
+                [14, 1, 3, 0] Type: Item
+                └──────────── Label: Accounting & Finance
+                [14, 1, 3, 1] Type: Item
+                └──────────── Label: Architecture / Built Environment
+                [14, 1, 3, 2] Type: Item
+                └──────────── Label: Environmental Sciences
+                [14, 1, 3, 3] Type: Item
+                └──────────── Label: Geography
+                [14, 1, 3, 4] Type: Item
+                └──────────── Label: Modern Languages
+                [14, 1, 3, 5] Type: Item
+                └──────────── Label: Pharmacy & Pharmacology
+                [14, 1, 3, 6] Type: Item
+                └──────────── Label: Politics & International Studies
+            [14, 1, 4] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 9
+                [14, 1, 4, 0] Type: Item
+                └──────────── Label: Business & Management Studies
+                [14, 1, 4, 1] Type: Item
+                └──────────── Label: Chemistry
+                [14, 1, 4, 2] Type: Item
+                └──────────── Label: Civil & Structural Engineering
+                [14, 1, 4, 3] Type: Item
+                └──────────── Label: Electrical & Electronic Engineering
+                [14, 1, 4, 4] Type: Item
+                └──────────── Label: Linguistics
+                [14, 1, 4, 5] Type: Item
+                └──────────── Label: Materials Science
+                [14, 1, 4, 6] Type: Item
+                └──────────── Label: Mechanical, Aeronautical & Manufacturing Engineering
+                [14, 1, 4, 7] Type: Item
+                └──────────── Label: Medicine
+                [14, 1, 4, 8] Type: Item
+                └──────────── Label: Sociology
+            [14, 1, 5] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 3
+                [14, 1, 5, 0] Type: Item
+                └──────────── Label: Biological Sciences
+                [14, 1, 5, 1] Type: Item
+                └──────────── Label: Computer Science & Information Systems
+                [14, 1, 5, 2] Type: Item
+                └──────────── Label: Economics & Econometrics
+            [14, 1, 6] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [14, 1, 6, 0] Type: Item
+                └──────────── Label: Physics & Astronomy
+    [15] Type: List
+    │    Label: Rankings
+    │    Dimension: 1
+    └─── Number of Member: 2
+        [15, 0] Type: Item
+        └────── Label: In the UI Green Metric-City Center, Chulalongkorn was ranked the 1st in national rankings and the 15th in world rankings. considered by Setting and Infrastructure, Energy and Climate Change, Waste, Water, Transportation and Education.
+        [15, 1] Type: Item
+        └────── Label: The Webometric ranking  indicates quantity and quality of the university's medium, considered by being searched by search engines, online documents, and citations in Google Scholar.  Chulalongkorn is ranked the 1st in national rankings 548th in the world.
+    [16] Type: Table
+    │    Label: Undergraduate
+    │    Dimension: 2
+    └─── Number of Member: 4
+        [16, 0] Type: Column
+        └────── Number of Member: 16
+            [16, 0, 0] Type: Cell
+            │          Label: Faculty/College/School
+            └───────── Style: Identified
+            [16, 0, 1] Type: Cell
+            │          Label: Architecture
+            └───────── Style: RowSpanned
+            [16, 0, 2] Type: Cell
+            │          Label: Architecture
+            └───────── Style: RowSpanned
+            [16, 0, 3] Type: Cell
+            └───────── Label: Arts
+            [16, 0, 4] Type: Cell
+            └───────── Label: Arts and Science
+            [16, 0, 5] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [16, 0, 6] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [16, 0, 7] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [16, 0, 8] Type: Cell
+            └───────── Label: Communication Arts
+            [16, 0, 9] Type: Cell
+            └───────── Label: Economics
+            [16, 0, 10] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [16, 0, 11] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [16, 0, 12] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [16, 0, 13] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [16, 0, 14] Type: Cell
+            └────────── Label: Psychology
+            [16, 0, 15] Type: Cell
+            └────────── Label: Science
+        [16, 1] Type: Column
+        └────── Number of Member: 16
+            [16, 1, 0] Type: Cell
+            │          Label: Degree
+            └───────── Style: Identified
+            [16, 1, 1] Type: Cell
+            └───────── Label: B.Sc.
+            [16, 1, 2] Type: Cell
+            └───────── Label: B.A.
+            [16, 1, 3] Type: Cell
+            └───────── Label: B.A.
+            [16, 1, 4] Type: Cell
+            └───────── Label: B.A. Sc.
+            [16, 1, 5] Type: Cell
+            └───────── Label: B.B.A.
+            [16, 1, 6] Type: Cell
+            └───────── Label: B.B.A.
+            [16, 1, 7] Type: Cell
+            └───────── Label: B.B.A
+            [16, 1, 8] Type: Cell
+            └───────── Label: B.A.
+            [16, 1, 9] Type: Cell
+            └───────── Label: B.A.
+            [16, 1, 10] Type: Cell
+            └────────── Label: B.Eng.
+            [16, 1, 11] Type: Cell
+            └────────── Label: B.Eng.
+            [16, 1, 12] Type: Cell
+            └────────── Label: B.Eng.
+            [16, 1, 13] Type: Cell
+            └────────── Label: B.Eng.
+            [16, 1, 14] Type: Cell
+            └────────── Label: B.Sc.
+            [16, 1, 15] Type: Cell
+            └────────── Label: B.Sc.
+        [16, 2] Type: Column
+        └────── Number of Member: 16
+            [16, 2, 0] Type: Cell
+            │          Label: Calendar System
+            └───────── Style: Identified
+            [16, 2, 1] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 2] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 3] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 4] Type: Cell
+            └───────── Label: Trimester
+            [16, 2, 5] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 6] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 7] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 8] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 9] Type: Cell
+            └───────── Label: Semester
+            [16, 2, 10] Type: Cell
+            └────────── Label: Semester
+            [16, 2, 11] Type: Cell
+            └────────── Label: Semester
+            [16, 2, 12] Type: Cell
+            └────────── Label: Semester
+            [16, 2, 13] Type: Cell
+            └────────── Label: Semester
+            [16, 2, 14] Type: Cell
+            └────────── Label: Semester
+            [16, 2, 15] Type: Cell
+            └────────── Label: Semester
+        [16, 3] Type: Column
+        └────── Number of Member: 16
+            [16, 3, 0] Type: Cell
+            │          Label: Programs
+            └───────── Style: Identified
+            [16, 3, 1] Type: Cell
+            └───────── Label: Architectural Design
+            [16, 3, 2] Type: Cell
+            └───────── Label: Communication Design
+            [16, 3, 3] Type: Cell
+            └───────── Label: Language and Culture
+            [16, 3, 4] Type: Cell
+            └───────── Label: Integrated Innovation
+            [16, 3, 5] Type: Cell
+            └───────── Label: Accounting
+            [16, 3, 6] Type: Cell
+            └───────── Label: International Business Management
+            [16, 3, 7] Type: Cell
+            └───────── Label: Finance
+            [16, 3, 8] Type: Cell
+            └───────── Label: Communication Management
+            [16, 3, 9] Type: Cell
+            └───────── Label: Economics
+            [16, 3, 10] Type: Cell
+            └────────── Label: Aerospace Engineering
+            [16, 3, 11] Type: Cell
+            └────────── Label: Automotive Design and Manufacturing Engineering
+            [16, 3, 12] Type: Cell
+            └────────── Label: Information and Communication Engineering
+            [16, 3, 13] Type: Cell
+            └────────── Label: Nano Engineering
+            [16, 3, 14] Type: Cell
+            └────────── Label: Psychological Science
+            [16, 3, 15] Type: Cell
+            └────────── Label: Applied Chemistry
+    [17] Type: Table
+    │    Label: Graduate
+    │    Dimension: 2
+    └─── Number of Member: 8
+        [17, 0] Type: Column
+        └────── Number of Member: 30
+            [17, 0, 0] Type: Cell
+            │          Label: Faculty/College/School
+            └───────── Style: Identified
+            [17, 0, 1] Type: Cell
+            └───────── Label: Allied Health Sciences
+            [17, 0, 2] Type: Cell
+            └───────── Label: Architecture
+            [17, 0, 3] Type: Cell
+            └───────── Label: Arts
+            [17, 0, 4] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [17, 0, 5] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [17, 0, 6] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [17, 0, 7] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [17, 0, 8] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [17, 0, 9] Type: Cell
+            │          Label: Commerce and Accountancy
+            └───────── Style: RowSpanned
+            [17, 0, 10] Type: Cell
+            └────────── Label: Communication Arts
+            [17, 0, 11] Type: Cell
+            │           Label: Dentistry
+            └────────── Style: RowSpanned
+            [17, 0, 12] Type: Cell
+            │           Label: Dentistry
+            └────────── Style: RowSpanned
+            [17, 0, 13] Type: Cell
+            │           Label: Economics
+            └────────── Style: RowSpanned
+            [17, 0, 14] Type: Cell
+            │           Label: Economics
+            └────────── Style: RowSpanned
+            [17, 0, 15] Type: Cell
+            │           Label: Economics
+            └────────── Style: RowSpanned
+            [17, 0, 16] Type: Cell
+            │           Label: Economics
+            └────────── Style: RowSpanned
+            [17, 0, 17] Type: Cell
+            │           Label: Economics
+            └────────── Style: RowSpanned
+            [17, 0, 18] Type: Cell
+            │           Label: Education
+            └────────── Style: RowSpanned
+            [17, 0, 19] Type: Cell
+            │           Label: Education
+            └────────── Style: RowSpanned
+            [17, 0, 20] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [17, 0, 21] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [17, 0, 22] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [17, 0, 23] Type: Cell
+            │           Label: Engineering
+            └────────── Style: RowSpanned
+            [17, 0, 24] Type: Cell
+            └────────── Label: Law
+            [17, 0, 25] Type: Cell
+            │           Label: Medicine
+            └────────── Style: RowSpanned
+            [17, 0, 26] Type: Cell
+            │           Label: Medicine
+            └────────── Style: RowSpanned
+            [17, 0, 27] Type: Cell
+            │           Label: Medicine
+            └────────── Style: RowSpanned
+            [17, 0, 28] Type: Cell
+            │           Label: Medicine
+            └────────── Style: RowSpanned
+            [17, 0, 29] Type: Cell
+            │           Label: 
+            └────────── Style: ColSpanned
+        [17, 1] Type: Column
+        └────── Number of Member: 30
+            [17, 1, 0] Type: Cell
+            │          Label: Degree
+            └───────── Style: Identified
+            [17, 1, 1] Type: Cell
+            └───────── Label: M.Sc./Ph.D.
+            [17, 1, 2] Type: Cell
+            └───────── Label: M.Arch.
+            [17, 1, 3] Type: Cell
+            └───────── Label: M.A./Ph.D
+            [17, 1, 4] Type: Cell
+            └───────── Label: M.M.
+            [17, 1, 5] Type: Cell
+            └───────── Label: M.Sc.
+            [17, 1, 6] Type: Cell
+            └───────── Label: M.Sc.
+            [17, 1, 7] Type: Cell
+            └───────── Label: D.B.A.
+            [17, 1, 8] Type: Cell
+            └───────── Label: Ph.D.
+            [17, 1, 9] Type: Cell
+            └───────── Label: Ph.D.
+            [17, 1, 10] Type: Cell
+            └────────── Label: M.A.
+            [17, 1, 11] Type: Cell
+            └────────── Label: M.Sc.
+            [17, 1, 12] Type: Cell
+            └────────── Label: Ph.D.
+            [17, 1, 13] Type: Cell
+            └────────── Label: M.A.
+            [17, 1, 14] Type: Cell
+            └────────── Label: M.A.
+            [17, 1, 15] Type: Cell
+            └────────── Label: M.A.
+            [17, 1, 16] Type: Cell
+            └────────── Label: M.Sc.
+            [17, 1, 17] Type: Cell
+            └────────── Label: Ph.D.
+            [17, 1, 18] Type: Cell
+            └────────── Label: Higher Grad. Dip.
+            [17, 1, 19] Type: Cell
+            └────────── Label: M.Ed.
+            [17, 1, 20] Type: Cell
+            └────────── Label: M.Eng
+            [17, 1, 21] Type: Cell
+            └────────── Label: M.Eng
+            [17, 1, 22] Type: Cell
+            └────────── Label: M.Eng
+            [17, 1, 23] Type: Cell
+            └────────── Label: D.Eng.
+            [17, 1, 24] Type: Cell
+            └────────── Label: LL.M.
+            [17, 1, 25] Type: Cell
+            └────────── Label: M.Sc.
+            [17, 1, 26] Type: Cell
+            └────────── Label: M.Sc./Ph.D.
+            [17, 1, 27] Type: Cell
+            └────────── Label: M.Sc./Ph.D.
+            [17, 1, 28] Type: Cell
+            └────────── Label: Ph.D.
+            [17, 1, 29] Type: Cell
+            │           Label: 
+            └────────── Style: ColSpanned
+        [17, 2] Type: Column
+        └────── Number of Member: 30
+            [17, 2, 0] Type: Cell
+            │          Label: Calendar System
+            └───────── Style: Identified
+            [17, 2, 1] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 2] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 3] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 4] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 5] Type: Cell
+            └───────── Label: Trimester
+            [17, 2, 6] Type: Cell
+            └───────── Label: Trimester
+            [17, 2, 7] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 8] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 9] Type: Cell
+            └───────── Label: Semester
+            [17, 2, 10] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 11] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 12] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 13] Type: Cell
+            └────────── Label: Trimester
+            [17, 2, 14] Type: Cell
+            └────────── Label: Trimester
+            [17, 2, 15] Type: Cell
+            └────────── Label: Trimester
+            [17, 2, 16] Type: Cell
+            └────────── Label: Trimester
+            [17, 2, 17] Type: Cell
+            └────────── Label: Trimester
+            [17, 2, 18] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 19] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 20] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 21] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 22] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 23] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 24] Type: Cell
+            └────────── Label: Trimester
+            [17, 2, 25] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 26] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 27] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 28] Type: Cell
+            └────────── Label: Semester
+            [17, 2, 29] Type: Cell
+            │           Label: 
+            └────────── Style: ColSpanned
+        [17, 3] Type: Column
+        └────── Number of Member: 30
+            [17, 3, 0] Type: Cell
+            │          Label: Programs
+            └───────── Style: Identified
+            [17, 3, 1] Type: Cell
+            └───────── Label: Food and Nutrition
+            [17, 3, 2] Type: Cell
+            └───────── Label: Architectural Design
+            [17, 3, 3] Type: Cell
+            └───────── Label: Thai Studies
+            [17, 3, 4] Type: Cell
+            └───────── Label: International Business Management
+            [17, 3, 5] Type: Cell
+            └───────── Label: Finance
+            [17, 3, 6] Type: Cell
+            └───────── Label: Financial Engineering
+            [17, 3, 7] Type: Cell
+            └───────── Label: Business Administration (Management/Finance/Marketing)
+            [17, 3, 8] Type: Cell
+            └───────── Label: Information Technology in Business
+            [17, 3, 9] Type: Cell
+            └───────── Label: Quantitative Finance
+            [17, 3, 10] Type: Cell
+            └────────── Label: Strategic Communication Management
+            [17, 3, 11] Type: Cell
+            └────────── Label: Esthetic Restorative and Implant Dentistry
+            [17, 3, 12] Type: Cell
+            └────────── Label: Dental Public Health
+            [17, 3, 13] Type: Cell
+            └────────── Label: Business and Managerial Economics
+            [17, 3, 14] Type: Cell
+            └────────── Label: International Economics and Finance
+            [17, 3, 15] Type: Cell
+            └────────── Label: Labour Economics and Human Resource Management
+            [17, 3, 16] Type: Cell
+            └────────── Label: Health Economics and Health Care Management
+            [17, 3, 17] Type: Cell
+            └────────── Label: Economics
+            [17, 3, 18] Type: Cell
+            └────────── Label: Higher Education Management
+            [17, 3, 19] Type: Cell
+            └────────── Label: Teaching English as a Foreign Language
+            [17, 3, 20] Type: Cell
+            └────────── Label: Engineering Management
+            [17, 3, 21] Type: Cell
+            └────────── Label: Petroleum Engineering
+            [17, 3, 22] Type: Cell
+            └────────── Label: Georesources and Petroleum Engineering
+            [17, 3, 23] Type: Cell
+            └────────── Label: Civil Engineering
+            [17, 3, 24] Type: Cell
+            └────────── Label: Business Law
+            [17, 3, 25] Type: Cell
+            └────────── Label: Health Development
+            [17, 3, 26] Type: Cell
+            └────────── Label: Medical Sciences
+            [17, 3, 27] Type: Cell
+            └────────── Label: Clinical Sciences
+            [17, 3, 28] Type: Cell
+            └────────── Label: Biomedical Science and Biotechnology
+            [17, 3, 29] Type: Cell
+            │           Label: 
+            └────────── Style: ColSpanned
+        [17, 4] Type: Column
+        └────── Number of Member: 30
+            [17, 4, 0] Type: Cell
+            │          Label: Faculty/College/School
+            └───────── Style: Identified
+            [17, 4, 1] Type: Cell
+            └───────── Label: Nursing
+            [17, 4, 2] Type: Cell
+            │          Label: Pharmaceutical Science
+            └───────── Style: RowSpanned
+            [17, 4, 3] Type: Cell
+            │          Label: Pharmaceutical Science
+            └───────── Style: RowSpanned
+            [17, 4, 4] Type: Cell
+            │          Label: Pharmaceutical Science
+            └───────── Style: RowSpanned
+            [17, 4, 5] Type: Cell
+            │          Label: Political Science
+            └───────── Style: RowSpanned
+            [17, 4, 6] Type: Cell
+            │          Label: Political Science
+            └───────── Style: RowSpanned
+            [17, 4, 7] Type: Cell
+            │          Label: Science
+            └───────── Style: RowSpanned
+            [17, 4, 8] Type: Cell
+            │          Label: Science
+            └───────── Style: RowSpanned
+            [17, 4, 9] Type: Cell
+            │          Label: Science
+            └───────── Style: RowSpanned
+            [17, 4, 10] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 11] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 12] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 13] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 14] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 15] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 16] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 17] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 18] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 19] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 20] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 21] Type: Cell
+            │           Label: Graduate School
+            └────────── Style: RowSpanned
+            [17, 4, 22] Type: Cell
+            │           Label: Public Health Sciences
+            └────────── Style: RowSpanned
+            [17, 4, 23] Type: Cell
+            │           Label: Public Health Sciences
+            └────────── Style: RowSpanned
+            [17, 4, 24] Type: Cell
+            │           Label: SASIN
+            └────────── Style: RowSpanned
+            [17, 4, 25] Type: Cell
+            │           Label: SASIN
+            └────────── Style: RowSpanned
+            [17, 4, 26] Type: Cell
+            │           Label: SASIN
+            └────────── Style: RowSpanned
+            [17, 4, 27] Type: Cell
+            │           Label: Petroleum and Petrochemical
+            └────────── Style: RowSpanned
+            [17, 4, 28] Type: Cell
+            │           Label: Petroleum and Petrochemical
+            └────────── Style: RowSpanned
+            [17, 4, 29] Type: Cell
+            │           Label: Petroleum and Petrochemical
+            └────────── Style: RowSpanned
+        [17, 5] Type: Column
+        └────── Number of Member: 30
+            [17, 5, 0] Type: Cell
+            │          Label: Degree
+            └───────── Style: Identified
+            [17, 5, 1] Type: Cell
+            └───────── Label: Ph.D.
+            [17, 5, 2] Type: Cell
+            └───────── Label: M.Sc./Ph.D.
+            [17, 5, 3] Type: Cell
+            └───────── Label: M.Sc./Ph.D.
+            [17, 5, 4] Type: Cell
+            └───────── Label: Ph.D
+            [17, 5, 5] Type: Cell
+            └───────── Label: M.A.
+            [17, 5, 6] Type: Cell
+            └───────── Label: M.A.
+            [17, 5, 7] Type: Cell
+            └───────── Label: M.Sc./Ph.D.
+            [17, 5, 8] Type: Cell
+            └───────── Label: M.Sc.
+            [17, 5, 9] Type: Cell
+            └───────── Label: M.Sc.
+            [17, 5, 10] Type: Cell
+            └────────── Label: Grad.Dip.
+            [17, 5, 11] Type: Cell
+            └────────── Label: M.A.
+            [17, 5, 12] Type: Cell
+            └────────── Label: M.A./Ph.D.
+            [17, 5, 13] Type: Cell
+            └────────── Label: M.A./Ph.D.
+            [17, 5, 14] Type: Cell
+            └────────── Label: M.A./Ph.D.
+            [17, 5, 15] Type: Cell
+            └────────── Label: M.Sc./Ph.D.
+            [17, 5, 16] Type: Cell
+            └────────── Label: M.A.
+            [17, 5, 17] Type: Cell
+            └────────── Label: M.A.
+            [17, 5, 18] Type: Cell
+            └────────── Label: M.A.
+            [17, 5, 19] Type: Cell
+            └────────── Label: Ph.D
+            [17, 5, 20] Type: Cell
+            └────────── Label: Ph.D
+            [17, 5, 21] Type: Cell
+            └────────── Label: Ph.D
+            [17, 5, 22] Type: Cell
+            └────────── Label: M.P.H./Ph.D.
+            [17, 5, 23] Type: Cell
+            └────────── Label: M.Sc./Ph.D.
+            [17, 5, 24] Type: Cell
+            └────────── Label: M.B.A./M.Sc./Executive
+            [17, 5, 25] Type: Cell
+            └────────── Label: Grad.Dip./M.Sc.
+            [17, 5, 26] Type: Cell
+            └────────── Label: Ph.D.
+            [17, 5, 27] Type: Cell
+            └────────── Label: M.S
+            [17, 5, 28] Type: Cell
+            └────────── Label: M.S./Ph.D.
+            [17, 5, 29] Type: Cell
+            └────────── Label: M.S./Ph.D.
+        [17, 6] Type: Column
+        └────── Number of Member: 30
+            [17, 6, 0] Type: Cell
+            │          Label: Calendar System
+            └───────── Style: Identified
+            [17, 6, 1] Type: Cell
+            └───────── Label: Semester
+            [17, 6, 2] Type: Cell
+            └───────── Label: Semester
+            [17, 6, 3] Type: Cell
+            └───────── Label: Semester
+            [17, 6, 4] Type: Cell
+            └───────── Label: Semester
+            [17, 6, 5] Type: Cell
+            └───────── Label: Trimester
+            [17, 6, 6] Type: Cell
+            └───────── Label: Trimester
+            [17, 6, 7] Type: Cell
+            └───────── Label: Semester
+            [17, 6, 8] Type: Cell
+            └───────── Label: Semester
+            [17, 6, 9] Type: Cell
+            └───────── Label: Trimester
+            [17, 6, 10] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 11] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 12] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 13] Type: Cell
+            └────────── Label: Trimester
+            [17, 6, 14] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 15] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 16] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 17] Type: Cell
+            └────────── Label: Trimester
+            [17, 6, 18] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 19] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 20] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 21] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 22] Type: Cell
+            └────────── Label: Trimester
+            [17, 6, 23] Type: Cell
+            └────────── Label: Trimester
+            [17, 6, 24] Type: Cell
+            └────────── Label: Module
+            [17, 6, 25] Type: Cell
+            └────────── Label: Module
+            [17, 6, 26] Type: Cell
+            └────────── Label: Quarters
+            [17, 6, 27] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 28] Type: Cell
+            └────────── Label: Semester
+            [17, 6, 29] Type: Cell
+            └────────── Label: Semester
+        [17, 7] Type: Column
+        └────── Number of Member: 30
+            [17, 7, 0] Type: Cell
+            │          Label: Programs
+            └───────── Style: Identified
+            [17, 7, 1] Type: Cell
+            └───────── Label: Nursing Science
+            [17, 7, 2] Type: Cell
+            └───────── Label: Pharmaceutical Technology
+            [17, 7, 3] Type: Cell
+            └───────── Label: Social and Administrative Pharmacy
+            [17, 7, 4] Type: Cell
+            └───────── Label: Pharmaceutical Care
+            [17, 7, 5] Type: Cell
+            └───────── Label: International Development Studies
+            [17, 7, 6] Type: Cell
+            └───────── Label: Governance
+            [17, 7, 7] Type: Cell
+            └───────── Label: Computer Science and Information Technology
+            [17, 7, 8] Type: Cell
+            └───────── Label: Food Science and Technology
+            [17, 7, 9] Type: Cell
+            └───────── Label: Petroleum Geoscience
+            [17, 7, 10] Type: Cell
+            └────────── Label: Fashion Business
+            [17, 7, 11] Type: Cell
+            └────────── Label: Cultural Management
+            [17, 7, 12] Type: Cell
+            └────────── Label: English as an International Language
+            [17, 7, 13] Type: Cell
+            └────────── Label: European Studies
+            [17, 7, 14] Type: Cell
+            └────────── Label: Environment, Development, and Sustainability
+            [17, 7, 15] Type: Cell
+            └────────── Label: Hazardous Substance and Environmental Management
+            [17, 7, 16] Type: Cell
+            └────────── Label: Korean Studies
+            [17, 7, 17] Type: Cell
+            └────────── Label: Russian Studies
+            [17, 7, 18] Type: Cell
+            └────────── Label: Southeast Asian Studies
+            [17, 7, 19] Type: Cell
+            └────────── Label: Agricultural Technology
+            [17, 7, 20] Type: Cell
+            └────────── Label: Logistics Management and Supply Chain Management
+            [17, 7, 21] Type: Cell
+            └────────── Label: Nanoscience and Technology
+            [17, 7, 22] Type: Cell
+            └────────── Label: Public Health
+            [17, 7, 23] Type: Cell
+            └────────── Label: Public Health Sciences
+            [17, 7, 24] Type: Cell
+            └────────── Label: Business Administration
+            [17, 7, 25] Type: Cell
+            └────────── Label: Human Resource Management
+            [17, 7, 26] Type: Cell
+            └────────── Label: Business Administration (Finance/Marketing)
+            [17, 7, 27] Type: Cell
+            └────────── Label: Petroleum Technology
+            [17, 7, 28] Type: Cell
+            └────────── Label: Petrochemical Technology
+            [17, 7, 29] Type: Cell
+            └────────── Label: Polymer Science
+    [18] Type: List
+    │    Label: Research Scholarships
+    │    Dimension: 1
+    └─── Number of Member: 7
+        [18, 0] Type: Item
+        └────── Label: The 90th Anniversary of Chulalongkorn University Scholarship
+        [18, 1] Type: Item
+        └────── Label: CU.Graduate School Thesis Grant
+        [18, 2] Type: Item
+        └────── Label: Overseas Research Experience Scholarship for Graduate Student
+        [18, 3] Type: Item
+        └────── Label: Overseas Academic Presentation Scholarship for Graduate Students
+        [18, 4] Type: Item
+        └────── Label: Overseas Academic Presentation Scholarship Option II  for Graduate Student's and Postdoctoral Fellow's Publication
+        [18, 5] Type: Item
+        └────── Label: Domestic Academic Presentation Scholarship for  Graduate Student
+        [18, 6] Type: Item
+        └────── Label: Postdoctoral Fellowship
+    [19] Type: List
+    │    Label: Education Scholarships
+    │    Dimension: 1
+    └─── Number of Member: 9
+        [19, 0] Type: Item
+        └────── Label: The  100th Anniversary Chulalongkorn University for Doctoral Scholarship
+        [19, 1] Type: Item
+        └────── Label: H.M. King Bhumibhol Adulyadej's 72nd Birthday Anniversary Scholarship
+        [19, 2] Type: Item
+        └────── Label: Thainess Study Scholarship for Graduate Students
+        [19, 3] Type: Item
+        └────── Label: 60/40 Support for Tuition Fee
+        [19, 4] Type: Item
+        └────── Label: Teaching  Assistant Scholarship
+        [19, 5] Type: Item
+        └────── Label: Research Assistant Scholarship
+        [19, 6] Type: Item
+        └────── Label: Tuition fees Scholarship for Master to Doctoral
+        [19, 7] Type: Item
+        └────── Label: ASEAN Scholarship
+        [19, 8] Type: Item
+        └────── Label: Scholarship for International Graduate Students
+    [20] Type: List
+    │    Label: Honorary degrees
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [20, 0] Type: Item
+        │       Label: Lyndon B. Johnson, October 29, 1966
+        └────── Link: {'text:Lyndon B. Johnson': 'http://en.wikipedia.org/wiki/Lyndon_B._Johnson'}
+        [20, 1] Type: Item
+        │       Label: Bill Clinton, November 26, 1996
+        └────── Link: {'text:Bill Clinton': 'http://en.wikipedia.org/wiki/Bill_Clinton'}
+        [20, 2] Type: Item
+        │       Label: Nelson Mandela, July 17, 1997
+        └────── Link: {'text:Nelson Mandela': 'http://en.wikipedia.org/wiki/Nelson_Mandela'}
+    [21] Type: List
+    │    Label: Traditions
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [21, 0] Type: Item
+        │       Label: Chula–Thammasat Traditional Football Match: The annual football match between Chulalongkorn University and Thammasat University in January at Suphashalasai Stadium. It first started in 1934.
+        └────── Link: {'text:Chula–Thammasat Traditional Football Match': 'http://en.wikipedia.org/wiki/Chula%E2%80%93Thammasat_Traditional_Football_Match', 'text:football': 'http://en.wikipedia.org/wiki/Association_football', 'text:Thammasat University': 'http://en.wikipedia.org/wiki/Thammasat_University', 'text:Suphashalasai Stadium': 'http://en.wikipedia.org/wiki/Suphashalasai_Stadium'}
+        [21, 1] Type: Item
+        │       Label: Loy Krathong: an annual celebration of the full moon night, which usually falls on the first full moon day in November. Since the festival is open to the public, it attracts many people, especially Chulalongkorn students and faculty and those who live in downtown Bangkok, to come to the university to float their krathongs on the university's pond.
+        └────── Link: {'text:Loy Krathong': 'http://en.wikipedia.org/wiki/Loy_Krathong'}
+        [21, 2] Type: Item
+        └────── Label: Chulalongkorn Academic Exhibition: a triennial academic and research exhibition presented by Chulalongkorn University's students and faculty. It is regarded as one of the most important academic fairs in Thailand.
+    [22] Type: List
+    │    Label: Notable alumni
+    │    Dimension: 1
+    └─── Number of Member: 28
+        [22, 0] Type: Item
+        │       Label: Prince Mahidol Adulyadej of Songkhla, father of King Ananda Mahidol and King Bhumibol Adulyadej
+        └────── Link: {'text:Prince Mahidol Adulyadej of Songkhla': 'http://en.wikipedia.org/wiki/Mahidol_Adulyadej', 'text:King Ananda Mahidol': 'http://en.wikipedia.org/wiki/Ananda_Mahidol', 'text:King Bhumibol Adulyadej': 'http://en.wikipedia.org/wiki/Bhumibol_Adulyadej'}
+        [22, 1] Type: Item
+        │       Label: Princess Galyani Vadhana, princess of Narathiwat, Thailand
+        └────── Link: {'text:Princess Galyani Vadhana': 'http://en.wikipedia.org/wiki/Galyani_Vadhana', 'text:Narathiwat': 'http://en.wikipedia.org/wiki/Narathiwat_Province'}
+        [22, 2] Type: Item
+        │       Label: Princess Maha Chakri Sirindhorn, princess of Thailand
+        └────── Link: {'text:Princess Maha Chakri Sirindhorn': 'http://en.wikipedia.org/wiki/Maha_Chakri_Sirindhorn'}
+        [22, 3] Type: Item
+        │       Label: Princess Sirivannavari Nariratana, princess of Thailand
+        └────── Link: {'text:Princess Sirivannavari Nariratana': 'http://en.wikipedia.org/wiki/Siriwannawari_Nariratana'}
+        [22, 4] Type: Item
+        │       Label: Aznah Hamid, actor, assistant, invitation
+        └────── Link: {'text:Aznah Hamid': 'http://en.wikipedia.org/w/index.php?title=Aznah_Hamid&action=edit&redlink=1'}
+        [22, 5] Type: Item
+        │       Label: Banjong Pisanthanakun, co-directed and co-written of a box-office hit film such as Shutter (which was re-made in the US as Shutter, and in India as Sivi and Alone)
+        └────── Link: {'text:Banjong Pisanthanakun': 'http://en.wikipedia.org/wiki/Banjong_Pisanthanakun', 'text:Shutter': 'http://en.wikipedia.org/wiki/Shutter_(2008_film)', 'text:India': 'http://en.wikipedia.org/wiki/India', 'text:Sivi': 'http://en.wikipedia.org/wiki/Sivi_(film)', 'text:Alone': 'http://en.wikipedia.org/wiki/Alone_(2007_film)'}
+        [22, 6] Type: Item
+        │       Label: Surakiart Sathirathai, former Deputy Prime Minister of Thailand Foreign Affairs, Education and Culture and the former Thailand's candidate for United Nations Secretary-General in 2006
+        └────── Link: {'text:Surakiart Sathirathai': 'http://en.wikipedia.org/wiki/Surakiart_Sathirathai', 'text:Thailand': 'http://en.wikipedia.org/wiki/Thailand', 'text:United Nations': 'http://en.wikipedia.org/wiki/United_Nations', 'text:Secretary-General': 'http://en.wikipedia.org/wiki/United_Nations_Secretary-General'}
+        [22, 7] Type: Item
+        └────── Label: Lt.Col.Thita Manitkul First Spokesperson Ministry of Defence,Congresswoman 2001-2005
+        [22, 8] Type: Item
+        │       Label: Mallica Vajrathon, a sociologist, political scientist and former United Nations Senior Staff member
+        └────── Link: {'text:Mallica Vajrathon': 'http://en.wikipedia.org/wiki/Mallica_Vajrathon'}
+        [22, 9] Type: Item
+        │       Label: Win Lyovarin, a Thai writer, two-time winner of the S.E.A. Write Award
+        └────── Link: {'text:Win Lyovarin': 'http://en.wikipedia.org/wiki/Win_Lyovarin', 'text:S.E.A. Write Award': 'http://en.wikipedia.org/wiki/S.E.A._Write_Award'}
+        [22, 10] Type: Item
+        │        Label: Binlah Sonkalagiri, a winner of the S.E.A. Write Award
+        └─────── Link: {'text:Binlah Sonkalagiri': 'http://en.wikipedia.org/wiki/Binlah_Sonkalagiri', 'text:S.E.A. Write Award': 'http://en.wikipedia.org/wiki/S.E.A._Write_Award'}
+        [22, 11] Type: Item
+        │        Label: Thanpuying Dhasanawalaya Sornsongkram, daughter of Princess Galyani Vadhana
+        └─────── Link: {'text:Thanpuying Dhasanawalaya Sornsongkram': 'http://en.wikipedia.org/wiki/Thanpuying_Dhasanawalaya_Sornsongkram'}
+        [22, 12] Type: Item
+        │        Label: Apinan Poshyananda, Director-General, Office of Contemporary Art, The Ministry of Culture and one of the top curators in the Asian region
+        └─────── Link: {'text:Apinan Poshyananda': 'http://en.wikipedia.org/wiki/Apinan_Poshyananda'}
+        [22, 13] Type: Item
+        │        Label: Pinyo Suwankiri, Thailand National Artist in the area of applied arts (Thai architecture)
+        └─────── Link: {'text:Pinyo Suwankiri': 'http://en.wikipedia.org/wiki/Pinyo_Suwankiri'}
+        [22, 14] Type: Item
+        │        Label: Borwornsak Uwanno, a Thai legal expert and a cabinet secretary-general under the Thaksin-government
+        └─────── Link: {'text:Borwornsak Uwanno': 'http://en.wikipedia.org/wiki/Borwornsak_Uwanno'}
+        [22, 15] Type: Item
+        │        Label: Tawan Vihokratana, Thai actor and model
+        └─────── Link: {'text:Tawan Vihokratana': 'http://en.wikipedia.org/wiki/Tawan_Vihokratana'}
+        [22, 16] Type: Item
+        │        Label: Thitipoom Techaapaikhun, Thai actor
+        └─────── Link: {'text:Thitipoom Techaapaikhun': 'http://en.wikipedia.org/wiki/Thitipoom_Techaapaikhun'}
+        [22, 17] Type: Item
+        │        Label: Kiatisuk Senamuang, a professional football player
+        └─────── Link: {'text:Kiatisuk Senamuang': 'http://en.wikipedia.org/wiki/Kiatisuk_Senamuang'}
+        [22, 18] Type: Item
+        │        Label: Sukhumbhand Paribatra, the 15th Governor of Bangkok
+        └─────── Link: {'text:Sukhumbhand Paribatra': 'http://en.wikipedia.org/wiki/Sukhumbhand_Paribatra'}
+        [22, 19] Type: Item
+        │        Label: Suporn Watanyusakul, pioneer in vaginoplasty & facial reconstruction
+        └─────── Link: {'text:Suporn Watanyusakul': 'http://en.wikipedia.org/wiki/Suporn_Watanyusakul'}
+        [22, 20] Type: Item
+        │        Label: Pakorn Chatborirak, Thai actor and model.
+        └─────── Link: {'text:Pakorn Chatborirak': 'http://en.wikipedia.org/wiki/Pakorn_Chatborirak'}
+        [22, 21] Type: Item
+        │        Label: Yong Poovorawan, a noted scientist in the fields of pediatric hepatology, viral hepatitis and virology, and an expert on the H5N1 avian influenza virus
+        └─────── Link: {'text:Yong Poovorawan': 'http://en.wikipedia.org/wiki/Yong_Poovorawan', 'text:viral hepatitis': 'http://en.wikipedia.org/wiki/Viral_hepatitis', 'text:virology': 'http://en.wikipedia.org/wiki/Virology', 'text:H5N1': 'http://en.wikipedia.org/wiki/H5N1', 'text:avian influenza': 'http://en.wikipedia.org/wiki/Avian_influenza'}
+        [22, 22] Type: Item
+        │        Label: Chit Phumisak, a Thai author, philologist, historian, poet and Communist rebel. His most influential book was The Face of Thai Feudalism (Thai: โฉมหน้าศักดินาไทย, Chom Na Sakdina Thai). He also has been described as the "Che of Thailand".
+        └─────── Link: {'text:Chit Phumisak': 'http://en.wikipedia.org/wiki/Chit_Phumisak', 'text:Thai': 'http://en.wikipedia.org/wiki/Thai_language', 'text:philologist': 'http://en.wikipedia.org/wiki/Philology', 'text:Che': 'http://en.wikipedia.org/wiki/Che_Guevara'}
+        [22, 23] Type: Item
+        │        Label: Alexander Rendell, Thai actor and model.
+        └─────── Link: {'text:Alexander Rendell': 'http://en.wikipedia.org/wiki/Alexander_Rendell'}
+        [22, 24] Type: Item
+        │        Label: Natapohn Tameeruks, Thai actor and model.
+        └─────── Link: {'text:Natapohn Tameeruks': 'http://en.wikipedia.org/wiki/Natapohn_Tameeruks'}
+        [22, 25] Type: Item
+        │        Label: Urassaya Sperbund, Thai actor and model.
+        └─────── Link: {'text:Urassaya Sperbund': 'http://en.wikipedia.org/wiki/Urassaya_Sperbund'}
+        [22, 26] Type: Item
+        │        Label: Pachara Chirathivat, Thai actor
+        └─────── Link: {'text:Pachara Chirathivat': 'http://en.wikipedia.org/wiki/Pachara_Chirathivat'}
+        [22, 27] Type: Item
+        │        Label: Chantavit Dhanasevi, Thai actor
+        └─────── Link: {'text:Chantavit Dhanasevi': 'http://en.wikipedia.org/wiki/Chantavit_Dhanasevi'}
+    [23] Type: List
+    │    Label: International reputation
+    │    Dimension: 2
+    └─── Number of Member: 3
+        [23, 0] Type: Item, List
+        │       Label: Two medals from Olympic 2016 Rio de Janeiro games
+        └────── Number of Member: 2
+            [23, 0, 0] Type: Item
+            │          Label: Tawin Hanprab, Silver medal, Men's −58 kg taekwondo.
+            └───────── Link: {'text:Tawin Hanprab': 'http://en.wikipedia.org/wiki/Tawin_Hanprab'}
+            [23, 0, 1] Type: Item
+            │          Label: Panipak Wongpattanakit, Bronze medal, Women's −49 kg taekwondo.
+            └───────── Link: {'text:Panipak Wongpattanakit': 'http://en.wikipedia.org/wiki/Panipak_Wongpattanakit'}
+        [23, 1] Type: Item
+        │       Label: The PH21 team, Computer Engineering students at Chulalongkorn University, got the 1st prize from the Microsoft Imagine Cup 2016 in the games category
+        └────── Link: {'text:PH21': 'https://compete.imagine.microsoft.com/en-us/team/105016'}
+        [23, 2] Type: Item
+        └────── Label: Chulalongkorn University Concert Choir Won Gold Award in World-Class Musical Competition 2014
+    [24] Type: List
+    │    Label: Robocup competitions
+    │    Dimension: 1
+    └─── Number of Member: 4
+        [24, 0] Type: Item
+        │       Label: In 2005, almost reached the quarter-final at Osaka RoboCup.
+        └────── Link: {'text:Osaka': 'http://en.wikipedia.org/wiki/Osaka'}
+        [24, 1] Type: Item
+        │       Label: In 2006, the third place and technical challenge at Bremen RoboCup.
+        └────── Link: {'text:Bremen': 'http://en.wikipedia.org/wiki/Bremen'}
+        [24, 2] Type: Item
+        │       Label: In 2007, second place Atlanta World RoboCup.
+        └────── Link: {'text:Atlanta': 'http://en.wikipedia.org/wiki/Atlanta'}
+        [24, 3] Type: Item
+        │       Label: In 2008, finally, the team got champion of World RoboCup Small‐Sized Robot League at Suzhou, China.
+        └────── Link: {'text:Suzhou': 'http://en.wikipedia.org/wiki/Suzhou', 'text:China': 'http://en.wikipedia.org/wiki/China'}
+    [25] Type: List
+    │    Label: See also
+    │    Dimension: 1
+    └─── Number of Member: 5
+        [25, 0] Type: Item
+        │       Label: Academic dress of Chulalongkorn University
+        └────── Link: {'text:Academic dress of Chulalongkorn University': 'http://en.wikipedia.org/wiki/Academic_dress_of_Chulalongkorn_University'}
+        [25, 1] Type: Item
+        │       Label: Sasin Graduate Institute of Business Administration of Chulalongkorn University
+        └────── Link: {'text:Sasin Graduate Institute of Business Administration of Chulalongkorn University': 'http://en.wikipedia.org/wiki/Sasin_Graduate_Institute_of_Business_Administration_of_Chulalongkorn_University'}
+        [25, 2] Type: Item
+        │       Label: Education in Thailand
+        └────── Link: {'text:Education in Thailand': 'http://en.wikipedia.org/wiki/Education_in_Thailand'}
+        [25, 3] Type: Item
+        │       Label: Chula United football club
+        └────── Link: {'text:Chula United football club': 'http://en.wikipedia.org/wiki/Chula_United'}
+        [25, 4] Type: Item
+        │       Label: Department of Statistics | Chulalongkorn Business School
+        └────── Link: {'text:Department of Statistics': 'https://stat.cbs.chula.ac.th'}
+    [26] Type: List
+    │    Label: References
+    │    Style: Enumerated
+    │    Dimension: 1
+    └─── Number of Member: 64
+        [26, 0] Type: Item
+        │       Label: Office of the Registrar, Chulalongkorn University. Statistics on Students in Different Level Archived December 1, 2017, at the Wayback Machine. Last updated May 21, 2018
+        └────── Link: {'text:Statistics on Students in Different Level': 'https://www.reg.chula.ac.th/statistics/statistics1.html', 'text:Archived': 'https://web.archive.org/web/20171201033337/https://www.reg.chula.ac.th/statistics/statistics1.html', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 1] Type: Item
+        │       Label: "McDonnell International Scholars Academy".
+        └────── Link: {'text:"McDonnell International Scholars Academy"': 'https://global.wustl.edu/mcdonnell-academy/'}
+        [26, 2] Type: Item
+        │       Label: "Siam Square". Siam-Square. Retrieved December 10, 2016.
+        └────── Link: {'text:"Siam Square"': 'http://www.siam-square.com/'}
+        [26, 3] Type: Item
+        │       Label: "CU History". Archived from the original on October 8, 2016. Retrieved September 28, 2016.
+        └────── Link: {'text:"CU History"': 'https://web.archive.org/web/20161008095136/http://www.chula.ac.th/en/about/history', 'text:the original': 'http://www.chula.ac.th/en/about/history'}
+        [26, 4] Type: Item
+        │       Label: Becker, William H. Innovative Partners The Rockefeller Foundation and Thailand. New York: The Rockefeller Foundation, 2013. William H. Becker. "Assets: Rockefeller Foundation" Rockefeller Foundation. 2013. https://assets.rockefellerfoundation.org/app/uploads/20131001203515/Innovative-Partners.pdf (29 November 2106).
+        └────── Link: {'text:https://assets.rockefellerfoundation.org/app/uploads/20131001203515/Innovative-Partners.pdf': 'https://assets.rockefellerfoundation.org/app/uploads/20131001203515/Innovative-Partners.pdf'}
+        [26, 5] Type: Item
+        │       Label: "CU History". Archived from the original on October 8, 2016. Retrieved December 10, 2016.
+        └────── Link: {'text:"CU History"': 'https://web.archive.org/web/20161008095136/http://www.chula.ac.th/en/about/history', 'text:the original': 'http://www.chula.ac.th/en/about/history'}
+        [26, 6] Type: Item
+        │       Label: "Thailand's 'Father of Modern Medicine'". News. January 23, 2014. Retrieved December 10, 2016.
+        └────── Link: {'text:"Thailand\'s \'Father of Modern Medicine\'"': 'https://www.hsph.harvard.edu/news/centennial-prince-mahidol/'}
+        [26, 7] Type: Item
+        │       Label: Chulalongkorn University official website. CU History Archived October 8, 2016, at the Wayback Machine. Retrieved January 15, 2016.
+        └────── Link: {'text:CU History': 'http://www.chula.ac.th/en/about/history', 'text:Archived': 'https://web.archive.org/web/20161008095136/http://www.chula.ac.th/en/about/history', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 8] Type: Item
+        │       Label: "QS World University Rankings 2016". August 25, 2016. Retrieved September 16, 2016.
+        └────── Link: {'text:"QS World University Rankings 2016"': 'http://www.topuniversities.com/university-rankings/world-university-rankings/2016'}
+        [26, 9] Type: Item
+        │       Label: "QS University Rankings: Asia 2016". June 8, 2016. Retrieved September 16, 2016.
+        └────── Link: {'text:"QS University Rankings: Asia 2016"': 'http://www.topuniversities.com/university-rankings/asian-university-rankings/2016#sorting=rank+region=+country=131+faculty=+stars=false+search='}
+        [26, 10] Type: Item
+        │        Label: "CWUR 2017 | Top Universities in Thailand". cwur.org. Retrieved September 16, 2016.
+        └─────── Link: {'text:"CWUR 2017 | Top Universities in Thailand"': 'http://cwur.org/2016/thailand.php'}
+        [26, 11] Type: Item
+        │        Label: "RANKINGS". roundranking.com. Retrieved September 16, 2016.
+        └─────── Link: {'text:"RANKINGS"': 'http://roundranking.com/ranking.html'}
+        [26, 12] Type: Item
+        │        Label: "Graduate Employability Rankings 2016". Top Universities. November 17, 2016. Retrieved November 24, 2016.
+        └─────── Link: {'text:"Graduate Employability Rankings 2016"': 'http://www.topuniversities.com/university-rankings/employability-rankings/2017'}
+        [26, 13] Type: Item
+        │        Label: (CWTS), Centre for Science and Technology Studies. "CWTS Leiden Ranking 2016". CWTS Leiden Ranking 2016. Retrieved September 16, 2016.
+        └─────── Link: {'text:"CWTS Leiden Ranking 2016"': 'http://www.leidenranking.com/ranking/2016/list'}
+        [26, 14] Type: Item
+        │        Label: "2016 tables: Institutions | 2016 tables | Institutions | Nature Index". natureindex.com. Retrieved September 16, 2016.
+        └─────── Link: {'text:"2016 tables: Institutions | 2016 tables | Institutions | Nature Index"': 'http://www.natureindex.com/annual-tables/2016/institution/all/all/countries-Thailand'}
+        [26, 15] Type: Item
+        │        Label: "Research Performance". roundranking.com. Archived from the original on October 21, 2016. Retrieved December 20, 2016.
+        └─────── Link: {'text:"Research Performance"': 'https://web.archive.org/web/20161021050924/http://roundranking.com/ranking/performance-rankings.html', 'text:the original': 'http://roundranking.com/ranking/performance-rankings.html'}
+        [26, 16] Type: Item
+        │        Label: "Ranking By Campus Setting – City Center 2016 | Greenmetric UI". greenmetric.ui.ac.id. Retrieved February 1, 2017.
+        └─────── Link: {'text:"Ranking By Campus Setting – City Center 2016 | Greenmetric UI"': 'http://greenmetric.ui.ac.id/ranking-by-campus-setting-city-center2016/'}
+        [26, 17] Type: Item
+        │        Label: "Reputation Rankings". roundranking.com. Retrieved December 20, 2016.
+        └─────── Link: {'text:"Reputation Rankings"': 'http://roundranking.com/ranking/reputation-rankings.html'}
+        [26, 18] Type: Item
+        │        Label: "Ranking By Campus Setting – City Center 2016 | Greenmetric UI". greenmetric.ui.ac.id. Retrieved February 1, 2017.
+        └─────── Link: {'text:"Ranking By Campus Setting – City Center 2016 | Greenmetric UI"': 'http://greenmetric.ui.ac.id/ranking-by-campus-setting-city-center2016/'}
+        [26, 19] Type: Item
+        │        Label: "World University Rankings - 2017 | Thailand Universities in Top 500 universities | Academic Ranking of World Universities - 2017 | Shanghai Ranking - 2017". shanghairanking.com. Retrieved August 15, 2017.
+        └─────── Link: {'text:"World University Rankings - 2017 | Thailand Universities in Top 500 universities | Academic Ranking of World Universities - 2017 | Shanghai Ranking - 2017"': 'http://shanghairanking.com/World-University-Rankings-2017/Thailand.html'}
+        [26, 20] Type: Item
+        │        Label: "Association of Pacific Rim Universities - Member Universities". apru.org. Archived from the original on September 4, 2017. Retrieved September 19, 2017.
+        └─────── Link: {'text:"Association of Pacific Rim Universities - Member Universities"': 'https://web.archive.org/web/20170904181952/http://apru.org/members/member-universities', 'text:the original': 'https://apru.org/members/member-universities'}
+        [26, 21] Type: Item
+        │        Label: "Top Admission Score Students Apply to Chulalongkorn University". Retrieved September 19, 2017.
+        └─────── Link: {'text:"Top Admission Score Students Apply to Chulalongkorn University"': 'http://www.chula.ac.th/en/archive/857'}
+        [26, 22] Type: Item
+        │        Label: "Thailand's Budget in Brief Fiscal Year 2019". Bureau of the Budget. December 20, 2018. p. 92. Retrieved November 28, 2019.
+        └─────── Link: {'text:"Thailand\'s Budget in Brief Fiscal Year 2019"': 'http://www.bb.go.th/en/topic-detail.php?id=8562&mid=456&catID=0'}
+        [26, 23] Type: Item
+        │        Label: Thai: โรงเรียนสำหรับฝึกหัดวิชาข้าราชการฝ่ายพลเรือน
+        └─────── Link: {'text:Thai': 'http://en.wikipedia.org/wiki/Thai_language'}
+        [26, 24] Type: Item
+        │        Label: ราชกิจจานุเบกษา, พระบรมราชโองการประกาศตั้งโรงเรียนมหาดเล็ก. เล่ม ๑๙, ตอน ๑, ๖ เมษายน พ.ศ.๒๔๔๕, หน้า ๑๖ (Royal Order to establish Royal Page School)
+        └─────── Link: {'text:พระบรมราชโองการประกาศตั้งโรงเรียนมหาดเล็ก': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2445/001/16.PDF'}
+        [26, 25] Type: Item
+        │        Label: ราชกิจจานุเบกษา, พระบรมราชโองการประกาศตั้งโรงเรียนข้าราชการพลเรือนฯ , เล่ม ๒๗, ตอน ก, ๑๑ มกราคม พ.ศ.๒๔๕๔, หน้า ๑๒๓ (Royal Order to establish the Civil Service College of King Chulalongkorn)
+        └─────── Link: {'text:พระบรมราชโองการประกาศตั้งโรงเรียนข้าราชการพลเรือนฯ': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2453/A/123.PDF'}
+        [26, 26] Type: Item
+        │        Label: ราชกิจจานุเบกษา, พระบรมราชโองการ ประกาศประดิษฐานโรงเรียนข้าราชการพลเรือนของพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวขึ้นเป็นโรงเรียนข้าราชการพลเรือน, เล่ม ๒๗, ตอน ก, ๑๕ เมษายน พ.ศ.๒๔๖๐ (ประกาศเมื่อวันที่ ๒๖ มีนาคม พ.ศ.๒๔๖๐, หน้า ๑๒๓ (Royal Order to establish the Civil Service College of King Chulalongkorn.)
+        └─────── Link: {'text:พระบรมราชโองการ ประกาศประดิษฐานโรงเรียนข้าราชการพลเรือนของพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวขึ้นเป็นโรงเรียนข้าราชการพลเรือน': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2460/A/20.PDF'}
+        [26, 27] Type: Item
+        │        Label: About Phra Kiao by Chulalongkorn Memorial Hall Archived June 7, 2011, at the Wayback Machine
+        └─────── Link: {'text:About Phra Kiao by Chulalongkorn Memorial Hall': 'http://www.chula.ac.th/about/symbol_prakew/index.htm', 'text:Archived': 'https://web.archive.org/web/20110607024401/http://www.chula.ac.th/about/symbol_prakew/index.htm', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 28] Type: Item
+        │        Label: History about CU uniform. Archived 20 May 2010 at the Wayback Machine
+        └─────── Link: {'text:History about CU uniform.': 'http://www.discipline.studentaffairs.chula.ac.th/nisit_intro.html', 'text:Archived': 'https://web.archive.org/web/20100520023903/http://www.discipline.studentaffairs.chula.ac.th/nisit_intro.html', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 29] Type: Item
+        │        Label: ราชกิจจานุเบกษา, ข้อบังคับจุฬาฯ ว่าด้วยเครื่องแบบ เครื่องหมาย และเครื่องแต่งกายนิสิต พ.ศ.๒๕๕๓, เล่ม ๑๒๗, ตอนพิเศษ ๕๒ ง, ๒๖ เมษายน พ.ศ.๒๕๕๓ (The university regulation on uniform and dress codes, 2010)
+        └─────── Link: {'text:ข้อบังคับจุฬาฯ ว่าด้วยเครื่องแบบ เครื่องหมาย และเครื่องแต่งกายนิสิต พ.ศ.๒๕๕๓': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/E/052/25.PDF'}
+        [26, 30] Type: Item
+        │        Label: ราชกิจจานุเบกษา.พระราชกำหนดเสื้อครุยบัณฑิตของจุฬาลงกรณ์มหาวิทยาลัย พ.ศ.๒๔๗๓. เล่ม ๔๗, ๖ กรกฎาคม ๒๔๗๓. (Regulation on Chulalongkorn University Graduation Gown, 1930)
+        └─────── Link: {'text:พระราชกำหนดเสื้อครุยบัณฑิตของจุฬาลงกรณ์มหาวิทยาลัย พ.ศ.๒๔๗๓': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2473/A/92.PDF'}
+        [26, 31] Type: Item
+        │        Label: ราชกิจจานุเบกษา.ข้อบังคับจุฬาฯ ว่าด้วยการกำหนดปริญญาในสาขาวิชา อักษรย่อสำหรับสาขาวิชา ครุยวิทยฐานะ เข็มวิทยฐานะ และครุยประจำตำแหน่ง พ.ศ.๒๕๕๓.เล่ม ๑๒๗ ตอนพิเศษ ๕๒ ง, ๒๖ เมษายน ๒๕๕๓. (University Regulation on Degrees Granted, Graduation and Faculty Gowns, 2010)
+        └─────── Link: {'text:ข้อบังคับจุฬาฯ ว่าด้วยการกำหนดปริญญาในสาขาวิชา อักษรย่อสำหรับสาขาวิชา ครุยวิทยฐานะ เข็มวิทยฐานะ และครุยประจำตำแหน่ง พ.ศ.๒๕๕๓': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/E/052/20.PDF'}
+        [26, 32] Type: Item
+        │        Label: Graduation Gown of Chulalongkorn University Archived May 10, 2011, at the Wayback Machine
+        └─────── Link: {'text:Graduation Gown of Chulalongkorn University': 'http://www.chula.ac.th/about/symbol_prakew/relatelink/symbol_gown/index.htm', 'text:Archived': 'https://web.archive.org/web/20110510003547/http://www.chula.ac.th/about/symbol_prakew/relatelink/symbol_gown/index.htm', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 33] Type: Item
+        │        Label: Rain Tree-The Symbol of Chulalongkorn University Archived June 7, 2011, at the Wayback Machine
+        └─────── Link: {'text:Rain Tree-The Symbol of Chulalongkorn University': 'http://www.chula.ac.th/about/symbol_prakew/relatelink/symbol_chamjuree/index.htm', 'text:Archived': 'https://web.archive.org/web/20110607083703/http://www.chula.ac.th/about/symbol_prakew/relatelink/symbol_chamjuree/index.htm', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 34] Type: Item
+        │        Label: ราชกิจจานุเบกษา, ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย พ.ศ. ๒๕๕๒, เล่ม ๑๒๗, ตอนพิเศษ ๑๖ ง, ๑ กุมภาพันธ์ พ.ศ. ๒๕๕๓, หน้า ๗๐ (University notification (rather command) on academic units, 2008)
+        └─────── Link: {'text:ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย พ.ศ. ๒๕๕๒': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/E/016/70.PDF'}
+        [26, 35] Type: Item
+        │        Label: ราชกิจจานุเบกษา, ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย (ฉบับที่ ๒) พ.ศ. ๒๕๕๗, เล่ม ๑๓๑, ตอนพิเศษ ๔๙ ง, ๑๘ มีนาคม พ.ศ. ๒๕๕๗, หน้า ๓ (Amendment to 2008 regulation, ratified 2014)
+        └─────── Link: {'text:ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย (ฉบับที่ ๒) พ.ศ. ๒๕๕๗': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2557/E/049/2.PDF'}
+        [26, 36] Type: Item
+        │        Label: www.law.chula.ac.th Archived August 29, 2011, at the Wayback Machine
+        └─────── Link: {'text:www.law.chula.ac.th': 'http://www.law.chula.ac.th', 'text:Archived': 'https://web.archive.org/web/20110829065254/http://www.law.chula.ac.th/', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 37] Type: Item
+        │        Label: Faculty of Education, Chulalongkorn University Archived September 4, 2011, at the Wayback Machine
+        └─────── Link: {'text:Faculty of Education, Chulalongkorn University': 'http://www.edu.chula.ac.th/', 'text:Archived': 'https://web.archive.org/web/20110904113033/http://www.edu.chula.ac.th/', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 38] Type: Item
+        │        Label: Principles and history of establishing OCARE. Archived March 5, 2011, at the Wayback Machine
+        └─────── Link: {'text:Principles and history of establishing OCARE.': 'http://www.ocare.chula.ac.th/index.php/about-us/history.html', 'text:Archived': 'https://web.archive.org/web/20110305193816/http://www.ocare.chula.ac.th/index.php/about-us/history.html', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [26, 39] Type: Item
+        │        Label: "Chula Opens School of Integrated Innovation (ScII)". Chulalongkorn University. Retrieved February 9, 2020.
+        └─────── Link: {'text:"Chula Opens School of Integrated Innovation (ScII)"': 'https://www.chula.ac.th/en/news/23026/'}
+        [26, 40] Type: Item
+        │        Label: "World University Rankings". September 30, 2015. Retrieved September 16, 2016.
+        └─────── Link: {'text:"World University Rankings"': 'https://www.timeshighereducation.com/world-university-rankings/2016/world-ranking#!/page/0/length/25/country/846/sort_by/rank_label/sort_order/asc/cols/rank_only'}
+        [26, 41] Type: Item
+        │        Label: "Scimago Institutions Rankings". scimagoir.com. Retrieved September 16, 2016.
+        └─────── Link: {'text:"Scimago Institutions Rankings"': 'http://www.scimagoir.com/rankings.php?sector=Higher%2520educ.&country=THA'}
+        [26, 42] Type: Item
+        │        Label: "Top World University Rankings | US News Best Global Universities". Archived from the original on August 19, 2013. Retrieved November 2, 2019.
+        └─────── Link: {'text:"Top World University Rankings | US News Best Global Universities"': 'https://web.archive.org/web/20130819141428/http://https/', 'text:the original': 'https://www.https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636'}
+        [26, 43] Type: Item
+        │        Label: "Chulalongkorn University". Top Universities. July 16, 2015. Retrieved June 7, 2017.
+        └─────── Link: {'text:"Chulalongkorn University"': 'https://www.topuniversities.com/universities/chulalongkorn-university#wurs'}
+        [26, 44] Type: Item
+        │        Label: "Chula falls to 126th in Times uni ranking". Bangkok Post. May 10, 2018. Retrieved November 5, 2018.
+        └─────── Link: {'text:"Chula falls to 126th in Times uni ranking"': 'https://www.bangkokpost.com/news/general/1461965/chula-falls-to-126th-in-times-uni-ranking'}
+        [26, 45] Type: Item
+        │        Label: "CU Subjects Top Country's List in QS World University Ranking by Subject 2017". Retrieved March 16, 2017.
+        └─────── Link: {'text:"CU Subjects Top Country\'s List in QS World University Ranking by Subject 2017"': 'http://www.chula.ac.th/en/archive/6593'}
+        [26, 46] Type: Item
+        │        Label: "Chulalongkorn University". Top Universities. December 6, 2012. Retrieved March 6, 2018.
+        └─────── Link: {'text:"Chulalongkorn University"': 'https://www.topuniversities.com/universities/chulalongkorn-university/undergrad'}
+        [26, 47] Type: Item
+        │        Label: "Thailand | Ranking Web of Universities". webometrics.info. Retrieved February 1, 2017.
+        └─────── Link: {'text:"Thailand | Ranking Web of Universities"': 'http://www.webometrics.info/en/Asia/Thailand'}
+        [26, 48] Type: Item
+        │        Label: Ocharoenchai, Nanticha (November 19, 2018). "Seeing green is believing". Bangkok Post. Retrieved November 20, 2018.
+        └─────── Link: {'text:"Seeing green is believing"': 'https://www.bangkokpost.com/lifestyle/social-and-lifestyle/1578442/seeing-green-is-believing'}
+        [26, 49] Type: Item
+        │        Label: "CU iHOUSE". PMCU (in Thai). Retrieved February 9, 2020.
+        └─────── Link: {'text:"CU iHOUSE"': 'http://www.pmcu.co.th/?page_id=9795'}
+        [26, 50] Type: Item
+        │        Label: "President Johnson received an Honorary Doctorate in Political Science from Chulalongkorn University. | U.S. Embassy & Consulate in Thailand". U.S. Embassy & Consulate in Thailand. Retrieved December 10, 2016.
+        └─────── Link: {'text:"President Johnson received an Honorary Doctorate in Political Science from Chulalongkorn University. | U.S. Embassy & Consulate in Thailand"': 'https://th.usembassy.gov/potus-visit-02/'}
+        [26, 51] Type: Item
+        │        Label: "William J. Clinton: Remarks at Chulalongkorn University in Bangkok". presidency.ucsb.edu. Retrieved December 10, 2016.
+        └─────── Link: {'text:"William J. Clinton: Remarks at Chulalongkorn University in Bangkok"': 'http://www.presidency.ucsb.edu/ws/?pid=52284'}
+        [26, 52] Type: Item
+        │        Label: "Nelson Mandela Centre of Memory". Db.nelsonmandela.org. Retrieved May 20, 2013.
+        └─────── Link: {'text:"Nelson Mandela Centre of Memory"': 'http://db.nelsonmandela.org/tributes/pub_view.asp?pg=results&opt=guided&strGenre=Honorary'}
+        [26, 53] Type: Item
+        │        Label: "Thailand's "Father of Modern Medicine"". News. January 23, 2014. Retrieved September 30, 2017.
+        └─────── Link: {'text:"Thailand\'s "Father of Modern Medicine""': 'https://www.hsph.harvard.edu/news/centennial-prince-mahidol/'}
+        [26, 54] Type: Item
+        │        Label: Becker, William H. Innovative Partners The Rockefeller Foundation and Thailand. New York, New York: The Rockefeller Foundation, 2013. William H. Becker. “Assets: Rockefellerfoundation.” Rockefellerfoundation. 2013. https://assets.rockefellerfoundation.org/app/uploads/20131001203515/Innovative-Partners.pdf (29 November 2016 accessed).
+        └─────── Link: {'text:https://assets.rockefellerfoundation.org/app/uploads/20131001203515/Innovative-Partners.pdf': 'https://assets.rockefellerfoundation.org/app/uploads/20131001203515/Innovative-Partners.pdf'}
+        [26, 55] Type: Item
+        │        Label: https://www.youtube.com/watch?v=7PhPtIYy5go
+        └─────── Link: {'text:https://www.youtube.com/watch?v=7PhPtIYy5go': 'https://www.youtube.com/watch?v=7PhPtIYy5go'}
+        [26, 56] Type: Item
+        │        Label: จุฬาลงกรณ์มหาวิทยาลัย. "สองนิสิตจุฬาฯ นักกีฬาเทควันโดทีมชาติไทย คว้ามาได้ 2 เหรียญจากกีฬาโอลิมปิก 2016". สำนักบริหารกิจการนิสิต (in Thai). Retrieved December 10, 2016.
+        └─────── Link: {'text:"สองนิสิตจุฬาฯ นักกีฬาเทควันโดทีมชาติไทย คว้ามาได้ 2 เหรียญจากกีฬาโอลิมปิก 2016"': 'http://www.sa.chula.ac.th/announcement/%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%AF-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B9%80%E0%B8%97/'}
+        [26, 57] Type: Item
+        │        Label: "Olympics: Tawin wins silver, Panipak wins bronze, Ariya tops day 1 golf". Bangkok Post. Retrieved December 10, 2016.
+        └─────── Link: {'text:"Olympics: Tawin wins silver, Panipak wins bronze, Ariya tops day 1 golf"': 'http://www.bangkokpost.com/learning/advanced/1064829/olympics-tawin-wins-silver-panipak-wins-bronze-ariya-tops-day-1-golf'}
+        [26, 58] Type: Item
+        │        Label: "Games, Innovation and World Citizenship winners announced in Microsoft Imagine Cup, setting stage for Friday's World Championship - The Fire Hose". July 28, 2016. Retrieved September 18, 2016.
+        └─────── Link: {'text:"Games, Innovation and World Citizenship winners announced in Microsoft Imagine Cup, setting stage for Friday\'s World Championship - The Fire Hose"': 'http://blogs.microsoft.com/firehose/2016/07/28/category-winners-announced-in-microsoft-imagine-cup-setting-stage-for-fridays-world-championship/#sm.000fk5alo12p7eo5rcg16qxniuetc'}
+        [26, 59] Type: Item
+        │        Label: "Chulalongkorn University Concert Choir Won Gold Award in World-Class Musical Competition". Retrieved September 18, 2016.
+        └─────── Link: {'text:"Chulalongkorn University Concert Choir Won Gold Award in World-Class Musical Competition"': 'http://www.chula.ac.th/en/archive/2794'}
+        [26, 60] Type: Item
+        │        Label: "This Imagine Cup team gives you the power to manipulate time and see the future". Microsoft Imagine Blog. Retrieved December 10, 2016.
+        └─────── Link: {'text:"This Imagine Cup team gives you the power to manipulate time and see the future"': 'https://blogs.msdn.microsoft.com/microsoftimagine/2016/10/27/this-imagine-cup-team-gives-you-the-power-to-manipulate-time-and-see-the-future/'}
+        [26, 61] Type: Item
+        │        Label: PlasmaZ Extended Team Description Paper
+        └─────── Link: {'text:PlasmaZ Extended Team Description Paper': 'http://kucitypic.kasetsart.org/kucity.com8/kucity8_robocup2009_Symposium/tdps/small/small_plasma_z.pdf'}
+        [26, 62] Type: Item
+        │        Label: "IEEE Xplore - Sign In". Retrieved July 16, 2015.
+        └─────── Link: {'text:"IEEE Xplore - Sign In"': 'https://ieeexplore.ieee.org/document/4913305'}
+        [26, 63] Type: Item
+        │        Label: Plasma-RX: Autonomous Rescue Robots
+        └─────── Link: {'text:Plasma-RX: Autonomous Rescue Robots': 'http://www.cp.eng.chula.ac.th/~piak/paper/2009/Plasma-RX19.pdf'}
+    [27] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 5
+        [27, 0] Type: Item
+        │       Label: Chulalongkorn University official website
+        └────── Link: {'text:Chulalongkorn University official website': 'http://www.chula.ac.th'}
+        [27, 1] Type: Item
+        │       Label: Graduate School, Chulalongkorn University
+        └────── Link: {'text:Graduate School, Chulalongkorn University': 'https://web.archive.org/web/20160919043434/http://www.grad.chula.ac.th/eng/'}
+        [27, 2] Type: Item
+        │       Label: Sasin Graduate Institute of Business Administration of Chulalongkorn University
+        └────── Link: {'text:Sasin Graduate Institute of Business Administration of Chulalongkorn University': 'http://www.sasin.edu'}
+        [27, 3] Type: Item
+        │       Label: CU-TEP
+        └────── Link: {'text:CU-TEP': 'http://www.atc.chula.ac.th/en_html/en_tep.html'}
+        [27, 4] Type: Item
+        │       Label: Panoramic view of Chulalongkorn
+        └────── Link: {'text:Panoramic view of Chulalongkorn': 'http://www.chula.ac.th/CUpano/CUpanoM1/CuPano.html'}
+    [28] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 10
+        [28, 0] Type: Item
+        │       Label: Chulalongkorn University
+        └────── Link: {'text:Chulalongkorn University': 'http://en.wikipedia.org/wiki/Category:Chulalongkorn_University'}
+        [28, 1] Type: Item
+        │       Label: Universities and colleges in Bangkok
+        └────── Link: {'text:Universities and colleges in Bangkok': 'http://en.wikipedia.org/wiki/Category:Universities_and_colleges_in_Bangkok'}
+        [28, 2] Type: Item
+        │       Label: Education in Bangkok
+        └────── Link: {'text:Education in Bangkok': 'http://en.wikipedia.org/wiki/Category:Education_in_Bangkok'}
+        [28, 3] Type: Item
+        │       Label: Educational institutions established in 1917
+        └────── Link: {'text:Educational institutions established in 1917': 'http://en.wikipedia.org/wiki/Category:Educational_institutions_established_in_1917'}
+        [28, 4] Type: Item
+        │       Label: ASEAN University Network
+        └────── Link: {'text:ASEAN University Network': 'http://en.wikipedia.org/wiki/Category:ASEAN_University_Network'}
+        [28, 5] Type: Item
+        │       Label: Pathum Wan District
+        └────── Link: {'text:Pathum Wan District': 'http://en.wikipedia.org/wiki/Category:Pathum_Wan_District'}
+        [28, 6] Type: Item
+        │       Label: Universities in Thailand
+        └────── Link: {'text:Universities in Thailand': 'http://en.wikipedia.org/wiki/Category:Universities_in_Thailand'}
+        [28, 7] Type: Item
+        │       Label: 1917 establishments in Siam
+        └────── Link: {'text:1917 establishments in Siam': 'http://en.wikipedia.org/wiki/Category:1917_establishments_in_Siam'}
+        [28, 8] Type: Item
+        │       Label: Universities established in the 20th century
+        └────── Link: {'text:Universities established in the 20th century': 'http://en.wikipedia.org/wiki/Category:Universities_established_in_the_20th_century'}
+        [28, 9] Type: Item
+        │       Label: Monuments and memorials to Chulalongkorn
+        └────── Link: {'text:Monuments and memorials to Chulalongkorn': 'http://en.wikipedia.org/wiki/Category:Monuments_and_memorials_to_Chulalongkorn'}
+    [29] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 15
+        [29, 0] Type: Item
+        │       Label: Webarchive template wayback links
+        └────── Link: {'text:Webarchive template wayback links': 'http://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links'}
+        [29, 1] Type: Item
+        │       Label: Articles containing Thai-language text
+        └────── Link: {'text:Articles containing Thai-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text'}
+        [29, 2] Type: Item
+        │       Label: CS1 Thai-language sources (th)
+        └────── Link: {'text:CS1 Thai-language sources (th)': 'http://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)'}
+        [29, 3] Type: Item
+        │       Label: All articles with dead external links
+        └────── Link: {'text:All articles with dead external links': 'http://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links'}
+        [29, 4] Type: Item
+        │       Label: Articles with dead external links from August 2017
+        └────── Link: {'text:Articles with dead external links from August 2017': 'http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_August_2017'}
+        [29, 5] Type: Item
+        │       Label: Articles with permanently dead external links
+        └────── Link: {'text:Articles with permanently dead external links': 'http://en.wikipedia.org/wiki/Category:Articles_with_permanently_dead_external_links'}
+        [29, 6] Type: Item
+        │       Label: Use mdy dates from October 2015
+        └────── Link: {'text:Use mdy dates from October 2015': 'http://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_October_2015'}
+        [29, 7] Type: Item
+        │       Label: Coordinates on Wikidata
+        └────── Link: {'text:Coordinates on Wikidata': 'http://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata'}
+        [29, 8] Type: Item
+        │       Label: Pages using deprecated image syntax
+        └────── Link: {'text:Pages using deprecated image syntax': 'http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax'}
+        [29, 9] Type: Item
+        │       Label: Pages using infobox university with the image name parameter
+        └────── Link: {'text:Pages using infobox university with the image name parameter': 'http://en.wikipedia.org/wiki/Category:Pages_using_infobox_university_with_the_image_name_parameter'}
+        [29, 10] Type: Item
+        │        Label: Instances of Infobox university using image size
+        └─────── Link: {'text:Instances of Infobox university using image size': 'http://en.wikipedia.org/wiki/Category:Instances_of_Infobox_university_using_image_size'}
+        [29, 11] Type: Item
+        │        Label: Pages using infobox university with the affiliations parameter
+        └─────── Link: {'text:Pages using infobox university with the affiliations parameter': 'http://en.wikipedia.org/wiki/Category:Pages_using_infobox_university_with_the_affiliations_parameter'}
+        [29, 12] Type: Item
+        │        Label: Articles needing additional references from January 2012
+        └─────── Link: {'text:Articles needing additional references from January 2012': 'http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_January_2012'}
+        [29, 13] Type: Item
+        │        Label: All articles needing additional references
+        └─────── Link: {'text:All articles needing additional references': 'http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references'}
+        [29, 14] Type: Item
+        │        Label: Commons category link is on Wikidata
+        └─────── Link: {'text:Commons category link is on Wikidata': 'http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata'}
+    [30] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [30, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Chulalongkorn_University'}
+        [30, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Chulalongkorn_University'}
+        [30, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [30, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [30, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=940290980'}
+        [30, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&action=info'}
+        [30, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q855730'}
+        [30, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=940290980'}
+    [31] Type: List
+    │    Label: In other projects
+    │    Dimension: 1
+    └─── Number of Member: 1
+        [31, 0] Type: Item
+        │       Label: Wikimedia Commons
+        └────── Link: {'text:Wikimedia Commons': 'https://commons.wikimedia.org/wiki/Category:Chulalongkorn_University'}
+    [32] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [32, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Chulalongkorn+University'}
+        [32, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Chulalongkorn+University&action=show-download-screen'}
+        [32, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&printable=yes'}
+    [33] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 30
+        [33, 0] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%B4%D9%88%D9%84%D8%A7%D9%84%D9%88%D9%86%D8%BA%D9%83%D9%88%D8%B1%D9%86'}
+        [33, 1] Type: Item
+        │       Label: Bân-lâm-gú
+        └────── Link: {'text:Bân-lâm-gú': 'https://zh-min-nan.wikipedia.org/wiki/Chulalongkorn_T%C4%81i-ha%CC%8Dk'}
+        [33, 2] Type: Item
+        │       Label: Dansk
+        └────── Link: {'text:Dansk': 'https://da.wikipedia.org/wiki/Chulalongkorn_(universitet)'}
+        [33, 3] Type: Item
+        │       Label: Deutsch
+        └────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Chulalongkorn-Universit%C3%A4t'}
+        [33, 4] Type: Item
+        │       Label: Español
+        └────── Link: {'text:Español': 'https://es.wikipedia.org/wiki/Universidad_Chulalongkorn'}
+        [33, 5] Type: Item
+        │       Label: Esperanto
+        └────── Link: {'text:Esperanto': 'https://eo.wikipedia.org/wiki/Universitato_%C4%88ulalonkon'}
+        [33, 6] Type: Item
+        │       Label: فارسی
+        └────── Link: {'text:فارسی': 'https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%DA%86%D9%88%D9%84%D8%A7%D9%84%D9%88%D9%86%DA%AF%DA%A9%D9%88%D8%B1%D9%86'}
+        [33, 7] Type: Item
+        │       Label: Français
+        └────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Universit%C3%A9_Chulalongkorn'}
+        [33, 8] Type: Item
+        │       Label: Galego
+        └────── Link: {'text:Galego': 'https://gl.wikipedia.org/wiki/Universidade_Chulalongkorn'}
+        [33, 9] Type: Item
+        │       Label: 한국어
+        └────── Link: {'text:한국어': 'https://ko.wikipedia.org/wiki/%EC%AD%90%EB%9E%84%EB%A1%B1%EA%BC%B0_%EB%8C%80%ED%95%99%EA%B5%90'}
+        [33, 10] Type: Item
+        │        Label: Bahasa Indonesia
+        └─────── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/Universitas_Chulalongkorn'}
+        [33, 11] Type: Item
+        │        Label: Italiano
+        └─────── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/Universit%C3%A0_Chulalongkorn'}
+        [33, 12] Type: Item
+        │        Label: ລາວ
+        └─────── Link: {'text:ລາວ': 'https://lo.wikipedia.org/wiki/%E0%BA%88%E0%BA%B8%E0%BA%A5%E0%BA%B2%E0%BA%A5%E0%BA%BB%E0%BA%87%E0%BA%81%E0%BA%AD%E0%BA%99%E0%BA%A1%E0%BA%B0%E0%BA%AB%E0%BA%B2%E0%BA%A7%E0%BA%B4%E0%BA%97%E0%BA%B0%E0%BA%8D%E0%BA%B2%E0%BB%84%E0%BA%A5'}
+        [33, 13] Type: Item
+        │        Label: Latina
+        └─────── Link: {'text:Latina': 'https://la.wikipedia.org/wiki/Universitas_Chulalongkorn'}
+        [33, 14] Type: Item
+        │        Label: Bahasa Melayu
+        └─────── Link: {'text:Bahasa Melayu': 'https://ms.wikipedia.org/wiki/Universiti_Chulalongkorn'}
+        [33, 15] Type: Item
+        │        Label: မြန်မာဘာသာ
+        └─────── Link: {'text:မြန်မာဘာသာ': 'https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AF%E1%80%A0%E1%80%AC%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%9B%E1%80%8F%E1%80%90%E1%80%80%E1%80%B9%E1%80%80%E1%80%9E%E1%80%AD%E1%80%AF%E1%80%9C%E1%80%BA'}
+        [33, 16] Type: Item
+        │        Label: Nederlands
+        └─────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/Chulalongkorn-universiteit'}
+        [33, 17] Type: Item
+        │        Label: 日本語
+        └─────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%B3%E5%A4%A7%E5%AD%A6'}
+        [33, 18] Type: Item
+        │        Label: Norsk bokmål
+        └─────── Link: {'text:Norsk bokmål': 'https://no.wikipedia.org/wiki/Chulalongkornuniversitetet'}
+        [33, 19] Type: Item
+        │        Label: ភាសាខ្មែរ
+        └─────── Link: {'text:ភាសាខ្មែរ': 'https://km.wikipedia.org/wiki/%E1%9E%9F%E1%9E%B6%E1%9E%80%E1%9E%9B%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6%E1%9E%9B%E1%9F%90%E1%9E%99_%E1%9E%85%E1%9E%BB%E1%9E%A1%E1%9E%B6%E1%9E%9B%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%9A%E1%9E%8E%E1%9F%8D'}
+        [33, 20] Type: Item
+        │        Label: Polski
+        └─────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/Uniwersytet_Chulalongkorna'}
+        [33, 21] Type: Item
+        │        Label: Português
+        └─────── Link: {'text:Português': 'https://pt.wikipedia.org/wiki/Universidade_de_Chulalongkorn'}
+        [33, 22] Type: Item
+        │        Label: Русский
+        └─────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%A7%D1%83%D0%BB%D0%B0%D0%BB%D0%BE%D0%BD%D0%B3%D0%BA%D0%BE%D1%80%D0%BD%D0%B0'}
+        [33, 23] Type: Item
+        │        Label: Simple English
+        └─────── Link: {'text:Simple English': 'https://simple.wikipedia.org/wiki/Chulalongkorn_University'}
+        [33, 24] Type: Item
+        │        Label: Svenska
+        └─────── Link: {'text:Svenska': 'https://sv.wikipedia.org/wiki/Chulalongkornuniversitetet'}
+        [33, 25] Type: Item
+        │        Label: Tagalog
+        └─────── Link: {'text:Tagalog': 'https://tl.wikipedia.org/wiki/Pamantasang_Chulalongkorn'}
+        [33, 26] Type: Item
+        │        Label: ไทย
+        └─────── Link: {'text:ไทย': 'https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2'}
+        [33, 27] Type: Item
+        │        Label: Tiếng Việt
+        └─────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chulalongkorn'}
+        [33, 28] Type: Item
+        │        Label: 文言
+        └─────── Link: {'text:文言': 'https://zh-classical.wikipedia.org/wiki/%E6%9C%B1%E6%8B%89%E9%9A%86%E5%8A%9F%E5%A4%A7%E5%AD%B8'}
+        [33, 29] Type: Item
+        │        Label: 中文
+        └─────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E6%9C%B1%E6%8B%89%E9%9A%86%E5%8A%9F%E5%A4%A7%E5%AD%A6'}

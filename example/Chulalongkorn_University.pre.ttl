@@ -6096,7 +6096,7 @@ tlpedia:Chulalongkorn_University
                     tlp:link
                         [
                             tlp:text "Permanent link" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=939922975>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=940290980>
                         ]
                 ] ,
                 [
@@ -6129,7 +6129,7 @@ tlpedia:Chulalongkorn_University
                     tlp:link
                         [
                             tlp:text "Cite this page" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=939922975>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=940290980>
                         ]
                 ]
         ] ,

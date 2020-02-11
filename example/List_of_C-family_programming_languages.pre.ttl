@@ -1,0 +1,3429 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+
+tlpedia:List_of_C-family_programming_languages
+    owl:sameAs dbpedia:List_of_C-family_programming_languages ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/List_of_C-family_programming_languages?oldid=> ;
+    foaf:isPrimaryTopicOf wikipedia:List_of_C-family_programming_languages ;
+    foaf:name "List of C-family programming languages" ;
+    tlp:indexList ( 0 ) ;
+    rdfs:label "List of C-family programming languages" ;
+    rdf:type tlp:Page ;
+    tlp:member
+        [
+            tlp:index 1 ;
+            tlp:indexList ( 1 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label "List of C-family programming languages" ;
+            tlp:dimension 2 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 1 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Language" ;
+                            tlp:style tlp:Identified
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "E" ;
+                            tlp:link
+                                [
+                                    tlp:text "E" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/E_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C" ;
+                            tlp:link
+                                [
+                                    tlp:text "C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/C_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Ratfor" ;
+                            tlp:link
+                                [
+                                    tlp:text "Ratfor" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ratfor>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C shell/tcsh" ;
+                            tlp:link
+                                [
+                                    tlp:text "C shell" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/C_shell>
+                                ] ,
+                                [
+                                    tlp:text "tcsh" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Tcsh>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 1 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C++" ;
+                            tlp:link
+                                [
+                                    tlp:text "C++" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/C%2B%2B>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 1 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "AMPL" ;
+                            tlp:link
+                                [
+                                    tlp:text "AMPL" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/AMPL>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 1 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Objective-C" ;
+                            tlp:link
+                                [
+                                    tlp:text "Objective-C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Objective-C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 1 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C*" ;
+                            tlp:link
+                                [
+                                    tlp:text "C*" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/C*>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 1 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Perl" ;
+                            tlp:link
+                                [
+                                    tlp:text "Perl" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Perl>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 1 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Java" ;
+                            tlp:link
+                                [
+                                    tlp:text "Java" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Java_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 1 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "S-Lang" ;
+                            tlp:link
+                                [
+                                    tlp:text "S-Lang" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/S-Lang_(programming_library)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 1 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "SAC" ;
+                            tlp:link
+                                [
+                                    tlp:text "SAC" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/SAC_programming_language>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 1 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Alef" ;
+                            tlp:link
+                                [
+                                    tlp:text "Alef" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Alef_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 1 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Limbo" ;
+                            tlp:link
+                                [
+                                    tlp:text "Limbo" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Limbo_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 1 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "PHP" ;
+                            tlp:link
+                                [
+                                    tlp:text "PHP" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/PHP>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 1 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "ECMAScript" ;
+                            tlp:link
+                                [
+                                    tlp:text "ECMAScript" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/ECMAScript>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 1 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C--" ;
+                            tlp:link
+                                [
+                                    tlp:text "C--" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/C-->
+                                ]
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 1 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C#" ;
+                            tlp:link
+                                [
+                                    tlp:text "C#" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/C_Sharp_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 1 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Ch" ;
+                            tlp:link
+                                [
+                                    tlp:text "Ch" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ch_(computer_programming)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 1 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "D" ;
+                            tlp:link
+                                [
+                                    tlp:text "D" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/D_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 1 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "eC" ;
+                            tlp:link
+                                [
+                                    tlp:text "eC" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/EC_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 1 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Cyclone" ;
+                            tlp:link
+                                [
+                                    tlp:text "Cyclone" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Cyclone_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 1 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "LSL" ;
+                            tlp:link
+                                [
+                                    tlp:text "LSL" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Linden_Scripting_Language>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 1 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Squirrel" ;
+                            tlp:link
+                                [
+                                    tlp:text "Squirrel" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Squirrel_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 1 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Go" ;
+                            tlp:link
+                                [
+                                    tlp:text "Go" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Go_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 1 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "OpenCL C" ;
+                            tlp:link
+                                [
+                                    tlp:text "OpenCL" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/OpenCL>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 1 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "C0"
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 1 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Swift" ;
+                            tlp:link
+                                [
+                                    tlp:text "Swift" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Swift_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 1 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "AWK" ;
+                            tlp:link
+                                [
+                                    tlp:text "AWK" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/AWK>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 1 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "BitC" ;
+                            tlp:link
+                                [
+                                    tlp:text "BitC" ;
+                                    tlp:url <http://en.wikipedia.org/w/index.php?title=BitC&action=edit&redlink=1>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 1 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "LPC" ;
+                            tlp:link
+                                [
+                                    tlp:text "LPC" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/LPC_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 1 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Pike" ;
+                            tlp:link
+                                [
+                                    tlp:text "Pike" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Pike_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 1 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Seed7" ;
+                            tlp:link
+                                [
+                                    tlp:text "Seed7" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Seed7>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 1 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Processing" ;
+                            tlp:link
+                                [
+                                    tlp:text "Processing" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Processing_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 1 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Split-C" ;
+                            tlp:link
+                                [
+                                    tlp:text "Split-C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Split-C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 1 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Unified Parallel C" ;
+                            tlp:link
+                                [
+                                    tlp:text "Unified Parallel C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Unified_Parallel_C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 1 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Cilk" ;
+                            tlp:link
+                                [
+                                    tlp:text "Cilk" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Cilk>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 1 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Chapel" ;
+                            tlp:link
+                                [
+                                    tlp:text "Chapel" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Chapel_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 1 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Fortress" ;
+                            tlp:link
+                                [
+                                    tlp:text "Fortress" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Fortress_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 1 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Agora" ;
+                            tlp:link
+                                [
+                                    tlp:text "Agora" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Agora_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 1 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "BCPL" ;
+                            tlp:link
+                                [
+                                    tlp:text "BCPL" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/BCPL>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 1 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "B" ;
+                            tlp:link
+                                [
+                                    tlp:text "B" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/B_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 1 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Nim" ;
+                            tlp:link
+                                [
+                                    tlp:text "Nim" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Nim_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 1 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Nemerle" ;
+                            tlp:link
+                                [
+                                    tlp:text "Nemerle" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Nemerle>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 1 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "ApeScript"
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 1 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Amiga E" ;
+                            tlp:link
+                                [
+                                    tlp:text "Amiga E" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Amiga_E>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 1 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Lite-C" ;
+                            tlp:link
+                                [
+                                    tlp:text "Lite-C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lite-C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 49 ;
+                            tlp:indexList ( 1 1 49 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Newsqueak" ;
+                            tlp:link
+                                [
+                                    tlp:text "Newsqueak" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Newsqueak>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 50 ;
+                            tlp:indexList ( 1 1 50 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Not eXactly C (NXC)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Not eXactly C (NXC)" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Not_eXactly_C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 51 ;
+                            tlp:indexList ( 1 1 51 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Not Quite C (NQC)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Not Quite C (NQC)" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Not_Quite_C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 52 ;
+                            tlp:indexList ( 1 1 52 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Oak" ;
+                            tlp:link
+                                [
+                                    tlp:text "Oak" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Oak_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 53 ;
+                            tlp:indexList ( 1 1 53 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "PROMAL" ;
+                            tlp:link
+                                [
+                                    tlp:text "PROMAL" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/PROMAL>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 54 ;
+                            tlp:indexList ( 1 1 54 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Handel-C" ;
+                            tlp:link
+                                [
+                                    tlp:text "Handel-C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Handel-C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 55 ;
+                            tlp:indexList ( 1 1 55 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Dart" ;
+                            tlp:link
+                                [
+                                    tlp:text "Dart" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Dart_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 56 ;
+                            tlp:indexList ( 1 1 56 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "CINT" ;
+                            tlp:link
+                                [
+                                    tlp:text "CINT" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/CINT>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 57 ;
+                            tlp:indexList ( 1 1 57 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Cg" ;
+                            tlp:link
+                                [
+                                    tlp:text "Cg" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Cg_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 58 ;
+                            tlp:indexList ( 1 1 58 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "R" ;
+                            tlp:link
+                                [
+                                    tlp:text "R" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/R_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 59 ;
+                            tlp:indexList ( 1 1 59 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Hack" ;
+                            tlp:link
+                                [
+                                    tlp:text "Hack" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Hack_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 60 ;
+                            tlp:indexList ( 1 1 60 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Charm" ;
+                            tlp:link
+                                [
+                                    tlp:text "Charm" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Charm_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 61 ;
+                            tlp:indexList ( 1 1 61 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Claire" ;
+                            tlp:link
+                                [
+                                    tlp:text "Claire" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Claire_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 62 ;
+                            tlp:indexList ( 1 1 62 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Noop" ;
+                            tlp:link
+                                [
+                                    tlp:text "Noop" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Noop>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 63 ;
+                            tlp:indexList ( 1 1 63 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Neko" ;
+                            tlp:link
+                                [
+                                    tlp:text "Neko" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Neko_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 64 ;
+                            tlp:indexList ( 1 1 64 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Axum" ;
+                            tlp:link
+                                [
+                                    tlp:text "Axum" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Axum_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 65 ;
+                            tlp:indexList ( 1 1 65 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Umple" ;
+                            tlp:link
+                                [
+                                    tlp:text "Umple" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Umple>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 1 66 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "TOM (object-oriented programming language)" ;
+                            tlp:link
+                                [
+                                    tlp:text "TOM (object-oriented programming language)" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 1 67 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Telescript" ;
+                            tlp:link
+                                [
+                                    tlp:text "Telescript" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Telescript_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 1 68 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Fantom" ;
+                            tlp:link
+                                [
+                                    tlp:text "Fantom" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Fantom_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 1 69 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "nesC" ;
+                            tlp:link
+                                [
+                                    tlp:text "nesC" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/NesC>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 1 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "HolyC"
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 1 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Year started" ;
+                            tlp:style tlp:Identified
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1997"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1969-1973"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1974"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1978"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 2 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1979"
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 2 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1985"
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 2 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1986"
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 2 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1987"
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 2 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1988"
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 2 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1991"
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 2 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1991"
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 2 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1994"
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 2 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1995"
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 2 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1995"
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 2 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1995"
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 2 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1995"
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 2 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1997"
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 2 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1999"
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 2 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2001"
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 2 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2001"
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 2 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2004"
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 2 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2001"
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 2 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2003"
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 2 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2003"
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 2 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2007"
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 2 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2009"
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 2 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2010"
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 2 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2014"
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 2 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1977"
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 2 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2006"
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 2 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1995"
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 2 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1994"
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 2 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2005"
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 2 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2001"
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 2 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1993"
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 2 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2003"
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 2 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1994"
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 2 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2009"
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 2 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2006"
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 2 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1993"
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 2 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1966"
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 2 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1969"
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 2 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2008"
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 2 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2003"
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 2 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 2 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1993"
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 2 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2007"
+                        ] ,
+                        [
+                            tlp:index 49 ;
+                            tlp:indexList ( 1 2 49 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "early 1980s"
+                        ] ,
+                        [
+                            tlp:index 50 ;
+                            tlp:indexList ( 1 2 50 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2006"
+                        ] ,
+                        [
+                            tlp:index 51 ;
+                            tlp:indexList ( 1 2 51 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "~1998"
+                        ] ,
+                        [
+                            tlp:index 52 ;
+                            tlp:indexList ( 1 2 52 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1991"
+                        ] ,
+                        [
+                            tlp:index 53 ;
+                            tlp:indexList ( 1 2 53 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1985"
+                        ] ,
+                        [
+                            tlp:index 54 ;
+                            tlp:indexList ( 1 2 54 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1996"
+                        ] ,
+                        [
+                            tlp:index 55 ;
+                            tlp:indexList ( 1 2 55 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2013"
+                        ] ,
+                        [
+                            tlp:index 56 ;
+                            tlp:indexList ( 1 2 56 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1997-1999?"
+                        ] ,
+                        [
+                            tlp:index 57 ;
+                            tlp:indexList ( 1 2 57 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2002"
+                        ] ,
+                        [
+                            tlp:index 58 ;
+                            tlp:indexList ( 1 2 58 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1993"
+                        ] ,
+                        [
+                            tlp:index 59 ;
+                            tlp:indexList ( 1 2 59 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2014"
+                        ] ,
+                        [
+                            tlp:index 60 ;
+                            tlp:indexList ( 1 2 60 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1996"
+                        ] ,
+                        [
+                            tlp:index 61 ;
+                            tlp:indexList ( 1 2 61 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1994"
+                        ] ,
+                        [
+                            tlp:index 62 ;
+                            tlp:indexList ( 1 2 62 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2009"
+                        ] ,
+                        [
+                            tlp:index 63 ;
+                            tlp:indexList ( 1 2 63 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2005"
+                        ] ,
+                        [
+                            tlp:index 64 ;
+                            tlp:indexList ( 1 2 64 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2009"
+                        ] ,
+                        [
+                            tlp:index 65 ;
+                            tlp:indexList ( 1 2 65 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2008"
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 2 66 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1990s"
+                        ] ,
+                        [
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 2 67 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1990"
+                        ] ,
+                        [
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 2 68 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2005"
+                        ] ,
+                        [
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 2 69 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 2 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2005"
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 1 3 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 3 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Created by (at)" ;
+                            tlp:style tlp:Identified
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 3 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Mark S. Miller, Dan Bornstein (Electric Communities)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Mark S. Miller" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Mark_S._Miller>
+                                ] ,
+                                [
+                                    tlp:text "Dan Bornstein" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Dan_Bornstein>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 3 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Dennis Ritchie (Bell Labs)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Dennis Ritchie" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Dennis_Ritchie>
+                                ] ,
+                                [
+                                    tlp:text "Bell Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bell_Labs>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 3 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Brian Kernighan (Bell Labs)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Brian Kernighan" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Brian_Kernighan>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 3 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Bill Joy (UC Berkeley)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Bill Joy" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bill_Joy>
+                                ] ,
+                                [
+                                    tlp:text "UC Berkeley" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/University_of_California_Berkeley>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 3 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Bjarne Stroustrup (Bell Labs)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Bjarne Stroustrup" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bjarne_Stroustrup>
+                                ] ,
+                                [
+                                    tlp:text "Bell Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bell_Labs>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 3 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Robert Fourer, David Gay and Brian Kernighan (Bell Labs)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Robert Fourer" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Robert_Fourer>
+                                ] ,
+                                [
+                                    tlp:text "Brian Kernighan" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Brian_Kernighan>
+                                ] ,
+                                [
+                                    tlp:text "Bell Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bell_Labs>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 3 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Brad Cox and Tom Love" ;
+                            tlp:link
+                                [
+                                    tlp:text "Brad Cox" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Brad_Cox>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 3 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thinking Machines" ;
+                            tlp:link
+                                [
+                                    tlp:text "Thinking Machines" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thinking_Machines>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 3 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Larry Wall" ;
+                            tlp:link
+                                [
+                                    tlp:text "Larry Wall" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Larry_Wall>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 3 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "James Gosling (Sun Microsystems)" ;
+                            tlp:link
+                                [
+                                    tlp:text "James Gosling" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/James_Gosling>
+                                ] ,
+                                [
+                                    tlp:text "Sun Microsystems" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Sun_Microsystems>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 3 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "John E. Davis"
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 3 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "(Germany)"
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 3 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Phil Winterbottom (Bell Labs)"
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 3 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 3 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Rasmus Lerdorf" ;
+                            tlp:link
+                                [
+                                    tlp:text "Rasmus Lerdorf" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Rasmus_Lerdorf>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 3 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Brendan Eich (Netscape)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Brendan Eich" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Brendan_Eich>
+                                ] ,
+                                [
+                                    tlp:text "Netscape" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Netscape>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 3 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Simon Peyton Jones, Norman Ramsey" ;
+                            tlp:link
+                                [
+                                    tlp:text "Simon Peyton Jones" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Simon_Peyton_Jones>
+                                ] ,
+                                [
+                                    tlp:text "Norman Ramsey" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Norman_Ramsey>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 3 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Anders Hejlsberg (Microsoft)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Anders Hejlsberg" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Anders_Hejlsberg>
+                                ] ,
+                                [
+                                    tlp:text "Microsoft" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Microsoft>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 3 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Harry Cheng"
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 3 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Walter Bright (Digital Mars)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Walter Bright" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Walter_Bright>
+                                ] ,
+                                [
+                                    tlp:text "Digital Mars" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Digital_Mars>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 3 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Jérôme Jacovella-St-Louis (Ecere)"
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 3 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Greg Morrisett (AT&T Labs)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Greg Morrisett" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Greg_Morrisett>
+                                ] ,
+                                [
+                                    tlp:text "AT&T Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/AT%26T_Labs>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 3 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 3 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Alberto Demichelis"
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 3 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Rob Pike, Ken Thompson, and Robert Griesemer (Google)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Rob Pike" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Rob_Pike>
+                                ] ,
+                                [
+                                    tlp:text "Ken Thompson" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ken_Thompson>
+                                ] ,
+                                [
+                                    tlp:text "Robert Griesemer" ;
+                                    tlp:url <http://en.wikipedia.org/w/index.php?title=Robert_Griesemer&action=edit&redlink=1>
+                                ] ,
+                                [
+                                    tlp:text "Google" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Google>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 3 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Apple, Khronos Group" ;
+                            tlp:link
+                                [
+                                    tlp:text "Apple" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Apple_Inc.>
+                                ] ,
+                                [
+                                    tlp:text "Khronos Group" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Khronos_Group>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 3 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Rob Arnold (CMU)"
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 3 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Chris Lattner (Apple)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Chris Lattner" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Chris_Lattner>
+                                ] ,
+                                [
+                                    tlp:text "Apple" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Apple_Inc.>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 3 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Alfred Aho, Peter Weinberger & Brian Kernighan (Bell Labs)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Alfred Aho" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Alfred_Aho>
+                                ] ,
+                                [
+                                    tlp:text "Peter Weinberger" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Peter_Weinberger>
+                                ] ,
+                                [
+                                    tlp:text "Brian Kernighan" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Brian_Kernighan>
+                                ] ,
+                                [
+                                    tlp:text "Bell Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bell_Labs>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 3 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Johns Hopkins University" ;
+                            tlp:link
+                                [
+                                    tlp:text "Johns Hopkins University" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Johns_Hopkins_University>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 3 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Lars Pensjö" ;
+                            tlp:link
+                                [
+                                    tlp:text "Lars Pensjö" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lars_Pensj%C3%B6>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 3 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Fredrik Hübinette"
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 3 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thomas Mertes"
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 3 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Casey Reas, Benjamin Fry" ;
+                            tlp:link
+                                [
+                                    tlp:text "Casey Reas" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Casey_Reas>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 3 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 3 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 3 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "MIT Laboratory for Computer Science"
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 3 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Cray Inc." ;
+                            tlp:link
+                                [
+                                    tlp:text "Cray Inc." ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Cray_Inc.>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 3 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Sun Labs" ;
+                            tlp:link
+                                [
+                                    tlp:text "Sun Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Sun_Labs>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 3 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 3 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Martin Richards" ;
+                            tlp:link
+                                [
+                                    tlp:text "Martin Richards" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Martin_Richards_(computer_scientist)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 3 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Ken Thompson" ;
+                            tlp:link
+                                [
+                                    tlp:text "Ken Thompson" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ken_Thompson>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 3 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Andreas Rumpf"
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 3 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Andreas Rumpf"
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 3 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 3 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Wouter van Oortmerssen" ;
+                            tlp:link
+                                [
+                                    tlp:text "Wouter van Oortmerssen" ;
+                                    tlp:url <http://en.wikipedia.org/w/index.php?title=Wouter_van_Oortmerssen&action=edit&redlink=1>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 3 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Atari Inc" ;
+                            tlp:link
+                                [
+                                    tlp:text "Atari Inc" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Atari_Inc>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 49 ;
+                            tlp:indexList ( 1 3 49 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Rob Pike" ;
+                            tlp:link
+                                [
+                                    tlp:text "Rob Pike" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Rob_Pike>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 50 ;
+                            tlp:indexList ( 1 3 50 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "John Hansen"
+                        ] ,
+                        [
+                            tlp:index 51 ;
+                            tlp:indexList ( 1 3 51 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "David Baum"
+                        ] ,
+                        [
+                            tlp:index 52 ;
+                            tlp:indexList ( 1 3 52 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "James Gosling (Sun Microsystems)" ;
+                            tlp:link
+                                [
+                                    tlp:text "James Gosling" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/James_Gosling>
+                                ] ,
+                                [
+                                    tlp:text "Sun Microsystems" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Sun_Microsystems>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 53 ;
+                            tlp:indexList ( 1 3 53 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Systems Management Associates"
+                        ] ,
+                        [
+                            tlp:index 54 ;
+                            tlp:indexList ( 1 3 54 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Oxford University Computing Laboratory" ;
+                            tlp:link
+                                [
+                                    tlp:text "Oxford University Computing Laboratory" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Oxford_University_Computing_Laboratory>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 55 ;
+                            tlp:indexList ( 1 3 55 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Lars Bak and Kasper Lund (Google)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Lars Bak" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)>
+                                ] ,
+                                [
+                                    tlp:text "Google" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Google>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 56 ;
+                            tlp:indexList ( 1 3 56 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Masaharu Goto"
+                        ] ,
+                        [
+                            tlp:index 57 ;
+                            tlp:indexList ( 1 3 57 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Nvidia" ;
+                            tlp:link
+                                [
+                                    tlp:text "Nvidia" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Nvidia>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 58 ;
+                            tlp:indexList ( 1 3 58 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Ross Ihaka and Robert Gentleman" ;
+                            tlp:link
+                                [
+                                    tlp:text "Ross Ihaka" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ross_Ihaka>
+                                ] ,
+                                [
+                                    tlp:text "Robert Gentleman" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 59 ;
+                            tlp:indexList ( 1 3 59 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Julien Verlaguet, Alok Menghrajani, Drew Paroski (Facebook)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Facebook" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Facebook>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 60 ;
+                            tlp:indexList ( 1 3 60 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 61 ;
+                            tlp:indexList ( 1 3 61 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Yves Caseau" ;
+                            tlp:link
+                                [
+                                    tlp:text "Yves Caseau" ;
+                                    tlp:url <http://en.wikipedia.org/w/index.php?title=Yves_Caseau&action=edit&redlink=1>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 62 ;
+                            tlp:indexList ( 1 3 62 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Google" ;
+                            tlp:link
+                                [
+                                    tlp:text "Google" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Google>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 63 ;
+                            tlp:indexList ( 1 3 63 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Nicolas Cannasse (Motion-Twin)" ;
+                            tlp:link
+                                [
+                                    tlp:text "Motion-Twin" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Motion-Twin>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 64 ;
+                            tlp:indexList ( 1 3 64 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Microsoft" ;
+                            tlp:link
+                                [
+                                    tlp:text "Microsoft" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Microsoft>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 65 ;
+                            tlp:indexList ( 1 3 65 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "University of Ottawa" ;
+                            tlp:link
+                                [
+                                    tlp:text "University of Ottawa" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/University_of_Ottawa>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 3 66 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "?"
+                        ] ,
+                        [
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 3 67 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Marc Porat" ;
+                            tlp:link
+                                [
+                                    tlp:text "Marc Porat" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Marc_Porat>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 3 68 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Brian Frank and Andy Frank"
+                        ] ,
+                        [
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 3 69 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 3 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Terry A. Davis" ;
+                            tlp:link
+                                [
+                                    tlp:text "Terry A. Davis" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Terry_A._Davis>
+                                ]
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 1 4 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 4 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Comments" ;
+                            tlp:style tlp:Identified
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 4 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Designed with secure computing in mind, accomplished chiefly by strict adherence to the object-oriented computing model." ;
+                            tlp:link
+                                [
+                                    tlp:text "secure computing" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Computer_security>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 4 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Was an enhancement of Ken Thompson's B language." ;
+                            tlp:link
+                                [
+                                    tlp:text "Ken Thompson" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ken_Thompson>
+                                ] ,
+                                [
+                                    tlp:text "B language" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/B_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 4 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A hybrid of C and Fortran, implemented as a preprocessor for environments without easy access to C compilers." ;
+                            tlp:link
+                                [
+                                    tlp:text "Fortran" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Fortran>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 4 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Scripting language and standard Unix shell." ;
+                            tlp:link
+                                [
+                                    tlp:text "Scripting language" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Scripting_language>
+                                ] ,
+                                [
+                                    tlp:text "Unix shell" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Unix_shell>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 4 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Named as "C with Classes" and renamed C++ in 1983; it began as a reimplementation of static object orientation in the tradition of Simula 67, and through standardization and wide use has grown to encompass generic programming as well as its original object-oriented roots.""" ;
+                            tlp:link
+                                [
+                                    tlp:text "Simula" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Simula>
+                                ] ,
+                                [
+                                    tlp:text "generic programming" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Generic_programming>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 4 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "It is an algebraic modeling language with elements of a scripting language." ;
+                            tlp:link
+                                [
+                                    tlp:text "algebraic modeling language" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Algebraic_modeling_language>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 4 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "It is an object-oriented dynamic language based heavily on Smalltalk. A loosely defined de facto standard library by the original developers has now largely been displaced by variations on the OpenStep FoundationKit." ;
+                            tlp:link
+                                [
+                                    tlp:text "Smalltalk" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Smalltalk>
+                                ] ,
+                                [
+                                    tlp:text "OpenStep" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/OpenStep>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 4 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "object-oriented, data-parallel superset of ANSI C" ;
+                            tlp:link
+                                [
+                                    tlp:text "object-oriented" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Object-oriented>
+                                ] ,
+                                [
+                                    tlp:text "ANSI C" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/ANSI_C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 4 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Scripting language used extensively for system administration, text processing, and web server tasks."
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 4 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Created as Oak, and released to the public in 1995. It is an OODL based inspired heavily by Objective-C, though with a syntax based somewhat on C++. It also compiles to its own bytecode, a standard part of the language specification. It is strongly typed, a feature that is enforced by the VM." ;
+                            tlp:link
+                                [
+                                    tlp:text "Oak" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Oak_(programming_language)>
+                                ] ,
+                                [
+                                    tlp:text "own bytecode" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Java_bytecode>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 4 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A library with a powerful interpreter that provides facilities required by interactive applications such as display/screen management, keyboard input, keymaps, etc."
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 4 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Development spread to several institutions in Germany, Canada, and the UK. Functional language with C syntax."
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 4 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Created for systems programming on the Plan 9 from Bell Labs operating system; it was published in 1995 but eventually abandoned. It provided substantial language support for concurrent programming." ;
+                            tlp:link
+                                [
+                                    tlp:text "Plan 9 from Bell Labs" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs>
+                                ] ,
+                                [
+                                    tlp:text "concurrent programming" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Concurrent_programming_language>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 4 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Limbo succeeded Alef and is used in Inferno as Alef was used in Plan9." ;
+                            tlp:link
+                                [
+                                    tlp:text "Inferno" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Inferno_(operating_system)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 4 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Widely used as a server-side HTML scripting language. C-like syntax."
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 4 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Created as Mocha and LiveScript, announced in 1995, shipped the next year as JavaScript. Primarily a scripting language used in Web page development as well as numerous application environments such as Adobe Flash and QtScript. Though based on C and Java syntax, it is primarily a functional programming language based on Self." ;
+                            tlp:link
+                                [
+                                    tlp:text "JavaScript" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/JavaScript>
+                                ] ,
+                                [
+                                    tlp:text "scripting language" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Scripting_language>
+                                ] ,
+                                [
+                                    tlp:text "Adobe Flash" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Adobe_Flash>
+                                ] ,
+                                [
+                                    tlp:text "QtScript" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/QtScript>
+                                ] ,
+                                [
+                                    tlp:text "functional programming" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Functional_programming>
+                                ] ,
+                                [
+                                    tlp:text "Self" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Self_(programming_language)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 4 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "generated mainly by compilers for very high-level languages"
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 4 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Created under the name "Cool", it is syntactically very similar to Java, though with a Smalltalk-like unified type system.""" ;
+                            tlp:link
+                                [
+                                    tlp:text "Smalltalk" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Smalltalk>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 4 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A C/C++ scripting language with extensions for shell programming and numerical computing."
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 4 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Based on C++, but with an incompatible syntax having traits from other C-like languages like Java and C#."
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 4 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A super-set of C adding object-oriented features (inspired by C++), properties, dynamic modules and reflection developed as part of the Ecere SDK project, an open-source cross-platform SDK."
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 4 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Intended to be a safe dialect of the C language. It is designed to avoid buffer overflows and other vulnerabilities that are endemic in C programs, without losing the power and convenience of C as a tool for system programming."
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 4 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Created for the Second Life virtual world by Linden Lab." ;
+                            tlp:link
+                                [
+                                    tlp:text "Second Life" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Second_Life>
+                                ] ,
+                                [
+                                    tlp:text "Linden Lab" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Linden_Lab>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 4 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A light-weight scripting language"
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 4 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Released to public in 2009, it is a concurrent language with fast compilations, Java-like syntax, but no object-oriented features and strong typing." ;
+                            tlp:link
+                                [
+                                    tlp:text "strong typing" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Strong_typing>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 4 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "OpenCL specifies a modified subset of the C programming language for writing programs to run on various compute devices (e.g. GPUs, DSPs)"
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 4 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A safe subset of C with checked pointers and bounds-checked arrays. Created for CMU introductory computer courses." ;
+                            tlp:link
+                                [
+                                    tlp:text "CMU" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Carnegie_Mellon_University>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 4 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Swift can import any C library, optionally annotating C headers to map C types to Swift objects and import libraries as Swift modules.  Swift has two-way bridging with Objective-C on platforms which support Apple's Objective-C runtime.  Unlike Objective-C, Swift does not currently support C++ interoperation or exposing Swift types as C structs."
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 4 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Designed for text processing and typically used as a data extraction and reporting tool."
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 4 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Aims to support formal program verification."
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 4 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Developed originally to facilitate MUD building on LPMuds. Though designed for game development, its flexibility has led to it being used for a variety of purposes." ;
+                            tlp:link
+                                [
+                                    tlp:text "LPMuds" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/LPMud>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 4 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An interpreted, general-purpose, high-level, cross-platform, dynamic programming language, with a syntax similar to that of C."
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 4 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An extensible general-purpose programming language."
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 4 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An open source programming language and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities."
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 4 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A parallel extension of the C programming language."
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 4 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An extension of the C programming language designed for high-performance computing on large-scale parallel machines."
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 4 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "General-purpose programming language designed for multithreaded parallel computing."
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 4 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Aims to improve the programmability of parallel computers in general and the Cray Cascade system in particular."
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 4 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An experimental programming language for high-performance computing, created by Sun Microsystems with funding from DARPA's High Productivity Computing Systems project."
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 4 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A reflective, prototype-based, object-oriented programming language that is based exclusively on message passing and not delegation."
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 4 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A procedural, imperative, and structured computer programming language."
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 4 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Designed for recursive, non-numeric, machine independent applications, such as system and language software."
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 4 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An imperative, multi-paradigm, compiled programming language."
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 4 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A general-purpose high-level statically typed programming language designed for platforms using the Common Language Infrastructure (.NET/Mono)."
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 4 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An interpreted procedural dynamic-typed language."
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 4 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A combination of many features from a number of languages, but follows the original C programming language most closely in terms of basic concepts."
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 4 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A programming language for multimedia applications and personal computer games, using a syntax subset of the C language with some elements of the C++ language."
+                        ] ,
+                        [
+                            tlp:index 49 ;
+                            tlp:indexList ( 1 4 49 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A concurrent programming language for writing application software with interactive graphical user interfaces. Newsqueak's syntax and semantics are influenced by the C language, but its approach to concurrency was inspired by CSP." ;
+                            tlp:link
+                                [
+                                    tlp:text "CSP" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Communicating_sequential_processes>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 50 ;
+                            tlp:indexList ( 1 4 50 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A high-level programming language for the Lego Mindstorms NXT. NXC, which is short for Not eXactly C, is based on Next Byte Codes, an assembly language. NXC has a syntax like C. It is part of the BricX IDE that integrates editor, tools for interfacing with the brick, and the compiler, but supports more languages." ;
+                            tlp:link
+                                [
+                                    tlp:text "Lego Mindstorms NXT" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lego_Mindstorms_NXT>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 51 ;
+                            tlp:indexList ( 1 4 51 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An embedded systems programming language, application programming interface (API), and native bytecode compiler toolkit for the Lego Mindstorms RCX platform, Cybermaster and LEGO Spybotics systems. It is intended as a drop-in replacement for the LabVIEW-based ROBOLAB IDE. It is based primarily on the C language but has specific limitations, such as the maximum number of subroutines and variables allowed. Later replaced with NXC, an enhanced version created for the Mindstorms NXT platform." ;
+                            tlp:link
+                                [
+                                    tlp:text "embedded systems" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Embedded_systems>
+                                ] ,
+                                [
+                                    tlp:text "Lego Mindstorms" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lego_Mindstorms>
+                                ] ,
+                                [
+                                    tlp:text "LabVIEW" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/LabVIEW>
+                                ] ,
+                                [
+                                    tlp:text "NXC" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Not_eXactly_C>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 52 ;
+                            tlp:indexList ( 1 4 52 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A programming language created initially for Sun Microsystems set-top box project. The language later evolved to become Java."
+                        ] ,
+                        [
+                            tlp:index 53 ;
+                            tlp:indexList ( 1 4 53 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A C-like programming language for MS-DOS, Commodore 64, and Apple II."
+                        ] ,
+                        [
+                            tlp:index 54 ;
+                            tlp:indexList ( 1 4 54 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A high-level programming language which targets low-level hardware, most commonly used in the programming of FPGAs. It is a rich subset of C."
+                        ] ,
+                        [
+                            tlp:index 55 ;
+                            tlp:indexList ( 1 4 55 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A class-based, single inheritance, object-oriented language with C-style syntax."
+                        ] ,
+                        [
+                            tlp:index 56 ;
+                            tlp:indexList ( 1 4 56 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An interpreted version of C/C++, much in the way BeanShell is an interpreted version of Java."
+                        ] ,
+                        [
+                            tlp:index 57 ;
+                            tlp:indexList ( 1 4 57 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Based on the C programming language and although they share the same syntax, some features of C were modified and new data types were added to make Cg more suitable for programming graphics processing units. This language is only suitable for GPU programming and is not a general programming language."
+                        ] ,
+                        [
+                            tlp:index 58 ;
+                            tlp:indexList ( 1 4 58 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A programming language and software environment for statistical computing and graphics."
+                        ] ,
+                        [
+                            tlp:index 59 ;
+                            tlp:indexList ( 1 4 59 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A programming language for the HipHop Virtual Machine (HHVM)."
+                        ] ,
+                        [
+                            tlp:index 60 ;
+                            tlp:indexList ( 1 4 60 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An object oriented computer programming language with similarities to the RTL/2, Pascal and C languages in addition to containing some unique features of its own."
+                        ] ,
+                        [
+                            tlp:index 61 ;
+                            tlp:indexList ( 1 4 61 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A high-level functional and object-oriented programming language with rule processing abilities."
+                        ] ,
+                        [
+                            tlp:index 62 ;
+                            tlp:indexList ( 1 4 62 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Attempts to blend the best features of "old" and "new" languages, while syntactically encouraging good programming practice."""
+                        ] ,
+                        [
+                            tlp:index 63 ;
+                            tlp:indexList ( 1 4 63 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A high-level dynamically typed programming language"
+                        ] ,
+                        [
+                            tlp:index 64 ;
+                            tlp:indexList ( 1 4 64 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A domain specific concurrent programming language, based on the Actor model."
+                        ] ,
+                        [
+                            tlp:index 65 ;
+                            tlp:indexList ( 1 4 65 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "A language for both object-oriented programming and modeling with class diagrams and state diagrams."
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 4 66 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An object-oriented programming language that built on the lessons learned from Objective-C."
+                        ] ,
+                        [
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 4 67 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An object-oriented programming language."
+                        ] ,
+                        [
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 4 68 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "An object-oriented, functional, actor concurrent with a null-able aware type system emphasizing pragmatism in building enterprise systems running on top of the JVM or the CLR or JavaScript."
+                        ] ,
+                        [
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 4 69 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """nesC (pronounced "NES-see") is an extension to the C programming language designed to embody the structuring concepts and execution model of TinyOS. TinyOS is an event-driven operating system designed for sensor network nodes that have very limited resources."""
+                        ] ,
+                        [
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 4 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """A dialect of C for Terry's own operating system TempleOS. Most notable changes are the argument passing, variable type naming (U8 instead of unsigned char, I32 instead of int and so on), code structure ("There is no main() function.  Any code outside of functions gets executed upon start-up, in order "), switch statement structure and substitution of some parts of the preprocessor like the removal of #define and the use of '$' as the escape character.""" ;
+                            tlp:link
+                                [
+                                    tlp:text "TempleOS" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/TempleOS>
+                                ]
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 1 5 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 5 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "References" ;
+                            tlp:style tlp:Identified
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 5 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 5 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 5 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 5 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 5 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 5 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 5 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 5 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 5 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 5 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 5 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 5 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 5 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 5 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 5 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 5 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 5 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 5 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 5 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 5 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 5 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 5 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 5 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 5 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 5 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 5 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 5 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 5 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 5 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 5 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 5 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 5 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 5 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 5 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 5 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 5 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 5 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 5 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 5 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 5 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 5 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 5 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 5 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 5 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 5 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 5 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 5 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 49 ;
+                            tlp:indexList ( 1 5 49 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 50 ;
+                            tlp:indexList ( 1 5 50 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 51 ;
+                            tlp:indexList ( 1 5 51 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 52 ;
+                            tlp:indexList ( 1 5 52 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 53 ;
+                            tlp:indexList ( 1 5 53 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 54 ;
+                            tlp:indexList ( 1 5 54 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 55 ;
+                            tlp:indexList ( 1 5 55 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 56 ;
+                            tlp:indexList ( 1 5 56 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 57 ;
+                            tlp:indexList ( 1 5 57 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 58 ;
+                            tlp:indexList ( 1 5 58 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 59 ;
+                            tlp:indexList ( 1 5 59 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 60 ;
+                            tlp:indexList ( 1 5 60 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 61 ;
+                            tlp:indexList ( 1 5 61 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 62 ;
+                            tlp:indexList ( 1 5 62 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 63 ;
+                            tlp:indexList ( 1 5 63 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 64 ;
+                            tlp:indexList ( 1 5 64 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 65 ;
+                            tlp:indexList ( 1 5 65 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 5 66 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 5 67 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 5 68 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 5 69 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 5 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 2 ;
+            tlp:indexList ( 2 0 ) ;
+            tlp:style tlp:Enumerated ;
+            tlp:dimension 1 ;
+            rdfs:label "References" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 2 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"The C Family". linuxfinances.info. Retrieved 2015-12-30.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"The C Family"""" ;
+                            tlp:url <http://linuxfinances.info/info/c.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 2 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"S-Lang Library Information Page".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"S-Lang Library Information Page"""" ;
+                            tlp:url <http://www.jedsoft.org/slang/>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 2 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "http://www.sac-home.org/publications/GrelSchoIJPP06.pdf" ;
+                    tlp:link
+                        [
+                            tlp:text "http://www.sac-home.org/publications/GrelSchoIJPP06.pdf" ;
+                            tlp:url <http://www.sac-home.org/publications/GrelSchoIJPP06.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 2 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Alef Language Reference Manual".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Alef Language Reference Manual"""" ;
+                            tlp:url <http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 2 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Scientific Numerical Computing".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Scientific Numerical Computing"""" ;
+                            tlp:url <http://www.softintegration.com/docs/ch/numeric/>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 2 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"cross platform Ch Shell Programming".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"cross platform Ch Shell Programming"""" ;
+                            tlp:url <http://www.softintegration.com/docs/ch/shell/>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 2 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-145.pdf" ;
+                    tlp:link
+                        [
+                            tlp:text "http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-145.pdf" ;
+                            tlp:url <http://reports-archive.adm.cs.cmu.edu/anon/2010/CMU-CS-10-145.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 2 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "https://github.com/apple/swift-evolution/blob/master/proposals/0044-import-as-member.md" ;
+                    tlp:link
+                        [
+                            tlp:text "https://github.com/apple/swift-evolution/blob/master/proposals/0044-import-as-member.md" ;
+                            tlp:url <https://github.com/apple/swift-evolution/blob/master/proposals/0044-import-as-member.md>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 2 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md" ;
+                    tlp:link
+                        [
+                            tlp:text "https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md" ;
+                            tlp:url <https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 2 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Project Fortress: Wiki: Home — Project Kenai".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Project Fortress: Wiki: Home — Project Kenai"""" ;
+                            tlp:url <https://java.net/projects/projectfortress/pages/Home>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 2 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf" ;
+                    tlp:link
+                        [
+                            tlp:text "http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf" ;
+                            tlp:url <http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 2 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"NXC - Not eXactly C".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"NXC - Not eXactly C"""" ;
+                            tlp:url <http://bricxcc.sourceforge.net/nxc/>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 2 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"NQC - Not Quite C".""" ;
+                    tlp:link
+                        [
+                            tlp:text """"NQC - Not Quite C"""" ;
+                            tlp:url <http://bricxcc.sourceforge.net/nqc/>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 2 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "GitHub - tinyos/nesc: Master nesc repository., TinyOS, 2019-03-05, retrieved 2019-03-17" ;
+                    tlp:link
+                        [
+                            tlp:text "GitHub - tinyos/nesc: Master nesc repository." ;
+                            tlp:url <https://github.com/tinyos/nesc>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 2 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"The Temple Operating System". web.archive.org. 2017-03-25. Retrieved 2019-04-16.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"The Temple Operating System"""" ;
+                            tlp:url <https://web.archive.org/web/20170325000321/http://www.templeos.org/Wb/Doc/HolyC.html>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 3 ;
+            tlp:indexList ( 3 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "References" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 3 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "C programming language family" ;
+                    tlp:link
+                        [
+                            tlp:text "C programming language family" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:C_programming_language_family>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 3 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Lists of programming languages" ;
+                    tlp:link
+                        [
+                            tlp:text "Lists of programming languages" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Lists_of_programming_languages>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 4 ;
+            tlp:indexList ( 4 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "References" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 4 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Accuracy disputes from April 2015" ;
+                    tlp:link
+                        [
+                            tlp:text "Accuracy disputes from April 2015" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Accuracy_disputes_from_April_2015>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 4 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All accuracy disputes" ;
+                    tlp:link
+                        [
+                            tlp:text "All accuracy disputes" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_accuracy_disputes>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 4 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles needing additional references from June 2015" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles needing additional references from June 2015" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_June_2015>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 4 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All articles needing additional references" ;
+                    tlp:link
+                        [
+                            tlp:text "All articles needing additional references" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 4 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles with multiple maintenance issues" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles with multiple maintenance issues" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_multiple_maintenance_issues>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 4 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All articles with unsourced statements" ;
+                    tlp:link
+                        [
+                            tlp:text "All articles with unsourced statements" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 4 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles with unsourced statements from January 2019" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles with unsourced statements from January 2019" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_January_2019>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 5 ;
+            tlp:indexList ( 5 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Tools" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 5 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "What links here" ;
+                    tlp:link
+                        [
+                            tlp:text "What links here" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_C-family_programming_languages>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 5 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Related changes" ;
+                    tlp:link
+                        [
+                            tlp:text "Related changes" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_C-family_programming_languages>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 5 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Upload file" ;
+                    tlp:link
+                        [
+                            tlp:text "Upload file" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 5 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Special pages" ;
+                    tlp:link
+                        [
+                            tlp:text "Special pages" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 5 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Permanent link" ;
+                    tlp:link
+                        [
+                            tlp:text "Permanent link" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=918026011>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 5 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Page information" ;
+                    tlp:link
+                        [
+                            tlp:text "Page information" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&action=info>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 5 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikidata item" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikidata item" ;
+                            tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q6565327>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 5 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Cite this page" ;
+                    tlp:link
+                        [
+                            tlp:text "Cite this page" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=918026011>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 6 ;
+            tlp:indexList ( 6 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Print/export" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 6 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Create a book" ;
+                    tlp:link
+                        [
+                            tlp:text "Create a book" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=List+of+C-family+programming+languages>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 6 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Download as PDF" ;
+                    tlp:link
+                        [
+                            tlp:text "Download as PDF" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=List+of+C-family+programming+languages&action=show-download-screen>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 6 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Printable version" ;
+                    tlp:link
+                        [
+                            tlp:text "Printable version" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&printable=yes>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 7 ;
+            tlp:indexList ( 7 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Languages" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 7 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "العربية" ;
+                    tlp:link
+                        [
+                            tlp:text "العربية" ;
+                            tlp:url <https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%A7%D9%84%D9%85%D8%A3%D8%AE%D9%88%D8%B0%D8%A9_%D9%85%D9%86_%D8%B3%D9%8A>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 7 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Türkçe" ;
+                    tlp:link
+                        [
+                            tlp:text "Türkçe" ;
+                            tlp:url <https://tr.wikipedia.org/wiki/C_tabanl%C4%B1_programlama_dilleri_listesi>
+                        ]
+                ]
+        ]
+.
