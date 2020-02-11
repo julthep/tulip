@@ -1,1 +1,1 @@
-# tulip
+# TULIP RDF vocabulary
