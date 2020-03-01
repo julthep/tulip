@@ -9,6 +9,7 @@ __license__ = "LGPL-3.0"
 
 import requests
 import bs4
+import json
 
 from rdflib import Graph, Namespace, URIRef     #, Literal
 from rdflib.collection import Collection
@@ -28,13 +29,13 @@ class Tulip:
                        'Table': None, 'Column':    None, 'Row': None, 'Cell': None, 
                        'List':  None, 'ListItem':  None}
         self.label  = None
-        self.style  = {'Identified': None, 
-                       'ColSpanned': None, 'RowSpanned': None, 
-                       'ColSpanBrk': None, 'RowSpanBrk': None, 
-                       'Enumerated': None}
+        self.style  = {'Emphasize': None, 'Enumerate':  None,
+                       'ColMajor':  None, 'RowMajor':   None, 
+                       'GrpSpan':   None, 'LineSpan':   None, 
+                       'GrpSpanBr': None, 'LineSpanBr': None}
         self.dimension = None
         self.link = {}
-        self.local = {'Hidden': None, 'ColSpan': None, 'RowSpan': None}
+        self.local = {'GrpSkip': None, 'LineSkip': None, 'GrpSpan': None, 'LineSpan': None}
     def __len__(self):
         return len(self.member)
     def __getitem__(self, index):
@@ -43,6 +44,36 @@ class Tulip:
         self.member[index] = value
     def __delitem__(self, index):
         del self.member[index]
+
+def recur_dict(object):
+    return json.loads(
+           json.dumps(object, default=lambda o: 
+              getattr(o, '__dict__', str(o)), ensure_ascii=False))
+
+class TulipJS:
+    def __init__(self, d):
+        self.member = [ TulipJS(d['member'][i]) for i in range(len(d['member']))]
+        self.type   = {'Group': d['type']['Group'], 'Item':      d['type']['Item'], 
+                       'Page':  d['type']['Page'],  'Paragraph': d['type']['Paragraph'], 
+                       'Table': d['type']['Table'], 'Column':    d['type']['Column'], 
+                       'Row':   d['type']['Row'],   'Cell':      d['type']['Cell'], 
+                       'List':  d['type']['List'],  'ListItem':  d['type']['ListItem']}
+        self.label  = d['label']
+        self.style  = {'Emphasize': d['style']['Emphasize'], 'Enumerate':  d['style']['Enumerate'],
+                       'ColMajor':  d['style']['ColMajor'],  'RowMajor':   d['style']['RowMajor'], 
+                       'GrpSpan':   d['style']['GrpSpan'],   'LineSpan':   d['style']['LineSpan'], 
+                       'GrpSpanBr': d['style']['GrpSpanBr'], 'LineSpanBr': d['style']['LineSpanBr']}
+        self.dimension = d['dimension']
+        self.link = d['link']
+        # no need to load .local temporary working dict from JSON file, just initial them for HTML generation
+        self.local = {'GrpSkip': None, 'LineSkip': None, 'GrpSpan': None, 'LineSpan': None}
+    def __len__(self):
+        return len(self.member)
+    def __getitem__(self, index):
+        return self.member[index]
+    def __iter__(self):
+        for item in self.member:
+            yield item
 
 def read_file(filename):
     """
@@ -68,9 +99,16 @@ def read_url(url):
     base_url = url             # store global base_url
     print('Reading url', url)
     s = session.get(url)
-    if s.ok is False:
-        return None
-    return s.text
+    return s.text if s.ok else None
+
+"""
+ d8888b.  .d8b.  d8888b. .d8888. d88888b         db   db d888888b .88b  d88. db      
+ 88  `8D d8' `8b 88  `8D 88'  YP 88'             88   88 `~~88~~' 88'YbdP`88 88      
+ 88oodD' 88ooo88 88oobY' `8bo.   88ooooo         88ooo88    88    88  88  88 88      
+ 88~~~   88~~~88 88`8b     `Y8b. 88~~~~~         88~~~88    88    88  88  88 88      
+ 88      88   88 88 `88. db   8D 88.             88   88    88    88  88  88 88booo. 
+ 88      YP   YP 88   YD `8888Y' Y88888P C88888D YP   YP    YP    YP  YP  YP Y88888P 
+"""
 
 def parse_html(html):
     """
@@ -156,10 +194,13 @@ def bs2tulip(bso):
             # reserve row
             for col in range(max_col_count):
                 tulip[tulip_idx][col] = Tulip(len(all_rows)+max_row_adjust)
-                tulip[tulip_idx][col].type['Column'] = True    # optional, no need in process
+                tulip[tulip_idx][col].type['Column'] = True                 # optional, no need in process
+                tulip[tulip_idx][col].style['Enumerate'] = True            # optional, clarify for table->list conversion
             max_dim = 2
             # generate table properties
             tulip[tulip_idx].type['Table'] = True
+            tulip[tulip_idx].style['Enumerate'] = True            # optional, clarify for table->list conversion
+            tulip[tulip_idx].style['ColMajor'] = True            # optional, clarify for col->row-major transposition
             caption = tulip_grp.find('caption', recursive=False)
             if caption != None:
                 for br_tag in caption.find_all('br'):
@@ -186,7 +227,7 @@ def bs2tulip(bso):
                     if i_list != None:
                         i_rows = i_list.find_all('li', recursive=False)
                         src_list_items = Tulip(len(i_rows))
-                        src_list_items.style['Enumerated'] = (None, True)[i_list.name == 'ol']
+                        src_list_items.style['Enumerate'] = (None, True)[i_list.name == 'ol']
                         if max_dim < 3: max_dim = 3
                         for i_idx, i_row in enumerate(i_rows):
                             for un_tag in i_row.find_all(['table','ul','ol'], recursive=False):
@@ -235,10 +276,10 @@ def bs2tulip(bso):
                             tulip[tulip_idx][col_idx+cspan][row_idx+rspan].type['Cell'] = True            # optional, no need in process
                             tulip[tulip_idx][col_idx+cspan][row_idx+rspan].label = src_label   # can't set to None, None need for span checker
                             tulip[tulip_idx][col_idx+cspan][row_idx+rspan].link = src_link
-                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['Identified'] = src_header
-                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['Enumerated'] = src_list_items.style['Enumerated']
-                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['ColSpanned'] = src_col_span
-                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['RowSpanned'] = src_row_span
+                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['Emphasize'] = src_header
+                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['Enumerate'] = src_list_items.style['Enumerate']
+                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['GrpSpan'] = src_col_span
+                            tulip[tulip_idx][col_idx+cspan][row_idx+rspan].style['LineSpan'] = src_row_span
                     # adjust ahead to next col after span loop
                     col_idx += col_span
             tulip[tulip_idx].dimension = max_dim
@@ -251,7 +292,7 @@ def bs2tulip(bso):
                 item_tags = pass_tag.find_all('li', recursive=False)
                 tulip[idx] = Tulip(len(item_tags))
                 tulip[idx].type['List'] = True
-                tulip[idx].style['Enumerated'] = (None, True)[pass_tag.name == 'ol']
+                tulip[idx].style['Enumerate'] = (None, True)[pass_tag.name == 'ol']
                 # workaround to temporary get table header
                 # to do: move to below after level -= 1 to test get label after decompose ul/ol
                 if level == 1:     # if the first call, not in recursion
@@ -300,6 +341,15 @@ def bs2tulip(bso):
             break
     return tulip
 
+"""
+  d888b  d88888b d8b   db         d888888b db    db d8888b. d888888b db      d88888b 
+ 88' Y8b 88'     888o  88         `~~88~~' 88    88 88  `8D `~~88~~' 88      88'     
+ 88      88ooooo 88V8o 88            88    88    88 88oobY'    88    88      88ooooo 
+ 88  ooo 88~~~~~ 88 V8o88            88    88    88 88`8b      88    88      88~~~~~ 
+ 88. ~8~ 88.     88  V888            88    88b  d88 88 `88.    88    88booo. 88.     
+  Y888P  Y88888P VP   V8P C88888D    YP    ~Y8888P' 88   YD    YP    Y88888P Y88888P 
+"""
+
 def gen_turtle(tulip):
     """
     gen_turtle(Tulip:tulip)
@@ -330,6 +380,7 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
     elem_pred_added = False
     for i in range(len(tulip)):
         level = 0
+        index_list = ''
         if tulip[i].type['Table']:
             if tulip[i].member != [] or tulip[i].label != None:
                 level += 1
@@ -338,7 +389,8 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
                     elem_pred_added = True
                 turtle += indent*(level*2) + '[\n'
                 turtle += indent*(level*2+1) + 'tlp:index ' + str(i+1) + ' ;\n'
-                turtle += indent*(level*2+1) + 'tlp:indexList ( ' + str(i+1) + ' 0 ) ;\n'
+                index_list_i = index_list + ' ' + str(i+1)
+                turtle += indent*(level*2+1) + 'tlp:indexList (' + index_list_i + ' 0 ) ;\n'
                 turtle += indent*(level*2+1) + 'rdf:type tlp:Table ;\n'
                 label = tulip[i].label
                 if label != None:
@@ -346,6 +398,8 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
                         turtle += indent*(level*2+1) + 'rdfs:label """' + label + '""" ;\n'
                     else:
                         turtle += indent*(level*2+1) + 'rdfs:label "' + label + '" ;\n'
+                for key in [ key for key,v in tulip[i].style.items() if v is not None ]:
+                    turtle += indent*(level*2+1) + 'tlp:style tlp:' + key + ' ;\n'
                 if tulip[i].link != {}:
                     turtle += indent*(level*2+1) + 'tlp:link\n'
                     for key, url in tulip[i].link.items():
@@ -372,13 +426,16 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
                             elem_pred_added_j = True
                         turtle += indent*(level*2) + '[\n'
                         turtle += indent*(level*2+1) + 'tlp:index ' + str(j+1) + ' ;\n'
-                        turtle += indent*(level*2+1) + 'tlp:indexList ( ' + str(i+1) + ' ' + str(j+1) + ' 0 ) ;\n'
+                        index_list_j = index_list_i + ' ' + str(j+1)
+                        turtle += indent*(level*2+1) + 'tlp:indexList (' + index_list_j + ' 0 ) ;\n'
                         turtle += indent*(level*2+1) + 'rdf:type tlp:Column ;\n'
                         if label != None:
                             if label.find('\n') != -1 or label.find('"') != -1:
                                 turtle += indent*(level*2+1) + 'rdfs:label """' + label + '""" ;\n'
                             else:
                                 turtle += indent*(level*2+1) + 'rdfs:label "' + label + '" ;\n'
+                        for key in [ key for key,v in tulip[i][j].style.items() if v is not None ]:
+                            turtle += indent*(level*2+1) + 'tlp:style tlp:' + key + ' ;\n'
                         if tulip[i][j].link != {}:
                             turtle += indent*(level*2+1) + 'tlp:link\n'
                             for key, url in tulip[i][j].link.items():
@@ -403,15 +460,16 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
                                     elem_pred_added_k = True
                                 turtle += indent*(level*2) + '[\n'
                                 turtle += indent*(level*2+1) + 'tlp:index ' + str(k+1) + ' ;\n'
-                                turtle += indent*(level*2+1) + 'tlp:indexList ( ' + str(i+1) + ' ' + str(j+1) + ' ' + str(k+1) + ' 0 ) ;\n'
+                                index_list_k = index_list_j + ' ' + str(k+1)
+                                turtle += indent*(level*2+1) + 'tlp:indexList (' + index_list_k + ' 0 ) ;\n'
                                 turtle += indent*(level*2+1) + 'rdf:type tlp:Cell ;\n'
                                 if label != None:
                                     if label.find('\n') != -1 or label.find('"') != -1:
                                         turtle += indent*(level*2+1) + 'rdfs:label """' + label + '""" ;\n'
                                     else:
                                         turtle += indent*(level*2+1) + 'rdfs:label "' + label + '" ;\n'
-                                    for key in [ key for key,v in tulip[i][j][k].style.items() if v is not None ]:
-                                        turtle += indent*(level*2+1) + 'tlp:style tlp:' + key + ' ;\n'
+                                for key in [ key for key,v in tulip[i][j][k].style.items() if v is not None ]:
+                                    turtle += indent*(level*2+1) + 'tlp:style tlp:' + key + ' ;\n'
                                 if tulip[i][j][k].link != {}:
                                     turtle += indent*(level*2+1) + 'tlp:link\n'
                                     for key, url in tulip[i][j][k].link.items():
@@ -430,40 +488,8 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
                                 # inner list
                                 elem_pred_added_l = False
                                 for l in range(len(tulip[i][j][k])):
-                                    label = tulip[i][j][k][l].label
-                                    if tulip[i][j][k][l].member != [] or label != None:
-                                        level += 1
-                                        if not elem_pred_added_l:
-                                            turtle += indent*(level*2-1) + 'rdf:type tlp:List ;\n'
-                                            turtle += indent*(level*2-1) + 'tlp:member\n'
-                                            elem_pred_added_l = True
-                                        turtle += indent*(level*2) + '[\n'
-                                        turtle += indent*(level*2+1) + 'tlp:index ' + str(l+1) + ' ;\n'
-                                        turtle += indent*(level*2+1) + 'tlp:indexList ( ' + str(i+1) + ' ' + str(j+1) + ' ' + str(k+1) + ' ' + str(l+1) + ' 0 ) ;\n'
-                                        turtle += indent*(level*2+1) + 'rdf:type tlp:Item ;\n'
-                                        if label != None:
-                                            if label.find('\n') != -1 or label.find('"') != -1:
-                                                turtle += indent*(level*2+1) + 'rdfs:label """' + label + '""" ;\n'
-                                            else:
-                                                turtle += indent*(level*2+1) + 'rdfs:label "' + label + '" ;\n'
-                                        if tulip[i][j][k][l].link != {}:
-                                            turtle += indent*(level*2+1) + 'tlp:link\n'
-                                            for key, url in tulip[i][j][k][l].link.items():
-                                                turtle += indent*(level*2+2) + '[\n'
-                                                if key[:5] == 'text:':
-                                                    if key.find('\n') != -1 or key.find('"') != -1:
-                                                        turtle += indent*(level*2+3) + 'tlp:text """' + key[5:] + '""" ;\n'
-                                                    else:
-                                                        turtle += indent*(level*2+3) + 'tlp:text "' + key[5:] + '" ;\n'
-                                                elif key[:6] == 'image:':
-                                                    turtle += indent*(level*2+3) + 'tlp:image <' + key[6:] + '> ;\n'
-                                                turtle += indent*(level*2+3) + 'tlp:url <' + url + '>\n'
-                                                turtle += indent*(level*2+2) + '] ,\n'
-                                            turtle = turtle[:-3] + ' ;\n'
-                                        ### point of recursion
-                                        turtle = turtle[:-3] + '\n'
-                                        turtle += indent*(level*2) + '] ,\n'
-                                        level -= 1
+                                    ### point of recursion
+                                    turtle, level, elem_pred_added_l = _turtle_list_recursion(turtle, tulip[i][j][k], l, index_list_k, level, elem_pred_added_l)
                                 ### end of recursion
                                 turtle = turtle[:-3] + '\n'
                                 turtle += indent*(level*2) + '] ,\n'
@@ -475,61 +501,63 @@ tlpedia:''' + tulip.label.replace(' ','_') + '''
                 turtle += indent*(level*2) + '] ,\n'
                 level -= 1
         elif tulip[i].type['List']:
-            def _turtle_list_recursion(turtle, tulip, idx, index_list, level=0, elem_pred_added=False):
-                ### begin of recursion
-                indent = ' '*4
-                label = tulip[idx].label
-                if tulip[idx].member != [] or label != None:
-                    level += 1
-                    if not elem_pred_added:
-                        if level != 1:        # if in recursion, not the first call
-                            turtle += indent*(level*2-1) + 'rdf:type tlp:List ;\n'
-                        turtle += indent*(level*2-1) + 'tlp:member\n'
-                        elem_pred_added = True
-                    turtle += indent*(level*2) + '[\n'
-                    turtle += indent*(level*2+1) + 'tlp:index ' + str(idx+1) + ' ;\n'
-                    index_list += ' ' + str(idx+1)
-                    turtle += indent*(level*2+1) + 'tlp:indexList (' + index_list + ' 0 ) ;\n'
-                    if level != 1:        # if in recursion, not the first call
-                        turtle += indent*(level*2+1) + 'rdf:type tlp:Item ;\n'
-                    if tulip[idx].style['Enumerated'] != None:
-                        turtle += indent*(level*2+1) + 'tlp:style tlp:Enumerated ;\n'
-                    if tulip[idx].dimension != None:
-                        turtle += indent*(level*2+1) + 'tlp:dimension ' + str(tulip[idx].dimension) + ' ;\n'
-                    if label != None:
-                        if label.find('\n') != -1 or label.find('"') != -1:
-                            turtle += indent*(level*2+1) + 'rdfs:label """' + label + '""" ;\n'
-                        else:
-                            turtle += indent*(level*2+1) + 'rdfs:label "' + label + '" ;\n'
-                    if tulip[idx].link != {}:
-                        turtle += indent*(level*2+1) + 'tlp:link\n'
-                        for key, url in tulip[idx].link.items():
-                            turtle += indent*(level*2+2) + '[\n'
-                            if key[:5] == 'text:':
-                                if key.find('\n') != -1 or key.find('"') != -1:
-                                    turtle += indent*(level*2+3) + 'tlp:text """' + key[5:] + '""" ;\n'
-                                else:
-                                    turtle += indent*(level*2+3) + 'tlp:text "' + key[5:] + '" ;\n'
-                            elif key[:6] == 'image:':
-                                turtle += indent*(level*2+3) + 'tlp:image <' + key[6:] + '> ;\n'
-                            turtle += indent*(level*2+3) + 'tlp:url <' + url + '>\n'
-                            turtle += indent*(level*2+2) + '] ,\n'
-                        turtle = turtle[:-3] + ' ;\n'
-                    # nested list
-                    child_elem_pred_added = False
-                    for next in range(len(tulip[idx])):
-                        ### point of recursion
-                        turtle, level, child_elem_pred_added = _turtle_list_recursion(turtle, tulip[idx], 
-                                                        next, index_list, level, child_elem_pred_added)
-                    turtle = turtle[:-3] + '\n'
-                    turtle += indent*(level*2) + '] ,\n'
-                    level -= 1
-                return turtle, level, elem_pred_added
-                ### end of recursion
-            turtle, level, elem_pred_added = _turtle_list_recursion(turtle, tulip, i, '', level, elem_pred_added)
+            ### point of recursion
+            turtle, level, elem_pred_added = _turtle_list_recursion(turtle, tulip, i, index_list, level, elem_pred_added)
+        else:
+            pass            # TO DO: handle later
     turtle = turtle[:-3] + '\n'
     turtle += '.'
     return turtle
+
+def _turtle_list_recursion(turtle, tulip, idx, index_list, level=0, elem_pred_added=False):
+    indent = ' '*4
+    label = tulip[idx].label
+    if tulip[idx].member != [] or label != None:
+        level += 1
+        if not elem_pred_added:
+            if level != 1:        # if in recursion, not the first call
+                turtle += indent*(level*2-1) + 'rdf:type tlp:List ;\n'
+            turtle += indent*(level*2-1) + 'tlp:member\n'
+            elem_pred_added = True
+        turtle += indent*(level*2) + '[\n'
+        turtle += indent*(level*2+1) + 'tlp:index ' + str(idx+1) + ' ;\n'
+        index_list += ' ' + str(idx+1)
+        turtle += indent*(level*2+1) + 'tlp:indexList (' + index_list + ' 0 ) ;\n'
+        if level != 1:        # if in recursion, not the first call
+            turtle += indent*(level*2+1) + 'rdf:type tlp:Item ;\n'
+        if tulip[idx].style['Enumerate'] != None:
+            turtle += indent*(level*2+1) + 'tlp:style tlp:Enumerate ;\n'
+        if tulip[idx].dimension != None:
+            turtle += indent*(level*2+1) + 'tlp:dimension ' + str(tulip[idx].dimension) + ' ;\n'
+        if label != None:
+            if label.find('\n') != -1 or label.find('"') != -1:
+                turtle += indent*(level*2+1) + 'rdfs:label """' + label + '""" ;\n'
+            else:
+                turtle += indent*(level*2+1) + 'rdfs:label "' + label + '" ;\n'
+        if tulip[idx].link != {}:
+            turtle += indent*(level*2+1) + 'tlp:link\n'
+            for key, url in tulip[idx].link.items():
+                turtle += indent*(level*2+2) + '[\n'
+                if key[:5] == 'text:':
+                    if key.find('\n') != -1 or key.find('"') != -1:
+                        turtle += indent*(level*2+3) + 'tlp:text """' + key[5:] + '""" ;\n'
+                    else:
+                        turtle += indent*(level*2+3) + 'tlp:text "' + key[5:] + '" ;\n'
+                elif key[:6] == 'image:':
+                    turtle += indent*(level*2+3) + 'tlp:image <' + key[6:] + '> ;\n'
+                turtle += indent*(level*2+3) + 'tlp:url <' + url + '>\n'
+                turtle += indent*(level*2+2) + '] ,\n'
+            turtle = turtle[:-3] + ' ;\n'
+        # nested list
+        child_elem_pred_added = False
+        for next in range(len(tulip[idx])):
+            ### point of recursion
+            turtle, level, child_elem_pred_added = _turtle_list_recursion(turtle, tulip[idx], 
+                                            next, index_list, level, child_elem_pred_added)
+        turtle = turtle[:-3] + '\n'
+        turtle += indent*(level*2) + '] ,\n'
+        level -= 1
+    return turtle, level, elem_pred_added
 
 def add_elem(pre_file, post_file, format):
     """
@@ -549,7 +577,30 @@ def add_elem(pre_file, post_file, format):
         }''')
     g.serialize(destination=post_file, format=format)
 
-def parse_rdf(rdf_text, format):
+def ttl2nt(turtle_file, ntriples_file):
+    """
+    ttl2nt(str:Turtle filename, str:Ntriples filename)
+    """
+    print('Reserializing Turtle', turtle_file, 'to N-Triples', ntriples_file)
+    g = Graph()
+    g.parse(turtle_file, format='turtle')
+    g.serialize(destination=ntriples_file, format='ntriples')
+    # for testing purpose, re-serialize ntriples back to turtle
+    print('Test reserializing N-Triples', ntriples_file, 'back to Turtle', ntriples_file+'.ttl')
+    g = Graph()
+    g.parse(ntriples_file, format='ntriples')
+    g.serialize(destination=ntriples_file+'.ttl', format='turtle')
+
+"""
+ d8888b.  .d8b.  d8888b. .d8888. d88888b         d8888b. d8888b. d88888b 
+ 88  `8D d8' `8b 88  `8D 88'  YP 88'             88  `8D 88  `8D 88'     
+ 88oodD' 88ooo88 88oobY' `8bo.   88ooooo         88oobY' 88   88 88ooo   
+ 88~~~   88~~~88 88`8b     `Y8b. 88~~~~~         88`8b   88   88 88~~~   
+ 88      88   88 88 `88. db   8D 88.             88 `88. 88  .8D 88      
+ 88      YP   YP 88   YD `8888Y' Y88888P C88888D 88   YD Y8888D' YP      
+"""
+
+def parse_rdf(rdf_str, format):
     """
     parse_rdf(str:RDF text, str:RDF serialization format)
     return Tulip:tulip
@@ -558,7 +609,7 @@ def parse_rdf(rdf_text, format):
     tlp_prefix = 'http://purl.org/tulip/ns#'
     tlp     = Namespace(tlp_prefix)
     G = Graph()
-    G.parse(data=rdf_text, format=format)
+    G.parse(data=rdf_str, format=format)
     # find dimension
     len_dict = dict()
     for s,p,o in G:
@@ -694,6 +745,20 @@ def parse_rdf(rdf_text, format):
                 _set_prop(tulip, G, s)
     return tulip
 
+def tulip2json(tulip):
+    return json.dumps(recur_dict(tulip), ensure_ascii=False)
+def json2tulip(json_str):
+    return TulipJS(json.loads(json_str))
+
+"""
+  d888b  d88888b d8b   db         db   db d888888b .88b  d88. db      
+ 88' Y8b 88'     888o  88         88   88 `~~88~~' 88'YbdP`88 88      
+ 88      88ooooo 88V8o 88         88ooo88    88    88  88  88 88      
+ 88  ooo 88~~~~~ 88 V8o88         88~~~88    88    88  88  88 88      
+ 88. ~8~ 88.     88  V888         88   88    88    88  88  88 88booo. 
+  Y888P  Y88888P VP   V8P C88888D YP   YP    YP    YP  YP  YP Y88888P 
+"""
+
 def gen_html(tulip):
     """
     gen_html(Tulip:tulip)
@@ -702,148 +767,172 @@ def gen_html(tulip):
     print('Generating HTML')
     html = '''<!DOCTYPE html>
 <html>
-    <head>
-        <title>'''
+  <head>
+    <title>'''
     if tulip.label != None:
         html += tulip.label
     html += '''</title>
-    </head>
-    <body style="font-family: sans-serif">
+  </head>
+  <body style="font-family: sans-serif">
 '''
-    indent = ' '*4
+    indent = str_repeat(' ', 2)
     level = 1
     for tulip_grp in tulip:
         if tulip_grp.type['Table']:
             level += 1
-            html += indent*level + '<table border="1" style="border-collapse: collapse">\n'
-            if tulip_grp.label != None:
-                html += indent*(level+1) + '<caption>' + tulip_grp.label.replace('\n','<br />') + '</caption>\n'
-            # tulip.local prepared loop
-            for col in range(len(tulip_grp)):
-                row_span = None
-                for row in range(len(tulip_grp[col])):
-                    if row_span == None:
-                        show_row = row
-                        row_span = 0
-                    row_span += 1
-                    try:
-                        tulip_grp[col][row].local['Hidden'] = True
-                    except IndexError:
-                        pass
-                    #### 'last cell of span' conditions
-                    try:
-                        # Check that this is not RowSpanned cell and 
-                        # it is not the last row (cell) of column
-                        # (which not need to be equal with other column)
-                        if (tulip_grp[col][row].style['RowSpanned'] == None or
-                                              len(tulip_grp[col])-1 == row):
-                            tulip_grp[col][show_row].local['RowSpan'] = row_span
-                            tulip_grp[col][show_row].local['Hidden'] = None
-                            row_span = None
-                        # Check that this label is different from next row (cell)
-                        # This condition have to separated check, even same consequence as above 
-                        # (because [row+1] could produce error, which will be filtered out by above)
-                        elif (tulip_grp[col][row].style['RowSpanned'] and 
-                              tulip_grp[col][row].label != tulip_grp[col][row+1].label):
-                            tulip_grp[col][show_row].local['RowSpan'] = row_span
-                            tulip_grp[col][show_row].local['Hidden'] = None
-                            row_span = None
-                    except IndexError:
-                        pass
-            # HTML generated loop
-            for row in range(len(tulip_grp[0])):
-                level += 1
-                html += indent*level + '<tr>\n'
-                row_span = 0
-                col_span = 0
-                for col in range(len(tulip_grp)):
-                    try:
-                        if tulip_grp[col][row].local['Hidden']:
-                            continue
-                    except IndexError:
-                        pass
-                    try:
-                        if tulip_grp[col][row].local['RowSpan'] != None:
-                            row_span = tulip_grp[col][row].local['RowSpan']
-                    except IndexError:
-                        pass
-                    try:
-                        if tulip_grp[col][row].style['ColSpanned']:
-                            col_span += 1
-                            if (tulip_grp[col+1][row].style['ColSpanned'] and
-                                tulip_grp[col+1][row].label == tulip_grp[col][row].label):
-                                continue
-                    except IndexError:
-                        pass
-                    level += 1
-                    try:
-                        if row_span > 1:
-                            html += indent*level + ('<th rowspan="' + str(row_span) + '">\n' 
-                                                    if tulip_grp[col][row].style['Identified'] 
-                                                    else '<td rowspan="' + str(row_span) + '">\n')
-                        elif col_span > 1:
-                            html += indent*level + ('<th colspan="' + str(col_span) + '">\n' 
-                                                    if tulip_grp[col][row].style['Identified'] 
-                                                    else '<td colspan="' + str(col_span) + '">\n')
-                        else:
-                            html += indent*level + ('<th>\n' 
-                                                    if tulip_grp[col][row].style['Identified'] 
-                                                    else '<td>\n')
-                    except IndexError:
-                        html += indent*level + '<td>\n'
-                    level += 1
-                    # try first, except in case of irregular table (eg. rfc1942 example)
-                    try:
-                        if tulip_grp[col][row].label != None:
-                            linked_text = tulip_grp[col][row].label
-                        else:
-                            linked_text = ''
-                        for key, url in tulip_grp[col][row].link.items():
-                            if key[:5] == 'text:':
-                                linked_text = linked_text.replace(key[5:], '<a href="' + url + '">' + key[5:] + '</a>')
-                            elif key[:6] == 'image:':
-                                linked_text += '<a href="' + url + '"><img src="' + key[6:] + '"></a>'
-                        if linked_text != '':
-                            html += indent*level + linked_text.replace('\n','<br />') + '\n'
-                        ### point of recursion
-                        html += _html_list_recursion(tulip_grp[col][row], level)
-                    except IndexError:
-                        pass
-                    level -= 1
-                    try:
-                        html += indent*level + ('</th>\n' 
-                                                if tulip_grp[col][row].style['Identified'] 
-                                                else '</td>\n')
-                    except IndexError:
-                        html += indent*level + '</td>\n'
-                    level -= 1
-                    col_span = 0
-                html += indent*level + '</tr>\n'
-                level -= 1
-            html += indent*level + '</table>\n'
+            html += _html_table_recursion(tulip_grp, level)
             level -= 1
         if tulip_grp.type['List']:
             level += 1        # caution: leave increment here, do not move into recursion
             html += _html_list_recursion(tulip_grp, level)
             level -= 1        # caution: leave decrement here, do not move into recursion
-    html += indent*level + '</body>\n'
+    html += str_repeat(indent, level) + '</body>\n'
     html += '</html>'
     return html
 
-def _html_list_recursion(tulip, level):
-    indent = ' '*4
+def str_repeat(str, n):
+    """Repeat string for n times 
+    (workaround for Python string multiplication not yet support in Transcrypt
+    to avoid using JavaScript str.repeat() to keep Python source compatible)
+    
+    Arguments:
+        str {string} -- string to repeat
+        n {int} -- number of repeat
+    """
+    repeat = ''
+    for _ in range(n): repeat += str
+    return repeat
+
+def _html_table_recursion(tulip, level):
+    indent = str_repeat(' ', 2)
     html = ''
-    # temporary use H4 for adding root list label
-    if level == 1 and tulip.label != None:          # if the first call, not in recursion
-        html += indent*level + '<h4>' + tulip.label.replace('\n','<br />') + '</h4>\n'
+    html += str_repeat(indent, level) + '<table border="1" style="border-collapse: collapse">\n'
+    if tulip.label != None:
+        html += str_repeat(indent, level+1) + '<caption><strong>' + tulip.label.replace('\n','<br />') + '</strong></caption>\n'
+    ##### tulip.local prepared loop
+    # collect max_row for irregular table of list-converted table
+    max_row = 0
+    for col in range(len(tulip)):
+        row_span = None
+        row_len = len(tulip.member[col])
+        if row_len > max_row: max_row = row_len
+        for row in range(row_len):
+            if row_span == None:
+                show_row = row
+                row_span = 0
+            row_span += 1
+            try:
+                tulip[col][row].local['LineSkip'] = True
+            except IndexError:
+                pass
+            #### 'last cell of span' conditions
+            try:
+                # Check that this is not LineSpan cell and 
+                # it is not the last row (cell) of column
+                # (which not need to be equal with other column)
+                if (tulip[col][row].style['LineSpan'] == None or
+                                        len(tulip[col])-1 == row):
+                    tulip[col][show_row].local['LineSpan'] = row_span
+                    tulip[col][show_row].local['LineSkip'] = None
+                    row_span = None
+                # Check that this label is different from next row (cell)
+                # This condition have to separated check, even same consequence as above 
+                # (because [row+1] could produce error, which will be filtered out by above)
+                elif (tulip[col][row].style['LineSpan'] and 
+                        tulip[col][row].label != tulip[col][row+1].label):
+                    tulip[col][show_row].local['LineSpan'] = row_span
+                    tulip[col][show_row].local['LineSkip'] = None
+                    row_span = None
+            except IndexError:
+                pass
+    ##### HTML generated loop
+    # use max_row for irregular table or from list-converted table
+    for row in range(max_row):
+        level += 1
+        html += str_repeat(indent, level) + '<tr>\n'
+        row_span = 0
+        col_span = 0
+        for col in range(len(tulip)):
+            try:
+                if tulip[col][row].local['LineSkip']:
+                    continue
+            except IndexError:
+                pass
+            try:
+                if tulip[col][row].local['LineSpan'] != None:
+                    row_span = tulip[col][row].local['LineSpan']
+            except IndexError:
+                pass
+            try:
+                if tulip[col][row].style['GrpSpan']:
+                    col_span += 1
+                    if (tulip[col+1][row].style['GrpSpan'] and
+                        tulip[col+1][row].label == tulip[col][row].label):
+                        continue
+            except IndexError:
+                pass
+            level += 1
+            try:
+                if row_span > 1:
+                    html += str_repeat(indent, level) + ('<th rowspan="' + str(row_span) + '">\n' 
+                                            if tulip[col][row].style['Emphasize'] 
+                                            else '<td rowspan="' + str(row_span) + '">\n')
+                elif col_span > 1:
+                    html += str_repeat(indent, level) + ('<th colspan="' + str(col_span) + '">\n' 
+                                            if tulip[col][row].style['Emphasize'] 
+                                            else '<td colspan="' + str(col_span) + '">\n')
+                else:
+                    html += str_repeat(indent, level) + ('<th>\n' 
+                                            if tulip[col][row].style['Emphasize'] 
+                                            else '<td>\n')
+            except IndexError:
+                html += str_repeat(indent, level) + '<td>\n'
+            level += 1
+            # try first, except in case of irregular table (eg. rfc1942 example)
+            try:
+                if tulip[col][row].label != None:
+                    linked_text = tulip[col][row].label
+                else:
+                    linked_text = ''
+                for key, url in tulip[col][row].link.items():
+                    if key[:5] == 'text:':
+                        linked_text = linked_text.replace(key[5:], '<a href="' + url + '">' + key[5:] + '</a>')
+                    elif key[:6] == 'image:':
+                        linked_text += '<a href="' + url + '"><img src="' + key[6:] + '"></a>'
+                if linked_text != '':
+                    html += str_repeat(indent, level) + linked_text.replace('\n','<br />') + '\n'
+                ### point of recursion
+                html += _html_list_recursion(tulip[col][row], level)
+            except IndexError:
+                pass
+            level -= 1
+            try:
+                html += str_repeat(indent, level) + ('</th>\n' 
+                                        if tulip[col][row].style['Emphasize'] 
+                                        else '</td>\n')
+            except IndexError:
+                html += str_repeat(indent, level) + '</td>\n'
+            level -= 1
+            col_span = 0
+        html += str_repeat(indent, level) + '</tr>\n'
+        level -= 1
+    html += str_repeat(indent, level) + '</table>\n'
+    return html
+
+def _html_list_recursion(tulip, level):
+    indent = str_repeat(' ', 2)
+    html = ''
+    # temporary use <strong> for adding root list label
+    if level == 2 and tulip.label != None:          # if the first call, not in recursion
+        html += str_repeat(indent, level) + '<strong>' + tulip.label.replace('\n','<br />') + '</strong>\n'
     header_added = False
-    list_tag = 'ol' if tulip.style['Enumerated'] else 'ul'
+    list_tag = 'ol' if tulip.style['Enumerate'] else 'ul'
     for i,node in enumerate(tulip):
         if not header_added:
-            html += indent*level + '<' + list_tag + '>\n'
+            html += str_repeat(indent, level) + '<' + list_tag + '>\n'
             level += 1
             header_added = True
-        html += indent*level + '<li>\n'
+        html += str_repeat(indent, level) + '<li>\n'
         level += 1
         if node.label != None:
             linked_text = node.label
@@ -855,14 +944,16 @@ def _html_list_recursion(tulip, level):
             elif key[:6] == 'image:':
                 linked_text += '<a href="' + url + '"><img src="' + key[6:] + '"></a>'
         if linked_text != '':
-            html += indent*level + linked_text.replace('\n','<br />') + '\n'
+            html += str_repeat(indent, level) + ('<strong>' + linked_text.replace('\n','<br />') + '</strong>'
+                                                 if node.style['Emphasize']
+                                                 else linked_text.replace('\n','<br />')) + '\n'
         ### point of recursion
         html += _html_list_recursion(tulip[i], level)
         level -= 1
-        html += indent*level + '</li>\n'
+        html += str_repeat(indent, level) + '</li>\n'
     if header_added:
         level -= 1
-        html += indent*level + '</' + list_tag + '>\n'
+        html += str_repeat(indent, level) + '</' + list_tag + '>\n'
     return html
 
 def dump_tulip(tulip, position=[], level=0):
@@ -921,6 +1012,11 @@ def main():
                       add_elem(str:pre_filename, str:post_filename, str:RDF_format)
         str:HTML    = gen_html(Tulip:TULIP)
         str:text    = dump_tulip(Tulip:TULIP)
+                      ttl2nt(str:Turtle_filename, str:NTriples_filename)
+        dict:tulip  = recur_dict(Tulip:tulip)
+        str:JSON    = tulip2json(Tulip:tulip)
+        Tulip:tulip = TulipJS(dict:tulip)
+        Tulip:tulip = json2tulip(str:JSON)
     ### HTML file -> TULIP Turtle file
         write_file(gen_turtle(parse_html(read_file(str:HTML_filename))), str:Turtle_filename)
     ### Wikipedia article name -> TULIP Turtle file
@@ -930,22 +1026,73 @@ def main():
     ### TULIP RDF file -> TULIP Turtle file, for testing
         write_file(gen_turtle(parse_rdf(read_file(str:RDF_filename),RDF_format)), str:Turtle_filename)
     """
-    # test article
-    test_article      = 'Chulalongkorn University'
-    print('='*70)
+    from_file = True   # for dataset consume testing: 'True'=from file or 'False'=from web
+    tlpedia_prefix = 'http://tlpedia.org/resource/'
+    ########## test table
+    print(str_repeat('=', 40), 'create dataset')
+    html = read_file('rfc1942_table.html')
+    tulip = parse_html(html)
+    turtle = gen_turtle(tulip)
+    write_file(turtle, 'rfc1942_table.pre.ttl')
+    add_elem('rfc1942_table.pre.ttl', 'rfc1942_table.ttl', 'turtle')
+    ttl2nt('rfc1942_table.ttl','rfc1942_table.nt')  # for checking
+    dump = dump_tulip(tulip)
+    write_file(dump, 'rfc1942_table.txt')
+    print(str_repeat('-', 40), 'consume dataset')
+    rdf_str = read_file('rfc1942_table.ttl') if from_file else read_url(tlpedia_prefix + 'rfc1942_table.ttl')
+    tulip_obj = parse_rdf(rdf_str,'turtle')
+    tulip_json = tulip2json(tulip_obj)
+    write_file(tulip_json, 'rfc1942_table.json')
+    tulip_json2 = read_file('rfc1942_table.json') if from_file else read_url(tlpedia_prefix + 'rfc1942_table.json')
+    tulip_obj2 = json2tulip(tulip_json2)
+    html = gen_html(tulip_obj2)
+    write_file(html, 'rfc1942_table.ttl.html')
+    dump = dump_tulip(tulip_obj2)
+    write_file(dump, 'rfc1942_table.ttl.txt')
+    ########## test list
+    print(str_repeat('=', 40), 'create dataset')
+    write_file(gen_turtle(parse_html(read_file('rfc1866_list.html'))), 'rfc1866_list.pre.ttl')
+    write_file(dump_tulip(parse_html(read_file('rfc1866_list.html'))), 'rfc1866_list.txt')
+    add_elem('rfc1866_list.pre.ttl','rfc1866_list.ttl', 'turtle')
+    ttl2nt('rfc1866_list.ttl','rfc1866_list.nt')  # for checking
+    print(str_repeat('-', 40), 'consume dataset')
+    if from_file:
+        write_file(tulip2json(parse_rdf(read_file('rfc1866_list.ttl'),'turtle')), 'rfc1866_list.json')
+        write_file(gen_html(json2tulip(read_file('rfc1866_list.json'))), 'rfc1866_list.ttl.html')
+        write_file(dump_tulip(json2tulip(tulip2json(parse_rdf(read_file('rfc1866_list.ttl'),'turtle')))), 'rfc1866_list.ttl.txt')
+    else:
+        write_file(tulip2json(parse_rdf(read_url(tlpedia_prefix+'rfc1866_list.ttl'),'turtle')), 'rfc1866_list.json')
+        write_file(gen_html(json2tulip(read_url(tlpedia_prefix+'rfc1866_list.json'))), 'rfc1866_list.ttl.html')
+        write_file(dump_tulip(json2tulip(tulip2json(parse_rdf(read_url(tlpedia_prefix+'rfc1866_list.ttl'),'turtle')))), 'rfc1866_list.ttl.txt')
+    ########## test article
+    test_article    = 'List of C-family programming languages'
+    test_article    = 'Comparison of the AK-47 and M16'
+    test_article    = 'User:Julthep'
+    test_article    = 'Chulalongkorn University'
+    test_article    = 'Product life-cycle management (marketing)'
+    test_article    = 'Saturn Award for Best Science Fiction Film'
+    test_article    = 'Simulated reality in fiction'
+    print(str_repeat('=', 40), 'create dataset')
     tulip = parse_article(test_article)
     turtle = gen_turtle(tulip)
-    write_file(turtle, test_article.replace(' ','_')+'.pre.ttl')
-    add_elem(test_article.replace(' ','_')+'.pre.ttl',test_article.replace(' ','_')+'.ttl', 'turtle')
+    write_file(turtle, test_article.replace(' ','_').replace(':','_')+'.pre.ttl')
+    add_elem(test_article.replace(' ','_').replace(':','_')+'.pre.ttl',test_article.replace(' ','_').replace(':','_')+'.ttl', 'turtle')
+    ttl2nt(test_article.replace(' ','_').replace(':','_')+'.ttl',test_article.replace(' ','_').replace(':','_')+'.nt') # for checking
     dump = dump_tulip(tulip)
-    write_file(dump, test_article.replace(' ','_')+'.txt')
-    print('-'*70)
-    rdf_text = read_file(test_article.replace(' ','_')+'.ttl')
-    tulip_rdf = parse_rdf(rdf_text, 'turtle')
-    html = gen_html(tulip_rdf)
-    write_file(html, test_article.replace(' ','_')+'.ttl.html')
-    dump = dump_tulip(tulip_rdf)
-    write_file(dump, test_article.replace(' ','_')+'.ttl.txt')
+    write_file(dump, test_article.replace(' ','_').replace(':','_')+'.txt')
+    print(str_repeat('-', 40), 'consume dataset')
+    rdf_str = (read_file(test_article.replace(' ','_').replace(':','_')+'.ttl') if from_file else 
+               read_url(tlpedia_prefix+test_article.replace(' ','_').replace(':','_')+'.ttl'))
+    tulip_obj = parse_rdf(rdf_str, 'turtle')
+    tulip_json = tulip2json(tulip_obj)
+    write_file(tulip_json, test_article.replace(' ','_').replace(':','_')+'.json')
+    tulip_json2 = (read_file(test_article.replace(' ','_').replace(':','_')+'.json') if from_file else 
+                   read_url(tlpedia_prefix+test_article.replace(' ','_').replace(':','_')+'.json'))
+    tulip_obj2 = json2tulip(tulip_json2)
+    html_str = gen_html(tulip_obj2)
+    write_file(html_str, test_article.replace(' ','_').replace(':','_')+'.ttl.html')
+    dump_str = dump_tulip(tulip_obj2)
+    write_file(dump_str, test_article.replace(' ','_').replace(':','_')+'.ttl.txt')
 
 if __name__ == '__main__':
     main()
