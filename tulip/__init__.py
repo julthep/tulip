@@ -4,7 +4,7 @@
 """
 
 __author__ = "Julthep Nandakwang"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __license__ = "LGPL-3.0"
 
 import requests
