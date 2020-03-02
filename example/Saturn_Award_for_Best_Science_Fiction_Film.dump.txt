@@ -1,0 +1,2406 @@
+[] Type: Page
+│  Label: Saturn Award for Best Science Fiction Film
+└─ Number of Member: 13
+    [0] Type: Table
+    │   Label: Saturn Award for Best Science Fiction Film
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 7
+            [0, 0, 0] Type: Cell
+            │         Label: Saturn Award for
+Best Science Fiction Film
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 1] Type: Cell
+            │         Label: Awarded for
+            └──────── Style: Emphasize
+            [0, 0, 2] Type: Cell
+            │         Label: Country
+            └──────── Style: Emphasize
+            [0, 0, 3] Type: Cell
+            │         Label: Presented by
+            └──────── Style: Emphasize
+            [0, 0, 4] Type: Cell
+            │         Label: First awarded
+            └──────── Style: Emphasize
+            [0, 0, 5] Type: Cell
+            │         Label: Currently held by
+            └──────── Style: Emphasize
+            [0, 0, 6] Type: Cell
+            │         Label: Website
+            └──────── Style: Emphasize
+        [0, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 7
+            [0, 1, 0] Type: Cell
+            │         Label: Saturn Award for
+Best Science Fiction Film
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 1] Type: Cell
+            │         Label: Best motion picture of the year in the science fiction genre
+            └──────── Link: {'text:science fiction genre': 'http://en.wikipedia.org/wiki/Science_fiction_film'}
+            [0, 1, 2] Type: Cell
+            │         Label: United States
+            └──────── Link: {'text:United States': 'http://en.wikipedia.org/wiki/United_States'}
+            [0, 1, 3] Type: Cell
+            └──────── Label: Academy of Science Fiction, Fantasy and Horror Films
+            [0, 1, 4] Type: Cell
+            │         Label: 1972
+            └──────── Link: {'text:1972': 'http://en.wikipedia.org/wiki/1st_Saturn_Awards'}
+            [0, 1, 5] Type: Cell
+            │         Label: Ready Player One (2019)
+            └──────── Link: {'text:Ready Player One': 'http://en.wikipedia.org/wiki/Ready_Player_One_(film)', 'text:2019': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [0, 1, 6] Type: Cell
+            │         Label: saturnawards.org
+            └──────── Link: {'text:saturnawards.org': 'http://saturnawards.org'}
+    [1] Type: List
+    │   Label: Contents
+    │   Dimension: 2
+    └── Number of Member: 3
+        [1, 0] Type: Item, List
+        │      Label: Winners and nominees
+        │      Link: {'text:Winners and nominees': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#Winners_and_nominees'}
+        └───── Number of Member: 5
+            [1, 0, 0] Type: Item
+            │         Label: 1970s
+            └──────── Link: {'text:1970s': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#1970s'}
+            [1, 0, 1] Type: Item
+            │         Label: 1980s
+            └──────── Link: {'text:1980s': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#1980s'}
+            [1, 0, 2] Type: Item
+            │         Label: 1990s
+            └──────── Link: {'text:1990s': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#1990s'}
+            [1, 0, 3] Type: Item
+            │         Label: 2000s
+            └──────── Link: {'text:2000s': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#2000s'}
+            [1, 0, 4] Type: Item
+            │         Label: 2010s
+            └──────── Link: {'text:2010s': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#2010s'}
+        [1, 1] Type: Item
+        │      Label: See also
+        └───── Link: {'text:See also': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#See_also'}
+        [1, 2] Type: Item
+        │      Label: External links
+        └───── Link: {'text:External links': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film#External_links'}
+    [2] Type: Table
+    │   Label: 1970s
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [2, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 35
+            [2, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [2, 0, 1] Type: Cell
+            │         Label: 1972
+(1st)
+            └──────── Link: {'text:1st': 'http://en.wikipedia.org/wiki/1st_Saturn_Awards'}
+            [2, 0, 2] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 3] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 4] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 5] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 6] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 7] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 8] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 9] Type: Cell
+            │         Label: 1973
+(2nd)
+            │         Style: LineSpan
+            └──────── Link: {'text:2nd': 'http://en.wikipedia.org/wiki/2nd_Saturn_Awards'}
+            [2, 0, 10] Type: Cell
+            │          Label: 1974/1975
+(3rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:3rd': 'http://en.wikipedia.org/wiki/3rd_Saturn_Awards'}
+            [2, 0, 11] Type: Cell
+            │          Label: 1974/1975
+(3rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:3rd': 'http://en.wikipedia.org/wiki/3rd_Saturn_Awards'}
+            [2, 0, 12] Type: Cell
+            │          Label: 1974/1975
+(3rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:3rd': 'http://en.wikipedia.org/wiki/3rd_Saturn_Awards'}
+            [2, 0, 13] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 14] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 15] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 16] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 17] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 18] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 19] Type: Cell
+            │          Label: 1976
+(4th)
+            │          Style: LineSpan
+            └───────── Link: {'text:4th': 'http://en.wikipedia.org/wiki/4th_Saturn_Awards'}
+            [2, 0, 20] Type: Cell
+            │          Label: 1977
+(5th)
+            │          Style: LineSpan
+            └───────── Link: {'text:5th': 'http://en.wikipedia.org/wiki/5th_Saturn_Awards'}
+            [2, 0, 21] Type: Cell
+            │          Label: 1977
+(5th)
+            │          Style: LineSpan
+            └───────── Link: {'text:5th': 'http://en.wikipedia.org/wiki/5th_Saturn_Awards'}
+            [2, 0, 22] Type: Cell
+            │          Label: 1977
+(5th)
+            │          Style: LineSpan
+            └───────── Link: {'text:5th': 'http://en.wikipedia.org/wiki/5th_Saturn_Awards'}
+            [2, 0, 23] Type: Cell
+            │          Label: 1977
+(5th)
+            │          Style: LineSpan
+            └───────── Link: {'text:5th': 'http://en.wikipedia.org/wiki/5th_Saturn_Awards'}
+            [2, 0, 24] Type: Cell
+            │          Label: 1977
+(5th)
+            │          Style: LineSpan
+            └───────── Link: {'text:5th': 'http://en.wikipedia.org/wiki/5th_Saturn_Awards'}
+            [2, 0, 25] Type: Cell
+            │          Label: 1978
+(6th)
+            │          Style: LineSpan
+            └───────── Link: {'text:6th': 'http://en.wikipedia.org/wiki/6th_Saturn_Awards'}
+            [2, 0, 26] Type: Cell
+            │          Label: 1978
+(6th)
+            │          Style: LineSpan
+            └───────── Link: {'text:6th': 'http://en.wikipedia.org/wiki/6th_Saturn_Awards'}
+            [2, 0, 27] Type: Cell
+            │          Label: 1978
+(6th)
+            │          Style: LineSpan
+            └───────── Link: {'text:6th': 'http://en.wikipedia.org/wiki/6th_Saturn_Awards'}
+            [2, 0, 28] Type: Cell
+            │          Label: 1978
+(6th)
+            │          Style: LineSpan
+            └───────── Link: {'text:6th': 'http://en.wikipedia.org/wiki/6th_Saturn_Awards'}
+            [2, 0, 29] Type: Cell
+            │          Label: 1978
+(6th)
+            │          Style: LineSpan
+            └───────── Link: {'text:6th': 'http://en.wikipedia.org/wiki/6th_Saturn_Awards'}
+            [2, 0, 30] Type: Cell
+            │          Label: 1979
+(7th)
+            │          Style: LineSpan
+            └───────── Link: {'text:7th': 'http://en.wikipedia.org/wiki/7th_Saturn_Awards'}
+            [2, 0, 31] Type: Cell
+            │          Label: 1979
+(7th)
+            │          Style: LineSpan
+            └───────── Link: {'text:7th': 'http://en.wikipedia.org/wiki/7th_Saturn_Awards'}
+            [2, 0, 32] Type: Cell
+            │          Label: 1979
+(7th)
+            │          Style: LineSpan
+            └───────── Link: {'text:7th': 'http://en.wikipedia.org/wiki/7th_Saturn_Awards'}
+            [2, 0, 33] Type: Cell
+            │          Label: 1979
+(7th)
+            │          Style: LineSpan
+            └───────── Link: {'text:7th': 'http://en.wikipedia.org/wiki/7th_Saturn_Awards'}
+            [2, 0, 34] Type: Cell
+            │          Label: 1979
+(7th)
+            │          Style: LineSpan
+            └───────── Link: {'text:7th': 'http://en.wikipedia.org/wiki/7th_Saturn_Awards'}
+        [2, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 35
+            [2, 1, 0] Type: Cell
+            │         Label: Film
+            └──────── Style: Emphasize
+            [2, 1, 1] Type: Cell
+            │         Label: Slaughterhouse-Five
+            └──────── Link: {'text:Slaughterhouse-Five': 'http://en.wikipedia.org/wiki/Slaughterhouse-Five_(film)'}
+            [2, 1, 2] Type: Cell
+            │         Label: Soylent Green
+            └──────── Link: {'text:Soylent Green': 'http://en.wikipedia.org/wiki/Soylent_Green'}
+            [2, 1, 3] Type: Cell
+            │         Label: Battle for the Planet of the Apes
+            └──────── Link: {'text:Battle for the Planet of the Apes': 'http://en.wikipedia.org/wiki/Battle_for_the_Planet_of_the_Apes'}
+            [2, 1, 4] Type: Cell
+            │         Label: Beware! The Blob
+            └──────── Link: {'text:Beware! The Blob': 'http://en.wikipedia.org/wiki/Beware!_The_Blob'}
+            [2, 1, 5] Type: Cell
+            │         Label: The Day of the Dolphin
+            └──────── Link: {'text:The Day of the Dolphin': 'http://en.wikipedia.org/wiki/The_Day_of_the_Dolphin'}
+            [2, 1, 6] Type: Cell
+            │         Label: The Neptune Factor
+            └──────── Link: {'text:The Neptune Factor': 'http://en.wikipedia.org/wiki/The_Neptune_Factor'}
+            [2, 1, 7] Type: Cell
+            │         Label: Sleeper
+            └──────── Link: {'text:Sleeper': 'http://en.wikipedia.org/wiki/Sleeper_(1973_film)'}
+            [2, 1, 8] Type: Cell
+            │         Label: Sssssss
+            └──────── Link: {'text:Sssssss': 'http://en.wikipedia.org/wiki/Sssssss'}
+            [2, 1, 9] Type: Cell
+            │         Label: Westworld
+            └──────── Link: {'text:Westworld': 'http://en.wikipedia.org/wiki/Westworld_(film)'}
+            [2, 1, 10] Type: Cell
+            │          Label: Rollerball
+            └───────── Link: {'text:Rollerball': 'http://en.wikipedia.org/wiki/Rollerball_(1975_film)'}
+            [2, 1, 11] Type: Cell
+            │          Label: A Boy and His Dog
+            └───────── Link: {'text:A Boy and His Dog': 'http://en.wikipedia.org/wiki/A_Boy_and_His_Dog_(1975_film)'}
+            [2, 1, 12] Type: Cell
+            │          Label: The Stepford Wives
+            └───────── Link: {'text:The Stepford Wives': 'http://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)'}
+            [2, 1, 13] Type: Cell
+            │          Label: Logan's Run
+            └───────── Link: {"text:Logan's Run": 'http://en.wikipedia.org/wiki/Logan%27s_Run_(film)'}
+            [2, 1, 14] Type: Cell
+            │          Label: Embryo
+            └───────── Link: {'text:Embryo': 'http://en.wikipedia.org/wiki/Embryo_(1976_film)'}
+            [2, 1, 15] Type: Cell
+            │          Label: Futureworld
+            └───────── Link: {'text:Futureworld': 'http://en.wikipedia.org/wiki/Futureworld'}
+            [2, 1, 16] Type: Cell
+            │          Label: God Told Me To
+            └───────── Link: {'text:God Told Me To': 'http://en.wikipedia.org/wiki/God_Told_Me_To'}
+            [2, 1, 17] Type: Cell
+            │          Label: The Man Who Fell to Earth
+            └───────── Link: {'text:The Man Who Fell to Earth': 'http://en.wikipedia.org/wiki/The_Man_Who_Fell_to_Earth_(film)'}
+            [2, 1, 18] Type: Cell
+            │          Label: Network
+            └───────── Link: {'text:Network': 'http://en.wikipedia.org/wiki/Network_(1976_film)'}
+            [2, 1, 19] Type: Cell
+            │          Label: Solaris (Солярис)
+            └───────── Link: {'text:Solaris': 'http://en.wikipedia.org/wiki/Solaris_(1972_film)'}
+            [2, 1, 20] Type: Cell
+            │          Label: Star Wars
+            └───────── Link: {'text:Star Wars': 'http://en.wikipedia.org/wiki/Star_Wars_(film)'}
+            [2, 1, 21] Type: Cell
+            │          Label: Close Encounters of the Third Kind
+            └───────── Link: {'text:Close Encounters of the Third Kind': 'http://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind'}
+            [2, 1, 22] Type: Cell
+            │          Label: Demon Seed
+            └───────── Link: {'text:Demon Seed': 'http://en.wikipedia.org/wiki/Demon_Seed'}
+            [2, 1, 23] Type: Cell
+            │          Label: The Island of Dr. Moreau
+            └───────── Link: {'text:The Island of Dr. Moreau': 'http://en.wikipedia.org/wiki/The_Island_of_Dr._Moreau_(1977_film)'}
+            [2, 1, 24] Type: Cell
+            │          Label: Twilight's Last Gleaming
+            └───────── Link: {"text:Twilight's Last Gleaming": 'http://en.wikipedia.org/wiki/Twilight%27s_Last_Gleaming'}
+            [2, 1, 25] Type: Cell
+            │          Label: Superman
+            └───────── Link: {'text:Superman': 'http://en.wikipedia.org/wiki/Superman_(1978_film)'}
+            [2, 1, 26] Type: Cell
+            │          Label: The Boys from Brazil
+            └───────── Link: {'text:The Boys from Brazil': 'http://en.wikipedia.org/wiki/The_Boys_from_Brazil_(film)'}
+            [2, 1, 27] Type: Cell
+            │          Label: Capricorn One
+            └───────── Link: {'text:Capricorn One': 'http://en.wikipedia.org/wiki/Capricorn_One'}
+            [2, 1, 28] Type: Cell
+            │          Label: The Cat from Outer Space
+            └───────── Link: {'text:The Cat from Outer Space': 'http://en.wikipedia.org/wiki/The_Cat_from_Outer_Space'}
+            [2, 1, 29] Type: Cell
+            │          Label: Invasion of the Body Snatchers
+            └───────── Link: {'text:Invasion of the Body Snatchers': 'http://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers_(1978_film)'}
+            [2, 1, 30] Type: Cell
+            │          Label: Alien
+            └───────── Link: {'text:Alien': 'http://en.wikipedia.org/wiki/Alien_(film)'}
+            [2, 1, 31] Type: Cell
+            │          Label: The Black Hole
+            └───────── Link: {'text:The Black Hole': 'http://en.wikipedia.org/wiki/The_Black_Hole'}
+            [2, 1, 32] Type: Cell
+            │          Label: Moonraker
+            └───────── Link: {'text:Moonraker': 'http://en.wikipedia.org/wiki/Moonraker_(film)'}
+            [2, 1, 33] Type: Cell
+            │          Label: Star Trek: The Motion Picture
+            └───────── Link: {'text:Star Trek: The Motion Picture': 'http://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture'}
+            [2, 1, 34] Type: Cell
+            │          Label: Time After Time
+            └───────── Link: {'text:Time After Time': 'http://en.wikipedia.org/wiki/Time_After_Time_(1979_film)'}
+    [3] Type: Table
+    │   Label: 1980s
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [3, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 57
+            [3, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [3, 0, 1] Type: Cell
+            │         Label: 1980
+(8th)
+            │         Style: LineSpan
+            └──────── Link: {'text:8th': 'http://en.wikipedia.org/wiki/8th_Saturn_Awards'}
+            [3, 0, 2] Type: Cell
+            │         Label: 1980
+(8th)
+            │         Style: LineSpan
+            └──────── Link: {'text:8th': 'http://en.wikipedia.org/wiki/8th_Saturn_Awards'}
+            [3, 0, 3] Type: Cell
+            │         Label: 1980
+(8th)
+            │         Style: LineSpan
+            └──────── Link: {'text:8th': 'http://en.wikipedia.org/wiki/8th_Saturn_Awards'}
+            [3, 0, 4] Type: Cell
+            │         Label: 1980
+(8th)
+            │         Style: LineSpan
+            └──────── Link: {'text:8th': 'http://en.wikipedia.org/wiki/8th_Saturn_Awards'}
+            [3, 0, 5] Type: Cell
+            │         Label: 1980
+(8th)
+            │         Style: LineSpan
+            └──────── Link: {'text:8th': 'http://en.wikipedia.org/wiki/8th_Saturn_Awards'}
+            [3, 0, 6] Type: Cell
+            │         Label: 1981
+(9th)
+            │         Style: LineSpan
+            └──────── Link: {'text:9th': 'http://en.wikipedia.org/wiki/9th_Saturn_Awards'}
+            [3, 0, 7] Type: Cell
+            │         Label: 1981
+(9th)
+            │         Style: LineSpan
+            └──────── Link: {'text:9th': 'http://en.wikipedia.org/wiki/9th_Saturn_Awards'}
+            [3, 0, 8] Type: Cell
+            │         Label: 1981
+(9th)
+            │         Style: LineSpan
+            └──────── Link: {'text:9th': 'http://en.wikipedia.org/wiki/9th_Saturn_Awards'}
+            [3, 0, 9] Type: Cell
+            │         Label: 1981
+(9th)
+            │         Style: LineSpan
+            └──────── Link: {'text:9th': 'http://en.wikipedia.org/wiki/9th_Saturn_Awards'}
+            [3, 0, 10] Type: Cell
+            │          Label: 1981
+(9th)
+            │          Style: LineSpan
+            └───────── Link: {'text:9th': 'http://en.wikipedia.org/wiki/9th_Saturn_Awards'}
+            [3, 0, 11] Type: Cell
+            │          Label: 1982
+(10th)
+            │          Style: LineSpan
+            └───────── Link: {'text:10th': 'http://en.wikipedia.org/wiki/10th_Saturn_Awards'}
+            [3, 0, 12] Type: Cell
+            │          Label: 1982
+(10th)
+            │          Style: LineSpan
+            └───────── Link: {'text:10th': 'http://en.wikipedia.org/wiki/10th_Saturn_Awards'}
+            [3, 0, 13] Type: Cell
+            │          Label: 1982
+(10th)
+            │          Style: LineSpan
+            └───────── Link: {'text:10th': 'http://en.wikipedia.org/wiki/10th_Saturn_Awards'}
+            [3, 0, 14] Type: Cell
+            │          Label: 1982
+(10th)
+            │          Style: LineSpan
+            └───────── Link: {'text:10th': 'http://en.wikipedia.org/wiki/10th_Saturn_Awards'}
+            [3, 0, 15] Type: Cell
+            │          Label: 1982
+(10th)
+            │          Style: LineSpan
+            └───────── Link: {'text:10th': 'http://en.wikipedia.org/wiki/10th_Saturn_Awards'}
+            [3, 0, 16] Type: Cell
+            │          Label: 1983
+(11th)
+            │          Style: LineSpan
+            └───────── Link: {'text:11th': 'http://en.wikipedia.org/wiki/11th_Saturn_Awards'}
+            [3, 0, 17] Type: Cell
+            │          Label: 1983
+(11th)
+            │          Style: LineSpan
+            └───────── Link: {'text:11th': 'http://en.wikipedia.org/wiki/11th_Saturn_Awards'}
+            [3, 0, 18] Type: Cell
+            │          Label: 1983
+(11th)
+            │          Style: LineSpan
+            └───────── Link: {'text:11th': 'http://en.wikipedia.org/wiki/11th_Saturn_Awards'}
+            [3, 0, 19] Type: Cell
+            │          Label: 1983
+(11th)
+            │          Style: LineSpan
+            └───────── Link: {'text:11th': 'http://en.wikipedia.org/wiki/11th_Saturn_Awards'}
+            [3, 0, 20] Type: Cell
+            │          Label: 1983
+(11th)
+            │          Style: LineSpan
+            └───────── Link: {'text:11th': 'http://en.wikipedia.org/wiki/11th_Saturn_Awards'}
+            [3, 0, 21] Type: Cell
+            │          Label: 1984
+(12th)
+            │          Style: LineSpan
+            └───────── Link: {'text:12th': 'http://en.wikipedia.org/wiki/12th_Saturn_Awards'}
+            [3, 0, 22] Type: Cell
+            │          Label: 1984
+(12th)
+            │          Style: LineSpan
+            └───────── Link: {'text:12th': 'http://en.wikipedia.org/wiki/12th_Saturn_Awards'}
+            [3, 0, 23] Type: Cell
+            │          Label: 1984
+(12th)
+            │          Style: LineSpan
+            └───────── Link: {'text:12th': 'http://en.wikipedia.org/wiki/12th_Saturn_Awards'}
+            [3, 0, 24] Type: Cell
+            │          Label: 1984
+(12th)
+            │          Style: LineSpan
+            └───────── Link: {'text:12th': 'http://en.wikipedia.org/wiki/12th_Saturn_Awards'}
+            [3, 0, 25] Type: Cell
+            │          Label: 1984
+(12th)
+            │          Style: LineSpan
+            └───────── Link: {'text:12th': 'http://en.wikipedia.org/wiki/12th_Saturn_Awards'}
+            [3, 0, 26] Type: Cell
+            │          Label: 1985
+(13th)
+            │          Style: LineSpan
+            └───────── Link: {'text:13th': 'http://en.wikipedia.org/wiki/13th_Saturn_Awards'}
+            [3, 0, 27] Type: Cell
+            │          Label: 1985
+(13th)
+            │          Style: LineSpan
+            └───────── Link: {'text:13th': 'http://en.wikipedia.org/wiki/13th_Saturn_Awards'}
+            [3, 0, 28] Type: Cell
+            │          Label: 1985
+(13th)
+            │          Style: LineSpan
+            └───────── Link: {'text:13th': 'http://en.wikipedia.org/wiki/13th_Saturn_Awards'}
+            [3, 0, 29] Type: Cell
+            │          Label: 1985
+(13th)
+            │          Style: LineSpan
+            └───────── Link: {'text:13th': 'http://en.wikipedia.org/wiki/13th_Saturn_Awards'}
+            [3, 0, 30] Type: Cell
+            │          Label: 1985
+(13th)
+            │          Style: LineSpan
+            └───────── Link: {'text:13th': 'http://en.wikipedia.org/wiki/13th_Saturn_Awards'}
+            [3, 0, 31] Type: Cell
+            │          Label: 1986
+(14th)
+            │          Style: LineSpan
+            └───────── Link: {'text:14th': 'http://en.wikipedia.org/wiki/14th_Saturn_Awards'}
+            [3, 0, 32] Type: Cell
+            │          Label: 1986
+(14th)
+            │          Style: LineSpan
+            └───────── Link: {'text:14th': 'http://en.wikipedia.org/wiki/14th_Saturn_Awards'}
+            [3, 0, 33] Type: Cell
+            │          Label: 1986
+(14th)
+            │          Style: LineSpan
+            └───────── Link: {'text:14th': 'http://en.wikipedia.org/wiki/14th_Saturn_Awards'}
+            [3, 0, 34] Type: Cell
+            │          Label: 1986
+(14th)
+            │          Style: LineSpan
+            └───────── Link: {'text:14th': 'http://en.wikipedia.org/wiki/14th_Saturn_Awards'}
+            [3, 0, 35] Type: Cell
+            │          Label: 1986
+(14th)
+            │          Style: LineSpan
+            └───────── Link: {'text:14th': 'http://en.wikipedia.org/wiki/14th_Saturn_Awards'}
+            [3, 0, 36] Type: Cell
+            │          Label: 1987
+(15th)
+            │          Style: LineSpan
+            └───────── Link: {'text:15th': 'http://en.wikipedia.org/wiki/15th_Saturn_Awards'}
+            [3, 0, 37] Type: Cell
+            │          Label: 1987
+(15th)
+            │          Style: LineSpan
+            └───────── Link: {'text:15th': 'http://en.wikipedia.org/wiki/15th_Saturn_Awards'}
+            [3, 0, 38] Type: Cell
+            │          Label: 1987
+(15th)
+            │          Style: LineSpan
+            └───────── Link: {'text:15th': 'http://en.wikipedia.org/wiki/15th_Saturn_Awards'}
+            [3, 0, 39] Type: Cell
+            │          Label: 1987
+(15th)
+            │          Style: LineSpan
+            └───────── Link: {'text:15th': 'http://en.wikipedia.org/wiki/15th_Saturn_Awards'}
+            [3, 0, 40] Type: Cell
+            │          Label: 1987
+(15th)
+            │          Style: LineSpan
+            └───────── Link: {'text:15th': 'http://en.wikipedia.org/wiki/15th_Saturn_Awards'}
+            [3, 0, 41] Type: Cell
+            │          Label: 1987
+(15th)
+            │          Style: LineSpan
+            └───────── Link: {'text:15th': 'http://en.wikipedia.org/wiki/15th_Saturn_Awards'}
+            [3, 0, 42] Type: Cell
+            │          Label: 1988
+(16th)
+            │          Style: LineSpan
+            └───────── Link: {'text:16th': 'http://en.wikipedia.org/wiki/16th_Saturn_Awards'}
+            [3, 0, 43] Type: Cell
+            │          Label: 1988
+(16th)
+            │          Style: LineSpan
+            └───────── Link: {'text:16th': 'http://en.wikipedia.org/wiki/16th_Saturn_Awards'}
+            [3, 0, 44] Type: Cell
+            │          Label: 1988
+(16th)
+            │          Style: LineSpan
+            └───────── Link: {'text:16th': 'http://en.wikipedia.org/wiki/16th_Saturn_Awards'}
+            [3, 0, 45] Type: Cell
+            │          Label: 1988
+(16th)
+            │          Style: LineSpan
+            └───────── Link: {'text:16th': 'http://en.wikipedia.org/wiki/16th_Saturn_Awards'}
+            [3, 0, 46] Type: Cell
+            │          Label: 1988
+(16th)
+            │          Style: LineSpan
+            └───────── Link: {'text:16th': 'http://en.wikipedia.org/wiki/16th_Saturn_Awards'}
+            [3, 0, 47] Type: Cell
+            │          Label: 1988
+(16th)
+            │          Style: LineSpan
+            └───────── Link: {'text:16th': 'http://en.wikipedia.org/wiki/16th_Saturn_Awards'}
+            [3, 0, 48] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 49] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 50] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 51] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 52] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 53] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 54] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 55] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+            [3, 0, 56] Type: Cell
+            │          Label: 1989/1990
+(17th)
+            │          Style: LineSpan
+            └───────── Link: {'text:17th': 'http://en.wikipedia.org/wiki/17th_Saturn_Awards'}
+        [3, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 57
+            [3, 1, 0] Type: Cell
+            │         Label: Film
+            └──────── Style: Emphasize
+            [3, 1, 1] Type: Cell
+            │         Label: The Empire Strikes Back
+            └──────── Link: {'text:The Empire Strikes Back': 'http://en.wikipedia.org/wiki/The_Empire_Strikes_Back'}
+            [3, 1, 2] Type: Cell
+            │         Label: Altered States
+            └──────── Link: {'text:Altered States': 'http://en.wikipedia.org/wiki/Altered_States'}
+            [3, 1, 3] Type: Cell
+            │         Label: Battle Beyond the Stars
+            └──────── Link: {'text:Battle Beyond the Stars': 'http://en.wikipedia.org/wiki/Battle_Beyond_the_Stars'}
+            [3, 1, 4] Type: Cell
+            │         Label: The Final Countdown
+            └──────── Link: {'text:The Final Countdown': 'http://en.wikipedia.org/wiki/The_Final_Countdown_(film)'}
+            [3, 1, 5] Type: Cell
+            │         Label: Flash Gordon
+            └──────── Link: {'text:Flash Gordon': 'http://en.wikipedia.org/wiki/Flash_Gordon_(film)'}
+            [3, 1, 6] Type: Cell
+            │         Label: Superman II
+            └──────── Link: {'text:Superman II': 'http://en.wikipedia.org/wiki/Superman_II'}
+            [3, 1, 7] Type: Cell
+            │         Label: Escape from New York
+            └──────── Link: {'text:Escape from New York': 'http://en.wikipedia.org/wiki/Escape_from_New_York'}
+            [3, 1, 8] Type: Cell
+            │         Label: Heartbeeps
+            └──────── Link: {'text:Heartbeeps': 'http://en.wikipedia.org/wiki/Heartbeeps'}
+            [3, 1, 9] Type: Cell
+            │         Label: Heavy Metal
+            └──────── Link: {'text:Heavy Metal': 'http://en.wikipedia.org/wiki/Heavy_Metal_(film)'}
+            [3, 1, 10] Type: Cell
+            │          Label: Outland
+            └───────── Link: {'text:Outland': 'http://en.wikipedia.org/wiki/Outland_(film)'}
+            [3, 1, 11] Type: Cell
+            │          Label: E.T. the Extra-Terrestrial
+            └───────── Link: {'text:E.T. the Extra-Terrestrial': 'http://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial'}
+            [3, 1, 12] Type: Cell
+            │          Label: Blade Runner
+            └───────── Link: {'text:Blade Runner': 'http://en.wikipedia.org/wiki/Blade_Runner'}
+            [3, 1, 13] Type: Cell
+            │          Label: Endangered Species
+            └───────── Link: {'text:Endangered Species': 'http://en.wikipedia.org/wiki/Endangered_Species_(1982_film)'}
+            [3, 1, 14] Type: Cell
+            │          Label: Star Trek II: The Wrath of Khan
+            └───────── Link: {'text:Star Trek II: The Wrath of Khan': 'http://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan'}
+            [3, 1, 15] Type: Cell
+            │          Label: Tron
+            └───────── Link: {'text:Tron': 'http://en.wikipedia.org/wiki/Tron'}
+            [3, 1, 16] Type: Cell
+            │          Label: Return of the Jedi
+            └───────── Link: {'text:Return of the Jedi': 'http://en.wikipedia.org/wiki/Return_of_the_Jedi'}
+            [3, 1, 17] Type: Cell
+            │          Label: Blue Thunder
+            └───────── Link: {'text:Blue Thunder': 'http://en.wikipedia.org/wiki/Blue_Thunder'}
+            [3, 1, 18] Type: Cell
+            │          Label: Brainstorm
+            └───────── Link: {'text:Brainstorm': 'http://en.wikipedia.org/wiki/Brainstorm_(1983_film)'}
+            [3, 1, 19] Type: Cell
+            │          Label: Strange Invaders
+            └───────── Link: {'text:Strange Invaders': 'http://en.wikipedia.org/wiki/Strange_Invaders'}
+            [3, 1, 20] Type: Cell
+            │          Label: WarGames
+            └───────── Link: {'text:WarGames': 'http://en.wikipedia.org/wiki/WarGames'}
+            [3, 1, 21] Type: Cell
+            │          Label: The Terminator
+            └───────── Link: {'text:The Terminator': 'http://en.wikipedia.org/wiki/The_Terminator'}
+            [3, 1, 22] Type: Cell
+            │          Label: Dune
+            └───────── Link: {'text:Dune': 'http://en.wikipedia.org/wiki/Dune_(1984_film)'}
+            [3, 1, 23] Type: Cell
+            │          Label: Star Trek III: The Search for Spock
+            └───────── Link: {'text:Star Trek III: The Search for Spock': 'http://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock'}
+            [3, 1, 24] Type: Cell
+            │          Label: Starman
+            └───────── Link: {'text:Starman': 'http://en.wikipedia.org/wiki/Starman_(film)'}
+            [3, 1, 25] Type: Cell
+            │          Label: 2010: The Year We Make Contact
+            └───────── Link: {'text:2010: The Year We Make Contact': 'http://en.wikipedia.org/wiki/2010_(film)'}
+            [3, 1, 26] Type: Cell
+            │          Label: Back to the Future
+            └───────── Link: {'text:Back to the Future': 'http://en.wikipedia.org/wiki/Back_to_the_Future'}
+            [3, 1, 27] Type: Cell
+            │          Label: Cocoon
+            └───────── Link: {'text:Cocoon': 'http://en.wikipedia.org/wiki/Cocoon_(film)'}
+            [3, 1, 28] Type: Cell
+            │          Label: Enemy Mine
+            └───────── Link: {'text:Enemy Mine': 'http://en.wikipedia.org/wiki/Enemy_Mine_(film)'}
+            [3, 1, 29] Type: Cell
+            │          Label: Mad Max 3: Beyond Thunderdome
+            └───────── Link: {'text:Mad Max 3: Beyond Thunderdome': 'http://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome'}
+            [3, 1, 30] Type: Cell
+            │          Label: A View to a Kill
+            └───────── Link: {'text:A View to a Kill': 'http://en.wikipedia.org/wiki/A_View_to_a_Kill'}
+            [3, 1, 31] Type: Cell
+            │          Label: Aliens
+            └───────── Link: {'text:Aliens': 'http://en.wikipedia.org/wiki/Aliens_(film)'}
+            [3, 1, 32] Type: Cell
+            │          Label: Flight of the Navigator
+            └───────── Link: {'text:Flight of the Navigator': 'http://en.wikipedia.org/wiki/Flight_of_the_Navigator'}
+            [3, 1, 33] Type: Cell
+            │          Label: Peggy Sue Got Married
+            └───────── Link: {'text:Peggy Sue Got Married': 'http://en.wikipedia.org/wiki/Peggy_Sue_Got_Married'}
+            [3, 1, 34] Type: Cell
+            │          Label: Short Circuit
+            └───────── Link: {'text:Short Circuit': 'http://en.wikipedia.org/wiki/Short_Circuit_(1986_film)'}
+            [3, 1, 35] Type: Cell
+            │          Label: Star Trek IV: The Voyage Home
+            └───────── Link: {'text:Star Trek IV: The Voyage Home': 'http://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home'}
+            [3, 1, 36] Type: Cell
+            │          Label: RoboCop
+            └───────── Link: {'text:RoboCop': 'http://en.wikipedia.org/wiki/RoboCop'}
+            [3, 1, 37] Type: Cell
+            │          Label: The Hidden
+            └───────── Link: {'text:The Hidden': 'http://en.wikipedia.org/wiki/The_Hidden_(film)'}
+            [3, 1, 38] Type: Cell
+            │          Label: Innerspace
+            └───────── Link: {'text:Innerspace': 'http://en.wikipedia.org/wiki/Innerspace'}
+            [3, 1, 39] Type: Cell
+            │          Label: Masters of the Universe
+            └───────── Link: {'text:Masters of the Universe': 'http://en.wikipedia.org/wiki/Masters_of_the_Universe_(film)'}
+            [3, 1, 40] Type: Cell
+            │          Label: Predator
+            └───────── Link: {'text:Predator': 'http://en.wikipedia.org/wiki/Predator_(film)'}
+            [3, 1, 41] Type: Cell
+            │          Label: The Running Man
+            └───────── Link: {'text:The Running Man': 'http://en.wikipedia.org/wiki/The_Running_Man_(1987_film)'}
+            [3, 1, 42] Type: Cell
+            │          Label: Alien Nation
+            └───────── Link: {'text:Alien Nation': 'http://en.wikipedia.org/wiki/Alien_Nation_(film)'}
+            [3, 1, 43] Type: Cell
+            │          Label: The Blob
+            └───────── Link: {'text:The Blob': 'http://en.wikipedia.org/wiki/The_Blob_(1988_film)'}
+            [3, 1, 44] Type: Cell
+            │          Label: Cocoon: The Return
+            └───────── Link: {'text:Cocoon: The Return': 'http://en.wikipedia.org/wiki/Cocoon:_The_Return'}
+            [3, 1, 45] Type: Cell
+            │          Label: My Stepmother Is an Alien
+            └───────── Link: {'text:My Stepmother Is an Alien': 'http://en.wikipedia.org/wiki/My_Stepmother_Is_an_Alien'}
+            [3, 1, 46] Type: Cell
+            │          Label: Short Circuit 2
+            └───────── Link: {'text:Short Circuit 2': 'http://en.wikipedia.org/wiki/Short_Circuit_2'}
+            [3, 1, 47] Type: Cell
+            │          Label: They Live
+            └───────── Link: {'text:They Live': 'http://en.wikipedia.org/wiki/They_Live'}
+            [3, 1, 48] Type: Cell
+            │          Label: Total Recall
+            └───────── Link: {'text:Total Recall': 'http://en.wikipedia.org/wiki/Total_Recall_(1990_film)'}
+            [3, 1, 49] Type: Cell
+            │          Label: The Abyss
+            └───────── Link: {'text:The Abyss': 'http://en.wikipedia.org/wiki/The_Abyss'}
+            [3, 1, 50] Type: Cell
+            │          Label: Back to the Future Part II
+            └───────── Link: {'text:Back to the Future Part II': 'http://en.wikipedia.org/wiki/Back_to_the_Future_Part_II'}
+            [3, 1, 51] Type: Cell
+            │          Label: Back to the Future Part III
+            └───────── Link: {'text:Back to the Future Part III': 'http://en.wikipedia.org/wiki/Back_to_the_Future_Part_III'}
+            [3, 1, 52] Type: Cell
+            │          Label: Bill & Ted's Excellent Adventure
+            └───────── Link: {"text:Bill & Ted's Excellent Adventure": 'http://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure'}
+            [3, 1, 53] Type: Cell
+            │          Label: Flatliners
+            └───────── Link: {'text:Flatliners': 'http://en.wikipedia.org/wiki/Flatliners'}
+            [3, 1, 54] Type: Cell
+            │          Label: Honey, I Shrunk the Kids
+            └───────── Link: {'text:Honey, I Shrunk the Kids': 'http://en.wikipedia.org/wiki/Honey,_I_Shrunk_the_Kids'}
+            [3, 1, 55] Type: Cell
+            │          Label: RoboCop 2
+            └───────── Link: {'text:RoboCop 2': 'http://en.wikipedia.org/wiki/RoboCop_2'}
+            [3, 1, 56] Type: Cell
+            │          Label: Tremors
+            └───────── Link: {'text:Tremors': 'http://en.wikipedia.org/wiki/Tremors_(film)'}
+    [4] Type: Table
+    │   Label: 1990s
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [4, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 58
+            [4, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [4, 0, 1] Type: Cell
+            │         Label: 1991
+(18th)
+            │         Style: LineSpan
+            └──────── Link: {'text:18th': 'http://en.wikipedia.org/wiki/18th_Saturn_Awards'}
+            [4, 0, 2] Type: Cell
+            │         Label: 1991
+(18th)
+            │         Style: LineSpan
+            └──────── Link: {'text:18th': 'http://en.wikipedia.org/wiki/18th_Saturn_Awards'}
+            [4, 0, 3] Type: Cell
+            │         Label: 1991
+(18th)
+            │         Style: LineSpan
+            └──────── Link: {'text:18th': 'http://en.wikipedia.org/wiki/18th_Saturn_Awards'}
+            [4, 0, 4] Type: Cell
+            │         Label: 1991
+(18th)
+            │         Style: LineSpan
+            └──────── Link: {'text:18th': 'http://en.wikipedia.org/wiki/18th_Saturn_Awards'}
+            [4, 0, 5] Type: Cell
+            │         Label: 1991
+(18th)
+            │         Style: LineSpan
+            └──────── Link: {'text:18th': 'http://en.wikipedia.org/wiki/18th_Saturn_Awards'}
+            [4, 0, 6] Type: Cell
+            │         Label: 1991
+(18th)
+            │         Style: LineSpan
+            └──────── Link: {'text:18th': 'http://en.wikipedia.org/wiki/18th_Saturn_Awards'}
+            [4, 0, 7] Type: Cell
+            │         Label: 1992
+(19th)
+            │         Style: LineSpan
+            └──────── Link: {'text:19th': 'http://en.wikipedia.org/wiki/19th_Saturn_Awards'}
+            [4, 0, 8] Type: Cell
+            │         Label: 1992
+(19th)
+            │         Style: LineSpan
+            └──────── Link: {'text:19th': 'http://en.wikipedia.org/wiki/19th_Saturn_Awards'}
+            [4, 0, 9] Type: Cell
+            │         Label: 1992
+(19th)
+            │         Style: LineSpan
+            └──────── Link: {'text:19th': 'http://en.wikipedia.org/wiki/19th_Saturn_Awards'}
+            [4, 0, 10] Type: Cell
+            │          Label: 1992
+(19th)
+            │          Style: LineSpan
+            └───────── Link: {'text:19th': 'http://en.wikipedia.org/wiki/19th_Saturn_Awards'}
+            [4, 0, 11] Type: Cell
+            │          Label: 1992
+(19th)
+            │          Style: LineSpan
+            └───────── Link: {'text:19th': 'http://en.wikipedia.org/wiki/19th_Saturn_Awards'}
+            [4, 0, 12] Type: Cell
+            │          Label: 1992
+(19th)
+            │          Style: LineSpan
+            └───────── Link: {'text:19th': 'http://en.wikipedia.org/wiki/19th_Saturn_Awards'}
+            [4, 0, 13] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 14] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 15] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 16] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 17] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 18] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 19] Type: Cell
+            │          Label: 1993
+(20th)
+            │          Style: LineSpan
+            └───────── Link: {'text:20th': 'http://en.wikipedia.org/wiki/20th_Saturn_Awards'}
+            [4, 0, 20] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 21] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 22] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 23] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 24] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 25] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 26] Type: Cell
+            │          Label: 1994
+(21st)
+            │          Style: LineSpan
+            └───────── Link: {'text:21st': 'http://en.wikipedia.org/wiki/21st_Saturn_Awards'}
+            [4, 0, 27] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 28] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 29] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 30] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 31] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 32] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 33] Type: Cell
+            │          Label: 1995
+(22nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:22nd': 'http://en.wikipedia.org/wiki/22nd_Saturn_Awards'}
+            [4, 0, 34] Type: Cell
+            │          Label: 1996
+(23rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:23rd': 'http://en.wikipedia.org/wiki/23rd_Saturn_Awards'}
+            [4, 0, 35] Type: Cell
+            │          Label: 1996
+(23rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:23rd': 'http://en.wikipedia.org/wiki/23rd_Saturn_Awards'}
+            [4, 0, 36] Type: Cell
+            │          Label: 1996
+(23rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:23rd': 'http://en.wikipedia.org/wiki/23rd_Saturn_Awards'}
+            [4, 0, 37] Type: Cell
+            │          Label: 1996
+(23rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:23rd': 'http://en.wikipedia.org/wiki/23rd_Saturn_Awards'}
+            [4, 0, 38] Type: Cell
+            │          Label: 1996
+(23rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:23rd': 'http://en.wikipedia.org/wiki/23rd_Saturn_Awards'}
+            [4, 0, 39] Type: Cell
+            │          Label: 1996
+(23rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:23rd': 'http://en.wikipedia.org/wiki/23rd_Saturn_Awards'}
+            [4, 0, 40] Type: Cell
+            │          Label: 1997
+(24th)
+            │          Style: LineSpan
+            └───────── Link: {'text:24th': 'http://en.wikipedia.org/wiki/24th_Saturn_Awards'}
+            [4, 0, 41] Type: Cell
+            │          Label: 1997
+(24th)
+            │          Style: LineSpan
+            └───────── Link: {'text:24th': 'http://en.wikipedia.org/wiki/24th_Saturn_Awards'}
+            [4, 0, 42] Type: Cell
+            │          Label: 1997
+(24th)
+            │          Style: LineSpan
+            └───────── Link: {'text:24th': 'http://en.wikipedia.org/wiki/24th_Saturn_Awards'}
+            [4, 0, 43] Type: Cell
+            │          Label: 1997
+(24th)
+            │          Style: LineSpan
+            └───────── Link: {'text:24th': 'http://en.wikipedia.org/wiki/24th_Saturn_Awards'}
+            [4, 0, 44] Type: Cell
+            │          Label: 1997
+(24th)
+            │          Style: LineSpan
+            └───────── Link: {'text:24th': 'http://en.wikipedia.org/wiki/24th_Saturn_Awards'}
+            [4, 0, 45] Type: Cell
+            │          Label: 1997
+(24th)
+            │          Style: LineSpan
+            └───────── Link: {'text:24th': 'http://en.wikipedia.org/wiki/24th_Saturn_Awards'}
+            [4, 0, 46] Type: Cell
+            │          Label: 1998
+(25th)
+            │          Style: LineSpan
+            └───────── Link: {'text:25th': 'http://en.wikipedia.org/wiki/25th_Saturn_Awards'}
+            [4, 0, 47] Type: Cell
+            │          Label: 1998
+(25th)
+            │          Style: LineSpan
+            └───────── Link: {'text:25th': 'http://en.wikipedia.org/wiki/25th_Saturn_Awards'}
+            [4, 0, 48] Type: Cell
+            │          Label: 1998
+(25th)
+            │          Style: LineSpan
+            └───────── Link: {'text:25th': 'http://en.wikipedia.org/wiki/25th_Saturn_Awards'}
+            [4, 0, 49] Type: Cell
+            │          Label: 1998
+(25th)
+            │          Style: LineSpan
+            └───────── Link: {'text:25th': 'http://en.wikipedia.org/wiki/25th_Saturn_Awards'}
+            [4, 0, 50] Type: Cell
+            │          Label: 1998
+(25th)
+            │          Style: LineSpan
+            └───────── Link: {'text:25th': 'http://en.wikipedia.org/wiki/25th_Saturn_Awards'}
+            [4, 0, 51] Type: Cell
+            │          Label: 1998
+(25th)
+            │          Style: LineSpan
+            └───────── Link: {'text:25th': 'http://en.wikipedia.org/wiki/25th_Saturn_Awards'}
+            [4, 0, 52] Type: Cell
+            │          Label: 1999
+(26th)
+            │          Style: LineSpan
+            └───────── Link: {'text:26th': 'http://en.wikipedia.org/wiki/26th_Saturn_Awards'}
+            [4, 0, 53] Type: Cell
+            │          Label: 1999
+(26th)
+            │          Style: LineSpan
+            └───────── Link: {'text:26th': 'http://en.wikipedia.org/wiki/26th_Saturn_Awards'}
+            [4, 0, 54] Type: Cell
+            │          Label: 1999
+(26th)
+            │          Style: LineSpan
+            └───────── Link: {'text:26th': 'http://en.wikipedia.org/wiki/26th_Saturn_Awards'}
+            [4, 0, 55] Type: Cell
+            │          Label: 1999
+(26th)
+            │          Style: LineSpan
+            └───────── Link: {'text:26th': 'http://en.wikipedia.org/wiki/26th_Saturn_Awards'}
+            [4, 0, 56] Type: Cell
+            │          Label: 1999
+(26th)
+            │          Style: LineSpan
+            └───────── Link: {'text:26th': 'http://en.wikipedia.org/wiki/26th_Saturn_Awards'}
+            [4, 0, 57] Type: Cell
+            │          Label: 1999
+(26th)
+            │          Style: LineSpan
+            └───────── Link: {'text:26th': 'http://en.wikipedia.org/wiki/26th_Saturn_Awards'}
+        [4, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 58
+            [4, 1, 0] Type: Cell
+            │         Label: Film
+            └──────── Style: Emphasize
+            [4, 1, 1] Type: Cell
+            │         Label: Terminator 2: Judgment Day
+            └──────── Link: {'text:Terminator 2: Judgment Day': 'http://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day'}
+            [4, 1, 2] Type: Cell
+            │         Label: Frankenstein Unbound
+            └──────── Link: {'text:Frankenstein Unbound': 'http://en.wikipedia.org/wiki/Frankenstein_Unbound'}
+            [4, 1, 3] Type: Cell
+            │         Label: Prayer of the Rollerboys
+            └──────── Link: {'text:Prayer of the Rollerboys': 'http://en.wikipedia.org/wiki/Prayer_of_the_Rollerboys'}
+            [4, 1, 4] Type: Cell
+            │         Label: Predator 2
+            └──────── Link: {'text:Predator 2': 'http://en.wikipedia.org/wiki/Predator_2'}
+            [4, 1, 5] Type: Cell
+            │         Label: The Rocketeer
+            └──────── Link: {'text:The Rocketeer': 'http://en.wikipedia.org/wiki/The_Rocketeer_(film)'}
+            [4, 1, 6] Type: Cell
+            │         Label: Timescape
+            └──────── Link: {'text:Timescape': 'http://en.wikipedia.org/wiki/Timescape_(1992_film)'}
+            [4, 1, 7] Type: Cell
+            │         Label: Star Trek VI: The Undiscovered Country
+            └──────── Link: {'text:Star Trek VI: The Undiscovered Country': 'http://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country'}
+            [4, 1, 8] Type: Cell
+            │         Label: Alien 3
+            └──────── Link: {'text:Alien 3': 'http://en.wikipedia.org/wiki/Alien_3'}
+            [4, 1, 9] Type: Cell
+            │         Label: Freejack
+            └──────── Link: {'text:Freejack': 'http://en.wikipedia.org/wiki/Freejack'}
+            [4, 1, 10] Type: Cell
+            │          Label: Honey, I Blew Up the Kid
+            └───────── Link: {'text:Honey, I Blew Up the Kid': 'http://en.wikipedia.org/wiki/Honey,_I_Blew_Up_the_Kid'}
+            [4, 1, 11] Type: Cell
+            │          Label: The Lawnmower Man
+            └───────── Link: {'text:The Lawnmower Man': 'http://en.wikipedia.org/wiki/The_Lawnmower_Man_(film)'}
+            [4, 1, 12] Type: Cell
+            │          Label: Memoirs of an Invisible Man
+            └───────── Link: {'text:Memoirs of an Invisible Man': 'http://en.wikipedia.org/wiki/Memoirs_of_an_Invisible_Man_(film)'}
+            [4, 1, 13] Type: Cell
+            │          Label: Jurassic Park
+            └───────── Link: {'text:Jurassic Park': 'http://en.wikipedia.org/wiki/Jurassic_Park_(film)'}
+            [4, 1, 14] Type: Cell
+            │          Label: Demolition Man
+            └───────── Link: {'text:Demolition Man': 'http://en.wikipedia.org/wiki/Demolition_Man_(film)'}
+            [4, 1, 15] Type: Cell
+            │          Label: Fire in the Sky
+            └───────── Link: {'text:Fire in the Sky': 'http://en.wikipedia.org/wiki/Fire_in_the_Sky'}
+            [4, 1, 16] Type: Cell
+            │          Label: Fortress
+            └───────── Link: {'text:Fortress': 'http://en.wikipedia.org/wiki/Fortress_(1992_film)'}
+            [4, 1, 17] Type: Cell
+            │          Label: Man's Best Friend
+            └───────── Link: {"text:Man's Best Friend": 'http://en.wikipedia.org/wiki/Man%27s_Best_Friend_(1993_film)'}
+            [4, 1, 18] Type: Cell
+            │          Label: The Meteor Man
+            └───────── Link: {'text:The Meteor Man': 'http://en.wikipedia.org/wiki/The_Meteor_Man_(film)'}
+            [4, 1, 19] Type: Cell
+            │          Label: RoboCop 3
+            └───────── Link: {'text:RoboCop 3': 'http://en.wikipedia.org/wiki/RoboCop_3'}
+            [4, 1, 20] Type: Cell
+            │          Label: Stargate
+            └───────── Link: {'text:Stargate': 'http://en.wikipedia.org/wiki/Stargate_(film)'}
+            [4, 1, 21] Type: Cell
+            │          Label: Body Snatchers
+            └───────── Link: {'text:Body Snatchers': 'http://en.wikipedia.org/wiki/Body_Snatchers_(1993_film)'}
+            [4, 1, 22] Type: Cell
+            │          Label: No Escape
+            └───────── Link: {'text:No Escape': 'http://en.wikipedia.org/wiki/No_Escape_(1994_film)'}
+            [4, 1, 23] Type: Cell
+            │          Label: The Puppet Masters
+            └───────── Link: {'text:The Puppet Masters': 'http://en.wikipedia.org/wiki/The_Puppet_Masters_(film)'}
+            [4, 1, 24] Type: Cell
+            │          Label: Star Trek Generations
+            └───────── Link: {'text:Star Trek Generations': 'http://en.wikipedia.org/wiki/Star_Trek_Generations'}
+            [4, 1, 25] Type: Cell
+            │          Label: Street Fighter
+            └───────── Link: {'text:Street Fighter': 'http://en.wikipedia.org/wiki/Street_Fighter_(1994_film)'}
+            [4, 1, 26] Type: Cell
+            │          Label: Timecop
+            └───────── Link: {'text:Timecop': 'http://en.wikipedia.org/wiki/Timecop'}
+            [4, 1, 27] Type: Cell
+            │          Label: 12 Monkeys
+            └───────── Link: {'text:12 Monkeys': 'http://en.wikipedia.org/wiki/12_Monkeys_(film)'}
+            [4, 1, 28] Type: Cell
+            │          Label: Congo
+            └───────── Link: {'text:Congo': 'http://en.wikipedia.org/wiki/Congo_(film)'}
+            [4, 1, 29] Type: Cell
+            │          Label: Judge Dredd
+            └───────── Link: {'text:Judge Dredd': 'http://en.wikipedia.org/wiki/Judge_Dredd_(film)'}
+            [4, 1, 30] Type: Cell
+            │          Label: Outbreak
+            └───────── Link: {'text:Outbreak': 'http://en.wikipedia.org/wiki/Outbreak_(film)'}
+            [4, 1, 31] Type: Cell
+            │          Label: Species
+            └───────── Link: {'text:Species': 'http://en.wikipedia.org/wiki/Species_(film)'}
+            [4, 1, 32] Type: Cell
+            │          Label: Strange Days
+            └───────── Link: {'text:Strange Days': 'http://en.wikipedia.org/wiki/Strange_Days_(film)'}
+            [4, 1, 33] Type: Cell
+            │          Label: Waterworld
+            └───────── Link: {'text:Waterworld': 'http://en.wikipedia.org/wiki/Waterworld'}
+            [4, 1, 34] Type: Cell
+            │          Label: Independence Day
+            └───────── Link: {'text:Independence Day': 'http://en.wikipedia.org/wiki/Independence_Day_(1996_film)'}
+            [4, 1, 35] Type: Cell
+            │          Label: Escape from L.A.
+            └───────── Link: {'text:Escape from L.A.': 'http://en.wikipedia.org/wiki/Escape_from_L.A.'}
+            [4, 1, 36] Type: Cell
+            │          Label: The Island of Dr. Moreau
+            └───────── Link: {'text:The Island of Dr. Moreau': 'http://en.wikipedia.org/wiki/The_Island_of_Dr._Moreau_(1996_film)'}
+            [4, 1, 37] Type: Cell
+            │          Label: Mars Attacks!
+            └───────── Link: {'text:Mars Attacks!': 'http://en.wikipedia.org/wiki/Mars_Attacks!'}
+            [4, 1, 38] Type: Cell
+            │          Label: Mystery Science Theater 3000: The Movie
+            └───────── Link: {'text:Mystery Science Theater 3000: The Movie': 'http://en.wikipedia.org/wiki/Mystery_Science_Theater_3000:_The_Movie'}
+            [4, 1, 39] Type: Cell
+            │          Label: Star Trek: First Contact
+            └───────── Link: {'text:Star Trek: First Contact': 'http://en.wikipedia.org/wiki/Star_Trek:_First_Contact'}
+            [4, 1, 40] Type: Cell
+            │          Label: Men in Black
+            └───────── Link: {'text:Men in Black': 'http://en.wikipedia.org/wiki/Men_in_Black_(1997_film)'}
+            [4, 1, 41] Type: Cell
+            │          Label: Alien: Resurrection
+            └───────── Link: {'text:Alien: Resurrection': 'http://en.wikipedia.org/wiki/Alien:_Resurrection'}
+            [4, 1, 42] Type: Cell
+            │          Label: Contact
+            └───────── Link: {'text:Contact': 'http://en.wikipedia.org/wiki/Contact_(1997_American_film)'}
+            [4, 1, 43] Type: Cell
+            │          Label: The Fifth Element (Le Cinquième Élément)
+            └───────── Link: {'text:The Fifth Element': 'http://en.wikipedia.org/wiki/The_Fifth_Element'}
+            [4, 1, 44] Type: Cell
+            │          Label: The Postman
+            └───────── Link: {'text:The Postman': 'http://en.wikipedia.org/wiki/The_Postman_(film)'}
+            [4, 1, 45] Type: Cell
+            │          Label: Starship Troopers
+            └───────── Link: {'text:Starship Troopers': 'http://en.wikipedia.org/wiki/Starship_Troopers_(film)'}
+            [4, 1, 46] Type: Cell
+            │          Label: Armageddon
+            └───────── Link: {'text:Armageddon': 'http://en.wikipedia.org/wiki/Armageddon_(1998_film)'}
+            [4, 1, 47] Type: Cell
+            │          Label: Dark City
+            └───────── Link: {'text:Dark City': 'http://en.wikipedia.org/wiki/Dark_City_(1998_film)'}
+            [4, 1, 48] Type: Cell
+            │          Label: Deep Impact
+            └───────── Link: {'text:Deep Impact': 'http://en.wikipedia.org/wiki/Deep_Impact_(film)'}
+            [4, 1, 49] Type: Cell
+            │          Label: Lost in Space
+            └───────── Link: {'text:Lost in Space': 'http://en.wikipedia.org/wiki/Lost_in_Space_(film)'}
+            [4, 1, 50] Type: Cell
+            │          Label: Star Trek: Insurrection
+            └───────── Link: {'text:Star Trek: Insurrection': 'http://en.wikipedia.org/wiki/Star_Trek:_Insurrection'}
+            [4, 1, 51] Type: Cell
+            │          Label: The X Files: Fight the Future
+            └───────── Link: {'text:The X Files: Fight the Future': 'http://en.wikipedia.org/wiki/The_X-Files_(film)'}
+            [4, 1, 52] Type: Cell
+            │          Label: The Matrix
+            └───────── Link: {'text:The Matrix': 'http://en.wikipedia.org/wiki/The_Matrix'}
+            [4, 1, 53] Type: Cell
+            │          Label: eXistenZ
+            └───────── Link: {'text:eXistenZ': 'http://en.wikipedia.org/wiki/Existenz'}
+            [4, 1, 54] Type: Cell
+            │          Label: Galaxy Quest
+            └───────── Link: {'text:Galaxy Quest': 'http://en.wikipedia.org/wiki/Galaxy_Quest'}
+            [4, 1, 55] Type: Cell
+            │          Label: Pitch Black
+            └───────── Link: {'text:Pitch Black': 'http://en.wikipedia.org/wiki/Pitch_Black_(film)'}
+            [4, 1, 56] Type: Cell
+            │          Label: Star Wars: Episode I – The Phantom Menace
+            └───────── Link: {'text:Star Wars: Episode I – The Phantom Menace': 'http://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace'}
+            [4, 1, 57] Type: Cell
+            │          Label: The Thirteenth Floor
+            └───────── Link: {'text:The Thirteenth Floor': 'http://en.wikipedia.org/wiki/The_Thirteenth_Floor'}
+    [5] Type: Table
+    │   Label: 2000s
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [5, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 62
+            [5, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [5, 0, 1] Type: Cell
+            │         Label: 2000
+(27th)
+            │         Style: LineSpan
+            └──────── Link: {'text:27th': 'http://en.wikipedia.org/wiki/27th_Saturn_Awards'}
+            [5, 0, 2] Type: Cell
+            │         Label: 2000
+(27th)
+            │         Style: LineSpan
+            └──────── Link: {'text:27th': 'http://en.wikipedia.org/wiki/27th_Saturn_Awards'}
+            [5, 0, 3] Type: Cell
+            │         Label: 2000
+(27th)
+            │         Style: LineSpan
+            └──────── Link: {'text:27th': 'http://en.wikipedia.org/wiki/27th_Saturn_Awards'}
+            [5, 0, 4] Type: Cell
+            │         Label: 2000
+(27th)
+            │         Style: LineSpan
+            └──────── Link: {'text:27th': 'http://en.wikipedia.org/wiki/27th_Saturn_Awards'}
+            [5, 0, 5] Type: Cell
+            │         Label: 2000
+(27th)
+            │         Style: LineSpan
+            └──────── Link: {'text:27th': 'http://en.wikipedia.org/wiki/27th_Saturn_Awards'}
+            [5, 0, 6] Type: Cell
+            │         Label: 2000
+(27th)
+            │         Style: LineSpan
+            └──────── Link: {'text:27th': 'http://en.wikipedia.org/wiki/27th_Saturn_Awards'}
+            [5, 0, 7] Type: Cell
+            │         Label: 2001
+(28th)
+            │         Style: LineSpan
+            └──────── Link: {'text:28th': 'http://en.wikipedia.org/wiki/28th_Saturn_Awards'}
+            [5, 0, 8] Type: Cell
+            │         Label: 2001
+(28th)
+            │         Style: LineSpan
+            └──────── Link: {'text:28th': 'http://en.wikipedia.org/wiki/28th_Saturn_Awards'}
+            [5, 0, 9] Type: Cell
+            │         Label: 2001
+(28th)
+            │         Style: LineSpan
+            └──────── Link: {'text:28th': 'http://en.wikipedia.org/wiki/28th_Saturn_Awards'}
+            [5, 0, 10] Type: Cell
+            │          Label: 2001
+(28th)
+            │          Style: LineSpan
+            └───────── Link: {'text:28th': 'http://en.wikipedia.org/wiki/28th_Saturn_Awards'}
+            [5, 0, 11] Type: Cell
+            │          Label: 2001
+(28th)
+            │          Style: LineSpan
+            └───────── Link: {'text:28th': 'http://en.wikipedia.org/wiki/28th_Saturn_Awards'}
+            [5, 0, 12] Type: Cell
+            │          Label: 2001
+(28th)
+            │          Style: LineSpan
+            └───────── Link: {'text:28th': 'http://en.wikipedia.org/wiki/28th_Saturn_Awards'}
+            [5, 0, 13] Type: Cell
+            │          Label: 2002
+(29th)
+            │          Style: LineSpan
+            └───────── Link: {'text:29th': 'http://en.wikipedia.org/wiki/29th_Saturn_Awards'}
+            [5, 0, 14] Type: Cell
+            │          Label: 2002
+(29th)
+            │          Style: LineSpan
+            └───────── Link: {'text:29th': 'http://en.wikipedia.org/wiki/29th_Saturn_Awards'}
+            [5, 0, 15] Type: Cell
+            │          Label: 2002
+(29th)
+            │          Style: LineSpan
+            └───────── Link: {'text:29th': 'http://en.wikipedia.org/wiki/29th_Saturn_Awards'}
+            [5, 0, 16] Type: Cell
+            │          Label: 2002
+(29th)
+            │          Style: LineSpan
+            └───────── Link: {'text:29th': 'http://en.wikipedia.org/wiki/29th_Saturn_Awards'}
+            [5, 0, 17] Type: Cell
+            │          Label: 2002
+(29th)
+            │          Style: LineSpan
+            └───────── Link: {'text:29th': 'http://en.wikipedia.org/wiki/29th_Saturn_Awards'}
+            [5, 0, 18] Type: Cell
+            │          Label: 2002
+(29th)
+            │          Style: LineSpan
+            └───────── Link: {'text:29th': 'http://en.wikipedia.org/wiki/29th_Saturn_Awards'}
+            [5, 0, 19] Type: Cell
+            │          Label: 2003
+(30th)
+            │          Style: LineSpan
+            └───────── Link: {'text:30th': 'http://en.wikipedia.org/wiki/30th_Saturn_Awards'}
+            [5, 0, 20] Type: Cell
+            │          Label: 2003
+(30th)
+            │          Style: LineSpan
+            └───────── Link: {'text:30th': 'http://en.wikipedia.org/wiki/30th_Saturn_Awards'}
+            [5, 0, 21] Type: Cell
+            │          Label: 2003
+(30th)
+            │          Style: LineSpan
+            └───────── Link: {'text:30th': 'http://en.wikipedia.org/wiki/30th_Saturn_Awards'}
+            [5, 0, 22] Type: Cell
+            │          Label: 2003
+(30th)
+            │          Style: LineSpan
+            └───────── Link: {'text:30th': 'http://en.wikipedia.org/wiki/30th_Saturn_Awards'}
+            [5, 0, 23] Type: Cell
+            │          Label: 2003
+(30th)
+            │          Style: LineSpan
+            └───────── Link: {'text:30th': 'http://en.wikipedia.org/wiki/30th_Saturn_Awards'}
+            [5, 0, 24] Type: Cell
+            │          Label: 2003
+(30th)
+            │          Style: LineSpan
+            └───────── Link: {'text:30th': 'http://en.wikipedia.org/wiki/30th_Saturn_Awards'}
+            [5, 0, 25] Type: Cell
+            │          Label: 2004
+(31st)
+            │          Style: LineSpan
+            └───────── Link: {'text:31st': 'http://en.wikipedia.org/wiki/31st_Saturn_Awards'}
+            [5, 0, 26] Type: Cell
+            │          Label: 2004
+(31st)
+            │          Style: LineSpan
+            └───────── Link: {'text:31st': 'http://en.wikipedia.org/wiki/31st_Saturn_Awards'}
+            [5, 0, 27] Type: Cell
+            │          Label: 2004
+(31st)
+            │          Style: LineSpan
+            └───────── Link: {'text:31st': 'http://en.wikipedia.org/wiki/31st_Saturn_Awards'}
+            [5, 0, 28] Type: Cell
+            │          Label: 2004
+(31st)
+            │          Style: LineSpan
+            └───────── Link: {'text:31st': 'http://en.wikipedia.org/wiki/31st_Saturn_Awards'}
+            [5, 0, 29] Type: Cell
+            │          Label: 2004
+(31st)
+            │          Style: LineSpan
+            └───────── Link: {'text:31st': 'http://en.wikipedia.org/wiki/31st_Saturn_Awards'}
+            [5, 0, 30] Type: Cell
+            │          Label: 2004
+(31st)
+            │          Style: LineSpan
+            └───────── Link: {'text:31st': 'http://en.wikipedia.org/wiki/31st_Saturn_Awards'}
+            [5, 0, 31] Type: Cell
+            │          Label: 2005
+(32nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:32nd': 'http://en.wikipedia.org/wiki/32nd_Saturn_Awards'}
+            [5, 0, 32] Type: Cell
+            │          Label: 2005
+(32nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:32nd': 'http://en.wikipedia.org/wiki/32nd_Saturn_Awards'}
+            [5, 0, 33] Type: Cell
+            │          Label: 2005
+(32nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:32nd': 'http://en.wikipedia.org/wiki/32nd_Saturn_Awards'}
+            [5, 0, 34] Type: Cell
+            │          Label: 2005
+(32nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:32nd': 'http://en.wikipedia.org/wiki/32nd_Saturn_Awards'}
+            [5, 0, 35] Type: Cell
+            │          Label: 2005
+(32nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:32nd': 'http://en.wikipedia.org/wiki/32nd_Saturn_Awards'}
+            [5, 0, 36] Type: Cell
+            │          Label: 2005
+(32nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:32nd': 'http://en.wikipedia.org/wiki/32nd_Saturn_Awards'}
+            [5, 0, 37] Type: Cell
+            │          Label: 2006
+(33rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:33rd': 'http://en.wikipedia.org/wiki/33rd_Saturn_Awards'}
+            [5, 0, 38] Type: Cell
+            │          Label: 2006
+(33rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:33rd': 'http://en.wikipedia.org/wiki/33rd_Saturn_Awards'}
+            [5, 0, 39] Type: Cell
+            │          Label: 2006
+(33rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:33rd': 'http://en.wikipedia.org/wiki/33rd_Saturn_Awards'}
+            [5, 0, 40] Type: Cell
+            │          Label: 2006
+(33rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:33rd': 'http://en.wikipedia.org/wiki/33rd_Saturn_Awards'}
+            [5, 0, 41] Type: Cell
+            │          Label: 2006
+(33rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:33rd': 'http://en.wikipedia.org/wiki/33rd_Saturn_Awards'}
+            [5, 0, 42] Type: Cell
+            │          Label: 2006
+(33rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:33rd': 'http://en.wikipedia.org/wiki/33rd_Saturn_Awards'}
+            [5, 0, 43] Type: Cell
+            │          Label: 2007
+(34th)
+            │          Style: LineSpan
+            └───────── Link: {'text:34th': 'http://en.wikipedia.org/wiki/34th_Saturn_Awards'}
+            [5, 0, 44] Type: Cell
+            │          Label: 2007
+(34th)
+            │          Style: LineSpan
+            └───────── Link: {'text:34th': 'http://en.wikipedia.org/wiki/34th_Saturn_Awards'}
+            [5, 0, 45] Type: Cell
+            │          Label: 2007
+(34th)
+            │          Style: LineSpan
+            └───────── Link: {'text:34th': 'http://en.wikipedia.org/wiki/34th_Saturn_Awards'}
+            [5, 0, 46] Type: Cell
+            │          Label: 2007
+(34th)
+            │          Style: LineSpan
+            └───────── Link: {'text:34th': 'http://en.wikipedia.org/wiki/34th_Saturn_Awards'}
+            [5, 0, 47] Type: Cell
+            │          Label: 2007
+(34th)
+            │          Style: LineSpan
+            └───────── Link: {'text:34th': 'http://en.wikipedia.org/wiki/34th_Saturn_Awards'}
+            [5, 0, 48] Type: Cell
+            │          Label: 2007
+(34th)
+            │          Style: LineSpan
+            └───────── Link: {'text:34th': 'http://en.wikipedia.org/wiki/34th_Saturn_Awards'}
+            [5, 0, 49] Type: Cell
+            │          Label: 2008
+(35th)
+            │          Style: LineSpan
+            └───────── Link: {'text:35th': 'http://en.wikipedia.org/wiki/35th_Saturn_Awards'}
+            [5, 0, 50] Type: Cell
+            │          Label: 2008
+(35th)
+            │          Style: LineSpan
+            └───────── Link: {'text:35th': 'http://en.wikipedia.org/wiki/35th_Saturn_Awards'}
+            [5, 0, 51] Type: Cell
+            │          Label: 2008
+(35th)
+            │          Style: LineSpan
+            └───────── Link: {'text:35th': 'http://en.wikipedia.org/wiki/35th_Saturn_Awards'}
+            [5, 0, 52] Type: Cell
+            │          Label: 2008
+(35th)
+            │          Style: LineSpan
+            └───────── Link: {'text:35th': 'http://en.wikipedia.org/wiki/35th_Saturn_Awards'}
+            [5, 0, 53] Type: Cell
+            │          Label: 2008
+(35th)
+            │          Style: LineSpan
+            └───────── Link: {'text:35th': 'http://en.wikipedia.org/wiki/35th_Saturn_Awards'}
+            [5, 0, 54] Type: Cell
+            │          Label: 2008
+(35th)
+            │          Style: LineSpan
+            └───────── Link: {'text:35th': 'http://en.wikipedia.org/wiki/35th_Saturn_Awards'}
+            [5, 0, 55] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+            [5, 0, 56] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+            [5, 0, 57] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+            [5, 0, 58] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+            [5, 0, 59] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+            [5, 0, 60] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+            [5, 0, 61] Type: Cell
+            │          Label: 2009
+(36th)
+            │          Style: LineSpan
+            └───────── Link: {'text:36th': 'http://en.wikipedia.org/wiki/36th_Saturn_Awards'}
+        [5, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 62
+            [5, 1, 0] Type: Cell
+            │         Label: Film
+            └──────── Style: Emphasize
+            [5, 1, 1] Type: Cell
+            │         Label: X-Men
+            └──────── Link: {'text:X-Men': 'http://en.wikipedia.org/wiki/X-Men_(film)'}
+            [5, 1, 2] Type: Cell
+            │         Label: The Cell
+            └──────── Link: {'text:The Cell': 'http://en.wikipedia.org/wiki/The_Cell'}
+            [5, 1, 3] Type: Cell
+            │         Label: Hollow Man
+            └──────── Link: {'text:Hollow Man': 'http://en.wikipedia.org/wiki/Hollow_Man'}
+            [5, 1, 4] Type: Cell
+            │         Label: The 6th Day
+            └──────── Link: {'text:The 6th Day': 'http://en.wikipedia.org/wiki/The_6th_Day'}
+            [5, 1, 5] Type: Cell
+            │         Label: Space Cowboys
+            └──────── Link: {'text:Space Cowboys': 'http://en.wikipedia.org/wiki/Space_Cowboys'}
+            [5, 1, 6] Type: Cell
+            │         Label: Titan A.E.
+            └──────── Link: {'text:Titan A.E.': 'http://en.wikipedia.org/wiki/Titan_A.E.'}
+            [5, 1, 7] Type: Cell
+            │         Label: A.I. Artificial Intelligence
+            └──────── Link: {'text:A.I. Artificial Intelligence': 'http://en.wikipedia.org/wiki/A.I._Artificial_Intelligence'}
+            [5, 1, 8] Type: Cell
+            │         Label: Jurassic Park III
+            └──────── Link: {'text:Jurassic Park III': 'http://en.wikipedia.org/wiki/Jurassic_Park_III'}
+            [5, 1, 9] Type: Cell
+            │         Label: Lara Croft: Tomb Raider
+            └──────── Link: {'text:Lara Croft: Tomb Raider': 'http://en.wikipedia.org/wiki/Lara_Croft:_Tomb_Raider'}
+            [5, 1, 10] Type: Cell
+            │          Label: The One
+            └───────── Link: {'text:The One': 'http://en.wikipedia.org/wiki/The_One_(2001_film)'}
+            [5, 1, 11] Type: Cell
+            │          Label: Planet of the Apes
+            └───────── Link: {'text:Planet of the Apes': 'http://en.wikipedia.org/wiki/Planet_of_the_Apes_(2001_film)'}
+            [5, 1, 12] Type: Cell
+            │          Label: Vanilla Sky
+            └───────── Link: {'text:Vanilla Sky': 'http://en.wikipedia.org/wiki/Vanilla_Sky'}
+            [5, 1, 13] Type: Cell
+            │          Label: Minority Report
+            └───────── Link: {'text:Minority Report': 'http://en.wikipedia.org/wiki/Minority_Report_(film)'}
+            [5, 1, 14] Type: Cell
+            │          Label: Men in Black II
+            └───────── Link: {'text:Men in Black II': 'http://en.wikipedia.org/wiki/Men_in_Black_II'}
+            [5, 1, 15] Type: Cell
+            │          Label: Signs
+            └───────── Link: {'text:Signs': 'http://en.wikipedia.org/wiki/Signs_(film)'}
+            [5, 1, 16] Type: Cell
+            │          Label: Solaris
+            └───────── Link: {'text:Solaris': 'http://en.wikipedia.org/wiki/Solaris_(2002_film)'}
+            [5, 1, 17] Type: Cell
+            │          Label: Star Trek: Nemesis
+            └───────── Link: {'text:Star Trek: Nemesis': 'http://en.wikipedia.org/wiki/Star_Trek:_Nemesis'}
+            [5, 1, 18] Type: Cell
+            │          Label: Star Wars: Episode II – Attack of the Clones
+            └───────── Link: {'text:Star Wars: Episode II – Attack of the Clones': 'http://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones'}
+            [5, 1, 19] Type: Cell
+            │          Label: X2
+            └───────── Link: {'text:X2': 'http://en.wikipedia.org/wiki/X2_(film)'}
+            [5, 1, 20] Type: Cell
+            │          Label: Hulk
+            └───────── Link: {'text:Hulk': 'http://en.wikipedia.org/wiki/Hulk_(film)'}
+            [5, 1, 21] Type: Cell
+            │          Label: Lara Croft Tomb Raider: The Cradle of Life
+            └───────── Link: {'text:Lara Croft Tomb Raider: The Cradle of Life': 'http://en.wikipedia.org/wiki/Lara_Croft_Tomb_Raider:_The_Cradle_of_Life'}
+            [5, 1, 22] Type: Cell
+            │          Label: The Matrix Revolutions
+            └───────── Link: {'text:The Matrix Revolutions': 'http://en.wikipedia.org/wiki/The_Matrix_Revolutions'}
+            [5, 1, 23] Type: Cell
+            │          Label: Paycheck
+            └───────── Link: {'text:Paycheck': 'http://en.wikipedia.org/wiki/Paycheck_(film)'}
+            [5, 1, 24] Type: Cell
+            │          Label: Terminator 3: Rise of the Machines
+            └───────── Link: {'text:Terminator 3: Rise of the Machines': 'http://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines'}
+            [5, 1, 25] Type: Cell
+            │          Label: Eternal Sunshine of the Spotless Mind
+            └───────── Link: {'text:Eternal Sunshine of the Spotless Mind': 'http://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind'}
+            [5, 1, 26] Type: Cell
+            │          Label: The Butterfly Effect
+            └───────── Link: {'text:The Butterfly Effect': 'http://en.wikipedia.org/wiki/The_Butterfly_Effect'}
+            [5, 1, 27] Type: Cell
+            │          Label: The Day After Tomorrow
+            └───────── Link: {'text:The Day After Tomorrow': 'http://en.wikipedia.org/wiki/The_Day_After_Tomorrow'}
+            [5, 1, 28] Type: Cell
+            │          Label: The Forgotten
+            └───────── Link: {'text:The Forgotten': 'http://en.wikipedia.org/wiki/The_Forgotten_(2004_film)'}
+            [5, 1, 29] Type: Cell
+            │          Label: I, Robot
+            └───────── Link: {'text:I, Robot': 'http://en.wikipedia.org/wiki/I,_Robot_(film)'}
+            [5, 1, 30] Type: Cell
+            │          Label: Sky Captain and the World of Tomorrow
+            └───────── Link: {'text:Sky Captain and the World of Tomorrow': 'http://en.wikipedia.org/wiki/Sky_Captain_and_the_World_of_Tomorrow'}
+            [5, 1, 31] Type: Cell
+            │          Label: Star Wars: Episode III – Revenge of the Sith
+            └───────── Link: {'text:Star Wars: Episode III – Revenge of the Sith': 'http://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith'}
+            [5, 1, 32] Type: Cell
+            │          Label: Fantastic Four
+            └───────── Link: {'text:Fantastic Four': 'http://en.wikipedia.org/wiki/Fantastic_Four_(2005_film)'}
+            [5, 1, 33] Type: Cell
+            │          Label: The Island
+            └───────── Link: {'text:The Island': 'http://en.wikipedia.org/wiki/The_Island_(2005_film)'}
+            [5, 1, 34] Type: Cell
+            │          Label: The Jacket
+            └───────── Link: {'text:The Jacket': 'http://en.wikipedia.org/wiki/The_Jacket'}
+            [5, 1, 35] Type: Cell
+            │          Label: Serenity
+            └───────── Link: {'text:Serenity': 'http://en.wikipedia.org/wiki/Serenity_(2005_film)'}
+            [5, 1, 36] Type: Cell
+            │          Label: War of the Worlds
+            └───────── Link: {'text:War of the Worlds': 'http://en.wikipedia.org/wiki/War_of_the_Worlds_(2005_film)'}
+            [5, 1, 37] Type: Cell
+            │          Label: Children of Men
+            └───────── Link: {'text:Children of Men': 'http://en.wikipedia.org/wiki/Children_of_Men'}
+            [5, 1, 38] Type: Cell
+            │          Label: Déjà Vu
+            └───────── Link: {'text:Déjà Vu': 'http://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)'}
+            [5, 1, 39] Type: Cell
+            │          Label: The Fountain
+            └───────── Link: {'text:The Fountain': 'http://en.wikipedia.org/wiki/The_Fountain'}
+            [5, 1, 40] Type: Cell
+            │          Label: The Prestige
+            └───────── Link: {'text:The Prestige': 'http://en.wikipedia.org/wiki/The_Prestige_(film)'}
+            [5, 1, 41] Type: Cell
+            │          Label: V for Vendetta
+            └───────── Link: {'text:V for Vendetta': 'http://en.wikipedia.org/wiki/V_for_Vendetta_(film)'}
+            [5, 1, 42] Type: Cell
+            │          Label: X-Men: The Last Stand
+            └───────── Link: {'text:X-Men: The Last Stand': 'http://en.wikipedia.org/wiki/X-Men:_The_Last_Stand'}
+            [5, 1, 43] Type: Cell
+            │          Label: Cloverfield
+            └───────── Link: {'text:Cloverfield': 'http://en.wikipedia.org/wiki/Cloverfield'}
+            [5, 1, 44] Type: Cell
+            │          Label: Fantastic Four: Rise of the Silver Surfer
+            └───────── Link: {'text:Fantastic Four: Rise of the Silver Surfer': 'http://en.wikipedia.org/wiki/Fantastic_Four:_Rise_of_the_Silver_Surfer'}
+            [5, 1, 45] Type: Cell
+            │          Label: I Am Legend
+            └───────── Link: {'text:I Am Legend': 'http://en.wikipedia.org/wiki/I_Am_Legend_(film)'}
+            [5, 1, 46] Type: Cell
+            │          Label: The Last Mimzy
+            └───────── Link: {'text:The Last Mimzy': 'http://en.wikipedia.org/wiki/The_Last_Mimzy'}
+            [5, 1, 47] Type: Cell
+            │          Label: Sunshine
+            └───────── Link: {'text:Sunshine': 'http://en.wikipedia.org/wiki/Sunshine_(2007_film)'}
+            [5, 1, 48] Type: Cell
+            │          Label: Transformers
+            └───────── Link: {'text:Transformers': 'http://en.wikipedia.org/wiki/Transformers_(film)'}
+            [5, 1, 49] Type: Cell
+            │          Label: Iron Man
+            └───────── Link: {'text:Iron Man': 'http://en.wikipedia.org/wiki/Iron_Man_(2008_film)'}
+            [5, 1, 50] Type: Cell
+            │          Label: The Day the Earth Stood Still
+            └───────── Link: {'text:The Day the Earth Stood Still': 'http://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_(2008_film)'}
+            [5, 1, 51] Type: Cell
+            │          Label: Eagle Eye
+            └───────── Link: {'text:Eagle Eye': 'http://en.wikipedia.org/wiki/Eagle_Eye'}
+            [5, 1, 52] Type: Cell
+            │          Label: The Incredible Hulk
+            └───────── Link: {'text:The Incredible Hulk': 'http://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)'}
+            [5, 1, 53] Type: Cell
+            │          Label: Indiana Jones and the Kingdom of the Crystal Skull
+            └───────── Link: {'text:Indiana Jones and the Kingdom of the Crystal Skull': 'http://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull'}
+            [5, 1, 54] Type: Cell
+            │          Label: Jumper
+            └───────── Link: {'text:Jumper': 'http://en.wikipedia.org/wiki/Jumper_(2008_film)'}
+            [5, 1, 55] Type: Cell
+            │          Label: Avatar
+            └───────── Link: {'text:Avatar': 'http://en.wikipedia.org/wiki/Avatar_(2009_film)'}
+            [5, 1, 56] Type: Cell
+            │          Label: The Book of Eli
+            └───────── Link: {'text:The Book of Eli': 'http://en.wikipedia.org/wiki/The_Book_of_Eli'}
+            [5, 1, 57] Type: Cell
+            │          Label: Knowing
+            └───────── Link: {'text:Knowing': 'http://en.wikipedia.org/wiki/Knowing_(film)'}
+            [5, 1, 58] Type: Cell
+            │          Label: Moon
+            └───────── Link: {'text:Moon': 'http://en.wikipedia.org/wiki/Moon_(film)'}
+            [5, 1, 59] Type: Cell
+            │          Label: Star Trek
+            └───────── Link: {'text:Star Trek': 'http://en.wikipedia.org/wiki/Star_Trek_(film)'}
+            [5, 1, 60] Type: Cell
+            │          Label: Transformers: Revenge of the Fallen
+            └───────── Link: {'text:Transformers: Revenge of the Fallen': 'http://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen'}
+            [5, 1, 61] Type: Cell
+            │          Label: X-Men Origins: Wolverine
+            └───────── Link: {'text:X-Men Origins: Wolverine': 'http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine'}
+    [6] Type: Table
+    │   Label: 2010s
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [6, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 56
+            [6, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [6, 0, 1] Type: Cell
+            │         Label: 2010
+(37th)
+            │         Style: LineSpan
+            └──────── Link: {'text:37th': 'http://en.wikipedia.org/wiki/37th_Saturn_Awards'}
+            [6, 0, 2] Type: Cell
+            │         Label: 2010
+(37th)
+            │         Style: LineSpan
+            └──────── Link: {'text:37th': 'http://en.wikipedia.org/wiki/37th_Saturn_Awards'}
+            [6, 0, 3] Type: Cell
+            │         Label: 2010
+(37th)
+            │         Style: LineSpan
+            └──────── Link: {'text:37th': 'http://en.wikipedia.org/wiki/37th_Saturn_Awards'}
+            [6, 0, 4] Type: Cell
+            │         Label: 2010
+(37th)
+            │         Style: LineSpan
+            └──────── Link: {'text:37th': 'http://en.wikipedia.org/wiki/37th_Saturn_Awards'}
+            [6, 0, 5] Type: Cell
+            │         Label: 2010
+(37th)
+            │         Style: LineSpan
+            └──────── Link: {'text:37th': 'http://en.wikipedia.org/wiki/37th_Saturn_Awards'}
+            [6, 0, 6] Type: Cell
+            │         Label: 2010
+(37th)
+            │         Style: LineSpan
+            └──────── Link: {'text:37th': 'http://en.wikipedia.org/wiki/37th_Saturn_Awards'}
+            [6, 0, 7] Type: Cell
+            │         Label: 2011
+(38th)
+            │         Style: LineSpan
+            └──────── Link: {'text:38th': 'http://en.wikipedia.org/wiki/38th_Saturn_Awards'}
+            [6, 0, 8] Type: Cell
+            │         Label: 2011
+(38th)
+            │         Style: LineSpan
+            └──────── Link: {'text:38th': 'http://en.wikipedia.org/wiki/38th_Saturn_Awards'}
+            [6, 0, 9] Type: Cell
+            │         Label: 2011
+(38th)
+            │         Style: LineSpan
+            └──────── Link: {'text:38th': 'http://en.wikipedia.org/wiki/38th_Saturn_Awards'}
+            [6, 0, 10] Type: Cell
+            │          Label: 2011
+(38th)
+            │          Style: LineSpan
+            └───────── Link: {'text:38th': 'http://en.wikipedia.org/wiki/38th_Saturn_Awards'}
+            [6, 0, 11] Type: Cell
+            │          Label: 2011
+(38th)
+            │          Style: LineSpan
+            └───────── Link: {'text:38th': 'http://en.wikipedia.org/wiki/38th_Saturn_Awards'}
+            [6, 0, 12] Type: Cell
+            │          Label: 2011
+(38th)
+            │          Style: LineSpan
+            └───────── Link: {'text:38th': 'http://en.wikipedia.org/wiki/38th_Saturn_Awards'}
+            [6, 0, 13] Type: Cell
+            │          Label: 2012
+(39th)
+            │          Style: LineSpan
+            └───────── Link: {'text:39th': 'http://en.wikipedia.org/wiki/39th_Saturn_Awards'}
+            [6, 0, 14] Type: Cell
+            │          Label: 2012
+(39th)
+            │          Style: LineSpan
+            └───────── Link: {'text:39th': 'http://en.wikipedia.org/wiki/39th_Saturn_Awards'}
+            [6, 0, 15] Type: Cell
+            │          Label: 2012
+(39th)
+            │          Style: LineSpan
+            └───────── Link: {'text:39th': 'http://en.wikipedia.org/wiki/39th_Saturn_Awards'}
+            [6, 0, 16] Type: Cell
+            │          Label: 2012
+(39th)
+            │          Style: LineSpan
+            └───────── Link: {'text:39th': 'http://en.wikipedia.org/wiki/39th_Saturn_Awards'}
+            [6, 0, 17] Type: Cell
+            │          Label: 2012
+(39th)
+            │          Style: LineSpan
+            └───────── Link: {'text:39th': 'http://en.wikipedia.org/wiki/39th_Saturn_Awards'}
+            [6, 0, 18] Type: Cell
+            │          Label: 2012
+(39th)
+            │          Style: LineSpan
+            └───────── Link: {'text:39th': 'http://en.wikipedia.org/wiki/39th_Saturn_Awards'}
+            [6, 0, 19] Type: Cell
+            │          Label: 2013
+(40th)
+            │          Style: LineSpan
+            └───────── Link: {'text:40th': 'http://en.wikipedia.org/wiki/40th_Saturn_Awards'}
+            [6, 0, 20] Type: Cell
+            │          Label: 2013
+(40th)
+            │          Style: LineSpan
+            └───────── Link: {'text:40th': 'http://en.wikipedia.org/wiki/40th_Saturn_Awards'}
+            [6, 0, 21] Type: Cell
+            │          Label: 2013
+(40th)
+            │          Style: LineSpan
+            └───────── Link: {'text:40th': 'http://en.wikipedia.org/wiki/40th_Saturn_Awards'}
+            [6, 0, 22] Type: Cell
+            │          Label: 2013
+(40th)
+            │          Style: LineSpan
+            └───────── Link: {'text:40th': 'http://en.wikipedia.org/wiki/40th_Saturn_Awards'}
+            [6, 0, 23] Type: Cell
+            │          Label: 2013
+(40th)
+            │          Style: LineSpan
+            └───────── Link: {'text:40th': 'http://en.wikipedia.org/wiki/40th_Saturn_Awards'}
+            [6, 0, 24] Type: Cell
+            │          Label: 2013
+(40th)
+            │          Style: LineSpan
+            └───────── Link: {'text:40th': 'http://en.wikipedia.org/wiki/40th_Saturn_Awards'}
+            [6, 0, 25] Type: Cell
+            │          Label: 2014
+(41st)
+            │          Style: LineSpan
+            └───────── Link: {'text:41st': 'http://en.wikipedia.org/wiki/41st_Saturn_Awards'}
+            [6, 0, 26] Type: Cell
+            │          Label: 2014
+(41st)
+            │          Style: LineSpan
+            └───────── Link: {'text:41st': 'http://en.wikipedia.org/wiki/41st_Saturn_Awards'}
+            [6, 0, 27] Type: Cell
+            │          Label: 2014
+(41st)
+            │          Style: LineSpan
+            └───────── Link: {'text:41st': 'http://en.wikipedia.org/wiki/41st_Saturn_Awards'}
+            [6, 0, 28] Type: Cell
+            │          Label: 2014
+(41st)
+            │          Style: LineSpan
+            └───────── Link: {'text:41st': 'http://en.wikipedia.org/wiki/41st_Saturn_Awards'}
+            [6, 0, 29] Type: Cell
+            │          Label: 2014
+(41st)
+            │          Style: LineSpan
+            └───────── Link: {'text:41st': 'http://en.wikipedia.org/wiki/41st_Saturn_Awards'}
+            [6, 0, 30] Type: Cell
+            │          Label: 2014
+(41st)
+            │          Style: LineSpan
+            └───────── Link: {'text:41st': 'http://en.wikipedia.org/wiki/41st_Saturn_Awards'}
+            [6, 0, 31] Type: Cell
+            │          Label: 2015
+(42nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:42nd': 'http://en.wikipedia.org/wiki/42nd_Saturn_Awards'}
+            [6, 0, 32] Type: Cell
+            │          Label: 2015
+(42nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:42nd': 'http://en.wikipedia.org/wiki/42nd_Saturn_Awards'}
+            [6, 0, 33] Type: Cell
+            │          Label: 2015
+(42nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:42nd': 'http://en.wikipedia.org/wiki/42nd_Saturn_Awards'}
+            [6, 0, 34] Type: Cell
+            │          Label: 2015
+(42nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:42nd': 'http://en.wikipedia.org/wiki/42nd_Saturn_Awards'}
+            [6, 0, 35] Type: Cell
+            │          Label: 2015
+(42nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:42nd': 'http://en.wikipedia.org/wiki/42nd_Saturn_Awards'}
+            [6, 0, 36] Type: Cell
+            │          Label: 2015
+(42nd)
+            │          Style: LineSpan
+            └───────── Link: {'text:42nd': 'http://en.wikipedia.org/wiki/42nd_Saturn_Awards'}
+            [6, 0, 37] Type: Cell
+            │          Label: 2016
+(43rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:43rd': 'http://en.wikipedia.org/wiki/43rd_Saturn_Awards'}
+            [6, 0, 38] Type: Cell
+            │          Label: 2016
+(43rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:43rd': 'http://en.wikipedia.org/wiki/43rd_Saturn_Awards'}
+            [6, 0, 39] Type: Cell
+            │          Label: 2016
+(43rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:43rd': 'http://en.wikipedia.org/wiki/43rd_Saturn_Awards'}
+            [6, 0, 40] Type: Cell
+            │          Label: 2016
+(43rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:43rd': 'http://en.wikipedia.org/wiki/43rd_Saturn_Awards'}
+            [6, 0, 41] Type: Cell
+            │          Label: 2016
+(43rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:43rd': 'http://en.wikipedia.org/wiki/43rd_Saturn_Awards'}
+            [6, 0, 42] Type: Cell
+            │          Label: 2016
+(43rd)
+            │          Style: LineSpan
+            └───────── Link: {'text:43rd': 'http://en.wikipedia.org/wiki/43rd_Saturn_Awards'}
+            [6, 0, 43] Type: Cell
+            │          Label: 2017
+(44th)
+            │          Style: LineSpan
+            └───────── Link: {'text:44th': 'http://en.wikipedia.org/wiki/44th_Saturn_Awards'}
+            [6, 0, 44] Type: Cell
+            │          Label: 2017
+(44th)
+            │          Style: LineSpan
+            └───────── Link: {'text:44th': 'http://en.wikipedia.org/wiki/44th_Saturn_Awards'}
+            [6, 0, 45] Type: Cell
+            │          Label: 2017
+(44th)
+            │          Style: LineSpan
+            └───────── Link: {'text:44th': 'http://en.wikipedia.org/wiki/44th_Saturn_Awards'}
+            [6, 0, 46] Type: Cell
+            │          Label: 2017
+(44th)
+            │          Style: LineSpan
+            └───────── Link: {'text:44th': 'http://en.wikipedia.org/wiki/44th_Saturn_Awards'}
+            [6, 0, 47] Type: Cell
+            │          Label: 2017
+(44th)
+            │          Style: LineSpan
+            └───────── Link: {'text:44th': 'http://en.wikipedia.org/wiki/44th_Saturn_Awards'}
+            [6, 0, 48] Type: Cell
+            │          Label: 2017
+(44th)
+            │          Style: LineSpan
+            └───────── Link: {'text:44th': 'http://en.wikipedia.org/wiki/44th_Saturn_Awards'}
+            [6, 0, 49] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [6, 0, 50] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [6, 0, 51] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [6, 0, 52] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [6, 0, 53] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [6, 0, 54] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+            [6, 0, 55] Type: Cell
+            │          Label: 2018/2019
+(45th)
+            │          Style: LineSpan
+            └───────── Link: {'text:45th': 'http://en.wikipedia.org/wiki/45th_Saturn_Awards'}
+        [6, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 56
+            [6, 1, 0] Type: Cell
+            │         Label: Film
+            └──────── Style: Emphasize
+            [6, 1, 1] Type: Cell
+            │         Label: Inception
+            └──────── Link: {'text:Inception': 'http://en.wikipedia.org/wiki/Inception'}
+            [6, 1, 2] Type: Cell
+            │         Label: Hereafter
+            └──────── Link: {'text:Hereafter': 'http://en.wikipedia.org/wiki/Hereafter_(film)'}
+            [6, 1, 3] Type: Cell
+            │         Label: Iron Man 2
+            └──────── Link: {'text:Iron Man 2': 'http://en.wikipedia.org/wiki/Iron_Man_2'}
+            [6, 1, 4] Type: Cell
+            │         Label: Never Let Me Go
+            └──────── Link: {'text:Never Let Me Go': 'http://en.wikipedia.org/wiki/Never_Let_Me_Go_(2010_film)'}
+            [6, 1, 5] Type: Cell
+            │         Label: Splice
+            └──────── Link: {'text:Splice': 'http://en.wikipedia.org/wiki/Splice_(film)'}
+            [6, 1, 6] Type: Cell
+            │         Label: Tron: Legacy
+            └──────── Link: {'text:Tron: Legacy': 'http://en.wikipedia.org/wiki/Tron:_Legacy'}
+            [6, 1, 7] Type: Cell
+            │         Label: Rise of the Planet of the Apes
+            └──────── Link: {'text:Rise of the Planet of the Apes': 'http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes'}
+            [6, 1, 8] Type: Cell
+            │         Label: The Adjustment Bureau
+            └──────── Link: {'text:The Adjustment Bureau': 'http://en.wikipedia.org/wiki/The_Adjustment_Bureau'}
+            [6, 1, 9] Type: Cell
+            │         Label: Captain America: The First Avenger
+            └──────── Link: {'text:Captain America: The First Avenger': 'http://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger'}
+            [6, 1, 10] Type: Cell
+            │          Label: Limitless
+            └───────── Link: {'text:Limitless': 'http://en.wikipedia.org/wiki/Limitless_(film)'}
+            [6, 1, 11] Type: Cell
+            │          Label: Super 8
+            └───────── Link: {'text:Super 8': 'http://en.wikipedia.org/wiki/Super_8_(2011_film)'}
+            [6, 1, 12] Type: Cell
+            │          Label: X-Men: First Class
+            └───────── Link: {'text:X-Men: First Class': 'http://en.wikipedia.org/wiki/X-Men:_First_Class'}
+            [6, 1, 13] Type: Cell
+            │          Label: The Avengers
+            └───────── Link: {'text:The Avengers': 'http://en.wikipedia.org/wiki/The_Avengers_(2012_film)'}
+            [6, 1, 14] Type: Cell
+            │          Label: Chronicle
+            └───────── Link: {'text:Chronicle': 'http://en.wikipedia.org/wiki/Chronicle_(film)'}
+            [6, 1, 15] Type: Cell
+            │          Label: Cloud Atlas
+            └───────── Link: {'text:Cloud Atlas': 'http://en.wikipedia.org/wiki/Cloud_Atlas_(film)'}
+            [6, 1, 16] Type: Cell
+            │          Label: The Hunger Games
+            └───────── Link: {'text:The Hunger Games': 'http://en.wikipedia.org/wiki/The_Hunger_Games_(film)'}
+            [6, 1, 17] Type: Cell
+            │          Label: Looper
+            └───────── Link: {'text:Looper': 'http://en.wikipedia.org/wiki/Looper_(film)'}
+            [6, 1, 18] Type: Cell
+            │          Label: Prometheus
+            └───────── Link: {'text:Prometheus': 'http://en.wikipedia.org/wiki/Prometheus_(2012_film)'}
+            [6, 1, 19] Type: Cell
+            │          Label: Gravity
+            └───────── Link: {'text:Gravity': 'http://en.wikipedia.org/wiki/Gravity_(2013_film)'}
+            [6, 1, 20] Type: Cell
+            │          Label: Ender's Game
+            └───────── Link: {"text:Ender's Game": 'http://en.wikipedia.org/wiki/Ender%27s_Game_(film)'}
+            [6, 1, 21] Type: Cell
+            │          Label: The Hunger Games: Catching Fire
+            └───────── Link: {'text:The Hunger Games: Catching Fire': 'http://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire'}
+            [6, 1, 22] Type: Cell
+            │          Label: Pacific Rim
+            └───────── Link: {'text:Pacific Rim': 'http://en.wikipedia.org/wiki/Pacific_Rim_(film)'}
+            [6, 1, 23] Type: Cell
+            │          Label: Riddick
+            └───────── Link: {'text:Riddick': 'http://en.wikipedia.org/wiki/Riddick_(film)'}
+            [6, 1, 24] Type: Cell
+            │          Label: Star Trek Into Darkness
+            └───────── Link: {'text:Star Trek Into Darkness': 'http://en.wikipedia.org/wiki/Star_Trek_Into_Darkness'}
+            [6, 1, 25] Type: Cell
+            │          Label: Interstellar
+            └───────── Link: {'text:Interstellar': 'http://en.wikipedia.org/wiki/Interstellar_(film)'}
+            [6, 1, 26] Type: Cell
+            │          Label: Dawn of the Planet of the Apes
+            └───────── Link: {'text:Dawn of the Planet of the Apes': 'http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes'}
+            [6, 1, 27] Type: Cell
+            │          Label: Edge of Tomorrow
+            └───────── Link: {'text:Edge of Tomorrow': 'http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film)'}
+            [6, 1, 28] Type: Cell
+            │          Label: Godzilla
+            └───────── Link: {'text:Godzilla': 'http://en.wikipedia.org/wiki/Godzilla_(2014_film)'}
+            [6, 1, 29] Type: Cell
+            │          Label: The Hunger Games: Mockingjay – Part 1
+            └───────── Link: {'text:The Hunger Games: Mockingjay – Part 1': 'http://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_1'}
+            [6, 1, 30] Type: Cell
+            │          Label: The Zero Theorem
+            └───────── Link: {'text:The Zero Theorem': 'http://en.wikipedia.org/wiki/The_Zero_Theorem'}
+            [6, 1, 31] Type: Cell
+            │          Label: Star Wars: The Force Awakens
+            └───────── Link: {'text:Star Wars: The Force Awakens': 'http://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens'}
+            [6, 1, 32] Type: Cell
+            │          Label: Ex Machina
+            └───────── Link: {'text:Ex Machina': 'http://en.wikipedia.org/wiki/Ex_Machina_(film)'}
+            [6, 1, 33] Type: Cell
+            │          Label: Jurassic World
+            └───────── Link: {'text:Jurassic World': 'http://en.wikipedia.org/wiki/Jurassic_World'}
+            [6, 1, 34] Type: Cell
+            │          Label: Mad Max: Fury Road
+            └───────── Link: {'text:Mad Max: Fury Road': 'http://en.wikipedia.org/wiki/Mad_Max:_Fury_Road'}
+            [6, 1, 35] Type: Cell
+            │          Label: The Martian
+            └───────── Link: {'text:The Martian': 'http://en.wikipedia.org/wiki/The_Martian_(film)'}
+            [6, 1, 36] Type: Cell
+            │          Label: Terminator Genisys
+            └───────── Link: {'text:Terminator Genisys': 'http://en.wikipedia.org/wiki/Terminator_Genisys'}
+            [6, 1, 37] Type: Cell
+            │          Label: Rogue One: A Star Wars Story
+            └───────── Link: {'text:Rogue One: A Star Wars Story': 'http://en.wikipedia.org/wiki/Rogue_One'}
+            [6, 1, 38] Type: Cell
+            │          Label: Arrival
+            └───────── Link: {'text:Arrival': 'http://en.wikipedia.org/wiki/Arrival_(film)'}
+            [6, 1, 39] Type: Cell
+            │          Label: Independence Day: Resurgence
+            └───────── Link: {'text:Independence Day: Resurgence': 'http://en.wikipedia.org/wiki/Independence_Day:_Resurgence'}
+            [6, 1, 40] Type: Cell
+            │          Label: Midnight Special
+            └───────── Link: {'text:Midnight Special': 'http://en.wikipedia.org/wiki/Midnight_Special_(film)'}
+            [6, 1, 41] Type: Cell
+            │          Label: Passengers
+            └───────── Link: {'text:Passengers': 'http://en.wikipedia.org/wiki/Passengers_(2016_film)'}
+            [6, 1, 42] Type: Cell
+            │          Label: Star Trek Beyond
+            └───────── Link: {'text:Star Trek Beyond': 'http://en.wikipedia.org/wiki/Star_Trek_Beyond'}
+            [6, 1, 43] Type: Cell
+            │          Label: Blade Runner 2049
+            └───────── Link: {'text:Blade Runner 2049': 'http://en.wikipedia.org/wiki/Blade_Runner_2049'}
+            [6, 1, 44] Type: Cell
+            │          Label: Alien: Covenant
+            └───────── Link: {'text:Alien: Covenant': 'http://en.wikipedia.org/wiki/Alien:_Covenant'}
+            [6, 1, 45] Type: Cell
+            │          Label: Life
+            └───────── Link: {'text:Life': 'http://en.wikipedia.org/wiki/Life_(2017_film)'}
+            [6, 1, 46] Type: Cell
+            │          Label: Star Wars: The Last Jedi
+            └───────── Link: {'text:Star Wars: The Last Jedi': 'http://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi'}
+            [6, 1, 47] Type: Cell
+            │          Label: Valerian and the City of a Thousand Planets
+            └───────── Link: {'text:Valerian and the City of a Thousand Planets': 'http://en.wikipedia.org/wiki/Valerian_and_the_City_of_a_Thousand_Planets'}
+            [6, 1, 48] Type: Cell
+            │          Label: War for the Planet of the Apes
+            └───────── Link: {'text:War for the Planet of the Apes': 'http://en.wikipedia.org/wiki/War_for_the_Planet_of_the_Apes'}
+            [6, 1, 49] Type: Cell
+            │          Label: Ready Player One
+            └───────── Link: {'text:Ready Player One': 'http://en.wikipedia.org/wiki/Ready_Player_One_(film)'}
+            [6, 1, 50] Type: Cell
+            │          Label: Alita: Battle Angel
+            └───────── Link: {'text:Alita: Battle Angel': 'http://en.wikipedia.org/wiki/Alita:_Battle_Angel'}
+            [6, 1, 51] Type: Cell
+            │          Label: Bumblebee
+            └───────── Link: {'text:Bumblebee': 'http://en.wikipedia.org/wiki/Bumblebee_(film)'}
+            [6, 1, 52] Type: Cell
+            │          Label: Jurassic World: Fallen Kingdom
+            └───────── Link: {'text:Jurassic World: Fallen Kingdom': 'http://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom'}
+            [6, 1, 53] Type: Cell
+            │          Label: Solo: A Star Wars Story
+            └───────── Link: {'text:Solo: A Star Wars Story': 'http://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story'}
+            [6, 1, 54] Type: Cell
+            │          Label: Sorry to Bother You
+            └───────── Link: {'text:Sorry to Bother You': 'http://en.wikipedia.org/wiki/Sorry_to_Bother_You'}
+            [6, 1, 55] Type: Cell
+            │          Label: Upgrade
+            └───────── Link: {'text:Upgrade': 'http://en.wikipedia.org/wiki/Upgrade_(film)'}
+    [7] Type: List
+    │   Label: See also
+    │   Dimension: 1
+    └── Number of Member: 1
+        [7, 0] Type: Item
+        │      Label: Science fiction film
+        └───── Link: {'text:Science fiction film': 'http://en.wikipedia.org/wiki/Science_fiction_film'}
+    [8] Type: List
+    │   Label: External links
+    │   Dimension: 1
+    └── Number of Member: 2
+        [8, 0] Type: Item
+        │      Label: Official website
+        └───── Link: {'text:Official website': 'http://www.saturnawards.org'}
+        [8, 1] Type: Item
+        │      Label: Internet Movie Database: 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd, 23rd, 24th, 25th, 26th, 27th, 28th, 29th, 30th, 31st, 32nd, 33rd, 34th, 35th, 36th, 37th, 38th, 39th, 40th, 41st, 42nd, 43rd
+        └───── Link: {'text:1st': 'https://www.imdb.com/event/ev0000004/1973', 'text:2nd': 'https://www.imdb.com/event/ev0000004/1975', 'text:3rd': 'https://www.imdb.com/event/ev0000004/1976', 'text:4th': 'https://www.imdb.com/event/ev0000004/1977', 'text:5th': 'https://www.imdb.com/event/ev0000004/1978', 'text:6th': 'https://www.imdb.com/event/ev0000004/1979', 'text:7th': 'https://www.imdb.com/event/ev0000004/1980', 'text:8th': 'https://www.imdb.com/event/ev0000004/1981', 'text:9th': 'https://www.imdb.com/event/ev0000004/1982', 'text:10th': 'https://www.imdb.com/event/ev0000004/1983', 'text:11th': 'https://www.imdb.com/event/ev0000004/1984', 'text:12th': 'https://www.imdb.com/event/ev0000004/1985', 'text:13th': 'https://www.imdb.com/event/ev0000004/1986', 'text:14th': 'https://www.imdb.com/event/ev0000004/1987', 'text:15th': 'https://www.imdb.com/event/ev0000004/1988', 'text:16th': 'https://www.imdb.com/event/ev0000004/1990', 'text:17th': 'https://www.imdb.com/event/ev0000004/1991', 'text:18th': 'https://www.imdb.com/event/ev0000004/1992', 'text:19th': 'https://www.imdb.com/event/ev0000004/1993', 'text:20th': 'https://www.imdb.com/event/ev0000004/1994', 'text:21st': 'https://www.imdb.com/event/ev0000004/1995', 'text:22nd': 'https://www.imdb.com/event/ev0000004/1996', 'text:23rd': 'https://www.imdb.com/event/ev0000004/1997', 'text:24th': 'https://www.imdb.com/event/ev0000004/1998', 'text:25th': 'https://www.imdb.com/event/ev0000004/1999', 'text:26th': 'https://www.imdb.com/event/ev0000004/2000', 'text:27th': 'https://www.imdb.com/event/ev0000004/2001', 'text:28th': 'https://www.imdb.com/event/ev0000004/2002', 'text:29th': 'https://www.imdb.com/event/ev0000004/2003', 'text:30th': 'https://www.imdb.com/event/ev0000004/2004', 'text:31st': 'https://www.imdb.com/event/ev0000004/2005', 'text:32nd': 'https://www.imdb.com/event/ev0000004/2006', 'text:33rd': 'https://www.imdb.com/event/ev0000004/2007', 'text:34th': 'https://www.imdb.com/event/ev0000004/2008', 'text:35th': 'https://www.imdb.com/event/ev0000004/2009', 'text:36th': 'https://www.imdb.com/event/ev0000004/2010', 'text:37th': 'https://www.imdb.com/event/ev0000004/2011', 'text:38th': 'https://www.imdb.com/event/ev0000004/2012', 'text:39th': 'https://www.imdb.com/event/ev0000004/2013', 'text:40th': 'https://www.imdb.com/event/ev0000004/2014', 'text:41st': 'https://www.imdb.com/event/ev0000004/2015', 'text:42nd': 'https://www.imdb.com/event/ev0000004/2016', 'text:43rd': 'https://www.imdb.com/event/ev0000004/2017'}
+    [9] Type: List
+    │   Label: External links
+    │   Dimension: 1
+    └── Number of Member: 2
+        [9, 0] Type: Item
+        │      Label: Science fiction films
+        └───── Link: {'text:Science fiction films': 'http://en.wikipedia.org/wiki/Category:Science_fiction_films'}
+        [9, 1] Type: Item
+        │      Label: Saturn Awards
+        └───── Link: {'text:Saturn Awards': 'http://en.wikipedia.org/wiki/Category:Saturn_Awards'}
+    [10] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [10, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Saturn_Award_for_Best_Science_Fiction_Film'}
+        [10, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Saturn_Award_for_Best_Science_Fiction_Film'}
+        [10, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [10, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [10, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Saturn_Award_for_Best_Science_Fiction_Film&oldid=920464240'}
+        [10, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Saturn_Award_for_Best_Science_Fiction_Film&action=info'}
+        [10, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q1131772'}
+        [10, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Saturn_Award_for_Best_Science_Fiction_Film&id=920464240'}
+    [11] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [11, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Saturn+Award+for+Best+Science+Fiction+Film'}
+        [11, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Saturn+Award+for+Best+Science+Fiction+Film&action=show-download-screen'}
+        [11, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Saturn_Award_for_Best_Science_Fiction_Film&printable=yes'}
+    [12] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 20
+        [12, 0] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%B2%D8%AD%D9%84_%D9%84%D8%A3%D9%81%D8%B6%D9%84_%D9%81%D9%8A%D9%84%D9%85_%D8%AE%D9%8A%D8%A7%D9%84_%D8%B9%D9%84%D9%85%D9%8A'}
+        [12, 1] Type: Item
+        │       Label: Azərbaycanca
+        └────── Link: {'text:Azərbaycanca': 'https://az.wikipedia.org/wiki/%C6%8Fn_yax%C5%9F%C4%B1_elmi_fantastika_filmin%C9%99_g%C3%B6r%C9%99_Saturn_m%C3%BCkafat%C4%B1'}
+        [12, 2] Type: Item
+        │       Label: Български
+        └────── Link: {'text:Български': 'https://bg.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD_%D0%B7%D0%B0_%D0%BD%D0%B0%D0%B9-%D0%B4%D0%BE%D0%B1%D1%8A%D1%80_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D0%BD_%D1%84%D0%B8%D0%BB%D0%BC'}
+        [12, 3] Type: Item
+        │       Label: Deutsch
+        └────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Saturn_Award_f%C3%BCr_den_besten_Science-Fiction-Film'}
+        [12, 4] Type: Item
+        │       Label: Español
+        └────── Link: {'text:Español': 'https://es.wikipedia.org/wiki/Anexo:Saturn_a_la_mejor_pel%C3%ADcula_de_ciencia_ficci%C3%B3n'}
+        [12, 5] Type: Item
+        │       Label: Français
+        └────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Saturn_Award_du_meilleur_film_de_science-fiction'}
+        [12, 6] Type: Item
+        │       Label: Hrvatski
+        └────── Link: {'text:Hrvatski': 'https://hr.wikipedia.org/wiki/Dodatak:Nagrada_Saturn_za_najbolji_znanstveno_fantasti%C4%8Dni_film'}
+        [12, 7] Type: Item
+        │       Label: Italiano
+        └────── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/Saturn_Award_per_il_miglior_film_di_fantascienza'}
+        [12, 8] Type: Item
+        │       Label: Magyar
+        └────── Link: {'text:Magyar': 'https://hu.wikipedia.org/wiki/Szaturnusz-d%C3%ADj_a_legjobb_sci-fi_filmnek'}
+        [12, 9] Type: Item
+        │       Label: Nederlands
+        └────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/Saturn_Award_voor_beste_sciencefictionfilm'}
+        [12, 10] Type: Item
+        │        Label: 日本語
+        └─────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%BF%E3%83%BC%E3%83%B3SF%E6%98%A0%E7%94%BB%E8%B3%9E'}
+        [12, 11] Type: Item
+        │        Label: Polski
+        └─────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/Nagroda_Saturn_w_kategorii_najlepszy_film_science_fiction'}
+        [12, 12] Type: Item
+        │        Label: Português
+        └─────── Link: {'text:Português': 'https://pt.wikipedia.org/wiki/Pr%C3%AAmio_Saturno_de_melhor_filme_de_fic%C3%A7%C3%A3o_cient%C3%ADfica'}
+        [12, 13] Type: Item
+        │        Label: Română
+        └─────── Link: {'text:Română': 'https://ro.wikipedia.org/wiki/Premiul_Saturn_pentru_cel_mai_bun_film_%C8%99tiin%C8%9Bifico-fantastic'}
+        [12, 14] Type: Item
+        │        Label: Русский
+        └─────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC'}
+        [12, 15] Type: Item
+        │        Label: Srpskohrvatski / српскохрватски
+        └─────── Link: {'text:Srpskohrvatski / српскохрватски': 'https://sh.wikipedia.org/wiki/Nagrada_Saturn_za_najbolji_SF_film'}
+        [12, 16] Type: Item
+        │        Label: Türkçe
+        └─────── Link: {'text:Türkçe': 'https://tr.wikipedia.org/wiki/En_%C4%B0yi_Bilimkurgu_Filmi_Saturn_%C3%96d%C3%BCl%C3%BC'}
+        [12, 17] Type: Item
+        │        Label: Українська
+        └─────── Link: {'text:Українська': 'https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%C2%AB%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD%C2%BB_%D0%B7%D0%B0_%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE-%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%84%D1%96%D0%BB%D1%8C%D0%BC'}
+        [12, 18] Type: Item
+        │        Label: Tiếng Việt
+        └─────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_Sao_Th%E1%BB%95_cho_phim_khoa_h%E1%BB%8Dc_vi%E1%BB%85n_t%C6%B0%E1%BB%9Fng_hay_nh%E1%BA%A5t'}
+        [12, 19] Type: Item
+        │        Label: 中文
+        └─────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E5%9C%9F%E6%98%9F%E7%8D%8E%E6%9C%80%E4%BD%B3%E7%A7%91%E5%B9%BB%E9%9B%BB%E5%BD%B1'}

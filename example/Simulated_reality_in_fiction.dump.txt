@@ -1,0 +1,2247 @@
+[] Type: Page
+│  Label: Simulated reality in fiction
+└─ Number of Member: 14
+    [0] Type: List
+    │   Label: Contents
+    │   Dimension: 2
+    └── Number of Member: 7
+        [0, 0] Type: Item
+        │      Label: Literature
+        └───── Link: {'text:Literature': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Literature'}
+        [0, 1] Type: Item
+        │      Label: Theater
+        └───── Link: {'text:Theater': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Theater'}
+        [0, 2] Type: Item
+        │      Label: Comics and anime
+        └───── Link: {'text:Comics and anime': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Comics_and_anime'}
+        [0, 3] Type: Item
+        │      Label: Film
+        └───── Link: {'text:Film': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Film'}
+        [0, 4] Type: Item
+        │      Label: Television
+        └───── Link: {'text:Television': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Television'}
+        [0, 5] Type: Item, List
+        │      Label: Interactive fiction
+        │      Link: {'text:Interactive fiction': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Interactive_fiction'}
+        └───── Number of Member: 1
+            [0, 5, 0] Type: Item
+            │         Label: Computer and video games
+            └──────── Link: {'text:Computer and video games': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#Computer_and_video_games'}
+        [0, 6] Type: Item
+        │      Label: References
+        └───── Link: {'text:References': 'http://en.wikipedia.org/wiki/Simulated_reality_in_fiction#References'}
+    [1] Type: Table
+    │   Label: Literature
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 4
+        [1, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 87
+            [1, 0, 0] Type: Cell
+            │         Label: Title
+            └──────── Style: Emphasize
+            [1, 0, 1] Type: Cell
+            │         Label: Answers In Simulation
+            └──────── Link: {'text:Answers In Simulation': 'http://en.wikipedia.org/w/index.php?title=Answers_In_Simulation&action=edit&redlink=1'}
+            [1, 0, 2] Type: Cell
+            │         Label: Accelerando
+            └──────── Link: {'text:Accelerando': 'http://en.wikipedia.org/wiki/Accelerando_(book)'}
+            [1, 0, 3] Type: Cell
+            │         Label: The Algebraist
+            └──────── Link: {'text:The Algebraist': 'http://en.wikipedia.org/wiki/The_Algebraist'}
+            [1, 0, 4] Type: Cell
+            │         Label: Amnesia Moon
+            └──────── Link: {'text:Amnesia Moon': 'http://en.wikipedia.org/wiki/Amnesia_Moon'}
+            [1, 0, 5] Type: Cell
+            └──────── Label: Ant Farm: God and His Computer Simulation
+            [1, 0, 6] Type: Cell
+            │         Label: Breakfast of Champions
+            └──────── Link: {'text:Breakfast of Champions': 'http://en.wikipedia.org/wiki/Breakfast_of_Champions_(novel)'}
+            [1, 0, 7] Type: Cell
+            │         Label: Chronic City
+            └──────── Link: {'text:Chronic City': 'http://en.wikipedia.org/wiki/Chronic_City'}
+            [1, 0, 8] Type: Cell
+            │         Label: The Coma
+            └──────── Link: {'text:The Coma': 'http://en.wikipedia.org/wiki/The_Coma'}
+            [1, 0, 9] Type: Cell
+            │         Label: "The Cookie Monster"
+            └──────── Link: {'text:The Cookie Monster': 'http://en.wikipedia.org/wiki/The_Cookie_Monster_(novella)'}
+            [1, 0, 10] Type: Cell
+            │          Label: The Cosmic Puppets
+            └───────── Link: {'text:The Cosmic Puppets': 'http://en.wikipedia.org/wiki/The_Cosmic_Puppets'}
+            [1, 0, 11] Type: Cell
+            │          Label: Count Zero
+            └───────── Link: {'text:Count Zero': 'http://en.wikipedia.org/wiki/Count_Zero'}
+            [1, 0, 12] Type: Cell
+            │          Label: Darwinia
+            └───────── Link: {'text:Darwinia': 'http://en.wikipedia.org/wiki/Darwinia_(novel)'}
+            [1, 0, 13] Type: Cell
+            │          Label: Dead Romance
+            └───────── Link: {'text:Dead Romance': 'http://en.wikipedia.org/wiki/Dead_Romance'}
+            [1, 0, 14] Type: Cell
+            │          Label: Diaspora
+            └───────── Link: {'text:Diaspora': 'http://en.wikipedia.org/wiki/Diaspora_(novel)'}
+            [1, 0, 15] Type: Cell
+            │          Label: A Dream of Wessex
+            └───────── Link: {'text:A Dream of Wessex': 'http://en.wikipedia.org/wiki/A_Dream_of_Wessex'}
+            [1, 0, 16] Type: Cell
+            │          Label: The Dueling Machine
+            └───────── Link: {'text:The Dueling Machine': 'http://en.wikipedia.org/w/index.php?title=The_Dueling_Machine&action=edit&redlink=1'}
+            [1, 0, 17] Type: Cell
+            │          Label: "The Electric Ant"
+            └───────── Link: {'text:The Electric Ant': 'http://en.wikipedia.org/wiki/The_Electric_Ant'}
+            [1, 0, 18] Type: Cell
+            │          Label: Electric Forest
+            └───────── Link: {'text:Electric Forest': 'http://en.wikipedia.org/wiki/Electric_Forest_(novel)'}
+            [1, 0, 19] Type: Cell
+            │          Label: Epic
+            └───────── Link: {'text:Epic': 'http://en.wikipedia.org/wiki/Epic_(novel)'}
+            [1, 0, 20] Type: Cell
+            │          Label: Eternity
+            └───────── Link: {'text:Eternity': 'http://en.wikipedia.org/wiki/Eternity_(novel)'}
+            [1, 0, 21] Type: Cell
+            │          Label: Eye in the Sky
+            └───────── Link: {'text:Eye in the Sky': 'http://en.wikipedia.org/wiki/Eye_in_the_Sky_(novel)'}
+            [1, 0, 22] Type: Cell
+            │          Label: Feersum Endjinn
+            └───────── Link: {'text:Feersum Endjinn': 'http://en.wikipedia.org/wiki/Feersum_Endjinn'}
+            [1, 0, 23] Type: Cell
+            │          Label: Flow My Tears, the Policeman Said
+            └───────── Link: {'text:Flow My Tears, the Policeman Said': 'http://en.wikipedia.org/wiki/Flow_My_Tears,_the_Policeman_Said'}
+            [1, 0, 24] Type: Cell
+            │          Label: Forever Free
+            └───────── Link: {'text:Forever Free': 'http://en.wikipedia.org/wiki/Forever_Free_(novel)'}
+            [1, 0, 25] Type: Cell
+            │          Label: Get Real: A Philosophical Adventure in Virtual Reality
+            └───────── Link: {'text:Get Real: A Philosophical Adventure in Virtual Reality': 'http://en.wikipedia.org/w/index.php?title=Get_Real:_A_Philosophical_Adventure_in_Virtual_Reality&action=edit&redlink=1'}
+            [1, 0, 26] Type: Cell
+            │          Label: The Girl Who Was Plugged In
+            └───────── Link: {'text:The Girl Who Was Plugged In': 'http://en.wikipedia.org/wiki/The_Girl_Who_Was_Plugged_In'}
+            [1, 0, 27] Type: Cell
+            │          Label: Glasshouse
+            └───────── Link: {'text:Glasshouse': 'http://en.wikipedia.org/wiki/Glasshouse_(novel)'}
+            [1, 0, 28] Type: Cell
+            │          Label: The Hitchhiker's Guide to the Galaxy
+            └───────── Link: {"text:The Hitchhiker's Guide to the Galaxy": 'http://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy'}
+            [1, 0, 29] Type: Cell
+            │          Label: Idlewild
+            └───────── Link: {'text:Idlewild': 'http://en.wikipedia.org/wiki/Idlewild_(novel)'}
+            [1, 0, 30] Type: Cell
+            │          Label: Illusions
+            └───────── Link: {'text:Illusions': 'http://en.wikipedia.org/wiki/Illusions_(Bach_novel)'}
+            [1, 0, 31] Type: Cell
+            └───────── Label: "The Immortals"
+            [1, 0, 32] Type: Cell
+            │          Label: Irreversible
+            └───────── Link: {'text:Irreversible': 'http://en.wikipedia.org/w/index.php?title=Irreversible_(novel)&action=edit&redlink=1'}
+            [1, 0, 33] Type: Cell
+            │          Label: The Joy Makers
+            └───────── Link: {'text:The Joy Makers': 'http://en.wikipedia.org/w/index.php?title=The_Joy_Makers&action=edit&redlink=1'}
+            [1, 0, 34] Type: Cell
+            │          Label: Killobyte
+            └───────── Link: {'text:Killobyte': 'http://en.wikipedia.org/wiki/Killobyte'}
+            [1, 0, 35] Type: Cell
+            │          Label: Life Is a Dream
+            └───────── Link: {'text:Life Is a Dream': 'http://en.wikipedia.org/wiki/Life_Is_a_Dream'}
+            [1, 0, 36] Type: Cell
+            │          Label: Loop
+            └───────── Link: {'text:Loop': 'http://en.wikipedia.org/wiki/Loop_(novel)'}
+            [1, 0, 37] Type: Cell
+            │          Label: The Man in the High Castle
+            └───────── Link: {'text:The Man in the High Castle': 'http://en.wikipedia.org/wiki/The_Man_in_the_High_Castle'}
+            [1, 0, 38] Type: Cell
+            │          Label: A Maze of Death
+            └───────── Link: {'text:A Maze of Death': 'http://en.wikipedia.org/wiki/A_Maze_of_Death'}
+            [1, 0, 39] Type: Cell
+            │          Label: The Metamorphosis of Prime Intellect
+            └───────── Link: {'text:The Metamorphosis of Prime Intellect': 'http://en.wikipedia.org/wiki/Prime_Intellect'}
+            [1, 0, 40] Type: Cell
+            │          Label: The Mirage
+            └───────── Link: {'text:The Mirage': 'http://en.wikipedia.org/wiki/The_Mirage_(Ruff_novel)'}
+            [1, 0, 41] Type: Cell
+            │          Label: Mona Lisa Overdrive
+            └───────── Link: {'text:Mona Lisa Overdrive': 'http://en.wikipedia.org/wiki/Mona_Lisa_Overdrive'}
+            [1, 0, 42] Type: Cell
+            │          Label: Moongazer
+            └───────── Link: {'text:Moongazer': 'http://en.wikipedia.org/w/index.php?title=Moongazer&action=edit&redlink=1'}
+            [1, 0, 43] Type: Cell
+            │          Label: Neuromancer
+            └───────── Link: {'text:Neuromancer': 'http://en.wikipedia.org/wiki/Neuromancer'}
+            [1, 0, 44] Type: Cell
+            │          Label: Old Twentieth
+            └───────── Link: {'text:Old Twentieth': 'http://en.wikipedia.org/w/index.php?title=Old_Twentieth&action=edit&redlink=1'}
+            [1, 0, 45] Type: Cell
+            │          Label: Omnitopia Dawn
+            └───────── Link: {'text:Omnitopia Dawn': 'http://en.wikipedia.org/wiki/Omnitopia_Dawn'}
+            [1, 0, 46] Type: Cell
+            │          Label: Otherland
+            └───────── Link: {'text:Otherland': 'http://en.wikipedia.org/wiki/Otherland'}
+            [1, 0, 47] Type: Cell
+            │          Label: Ready Player One
+            └───────── Link: {'text:Ready Player One': 'http://en.wikipedia.org/wiki/Ready_Player_One'}
+            [1, 0, 48] Type: Cell
+            │          Label: Paprika
+            └───────── Link: {'text:Paprika': 'http://en.wikipedia.org/wiki/Paprika_(novel)'}
+            [1, 0, 49] Type: Cell
+            │          Label: The Penultimate Truth
+            └───────── Link: {'text:The Penultimate Truth': 'http://en.wikipedia.org/wiki/The_Penultimate_Truth'}
+            [1, 0, 50] Type: Cell
+            │          Label: Permutation City
+            └───────── Link: {'text:Permutation City': 'http://en.wikipedia.org/wiki/Permutation_City'}
+            [1, 0, 51] Type: Cell
+            │          Label: Phase Space
+            └───────── Link: {'text:Phase Space': 'http://en.wikipedia.org/wiki/Phase_Space_(story_collection)'}
+            [1, 0, 52] Type: Cell
+            │          Label: "Princess Ineffabelle"
+            └───────── Link: {'text:Princess Ineffabelle': 'http://en.wikipedia.org/wiki/Princess_Ineffabelle'}
+            [1, 0, 53] Type: Cell
+            └───────── Label: "Professor Corcoran" (alternatively: "Further Reminiscences of Ijon Tichy I")
+            [1, 0, 54] Type: Cell
+            │          Label: The Reality Bug
+            └───────── Link: {'text:The Reality Bug': 'http://en.wikipedia.org/wiki/The_Reality_Bug'}
+            [1, 0, 55] Type: Cell
+            │          Label: Reality Crash
+            └───────── Link: {'text:Reality Crash': 'https://books.google.com/books/about/Reality_Crash.html?id=rlS6BwAAQBAJ&redir_esc=y'}
+            [1, 0, 56] Type: Cell
+            │          Label: Realtime Interrupt
+            └───────── Link: {'text:Realtime Interrupt': 'http://en.wikipedia.org/wiki/Realtime_Interrupt'}
+            [1, 0, 57] Type: Cell
+            │          Label: REAMDE
+            └───────── Link: {'text:REAMDE': 'http://en.wikipedia.org/wiki/REAMDE'}
+            [1, 0, 58] Type: Cell
+            │          Label: The Remnants series
+            └───────── Link: {'text:The Remnants series': 'http://en.wikipedia.org/wiki/Remnants_(science_fiction)'}
+            [1, 0, 59] Type: Cell
+            │          Label: The Restoration Game
+            └───────── Link: {'text:The Restoration Game': 'http://en.wikipedia.org/wiki/The_Restoration_Game'}
+            [1, 0, 60] Type: Cell
+            │          Label: "The Seventh Sally"
+            └───────── Link: {'text:The Seventh Sally': 'http://en.wikipedia.org/wiki/The_Seventh_Sally'}
+            [1, 0, 61] Type: Cell
+            │          Label: Simulacron-3
+            └───────── Link: {'text:Simulacron-3': 'http://en.wikipedia.org/wiki/Simulacron-3'}
+            [1, 0, 62] Type: Cell
+            │          Label: Snow Crash
+            └───────── Link: {'text:Snow Crash': 'http://en.wikipedia.org/wiki/Snow_Crash'}
+            [1, 0, 63] Type: Cell
+            │          Label: The Song of Synth
+            └───────── Link: {'text:The Song of Synth': 'http://en.wikipedia.org/w/index.php?title=The_Song_of_Synth&action=edit&redlink=1'}
+            [1, 0, 64] Type: Cell
+            │          Label: Sophie's World
+            └───────── Link: {"text:Sophie's World": 'http://en.wikipedia.org/wiki/Sophie%27s_World'}
+            [1, 0, 65] Type: Cell
+            │          Label: Surface Detail
+            └───────── Link: {'text:Surface Detail': 'http://en.wikipedia.org/wiki/Surface_Detail'}
+            [1, 0, 66] Type: Cell
+            │          Label: "They"
+            └───────── Link: {'text:They': 'http://en.wikipedia.org/wiki/They_(Heinlein)'}
+            [1, 0, 67] Type: Cell
+            │          Label: The Three Stigmata of Palmer Eldritch
+            └───────── Link: {'text:The Three Stigmata of Palmer Eldritch': 'http://en.wikipedia.org/wiki/The_Three_Stigmata_of_Palmer_Eldritch'}
+            [1, 0, 68] Type: Cell
+            │          Label: Time Out of Joint
+            └───────── Link: {'text:Time Out of Joint': 'http://en.wikipedia.org/wiki/Time_Out_of_Joint'}
+            [1, 0, 69] Type: Cell
+            │          Label: "The Trouble with Bubbles"
+            └───────── Link: {'text:The Trouble with Bubbles': 'http://en.wikipedia.org/wiki/The_Trouble_with_Bubbles'}
+            [1, 0, 70] Type: Cell
+            │          Label: "The Tunnel under the World"
+            └───────── Link: {'text:The Tunnel under the World': 'http://en.wikipedia.org/wiki/The_Tunnel_under_the_World'}
+            [1, 0, 71] Type: Cell
+            │          Label: Ubik
+            └───────── Link: {'text:Ubik': 'http://en.wikipedia.org/wiki/Ubik'}
+            [1, 0, 72] Type: Cell
+            │          Label: Utopia
+            └───────── Link: {'text:Utopia': 'http://en.wikipedia.org/wiki/Utopia_(Lincoln_Child_novel)'}
+            [1, 0, 73] Type: Cell
+            │          Label: Valis
+            └───────── Link: {'text:Valis': 'http://en.wikipedia.org/wiki/VALIS'}
+            [1, 0, 74] Type: Cell
+            │          Label: "The Veldt"
+            └───────── Link: {'text:The Veldt': 'http://en.wikipedia.org/wiki/The_Veldt_(short_story)'}
+            [1, 0, 75] Type: Cell
+            │          Label: Vurt
+            └───────── Link: {'text:Vurt': 'http://en.wikipedia.org/wiki/Vurt'}
+            [1, 0, 76] Type: Cell
+            │          Label: White Noise (novel)
+            └───────── Link: {'text:White Noise (novel)': 'http://en.wikipedia.org/wiki/White_Noise_(novel)'}
+            [1, 0, 77] Type: Cell
+            │          Label: White Space - Book 1 of The Dark Passages
+            └───────── Link: {'text:White Space - Book 1 of The Dark Passages': 'http://en.wikipedia.org/w/index.php?title=White_Space_-_Book_1_of_The_Dark_Passages&action=edit&redlink=1'}
+            [1, 0, 78] Type: Cell
+            │          Label: World of Tiers
+            └───────── Link: {'text:World of Tiers': 'http://en.wikipedia.org/wiki/World_of_Tiers'}
+            [1, 0, 79] Type: Cell
+            │          Label: Pollen
+            └───────── Link: {'text:Pollen': 'http://en.wikipedia.org/wiki/Pollen_(novel)'}
+            [1, 0, 80] Type: Cell
+            │          Label: Automated Alice
+            └───────── Link: {'text:Automated Alice': 'http://en.wikipedia.org/wiki/Automated_Alice'}
+            [1, 0, 81] Type: Cell
+            │          Label: The Wonderland Gambit series
+            └───────── Link: {'text:The Wonderland Gambit series': 'http://en.wikipedia.org/wiki/Jack_L._Chalker#The_Wonderland_Gambit_series'}
+            [1, 0, 82] Type: Cell
+            │          Label: "You're Another"
+            └───────── Link: {"text:You're Another": 'http://en.wikipedia.org/wiki/You%27re_Another'}
+            [1, 0, 83] Type: Cell
+            │          Label: "Crystal Nights"
+            └───────── Link: {'text:Crystal Nights': 'http://en.wikipedia.org/w/index.php?title=Crystal_Nights_(short_story)&action=edit&redlink=1'}
+            [1, 0, 84] Type: Cell
+            │          Label: Republic
+            └───────── Link: {'text:Republic': 'http://en.wikipedia.org/wiki/Republic_(Plato)'}
+            [1, 0, 85] Type: Cell
+            │          Label: "Eight O'Clock in the Morning"
+            └───────── Link: {"text:Eight O'Clock in the Morning": 'http://en.wikipedia.org/wiki/Eight_O%27Clock_in_the_Morning'}
+            [1, 0, 86] Type: Cell
+            └───────── Label: "Pygmalion's Spectacles"
+        [1, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 87
+            [1, 1, 0] Type: Cell
+            │         Label: Author
+            └──────── Style: Emphasize
+            [1, 1, 1] Type: Cell
+            │         Label: Iurii Vovchenko
+            └──────── Link: {'text:Iurii Vovchenko': 'http://en.wikipedia.org/w/index.php?title=Iurii_Vovchenko&action=edit&redlink=1'}
+            [1, 1, 2] Type: Cell
+            │         Label: Charles Stross
+            └──────── Link: {'text:Charles Stross': 'http://en.wikipedia.org/wiki/Charles_Stross'}
+            [1, 1, 3] Type: Cell
+            │         Label: Iain M. Banks
+            └──────── Link: {'text:Iain M. Banks': 'http://en.wikipedia.org/wiki/Iain_M._Banks'}
+            [1, 1, 4] Type: Cell
+            │         Label: Jonathan Lethem
+            └──────── Link: {'text:Jonathan Lethem': 'http://en.wikipedia.org/wiki/Jonathan_Lethem'}
+            [1, 1, 5] Type: Cell
+            └──────── Label: CJ Choi
+            [1, 1, 6] Type: Cell
+            │         Label: Kurt Vonnegut Jr.
+            └──────── Link: {'text:Kurt\xa0Vonnegut\xa0Jr.': 'http://en.wikipedia.org/wiki/Kurt_Vonnegut_Jr.'}
+            [1, 1, 7] Type: Cell
+            │         Label: Jonathan Lethem
+            └──────── Link: {'text:Jonathan Lethem': 'http://en.wikipedia.org/wiki/Jonathan_Lethem'}
+            [1, 1, 8] Type: Cell
+            │         Label: Alex Garland
+            └──────── Link: {'text:Alex Garland': 'http://en.wikipedia.org/wiki/Alex_Garland'}
+            [1, 1, 9] Type: Cell
+            │         Label: Vernor Vinge
+            └──────── Link: {'text:Vernor Vinge': 'http://en.wikipedia.org/wiki/Vernor_Vinge'}
+            [1, 1, 10] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 11] Type: Cell
+            │          Label: William Gibson
+            └───────── Link: {'text:William Gibson': 'http://en.wikipedia.org/wiki/William_Gibson'}
+            [1, 1, 12] Type: Cell
+            │          Label: Robert Charles Wilson
+            └───────── Link: {'text:Robert Charles Wilson': 'http://en.wikipedia.org/wiki/Robert_Charles_Wilson'}
+            [1, 1, 13] Type: Cell
+            │          Label: Lawrence Miles
+            └───────── Link: {'text:Lawrence Miles': 'http://en.wikipedia.org/wiki/Lawrence_Miles'}
+            [1, 1, 14] Type: Cell
+            │          Label: Greg Egan
+            └───────── Link: {'text:Greg Egan': 'http://en.wikipedia.org/wiki/Greg_Egan'}
+            [1, 1, 15] Type: Cell
+            │          Label: Christopher Priest
+            └───────── Link: {'text:Christopher Priest': 'http://en.wikipedia.org/wiki/Christopher_Priest_(novelist)'}
+            [1, 1, 16] Type: Cell
+            │          Label: Ben Bova
+            └───────── Link: {'text:Ben Bova': 'http://en.wikipedia.org/wiki/Ben_Bova'}
+            [1, 1, 17] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 18] Type: Cell
+            │          Label: Tanith Lee
+            └───────── Link: {'text:Tanith Lee': 'http://en.wikipedia.org/wiki/Tanith_Lee'}
+            [1, 1, 19] Type: Cell
+            │          Label: Conor Kostick
+            └───────── Link: {'text:Conor Kostick': 'http://en.wikipedia.org/wiki/Conor_Kostick'}
+            [1, 1, 20] Type: Cell
+            │          Label: Greg Bear
+            └───────── Link: {'text:Greg Bear': 'http://en.wikipedia.org/wiki/Greg_Bear'}
+            [1, 1, 21] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 22] Type: Cell
+            │          Label: Iain M. Banks
+            └───────── Link: {'text:Iain M. Banks': 'http://en.wikipedia.org/wiki/Iain_M._Banks'}
+            [1, 1, 23] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 24] Type: Cell
+            │          Label: Joe Haldeman
+            └───────── Link: {'text:Joe Haldeman': 'http://en.wikipedia.org/wiki/Joe_Haldeman'}
+            [1, 1, 25] Type: Cell
+            │          Label: Philip Zhai
+            └───────── Link: {'text:Philip Zhai': 'http://en.wikipedia.org/wiki/Philip_Zhai'}
+            [1, 1, 26] Type: Cell
+            │          Label: James Tiptree Jr.
+            └───────── Link: {'text:James Tiptree Jr.': 'http://en.wikipedia.org/wiki/James_Tiptree_Jr.'}
+            [1, 1, 27] Type: Cell
+            │          Label: Charles Stross
+            └───────── Link: {'text:Charles Stross': 'http://en.wikipedia.org/wiki/Charles_Stross'}
+            [1, 1, 28] Type: Cell
+            │          Label: Douglas Adams
+            └───────── Link: {'text:Douglas Adams': 'http://en.wikipedia.org/wiki/Douglas_Adams'}
+            [1, 1, 29] Type: Cell
+            │          Label: Nick Sagan
+            └───────── Link: {'text:Nick Sagan': 'http://en.wikipedia.org/wiki/Nick_Sagan'}
+            [1, 1, 30] Type: Cell
+            │          Label: Richard Bach
+            └───────── Link: {'text:Richard Bach': 'http://en.wikipedia.org/wiki/Richard_Bach'}
+            [1, 1, 31] Type: Cell
+            │          Label: David Duncan
+            └───────── Link: {'text:David Duncan': 'http://en.wikipedia.org/wiki/David_Duncan_(writer)'}
+            [1, 1, 32] Type: Cell
+            │          Label: Liz Maverick
+            └───────── Link: {'text:Liz Maverick': 'http://en.wikipedia.org/w/index.php?title=Liz_Maverick&action=edit&redlink=1'}
+            [1, 1, 33] Type: Cell
+            │          Label: James Edwin Gunn
+            └───────── Link: {'text:James Edwin Gunn': 'http://en.wikipedia.org/wiki/James_Edwin_Gunn'}
+            [1, 1, 34] Type: Cell
+            │          Label: Piers Anthony
+            └───────── Link: {'text:Piers Anthony': 'http://en.wikipedia.org/wiki/Piers_Anthony'}
+            [1, 1, 35] Type: Cell
+            │          Label: Pedro Calderón de la Barca
+            └───────── Link: {'text:Pedro Calderón de la Barca': 'http://en.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca'}
+            [1, 1, 36] Type: Cell
+            │          Label: Koji Suzuki
+            └───────── Link: {'text:Koji Suzuki': 'http://en.wikipedia.org/wiki/Koji_Suzuki_(writer)'}
+            [1, 1, 37] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 38] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 39] Type: Cell
+            │          Label: Roger Williams
+            └───────── Link: {'text:Roger Williams': 'http://en.wikipedia.org/wiki/Roger_Williams_(author)'}
+            [1, 1, 40] Type: Cell
+            │          Label: Matt Ruff
+            └───────── Link: {'text:Matt Ruff': 'http://en.wikipedia.org/wiki/Matt_Ruff'}
+            [1, 1, 41] Type: Cell
+            │          Label: William Gibson
+            └───────── Link: {'text:William Gibson': 'http://en.wikipedia.org/wiki/William_Gibson'}
+            [1, 1, 42] Type: Cell
+            │          Label: Marianne Mancusi
+            └───────── Link: {'text:Marianne Mancusi': 'http://en.wikipedia.org/wiki/Marianne_Mancusi'}
+            [1, 1, 43] Type: Cell
+            │          Label: William Gibson
+            └───────── Link: {'text:William Gibson': 'http://en.wikipedia.org/wiki/William_Gibson'}
+            [1, 1, 44] Type: Cell
+            │          Label: Joe Haldeman
+            └───────── Link: {'text:Joe Haldeman': 'http://en.wikipedia.org/wiki/Joe_Haldeman'}
+            [1, 1, 45] Type: Cell
+            │          Label: Diane Duane
+            └───────── Link: {'text:Diane Duane': 'http://en.wikipedia.org/wiki/Diane_Duane'}
+            [1, 1, 46] Type: Cell
+            │          Label: Tad Williams
+            └───────── Link: {'text:Tad Williams': 'http://en.wikipedia.org/wiki/Tad_Williams'}
+            [1, 1, 47] Type: Cell
+            │          Label: Ernest Cline
+            └───────── Link: {'text:Ernest Cline': 'http://en.wikipedia.org/wiki/Ernest_Cline'}
+            [1, 1, 48] Type: Cell
+            │          Label: Yasutaka Tsutsui
+            └───────── Link: {'text:Yasutaka Tsutsui': 'http://en.wikipedia.org/wiki/Yasutaka_Tsutsui'}
+            [1, 1, 49] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 50] Type: Cell
+            │          Label: Greg Egan
+            └───────── Link: {'text:Greg Egan': 'http://en.wikipedia.org/wiki/Greg_Egan'}
+            [1, 1, 51] Type: Cell
+            │          Label: Stephen Baxter
+            └───────── Link: {'text:Stephen Baxter': 'http://en.wikipedia.org/wiki/Stephen_Baxter_(author)'}
+            [1, 1, 52] Type: Cell
+            │          Label: Stanisław Lem
+            └───────── Link: {'text:Stanisław Lem': 'http://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem'}
+            [1, 1, 53] Type: Cell
+            │          Label: Stanisław Lem
+            └───────── Link: {'text:Stanisław Lem': 'http://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem'}
+            [1, 1, 54] Type: Cell
+            │          Label: D. J. MacHale
+            └───────── Link: {'text:D. J. MacHale': 'http://en.wikipedia.org/wiki/D._J._MacHale'}
+            [1, 1, 55] Type: Cell
+            └───────── Label: Lou Grantt, Cyd Ropp
+            [1, 1, 56] Type: Cell
+            │          Label: James P. Hogan
+            └───────── Link: {'text:James P. Hogan': 'http://en.wikipedia.org/wiki/James_P._Hogan_(writer)'}
+            [1, 1, 57] Type: Cell
+            │          Label: Neal Stephenson
+            └───────── Link: {'text:Neal Stephenson': 'http://en.wikipedia.org/wiki/Neal_Stephenson'}
+            [1, 1, 58] Type: Cell
+            │          Label: K. A. Applegate
+            └───────── Link: {'text:K. A. Applegate': 'http://en.wikipedia.org/wiki/K._A._Applegate'}
+            [1, 1, 59] Type: Cell
+            │          Label: Ken MacLeod
+            └───────── Link: {'text:Ken MacLeod': 'http://en.wikipedia.org/wiki/Ken_MacLeod'}
+            [1, 1, 60] Type: Cell
+            │          Label: Stanisław Lem
+            └───────── Link: {'text:Stanisław Lem': 'http://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem'}
+            [1, 1, 61] Type: Cell
+            │          Label: Daniel F. Galouye
+            └───────── Link: {'text:Daniel F. Galouye': 'http://en.wikipedia.org/wiki/Daniel_F._Galouye'}
+            [1, 1, 62] Type: Cell
+            │          Label: Neal Stephenson
+            └───────── Link: {'text:Neal Stephenson': 'http://en.wikipedia.org/wiki/Neal_Stephenson'}
+            [1, 1, 63] Type: Cell
+            │          Label: Seb Doubinsky
+            └───────── Link: {'text:Seb Doubinsky': 'http://en.wikipedia.org/w/index.php?title=Seb_Doubinsky&action=edit&redlink=1'}
+            [1, 1, 64] Type: Cell
+            │          Label: Jostein Gaarder
+            └───────── Link: {'text:Jostein Gaarder': 'http://en.wikipedia.org/wiki/Jostein_Gaarder'}
+            [1, 1, 65] Type: Cell
+            │          Label: Iain M. Banks
+            └───────── Link: {'text:Iain M. Banks': 'http://en.wikipedia.org/wiki/Iain_M._Banks'}
+            [1, 1, 66] Type: Cell
+            │          Label: Robert A. Heinlein
+            └───────── Link: {'text:Robert A. Heinlein': 'http://en.wikipedia.org/wiki/Robert_A._Heinlein'}
+            [1, 1, 67] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 68] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 69] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 70] Type: Cell
+            │          Label: Frederik Pohl
+            └───────── Link: {'text:Frederik Pohl': 'http://en.wikipedia.org/wiki/Frederik_Pohl'}
+            [1, 1, 71] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 72] Type: Cell
+            │          Label: Lincoln Child
+            └───────── Link: {'text:Lincoln Child': 'http://en.wikipedia.org/wiki/Lincoln_Child'}
+            [1, 1, 73] Type: Cell
+            │          Label: Philip K. Dick
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 1, 74] Type: Cell
+            │          Label: Ray Bradbury
+            └───────── Link: {'text:Ray Bradbury': 'http://en.wikipedia.org/wiki/Ray_Bradbury'}
+            [1, 1, 75] Type: Cell
+            │          Label: Jeff Noon
+            └───────── Link: {'text:Jeff Noon': 'http://en.wikipedia.org/wiki/Jeff_Noon'}
+            [1, 1, 76] Type: Cell
+            │          Label: Don DeLillo
+            └───────── Link: {'text:Don DeLillo': 'http://en.wikipedia.org/wiki/Don_DeLillo'}
+            [1, 1, 77] Type: Cell
+            │          Label: Ilsa J. Bick
+            └───────── Link: {'text:Ilsa J. Bick': 'http://en.wikipedia.org/wiki/Ilsa_J._Bick'}
+            [1, 1, 78] Type: Cell
+            │          Label: Philip José Farmer
+            └───────── Link: {'text:Philip José Farmer': 'http://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer'}
+            [1, 1, 79] Type: Cell
+            │          Label: Jeff Noon
+            └───────── Link: {'text:Jeff Noon': 'http://en.wikipedia.org/wiki/Jeff_Noon'}
+            [1, 1, 80] Type: Cell
+            │          Label: Jeff Noon
+            └───────── Link: {'text:Jeff Noon': 'http://en.wikipedia.org/wiki/Jeff_Noon'}
+            [1, 1, 81] Type: Cell
+            │          Label: Jack L. Chalker
+            └───────── Link: {'text:Jack L. Chalker': 'http://en.wikipedia.org/wiki/Jack_L._Chalker'}
+            [1, 1, 82] Type: Cell
+            │          Label: Damon Knight
+            └───────── Link: {'text:Damon Knight': 'http://en.wikipedia.org/wiki/Damon_Knight'}
+            [1, 1, 83] Type: Cell
+            │          Label: Greg Egan
+            └───────── Link: {'text:Greg Egan': 'http://en.wikipedia.org/wiki/Greg_Egan'}
+            [1, 1, 84] Type: Cell
+            │          Label: Plato
+            └───────── Link: {'text:Plato': 'http://en.wikipedia.org/wiki/Plato'}
+            [1, 1, 85] Type: Cell
+            │          Label: Ray Nelson
+            └───────── Link: {'text:Ray Nelson': 'http://en.wikipedia.org/wiki/Ray_Nelson'}
+            [1, 1, 86] Type: Cell
+            │          Label: Stanley G. Weinbaum
+            └───────── Link: {'text:Stanley G. Weinbaum': 'http://en.wikipedia.org/wiki/Stanley_G._Weinbaum'}
+        [1, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 87
+            [1, 2, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [1, 2, 1] Type: Cell
+            └──────── Label: 2019
+            [1, 2, 2] Type: Cell
+            └──────── Label: 2005
+            [1, 2, 3] Type: Cell
+            └──────── Label: 2004
+            [1, 2, 4] Type: Cell
+            └──────── Label: 1995
+            [1, 2, 5] Type: Cell
+            └──────── Label: 2017
+            [1, 2, 6] Type: Cell
+            └──────── Label: 1973
+            [1, 2, 7] Type: Cell
+            └──────── Label: 2009
+            [1, 2, 8] Type: Cell
+            └──────── Label: 2004
+            [1, 2, 9] Type: Cell
+            └──────── Label: 2004
+            [1, 2, 10] Type: Cell
+            └───────── Label: 1957
+            [1, 2, 11] Type: Cell
+            └───────── Label: 1986
+            [1, 2, 12] Type: Cell
+            └───────── Label: 1998
+            [1, 2, 13] Type: Cell
+            └───────── Label: 1999/2004
+            [1, 2, 14] Type: Cell
+            └───────── Label: 1997
+            [1, 2, 15] Type: Cell
+            └───────── Label: 1977
+            [1, 2, 16] Type: Cell
+            └───────── Label: 1969
+            [1, 2, 17] Type: Cell
+            └───────── Label: 1969
+            [1, 2, 18] Type: Cell
+            └───────── Label: 1979
+            [1, 2, 19] Type: Cell
+            └───────── Label: 2004
+            [1, 2, 20] Type: Cell
+            └───────── Label: 1988
+            [1, 2, 21] Type: Cell
+            └───────── Label: 1957
+            [1, 2, 22] Type: Cell
+            └───────── Label: 1994
+            [1, 2, 23] Type: Cell
+            └───────── Label: 1974
+            [1, 2, 24] Type: Cell
+            └───────── Label: 1999
+            [1, 2, 25] Type: Cell
+            └───────── Label: 1998
+            [1, 2, 26] Type: Cell
+            └───────── Label: 1974
+            [1, 2, 27] Type: Cell
+            └───────── Label: 2006
+            [1, 2, 28] Type: Cell
+            └───────── Label: 1979–2009
+            [1, 2, 29] Type: Cell
+            └───────── Label: 2003
+            [1, 2, 30] Type: Cell
+            └───────── Label: 1977
+            [1, 2, 31] Type: Cell
+            └───────── Label: 1960
+            [1, 2, 32] Type: Cell
+            └───────── Label: 2008
+            [1, 2, 33] Type: Cell
+            └───────── Label: 1961
+            [1, 2, 34] Type: Cell
+            └───────── Label: 1993
+            [1, 2, 35] Type: Cell
+            └───────── Label: 1635
+            [1, 2, 36] Type: Cell
+            └───────── Label: 1998
+            [1, 2, 37] Type: Cell
+            └───────── Label: 1962
+            [1, 2, 38] Type: Cell
+            └───────── Label: 1970
+            [1, 2, 39] Type: Cell
+            └───────── Label: 1994
+            [1, 2, 40] Type: Cell
+            └───────── Label: 2012
+            [1, 2, 41] Type: Cell
+            └───────── Label: 1988
+            [1, 2, 42] Type: Cell
+            └───────── Label: 2007
+            [1, 2, 43] Type: Cell
+            └───────── Label: 1984
+            [1, 2, 44] Type: Cell
+            └───────── Label: 2005
+            [1, 2, 45] Type: Cell
+            └───────── Label: 2010
+            [1, 2, 46] Type: Cell
+            └───────── Label: 1998
+            [1, 2, 47] Type: Cell
+            └───────── Label: 2011
+            [1, 2, 48] Type: Cell
+            └───────── Label: 1993
+            [1, 2, 49] Type: Cell
+            └───────── Label: 1964
+            [1, 2, 50] Type: Cell
+            └───────── Label: 1994
+            [1, 2, 51] Type: Cell
+            └───────── Label: 2003
+            [1, 2, 52] Type: Cell
+            └───────── Label: 1965
+            [1, 2, 53] Type: Cell
+            └───────── Label: 1961
+            [1, 2, 54] Type: Cell
+            └───────── Label: 2003
+            [1, 2, 55] Type: Cell
+            └───────── Label: 2008
+            [1, 2, 56] Type: Cell
+            └───────── Label: 1995
+            [1, 2, 57] Type: Cell
+            └───────── Label: 2011
+            [1, 2, 58] Type: Cell
+            └───────── Label: 2001
+            [1, 2, 59] Type: Cell
+            └───────── Label: 2010
+            [1, 2, 60] Type: Cell
+            └───────── Label: 1965
+            [1, 2, 61] Type: Cell
+            └───────── Label: 1964
+            [1, 2, 62] Type: Cell
+            └───────── Label: 1992
+            [1, 2, 63] Type: Cell
+            └───────── Label: 2015
+            [1, 2, 64] Type: Cell
+            └───────── Label: 1991
+            [1, 2, 65] Type: Cell
+            └───────── Label: 2010
+            [1, 2, 66] Type: Cell
+            └───────── Label: 1941
+            [1, 2, 67] Type: Cell
+            └───────── Label: 1965
+            [1, 2, 68] Type: Cell
+            └───────── Label: 1959
+            [1, 2, 69] Type: Cell
+            └───────── Label: 1953
+            [1, 2, 70] Type: Cell
+            └───────── Label: 1955
+            [1, 2, 71] Type: Cell
+            └───────── Label: 1969
+            [1, 2, 72] Type: Cell
+            └───────── Label: 2002
+            [1, 2, 73] Type: Cell
+            └───────── Label: 1981
+            [1, 2, 74] Type: Cell
+            └───────── Label: 1951
+            [1, 2, 75] Type: Cell
+            └───────── Label: 1993
+            [1, 2, 76] Type: Cell
+            └───────── Label: 1985
+            [1, 2, 77] Type: Cell
+            └───────── Label: 2014
+            [1, 2, 78] Type: Cell
+            └───────── Label: 1965 -1993
+            [1, 2, 79] Type: Cell
+            └───────── Label: 1995
+            [1, 2, 80] Type: Cell
+            └───────── Label: 1996
+            [1, 2, 81] Type: Cell
+            └───────── Label: 1995-1997
+            [1, 2, 82] Type: Cell
+            └───────── Label: 1955
+            [1, 2, 83] Type: Cell
+            └───────── Label: 1992
+            [1, 2, 84] Type: Cell
+            └───────── Label: 380
+            [1, 2, 85] Type: Cell
+            └───────── Label: 1963
+            [1, 2, 86] Type: Cell
+            └───────── Label: 1935
+        [1, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 87
+            [1, 3, 0] Type: Cell
+            │         Label: Remarks
+            └──────── Style: Emphasize
+            [1, 3, 1] Type: Cell
+            └──────── Label: This book formulates the world view and approach to one's daily life based on assumption of world being simulated.
+            [1, 3, 2] Type: Cell
+            │         Label: A collection of related short stories, assembled as a novel, chronicling the life of a man and his daughter both pre and post-singularity.
+            └──────── Link: {'text:singularity': 'http://en.wikipedia.org/wiki/Technological_singularity'}
+            [1, 3, 3] Type: Cell
+            │         Label: Posits a religion according to which 'The Truth' is that our universe is virtual.
+            └──────── Link: {'text:religion': 'http://en.wikipedia.org/wiki/Religion', 'text:universe': 'http://en.wikipedia.org/wiki/Universe'}
+            [1, 3, 4] Type: Cell
+            │         Label: On a road trip, two characters set out from a post-apocalypse Wyoming town and encounter a succession of alternate realities, including one shrouded in opaque green fog, another luck-based political system, and it is suggested that these divergent alternate realities emerged to obstruct an alien invasion of Earth. Homage to Philip K. Dick.
+            └──────── Link: {'text:post-apocalypse': 'http://en.wikipedia.org/wiki/Post-apocalypse', 'text:Wyoming': 'http://en.wikipedia.org/wiki/Wyoming', 'text:luck-based': 'http://en.wikipedia.org/w/index.php?title=Luck-based&action=edit&redlink=1', 'text:alien invasion': 'http://en.wikipedia.org/wiki/Alien_invasion', 'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick'}
+            [1, 3, 5] Type: Cell
+            └──────── Label: A coming of age story introducing God as a teenage programmer, who creates Earth within a pre-made Universe simulation and unsuccessfully attempts to guide its progress from genesis and beyond.
+            [1, 3, 6] Type: Cell
+            │         Label: Kilgore Trout, an amateur science fiction writer, writes a story that mocks individualism by suggesting that there is only one human man and one God, and the rest of humanity are robots, made to test the man's reactions; hence, a kind of simulated reality.
+            └──────── Link: {'text:Kilgore Trout': 'http://en.wikipedia.org/wiki/Kilgore_Trout'}
+            [1, 3, 7] Type: Cell
+            └──────── Label: Several strands relating to virtual reality games and virtual objects, but then events in the "real world" lead the reader to conclude that the "real world" is a simulated reality which is accreting errors and anomalies.
+            [1, 3, 8] Type: Cell
+            └──────── Label: An Englishman is viciously beaten and injured late at night in the London Underground system.  He wakes from the coma only to discover that his reality is inconsistent, and begins to wonder if he'd really woken at all.
+            [1, 3, 9] Type: Cell
+            │         Label: The characters come to doubt their own reality. This story was reprinted in several anthology collections, won the 2004 Hugo Award for Best Novella and was nominated for the 2005 Nebula Award for Best Novella. One reviewer rated the story "A+" and praised "the central mysteries which Vinge so very skillfully unwraps for you over the course of the story itself."
+            └──────── Link: {'text:anthology': 'http://en.wikipedia.org/wiki/Anthology', 'text:Hugo Award': 'http://en.wikipedia.org/wiki/Hugo_Award', 'text:Novella': 'http://en.wikipedia.org/wiki/Novella', 'text:Nebula Award for Best Novella': 'http://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novella'}
+            [1, 3, 10] Type: Cell
+            └───────── Label: A man goes to visit the town in which he spent his early childhood, only to find that he does not recognize anything or anyone.  Even basic things such as street names are different.  Eventually he discovers that the town and all of the people in it are being subjected to an illusion created by the fight between two cosmic beings.
+            [1, 3, 11] Type: Cell
+            │          Label: The first sequel of Gibson's Neuromancer, the novel continues themes around cyberspace and introduces a computerized device called an Aleph which contains an advanced version of cyberspace that appears as a simulated reality to those that "jack" into it, as well as to digital entities that reside within it.
+            └───────── Link: {'text:Neuromancer': 'http://en.wikipedia.org/wiki/Neuromancer'}
+            [1, 3, 12] Type: Cell
+            │          Label: By the end of the story it is revealed that whatever happens in the story is really beyond the End of Time and that the Universe, the Earth and all of the consciousness that ever existed are really being preserved in a computer-like simulation known as the Archive.
+            └───────── Link: {'text:End of Time': 'http://en.wikipedia.org/wiki/Omega_Point'}
+            [1, 3, 13] Type: Cell
+            │          Label: Part of the Virgin New Adventures series of Doctor Who spin-off fiction, but mostly disconnected from the rest of the series. The novel is set on a version of 1970s Earth within a "bottle universe," invaded by powerful beings from the greater universe beyond. It is suggested that these beings are fleeing their own invaders and that their universe is merely a bottle within a yet greater cosmos.
+            └───────── Link: {'text:Virgin New Adventures': 'http://en.wikipedia.org/wiki/Virgin_New_Adventures', 'text:Doctor Who': 'http://en.wikipedia.org/wiki/Doctor_Who'}
+            [1, 3, 14] Type: Cell
+            └───────── Label: A novel set in 2975 CE in which humanity has divided into distinct groups, one of which are the citizens.  The citizens are intelligences that exist as disembodied computer software running entirely within simulated reality-based communities.
+            [1, 3, 15] Type: Cell
+            └───────── Label: Released in the United States under the title The Perfect Lover. A team of specialists undergoes a sort of computer-monitored group hypnosis to create an alternate England, hoping to improve their dystopian world, but their utopia is endangered by one member with foul emotions and megalomaniacal ideas.
+            [1, 3, 16] Type: Cell
+            └───────── Label: Dueling as a means of settling disputes has been revived by the invention of the dueling machine, which allows two adversaries to have at each other in the imaginary world of their choosing, with no danger to either other than humiliation and the loss of the point in dispute—until the Kerak Worlds found a way to kill with the machine.
+            [1, 3, 17] Type: Cell
+            └───────── Label: A man awakes from a vehicular crash, and is transferred to a special treatment facility after being informed that he is a biological robot. He finds that his subjective reality is controlled by a punch tape reel in his chest panel, which he begins to manipulate in an effort to control the world that he experiences.
+            [1, 3, 18] Type: Cell
+            └───────── Label: A woman who is so ugly that she is an outcast on her colony planet of genetically engineered perfection agrees to put herself in a container from which she will have full control of and the illusion of independence in the cloned body of a beautiful, wealthy, and intelligent woman.
+            [1, 3, 19] Type: Cell
+            └───────── Label: The inhabitants of a whole world play in a virtual world for their real income and status.
+            [1, 3, 20] Type: Cell
+            │          Label: In particular, his introduction of the Taylor algorithms as a means of determining the simulated nature of an artificial environment.
+            └───────── Link: {'text:Taylor algorithms': 'http://en.wikipedia.org/wiki/Taylor_algorithms_(fiction)'}
+            [1, 3, 21] Type: Cell
+            │          Label: After a nuclear accident, seven victims successively pass a range of solipsist personalised alternate universes, including a geocentric, magic-based universe and a hardline marxist caricature of the contemporary United States. Tom Shippey wrote that it might be "a private fantasy world, watched over by a Vast Active Living Intelligence System."
+            └───────── Link: {'text:nuclear accident': 'http://en.wikipedia.org/wiki/Nuclear_accident', 'text:solipsist': 'http://en.wikipedia.org/wiki/Solipsist', 'text:geocentric': 'http://en.wikipedia.org/wiki/Geocentric', 'text:marxist': 'http://en.wikipedia.org/wiki/Marxist', 'text:United States': 'http://en.wikipedia.org/wiki/United_States', 'text:Tom Shippey': 'http://en.wikipedia.org/wiki/Tom_Shippey'}
+            [1, 3, 22] Type: Cell
+            │          Label: Describes a version of Earth with very extensive virtual reality capabilities.
+            └───────── Link: {'text:Earth': 'http://en.wikipedia.org/wiki/Earth'}
+            [1, 3, 23] Type: Cell
+            └───────── Label: A famous, wealthy entertainer wakes up one morning in a cheap hotel, only to discover that no one knows who he is and that there is not even a record of his existence.
+            [1, 3, 24] Type: Cell
+            └───────── Label: 
+            [1, 3, 25] Type: Cell
+            └───────── Label: A philosophical speculation on the ontological status of the extreme form of virtual reality that combines with teleoperation, in comparison with what we perceive as the "actual" or "physical" reality. An array of thought experiments is constructed for the purpose of philosophical investigations.
+            [1, 3, 26] Type: Cell
+            └───────── Label: 
+            [1, 3, 27] Type: 
+            [1, 3, 28] Type: Cell
+            │          Label: Earth was designed by an alien supercomputer called Deep Thought to find the Ultimate Question to the Ultimate Answer of Life, the Universe, and Everything (the Ultimate Answer already established as 42), using organic life as part of its operational matrix. However, early on in the first book Earth was destroyed just before the critical moment of read-out, leading to the events of the rest of the series.  Later, part of the action takes place in a synthetic universe.
+            └───────── Link: {'text:Deep Thought': 'http://en.wikipedia.org/wiki/Deep_Thought_(The_Hitchhiker%27s_Guide_to_the_Galaxy)', 'text:Life, the Universe, and Everything': 'http://en.wikipedia.org/wiki/Life,_the_Universe,_and_Everything', 'text:42': 'http://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life,_the_Universe_and_Everything_(42)'}
+            [1, 3, 29] Type: Cell
+            └───────── Label: This novel contains a simulated school inside a simulated world.
+            [1, 3, 30] Type: Cell
+            │          Label: A pilot on the Midwest summer barnstorming circuit meets a messiah who shows him that the world is merely "like a movie" designed by "the Master" to entertain and enlighten humanity.
+            └───────── Link: {'text:barnstorming': 'http://en.wikipedia.org/wiki/Barnstorming', 'text:messiah': 'http://en.wikipedia.org/wiki/Messiah'}
+            [1, 3, 31] Type: Cell
+            └───────── Label: Two scientists use a computer to predict the consequences on society of a new drug that one of them invented.
+            [1, 3, 32] Type: Cell
+            └───────── Label: A woman is resurrected from the dead and placed in an artificial looping alternate future timeline so that a greedy corporate inventor and CEO can test the limits of this technology.  She lives every week over again, with all people and events simulated for her in order to reduce the number of defects in the system.
+            [1, 3, 33] Type: Cell
+            └───────── Label: A new philosophy known as "Hedonism", which makes joy the greatest human need, ultimately results in an advanced A.I. projecting each person's ultimate fantasy directly into their brains while their comatose bodies are cared for inside of locked "wombs".
+            [1, 3, 34] Type: Cell
+            └───────── Label: Killobyte is a "second generation" virtual reality game that puts players into a three-dimensional, fully sensory environment.
+            [1, 3, 35] Type: Cell
+            └───────── Label: 
+            [1, 3, 36] Type: Cell
+            └───────── Label: 
+            [1, 3, 37] Type: Cell
+            │          Label: Initially, it appears that Nazi Germany and the Japanese Empire won the Second World War in an alternate, occupied United States. However, the I Ching divination tool discloses this as an apparent illusion.
+            └───────── Link: {'text:Nazi Germany': 'http://en.wikipedia.org/wiki/Nazi_Germany', 'text:Japanese Empire': 'http://en.wikipedia.org/wiki/Japanese_Empire', 'text:Second World War': 'http://en.wikipedia.org/wiki/Second_World_War', 'text:I Ching': 'http://en.wikipedia.org/wiki/I_Ching'}
+            [1, 3, 38] Type: Cell
+            └───────── Label: A group of people from different ways of life are assigned to colonize a planet using a vehicle that is one-way, making them unable to leave.  Many confusing events take place.  Eventually everyone wakes up and discovers that it was a virtual reality program.  The passengers of a broken spaceship are in an orbit of an alien gas giant and they are doomed to remain until they die.  To keep away boredom and despair they create virtual reality programs in which they are living real lives.  The book ends with the restart of the previous program.
+            [1, 3, 39] Type: Cell
+            └───────── Label: 
+            [1, 3, 40] Type: Cell
+            │          Label: A world where the Middle East is the centre of capitalism and democracy and the United States is home to sectarian and terrorist violence. Most of the history of the world is told throughout the book through excerpts from a website called The Library of Alexandria, the world's version of Wikipedia. It is eventually revealed that the timeline is an illusion created by a Djinn.
+            └───────── Link: {'text:Middle East': 'http://en.wikipedia.org/wiki/Middle_East', 'text:Wikipedia': 'http://en.wikipedia.org/wiki/Wikipedia', 'text:Djinn': 'http://en.wikipedia.org/wiki/Djinn'}
+            [1, 3, 41] Type: Cell
+            │          Label: The second sequel to Gibson's Neuromancer, featuring further exploration of the influence of cyberspace in the future.
+            └───────── Link: {'text:Neuromancer': 'http://en.wikipedia.org/wiki/Neuromancer'}
+            [1, 3, 42] Type: Cell
+            └───────── Label: A post-apocalyptic underground society pacifies its citizens by plugging them into a simulated version of New York City before the war, meanwhile telling the people that they are actually traveling to an alternate reality where they can escape their constricted lives.
+            [1, 3, 43] Type: Cell
+            └───────── Label: In this future, cyberspace has taken on the attributes of virtual reality.
+            [1, 3, 44] Type: Cell
+            └───────── Label: A group of immortal humans sets off on a thousand-year voyage to explore an Earth-type planet.  To amuse themselves, they use virtual reality to take trips to the twentieth century; but when the trips start to go wrong, a virtual reality engineer discovers that the simulated world is ruled by a self-aware computer...who may be running a more complex simulation than they can ever imagine.
+            [1, 3, 45] Type: Cell
+            └───────── Label: Features a MMOG called Omnitopia that contains multiple player-built worlds that can compete for popularity, earning real-world money.
+            [1, 3, 46] Type: Cell
+            └───────── Label: 
+            [1, 3, 47] Type: Cell
+            └───────── Label: 
+            [1, 3, 48] Type: Cell
+            │          Label: A Japanese novel about a research psychologist who uses a device that permits therapists to help patients by entering their dreams, later adapted into an anime film.
+            └───────── Link: {'text:Japanese novel': 'http://en.wikipedia.org/wiki/Japanese_novel', 'text:anime film': 'http://en.wikipedia.org/wiki/Paprika_(2006_film)'}
+            [1, 3, 49] Type: Cell
+            └───────── Label: A group of people living in underground tanks during a nuclear war decide that they have to brave the irradiated, dangerous surface in order to get an artificial organ for an irreplaceable member of their community, only to discover that everything that they have been led to believe is a lie.
+            [1, 3, 50] Type: Cell
+            └───────── Label: 
+            [1, 3, 51] Type: Cell
+            │          Label: Includes several short stories pertaining to simulated realities, particularly in reference to their solving of the Fermi paradox. Most notably the framing story "Touching Centauri," but also "Poyekhali 3201," "Glass Earth, Inc." "Tracks" and "The Barrier," which explores the zoo hypothesis.
+            └───────── Link: {'text:Fermi paradox': 'http://en.wikipedia.org/wiki/Fermi_paradox', 'text:zoo hypothesis': 'http://en.wikipedia.org/wiki/Zoo_hypothesis'}
+            [1, 3, 52] Type: Cell
+            │          Label: A story-dream "The Wedding Night of Princess Ineffabelle" from the story-in-a-story "The tale of Zipperupus, king of the Partheginians, the Deutons, and the Profligoths" from the short story "The Tale of the Three Story Telling Machines" from The Cyberiad.
+            └───────── Link: {'text:The Cyberiad': 'http://en.wikipedia.org/wiki/The_Cyberiad'}
+            [1, 3, 53] Type: Cell
+            │          Label: A short story about a professor, who created a set of AIs inside boxes. Each of the AIs inside each box lives inside an ilusionary world, all their feelings and future being dictated by the professor. The professor bitterly comments that he often dreams that he is also inside a box in someone else's lab. Published in Star Diaries ("Memoirs of a space traveler: further reminiscences of Ijon Tichy").
+            └───────── Link: {'text:Star Diaries': 'http://en.wikipedia.org/wiki/Star_Diaries'}
+            [1, 3, 54] Type: Cell
+            └───────── Label: Is set on a world destroyed by simulated reality.
+            [1, 3, 55] Type: Cell
+            └───────── Label: A programmer in a post-apocalyptic future in England is used to living his life across a variety of virtual reality channels, but thinks his real life is not that bad.  One day he hits his head at work and starts seeing a version of reality where everyone is dirty and underfed, where the restaurants serve goo and where even a baptism is not what it first appears to be.
+            [1, 3, 56] Type: Cell
+            └───────── Label: Is set in the near future, a cyber reality with its creator trapped inside.
+            [1, 3, 57] Type: Cell
+            │          Label: Though not set within a simulated reality, the novel stars the creator of a hugely popular massively multiplayer online role-playing game and discusses many of the behind-the-scenes operations in its creation and success.
+            └───────── Link: {'text:massively multiplayer online role-playing game': 'http://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game'}
+            [1, 3, 58] Type: Cell
+            └───────── Label: Set on a ship that creates virtual landscapes
+            [1, 3, 59] Type: Cell
+            └───────── Label: A mysterious anomaly leads to the revelation that the characters are living in a simulated world, which is in turn embedded within another simulated world.
+            [1, 3, 60] Type: Cell
+            │          Label: "The Seventh Sally or How Trurl's Own Perfection Led to No Good", from The Cyberiad
+            └───────── Link: {'text:The Cyberiad': 'http://en.wikipedia.org/wiki/The_Cyberiad'}
+            [1, 3, 61] Type: Cell
+            │          Label: Also published as Counterfeit World. Adapted as a TV miniseries World on a Wire (1973) and as the film The Thirteenth Floor (1999).
+            └───────── Link: {'text:World on a Wire': 'http://en.wikipedia.org/wiki/World_on_a_Wire', 'text:The Thirteenth Floor': 'http://en.wikipedia.org/wiki/The_Thirteenth_Floor'}
+            [1, 3, 62] Type: Cell
+            │          Label: Romanticizing the perilous world of some young hackers, the novel discusses the history and nature of language and virtual reality, among many other topics.
+            └───────── Link: {'text:hackers': 'http://en.wikipedia.org/wiki/Hacker_(computer_security)'}
+            [1, 3, 63] Type: Cell
+            └───────── Label: Markus, a former hacker on restricted parole, begins to take the largely untested psychedelic drug called Synth because his life and past are so miserable.  Synth creates simulated and augmented reality in the brain that is totally indistinguishable from real life.  At first Synth enables Markus to endure his misery by creating false realities for him, but then it begins to synthesize reality even when he does not take the drug.
+            [1, 3, 64] Type: Cell
+            └───────── Label: 
+            [1, 3, 65] Type: Cell
+            │          Label: In which a civilization uses computer simulation and mind uploading to create and populate artificial Hells.
+            └───────── Link: {'text:mind uploading': 'http://en.wikipedia.org/wiki/Mind_uploading'}
+            [1, 3, 66] Type: Cell
+            └───────── Label: A short story that focuses on a man who believes the universe was created in order to deceive him.
+            [1, 3, 67] Type: Cell
+            │          Label: In this future, alternate states of consciousness are mediated by widespread and legal use of hallucinogens.
+            └───────── Link: {'text:hallucinogens': 'http://en.wikipedia.org/wiki/Hallucinogens'}
+            [1, 3, 68] Type: Cell
+            └───────── Label: Ragle Gumm is trapped within an artificial reality that resembles small town America in the late fifties. It is disclosed to be a strategic simulation run by a Terran government at war with its separatist lunar colony in 1998.
+            [1, 3, 69] Type: Cell
+            └───────── Label: In an era where scientific exploration has proven the solar system to be devoid of extraterrestrial life and robots take care of most work, humans pass time by building miniature simulated universes called Worldcraft Bubbles.
+            [1, 3, 70] Type: Cell
+            └───────── Label: A person accidentally finds out that he lives the day of June 15 over and over again. It turns out that a ruthless advertising executive took over the whole ruins of a city that perished in an explosion of a chemical and rebuilt them, together with people, in miniature for testing high-pressure advertising campaigns.
+            [1, 3, 71] Type: Cell
+            └───────── Label: Several former corporate employees are killed but their consciousnesses remain sentient, albeit decaying, in a simulated shared hallucinatory experience.
+            [1, 3, 72] Type: Cell
+            │          Label: Set in a futuristic amusement park called Utopia that relies heavily on holographics and robotics.
+            └───────── Link: {'text:holographics': 'http://en.wikipedia.org/wiki/Holographics', 'text:robotics': 'http://en.wikipedia.org/wiki/Robotics'}
+            [1, 3, 73] Type: Cell
+            │          Label: In this departure, it is our own world that is stated to be a hallucinatory overlay, produced from a gnostic demiurge that is malignant-although it may also be a visual and auditory hallucination produced by authorial schizophrenia
+            └───────── Link: {'text:gnostic': 'http://en.wikipedia.org/wiki/Gnostic', 'text:demiurge': 'http://en.wikipedia.org/wiki/Demiurge', 'text:schizophrenia': 'http://en.wikipedia.org/wiki/Schizophrenia'}
+            [1, 3, 74] Type: Cell
+            │          Label: A short story from The Illustrated Man, this grim tale describes two children who prefer their simulated-reality nursery to their parents.
+            └───────── Link: {'text:The Illustrated Man': 'http://en.wikipedia.org/wiki/The_Illustrated_Man'}
+            [1, 3, 75] Type: Cell
+            └───────── Label: In a future Manchester, England, people live for Vurt—a drug-like feather which produces perfectly lifelike illusions.  The function of the feathers varies according to their colors.
+            [1, 3, 76] Type: Cell
+            └───────── Label: 
+            [1, 3, 77] Type: Cell
+            └───────── Label: A group of adolescents from very different backgrounds find themselves trapped in an unfamiliar valley during a snow storm, only to discover that the valley, their pasts, and their very lives may be nothing more than stories created by an author with tremendous magical/technological power.
+            [1, 3, 78] Type: Cell
+            │          Label: A group of novels based on the premise of travel to alternate pocket universes containing modified man-made worlds. In the series, it is eventually revealed that our existence is also based in a pocket universe whose extent reaches only part of the way to Alpha Centauri.
+            └───────── Link: {'text:pocket universes': 'http://en.wikipedia.org/wiki/Pocket_universe', 'text:Alpha Centauri': 'http://en.wikipedia.org/wiki/Alpha_Centauri'}
+            [1, 3, 79] Type: Cell
+            └───────── Label: 
+            [1, 3, 80] Type: Cell
+            └───────── Label: 
+            [1, 3, 81] Type: Cell
+            │          Label: A trilogy that pays homage to Alice's Adventures in Wonderland.
+            └───────── Link: {"text:Alice's Adventures in Wonderland": 'http://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland'}
+            [1, 3, 82] Type: Cell
+            └───────── Label: This short story about a character who finds himself in a bizarre, perhaps movie-based reality was frequently reprinted, and was translated into French as "En Scène!".
+            [1, 3, 83] Type: Cell
+            └───────── Label: This short story is a tale of a group of scientists that create a simulation of a world to explore evolution and societal development. Eventually they reveal themselves to the inhabitants and are treated as gods, but then their creations realize that there is more than meets the eye and plot their escape.
+            [1, 3, 84] Type: Cell
+            │          Label: "Allegory of the Cave"
+            └───────── Link: {'text:Allegory of the Cave': 'http://en.wikipedia.org/wiki/Allegory_of_the_Cave'}
+            [1, 3, 85] Type: Cell
+            │          Label: Inspirational short story for the film They Live
+            └───────── Link: {'text:They Live': 'http://en.wikipedia.org/wiki/They_Live'}
+            [1, 3, 86] Type: Cell
+            └───────── Label: Greek Mythology
+    [2] Type: List
+    │   Label: Theater
+    │   Dimension: 1
+    └── Number of Member: 2
+        [2, 0] Type: Item
+        │      Label: Possible Worlds (1990) and the 2000 film adaptation
+        └───── Link: {'text:Possible Worlds': 'http://en.wikipedia.org/wiki/Possible_Worlds_(play)', 'text:film adaptation': 'http://en.wikipedia.org/wiki/Possible_Worlds_(film)'}
+        [2, 1] Type: Item
+        │      Label: World of Wires (2012), directed by Jay Scheib.
+        └───── Link: {'text:Jay Scheib': 'http://en.wikipedia.org/wiki/Jay_Scheib'}
+    [3] Type: Table
+    │   Label: Comics and anime
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 4
+        [3, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 24
+            [3, 0, 0] Type: Cell
+            │         Label: Title
+            └──────── Style: Emphasize
+            [3, 0, 1] Type: Cell
+            │         Label: For the Man Who Has Everything
+            └──────── Link: {'text:For the Man Who Has Everything': 'http://en.wikipedia.org/wiki/For_the_Man_Who_Has_Everything'}
+            [3, 0, 2] Type: Cell
+            │         Label: .hack//SIGN
+            └──────── Link: {'text:.hack//SIGN': 'http://en.wikipedia.org/wiki/.hack//SIGN'}
+            [3, 0, 3] Type: Cell
+            │         Label: 12 oz. Mouse
+            └──────── Link: {'text:12 oz. Mouse': 'http://en.wikipedia.org/wiki/12_oz._Mouse'}
+            [3, 0, 4] Type: Cell
+            │         Label: Aeon Flux
+            └──────── Link: {'text:Aeon Flux': 'http://en.wikipedia.org/wiki/Aeon_Flux'}
+            [3, 0, 5] Type: Cell
+            │         Label: The Big O
+            └──────── Link: {'text:The Big O': 'http://en.wikipedia.org/wiki/The_Big_O'}
+            [3, 0, 6] Type: Cell
+            │         Label: Danger Room
+            └──────── Link: {'text:Danger Room': 'http://en.wikipedia.org/wiki/Danger_Room'}
+            [3, 0, 7] Type: Cell
+            │         Label: Detective Conan: The Phantom of Baker Street
+            └──────── Link: {'text:Detective Conan: The Phantom of Baker Street': 'http://en.wikipedia.org/wiki/Detective_Conan:_The_Phantom_of_Baker_Street'}
+            [3, 0, 8] Type: Cell
+            │         Label: Eternal Family
+            └──────── Link: {'text:Eternal Family': 'http://en.wikipedia.org/wiki/Eternal_Family'}
+            [3, 0, 9] Type: Cell
+            │         Label: Ghost in the Shell
+            └──────── Link: {'text:Ghost in the Shell': 'http://en.wikipedia.org/wiki/Ghost_in_the_Shell'}
+            [3, 0, 10] Type: Cell
+            │          Label: Lyoko
+            └───────── Link: {'text:Lyoko': 'http://en.wikipedia.org/wiki/Lyoko'}
+            [3, 0, 11] Type: Cell
+            │          Label: Log Horizon
+            └───────── Link: {'text:Log Horizon': 'http://en.wikipedia.org/wiki/Log_Horizon'}
+            [3, 0, 12] Type: Cell
+            │          Label: Megazone 23
+            └───────── Link: {'text:Megazone 23': 'http://en.wikipedia.org/wiki/Megazone_23'}
+            [3, 0, 13] Type: Cell
+            │          Label: Noein
+            └───────── Link: {'text:Noein': 'http://en.wikipedia.org/wiki/Noein'}
+            [3, 0, 14] Type: Cell
+            │          Label: Paprika
+            └───────── Link: {'text:Paprika': 'http://en.wikipedia.org/wiki/Paprika_(2006_film)'}
+            [3, 0, 15] Type: Cell
+            │          Label: Paranoia Agent
+            └───────── Link: {'text:Paranoia Agent': 'http://en.wikipedia.org/wiki/Paranoia_Agent'}
+            [3, 0, 16] Type: Cell
+            │          Label: The Real Adventures of Jonny Quest
+            └───────── Link: {'text:The Real Adventures of Jonny Quest': 'http://en.wikipedia.org/wiki/The_Real_Adventures_of_Jonny_Quest'}
+            [3, 0, 17] Type: Cell
+            │          Label: Robotech: The Movie
+            └───────── Link: {'text:Robotech: The Movie': 'http://en.wikipedia.org/wiki/Robotech:_The_Movie'}
+            [3, 0, 18] Type: Cell
+            │          Label: Serial Experiments Lain
+            └───────── Link: {'text:Serial Experiments Lain': 'http://en.wikipedia.org/wiki/Serial_Experiments_Lain'}
+            [3, 0, 19] Type: Cell
+            │          Label: Summer Wars
+            └───────── Link: {'text:Summer Wars': 'http://en.wikipedia.org/wiki/Summer_Wars'}
+            [3, 0, 20] Type: Cell
+            │          Label: Sword Art Online
+            └───────── Link: {'text:Sword Art Online': 'http://en.wikipedia.org/wiki/Sword_Art_Online'}
+            [3, 0, 21] Type: Cell
+            │          Label: Urusei Yatsura 2: Beautiful Dreamer
+            └───────── Link: {'text:Urusei Yatsura 2: Beautiful Dreamer': 'http://en.wikipedia.org/wiki/Urusei_Yatsura_2:_Beautiful_Dreamer'}
+            [3, 0, 22] Type: Cell
+            │          Label: Zegapain
+            └───────── Link: {'text:Zegapain': 'http://en.wikipedia.org/wiki/Zegapain'}
+            [3, 0, 23] Type: Cell
+            │          Label: Les murailles de Samaris
+            └───────── Link: {'text:Les murailles de Samaris': 'http://en.wikipedia.org/wiki/Les_murailles_de_Samaris'}
+        [3, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 24
+            [3, 1, 0] Type: Cell
+            │         Label: Author
+            └──────── Style: Emphasize
+            [3, 1, 1] Type: Cell
+            │         Label: Alan Moore
+            └──────── Link: {'text:Alan Moore': 'http://en.wikipedia.org/wiki/Alan_Moore'}
+            [3, 1, 2] Type: Cell
+            └──────── Label: 
+            [3, 1, 3] Type: Cell
+            └──────── Label: 
+            [3, 1, 4] Type: Cell
+            └──────── Label: 
+            [3, 1, 5] Type: Cell
+            └──────── Label: Hajime Yatate, Chiaki J. Konaka, N.B.
+            [3, 1, 6] Type: Cell
+            └──────── Label: 
+            [3, 1, 7] Type: Cell
+            └──────── Label: 
+            [3, 1, 8] Type: Cell
+            └──────── Label: 
+            [3, 1, 9] Type: Cell
+            └──────── Label: 
+            [3, 1, 10] Type: Cell
+            └───────── Label: 
+            [3, 1, 11] Type: Cell
+            └───────── Label: 
+            [3, 1, 12] Type: Cell
+            └───────── Label: Noboru Ishiguro, Shinji Aramaki
+            [3, 1, 13] Type: Cell
+            └───────── Label: Kazuki Akane, Kenji Yasuda
+            [3, 1, 14] Type: Cell
+            │          Label: Satoshi Kon
+            └───────── Link: {'text:Satoshi Kon': 'http://en.wikipedia.org/wiki/Satoshi_Kon'}
+            [3, 1, 15] Type: Cell
+            └───────── Label: Satoshi Kon
+            [3, 1, 16] Type: Cell
+            └───────── Label: 
+            [3, 1, 17] Type: Cell
+            └───────── Label: 
+            [3, 1, 18] Type: Cell
+            └───────── Label: Chiaki J. Konaka
+            [3, 1, 19] Type: Cell
+            │          Label: Mamoru Hosoda
+            └───────── Link: {'text:Mamoru Hosoda': 'http://en.wikipedia.org/wiki/Mamoru_Hosoda'}
+            [3, 1, 20] Type: Cell
+            └───────── Label: 
+            [3, 1, 21] Type: Cell
+            │          Label: Mamoru Oshii
+            └───────── Link: {'text:Mamoru Oshii': 'http://en.wikipedia.org/wiki/Mamoru_Oshii'}
+            [3, 1, 22] Type: Cell
+            └───────── Label: 
+            [3, 1, 23] Type: Cell
+            │          Label: François Schuiten and Benoît Peeters,
+            └───────── Link: {'text:François Schuiten': 'http://en.wikipedia.org/wiki/Fran%C3%A7ois_Schuiten', 'text:Benoît Peeters': 'http://en.wikipedia.org/wiki/Beno%C3%AEt_Peeters'}
+        [3, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 24
+            [3, 2, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [3, 2, 1] Type: Cell
+            └──────── Label: 1985
+            [3, 2, 2] Type: Cell
+            └──────── Label: 2002
+            [3, 2, 3] Type: Cell
+            └──────── Label: 2005
+            [3, 2, 4] Type: Cell
+            └──────── Label: 1991
+            [3, 2, 5] Type: Cell
+            └──────── Label: 1999
+            [3, 2, 6] Type: Cell
+            └──────── Label: 1963
+            [3, 2, 7] Type: Cell
+            └──────── Label: 2002
+            [3, 2, 8] Type: Cell
+            └──────── Label: 1997
+            [3, 2, 9] Type: Cell
+            └──────── Label: 1989–present
+            [3, 2, 10] Type: Cell
+            └───────── Label: 2003
+            [3, 2, 11] Type: Cell
+            └───────── Label: 2013
+            [3, 2, 12] Type: Cell
+            └───────── Label: 1985-1989
+            [3, 2, 13] Type: Cell
+            └───────── Label: 2005
+            [3, 2, 14] Type: Cell
+            └───────── Label: 2006
+            [3, 2, 15] Type: Cell
+            └───────── Label: 2004
+            [3, 2, 16] Type: Cell
+            └───────── Label: 1996-1999
+            [3, 2, 17] Type: Cell
+            └───────── Label: 1986
+            [3, 2, 18] Type: Cell
+            └───────── Label: 1998
+            [3, 2, 19] Type: Cell
+            └───────── Label: 2009
+            [3, 2, 20] Type: Cell
+            └───────── Label: 2009-present
+            [3, 2, 21] Type: Cell
+            └───────── Label: 1984
+            [3, 2, 22] Type: Cell
+            └───────── Label: 2006
+            [3, 2, 23] Type: Cell
+            └───────── Label: 1982
+        [3, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 24
+            [3, 3, 0] Type: Cell
+            │         Label: Remarks
+            └──────── Style: Emphasize
+            [3, 3, 1] Type: Cell
+            │         Label: A comic book story by writer Alan Moore and artist Dave Gibbons, first published in Superman Annual #11 (1985) by DC Comics, about Superman being trapped in a simulated reality created by an extraterrestrial parasitic organism Black Mercy where the planet Krypton were never exploded.
+            └──────── Link: {'text:comic book': 'http://en.wikipedia.org/wiki/Comic_book', 'text:Dave Gibbons': 'http://en.wikipedia.org/wiki/Dave_Gibbons', 'text:Superman': 'http://en.wikipedia.org/wiki/Superman', 'text:Annual': 'http://en.wikipedia.org/wiki/Annual_publication', 'text:DC Comics': 'http://en.wikipedia.org/wiki/DC_Comics', 'text:Krypton': 'http://en.wikipedia.org/wiki/Krypton_(comics)'}
+            [3, 3, 2] Type: Cell
+            │         Label: An anime series about a person whose mind is trapped in an online computer role-playing game
+            └──────── Link: {'text:anime': 'http://en.wikipedia.org/wiki/Anime'}
+            [3, 3, 3] Type: Cell
+            └──────── Label: An American surreal comedy/thriller minimalist animated series
+            [3, 3, 4] Type: Cell
+            └──────── Label: 
+            [3, 3, 5] Type: Cell
+            └──────── Label: The reality in question has not been confirmed as simulated, but it is extremely likely.
+            [3, 3, 6] Type: Cell
+            └──────── Label: A training simulator from the (X-Men) universe
+            [3, 3, 7] Type: Cell
+            └──────── Label: 
+            [3, 3, 8] Type: Cell
+            │         Label: Surreal comedy anime OVA
+            └──────── Link: {'text:OVA': 'http://en.wikipedia.org/wiki/OVA'}
+            [3, 3, 9] Type: Cell
+            │         Label: Postcyberpunk manga, anime and film franchise
+            └──────── Link: {'text:Postcyberpunk': 'http://en.wikipedia.org/wiki/Postcyberpunk', 'text:manga': 'http://en.wikipedia.org/wiki/Manga'}
+            [3, 3, 10] Type: Cell
+            └───────── Label: The virtual world run by a super computer in the animated series Code Lyoko
+            [3, 3, 11] Type: Cell
+            └───────── Label: An anime series on players being transported into the game world after an expansion update.
+            [3, 3, 12] Type: Cell
+            │          Label: A cyberpunk anime OVA series created by Noboru Ishiguro and Shinji Aramaki based on a simulated reality of Tokyo controlled by a super computer
+            └───────── Link: {'text:cyberpunk': 'http://en.wikipedia.org/wiki/Cyberpunk'}
+            [3, 3, 13] Type: Cell
+            └───────── Label: An anime directed by Kazuki Akane and Kenji Yasuda where a simulated reality is created
+            [3, 3, 14] Type: Cell
+            │          Label: An anime film about a research psychologist who uses a device that permits therapists to help patients by entering their dreams, based on the 1993 novel of the same name.
+            └───────── Link: {'text:1993 novel of the same name': 'http://en.wikipedia.org/wiki/Paprika_(novel)'}
+            [3, 3, 15] Type: Cell
+            └───────── Label: 
+            [3, 3, 16] Type: Cell
+            └───────── Label: 
+            [3, 3, 17] Type: Cell
+            └───────── Label: Anime adaptation of Megazone 23
+            [3, 3, 18] Type: Cell
+            └───────── Label: 
+            [3, 3, 19] Type: Cell
+            │          Label: A 2009 Japanese animated science fiction film directed by Mamoru Hosoda.
+            └───────── Link: {'text:Japanese animated': 'http://en.wikipedia.org/wiki/Anime', 'text:science fiction': 'http://en.wikipedia.org/wiki/Japanese_science_fiction', 'text:Mamoru Hosoda': 'http://en.wikipedia.org/wiki/Mamoru_Hosoda'}
+            [3, 3, 20] Type: Cell
+            │          Label: A light novel series (2009–ongoing) and the two anime series adapted from the novel (2012 and 2013), about a massively multiplayer online game where players are trapped in virtual reality by the creator until they clear the game
+            └───────── Link: {'text:light novel': 'http://en.wikipedia.org/wiki/Light_novel', 'text:massively multiplayer online game': 'http://en.wikipedia.org/wiki/Massively_multiplayer_online_game', 'text:virtual reality': 'http://en.wikipedia.org/wiki/Virtual_reality'}
+            [3, 3, 21] Type: Cell
+            │          Label: An anime film where a group of students are trapped in a time loop, where the same day keeps repeating itself, until they later discover that they are trapped in someone's dream.
+            └───────── Link: {'text:anime film': 'http://en.wikipedia.org/wiki/Anime_film', 'text:time loop': 'http://en.wikipedia.org/wiki/Time_loop'}
+            [3, 3, 22] Type: Cell
+            └───────── Label: Anime series - A high school student in Japan suddenly realizes that his entire reality is a simulation in the midst of the worst possible circumstances for the human race.
+            [3, 3, 23] Type: Cell
+            └───────── Label: 
+    [4] Type: Table
+    │   Label: Film
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 5
+        [4, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 52
+            [4, 0, 0] Type: Cell
+            │         Label: Title
+            └──────── Style: Emphasize
+            [4, 0, 1] Type: Cell
+            │         Label: Avalon
+            └──────── Link: {'text:Avalon': 'http://en.wikipedia.org/wiki/Avalon_(2001_film)'}
+            [4, 0, 2] Type: Cell
+            │         Label: Brainscan
+            └──────── Link: {'text:Brainscan': 'http://en.wikipedia.org/wiki/Brainscan'}
+            [4, 0, 3] Type: Cell
+            │         Label: Brainstorm
+            └──────── Link: {'text:Brainstorm': 'http://en.wikipedia.org/wiki/Brainstorm_(1983_film)'}
+            [4, 0, 4] Type: Cell
+            │         Label: Brazil
+            └──────── Link: {'text:Brazil': 'http://en.wikipedia.org/wiki/Brazil_(1985_film)'}
+            [4, 0, 5] Type: Cell
+            │         Label: The Cabin in the Woods
+            └──────── Link: {'text:The Cabin in the Woods': 'http://en.wikipedia.org/wiki/The_Cabin_in_the_Woods'}
+            [4, 0, 6] Type: Cell
+            │         Label: Cargo
+            └──────── Link: {'text:Cargo': 'http://en.wikipedia.org/wiki/Cargo_(2009_film)'}
+            [4, 0, 7] Type: Cell
+            │         Label: The Cell
+            └──────── Link: {'text:The Cell': 'http://en.wikipedia.org/wiki/The_Cell'}
+            [4, 0, 8] Type: Cell
+            │         Label: The Congress
+            └──────── Link: {'text:The Congress': 'http://en.wikipedia.org/wiki/The_Congress_(2013_film)'}
+            [4, 0, 9] Type: Cell
+            │         Label: Cube 2: Hypercube
+            └──────── Link: {'text:Cube 2: Hypercube': 'http://en.wikipedia.org/wiki/Cube_2:_Hypercube'}
+            [4, 0, 10] Type: Cell
+            │          Label: Darkdrive
+            └───────── Link: {'text:Darkdrive': 'http://en.wikipedia.org/wiki/Darkdrive'}
+            [4, 0, 11] Type: Cell
+            │          Label: Dark City
+            └───────── Link: {'text:Dark City': 'http://en.wikipedia.org/wiki/Dark_City_(1998_film)'}
+            [4, 0, 12] Type: Cell
+            │          Label: Dreamscape
+            └───────── Link: {'text:Dreamscape': 'http://en.wikipedia.org/wiki/Dreamscape_(1984_film)'}
+            [4, 0, 13] Type: Cell
+            │          Label: Eternal Sunshine of the Spotless Mind
+            └───────── Link: {'text:Eternal Sunshine of the Spotless Mind': 'http://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind'}
+            [4, 0, 14] Type: Cell
+            │          Label: eXistenZ
+            └───────── Link: {'text:eXistenZ': 'http://en.wikipedia.org/wiki/Existenz'}
+            [4, 0, 15] Type: Cell
+            │          Label: Good Bye Lenin!
+            └───────── Link: {'text:Good Bye Lenin!': 'http://en.wikipedia.org/wiki/Good_Bye_Lenin!'}
+            [4, 0, 16] Type: Cell
+            │          Label: Impostor
+            └───────── Link: {'text:Impostor': 'http://en.wikipedia.org/wiki/Impostor_(2001_film)'}
+            [4, 0, 17] Type: Cell
+            │          Label: In the Mouth of Madness
+            └───────── Link: {'text:In the Mouth of Madness': 'http://en.wikipedia.org/wiki/In_the_Mouth_of_Madness'}
+            [4, 0, 18] Type: Cell
+            │          Label: Repo Men
+            └───────── Link: {'text:Repo Men': 'http://en.wikipedia.org/wiki/Repo_Men'}
+            [4, 0, 19] Type: Cell
+            │          Label: Inception
+            └───────── Link: {'text:Inception': 'http://en.wikipedia.org/wiki/Inception'}
+            [4, 0, 20] Type: Cell
+            │          Label: The Island
+            └───────── Link: {'text:The Island': 'http://en.wikipedia.org/wiki/The_Island_(2005_film)'}
+            [4, 0, 21] Type: Cell
+            │          Label: Jacob's Ladder
+            └───────── Link: {"text:Jacob's Ladder": 'http://en.wikipedia.org/wiki/Jacob%27s_Ladder_(1990_film)'}
+            [4, 0, 22] Type: Cell
+            │          Label: The Lawnmower Man
+            └───────── Link: {'text:The Lawnmower Man': 'http://en.wikipedia.org/wiki/The_Lawnmower_Man_(film)'}
+            [4, 0, 23] Type: Cell
+            │          Label: Lost Highway
+            └───────── Link: {'text:Lost Highway': 'http://en.wikipedia.org/wiki/Lost_Highway_(film)'}
+            [4, 0, 24] Type: Cell
+            │          Label: The Matrix series
+            └───────── Link: {'text:The Matrix series': 'http://en.wikipedia.org/wiki/The_Matrix_(franchise)'}
+            [4, 0, 25] Type: Cell
+            │          Label: Mindwarp
+            └───────── Link: {'text:Mindwarp': 'http://en.wikipedia.org/wiki/Mindwarp_(film)'}
+            [4, 0, 26] Type: Cell
+            │          Label: Moon
+            └───────── Link: {'text:Moon': 'http://en.wikipedia.org/wiki/Moon_(film)'}
+            [4, 0, 27] Type: Cell
+            │          Label: The Nines
+            └───────── Link: {'text:The Nines': 'http://en.wikipedia.org/wiki/The_Nines'}
+            [4, 0, 28] Type: Cell
+            │          Label: Nirvana
+            └───────── Link: {'text:Nirvana': 'http://en.wikipedia.org/wiki/Nirvana_(film)'}
+            [4, 0, 29] Type: Cell
+            │          Label: Abre los Ojos (Open Your Eyes)
+            └───────── Link: {'text:Abre los Ojos (Open Your Eyes)': 'http://en.wikipedia.org/wiki/Open_Your_Eyes_(1997_film)'}
+            [4, 0, 30] Type: Cell
+            │          Label: Paperhouse
+            └───────── Link: {'text:Paperhouse': 'http://en.wikipedia.org/wiki/Paperhouse_(film)'}
+            [4, 0, 31] Type: Cell
+            │          Label: Ready Player One
+            └───────── Link: {'text:Ready Player One': 'http://en.wikipedia.org/wiki/Ready_Player_One_(film)'}
+            [4, 0, 32] Type: Cell
+            │          Label: The Room
+            └───────── Link: {'text:The Room': 'http://en.wikipedia.org/wiki/The_Room_(2019_film)'}
+            [4, 0, 33] Type: Cell
+            │          Label: Serenity
+            └───────── Link: {'text:Serenity': 'http://en.wikipedia.org/wiki/Serenity_(2019_film)'}
+            [4, 0, 34] Type: Cell
+            │          Label: Source Code
+            └───────── Link: {'text:Source Code': 'http://en.wikipedia.org/wiki/Source_Code'}
+            [4, 0, 35] Type: Cell
+            │          Label: Strange Days
+            └───────── Link: {'text:Strange Days': 'http://en.wikipedia.org/wiki/Strange_Days_(film)'}
+            [4, 0, 36] Type: Cell
+            │          Label: Surrogates
+            └───────── Link: {'text:Surrogates': 'http://en.wikipedia.org/wiki/Surrogates_(film)'}
+            [4, 0, 37] Type: Cell
+            │          Label: Synecdoche, New York
+            └───────── Link: {'text:Synecdoche, New York': 'http://en.wikipedia.org/wiki/Synecdoche,_New_York'}
+            [4, 0, 38] Type: Cell
+            │          Label: They Live
+            └───────── Link: {'text:They Live': 'http://en.wikipedia.org/wiki/They_Live'}
+            [4, 0, 39] Type: Cell
+            │          Label: The Thirteenth Floor
+            └───────── Link: {'text:The Thirteenth Floor': 'http://en.wikipedia.org/wiki/The_Thirteenth_Floor'}
+            [4, 0, 40] Type: Cell
+            │          Label: Total Recall
+            └───────── Link: {'text:Total Recall': 'http://en.wikipedia.org/wiki/Total_Recall_(1990_film)'}
+            [4, 0, 41] Type: Cell
+            │          Label: Tron
+            └───────── Link: {'text:Tron': 'http://en.wikipedia.org/wiki/Tron'}
+            [4, 0, 42] Type: Cell
+            │          Label: Tron Legacy
+            └───────── Link: {'text:Tron Legacy': 'http://en.wikipedia.org/wiki/Tron_Legacy'}
+            [4, 0, 43] Type: Cell
+            │          Label: The Truman Show
+            └───────── Link: {'text:The Truman Show': 'http://en.wikipedia.org/wiki/The_Truman_Show'}
+            [4, 0, 44] Type: Cell
+            │          Label: Vanilla Sky
+            └───────── Link: {'text:Vanilla Sky': 'http://en.wikipedia.org/wiki/Vanilla_Sky'}
+            [4, 0, 45] Type: Cell
+            │          Label: Videodrome
+            └───────── Link: {'text:Videodrome': 'http://en.wikipedia.org/wiki/Videodrome'}
+            [4, 0, 46] Type: Cell
+            │          Label: The Village
+            └───────── Link: {'text:The Village': 'http://en.wikipedia.org/wiki/The_Village_(2004_film)'}
+            [4, 0, 47] Type: Cell
+            │          Label: Virtual Nightmare
+            └───────── Link: {'text:Virtual Nightmare': 'http://en.wikipedia.org/wiki/Virtual_Nightmare'}
+            [4, 0, 48] Type: Cell
+            │          Label: Virtuosity
+            └───────── Link: {'text:Virtuosity': 'http://en.wikipedia.org/wiki/Virtuosity'}
+            [4, 0, 49] Type: Cell
+            │          Label: Welcome to Blood City
+            └───────── Link: {'text:Welcome to Blood City': 'http://en.wikipedia.org/wiki/Welcome_to_Blood_City'}
+            [4, 0, 50] Type: Cell
+            │          Label: Westworld
+            └───────── Link: {'text:Westworld': 'http://en.wikipedia.org/wiki/Westworld_(film)'}
+            [4, 0, 51] Type: Cell
+            │          Label: World on a Wire (Welt am Draht)
+            └───────── Link: {'text:World on a Wire': 'http://en.wikipedia.org/wiki/World_on_a_Wire'}
+        [4, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 52
+            [4, 1, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [4, 1, 1] Type: Cell
+            └──────── Label: 2001
+            [4, 1, 2] Type: Cell
+            └──────── Label: 1994
+            [4, 1, 3] Type: Cell
+            └──────── Label: 1983
+            [4, 1, 4] Type: Cell
+            └──────── Label: 1985
+            [4, 1, 5] Type: Cell
+            └──────── Label: 2012
+            [4, 1, 6] Type: Cell
+            └──────── Label: 2009
+            [4, 1, 7] Type: Cell
+            └──────── Label: 2000
+            [4, 1, 8] Type: Cell
+            └──────── Label: 2013
+            [4, 1, 9] Type: Cell
+            └──────── Label: 2002
+            [4, 1, 10] Type: Cell
+            └───────── Label: 1996
+            [4, 1, 11] Type: Cell
+            └───────── Label: 1998
+            [4, 1, 12] Type: Cell
+            └───────── Label: 1984
+            [4, 1, 13] Type: Cell
+            └───────── Label: 2004
+            [4, 1, 14] Type: Cell
+            └───────── Label: 1999
+            [4, 1, 15] Type: Cell
+            └───────── Label: 2003
+            [4, 1, 16] Type: Cell
+            └───────── Label: 2001
+            [4, 1, 17] Type: Cell
+            └───────── Label: 1994
+            [4, 1, 18] Type: Cell
+            └───────── Label: 2010
+            [4, 1, 19] Type: Cell
+            └───────── Label: 2010
+            [4, 1, 20] Type: Cell
+            └───────── Label: 2005
+            [4, 1, 21] Type: Cell
+            └───────── Label: 1990
+            [4, 1, 22] Type: Cell
+            └───────── Label: 1992
+            [4, 1, 23] Type: Cell
+            └───────── Label: 1997
+            [4, 1, 24] Type: Cell
+            └───────── Label: 1999–2003
+            [4, 1, 25] Type: Cell
+            └───────── Label: 1992
+            [4, 1, 26] Type: Cell
+            └───────── Label: 2009
+            [4, 1, 27] Type: Cell
+            └───────── Label: 2007
+            [4, 1, 28] Type: Cell
+            └───────── Label: 1997
+            [4, 1, 29] Type: Cell
+            └───────── Label: 1997
+            [4, 1, 30] Type: Cell
+            └───────── Label: 1988
+            [4, 1, 31] Type: Cell
+            └───────── Label: 2018
+            [4, 1, 32] Type: Cell
+            └───────── Label: 2019
+            [4, 1, 33] Type: Cell
+            └───────── Label: 2019
+            [4, 1, 34] Type: Cell
+            └───────── Label: 2011
+            [4, 1, 35] Type: Cell
+            └───────── Label: 1995
+            [4, 1, 36] Type: Cell
+            └───────── Label: 2009
+            [4, 1, 37] Type: Cell
+            └───────── Label: 2008
+            [4, 1, 38] Type: Cell
+            └───────── Label: 1988
+            [4, 1, 39] Type: Cell
+            └───────── Label: 1999
+            [4, 1, 40] Type: Cell
+            └───────── Label: 1990
+            [4, 1, 41] Type: Cell
+            └───────── Label: 1982
+            [4, 1, 42] Type: Cell
+            └───────── Label: 2010
+            [4, 1, 43] Type: Cell
+            └───────── Label: 1998
+            [4, 1, 44] Type: Cell
+            └───────── Label: 2001
+            [4, 1, 45] Type: Cell
+            └───────── Label: 1983
+            [4, 1, 46] Type: Cell
+            └───────── Label: 2004
+            [4, 1, 47] Type: Cell
+            └───────── Label: 2000
+            [4, 1, 48] Type: Cell
+            └───────── Label: 1995
+            [4, 1, 49] Type: Cell
+            └───────── Label: 1977
+            [4, 1, 50] Type: Cell
+            └───────── Label: 1973
+            [4, 1, 51] Type: Cell
+            └───────── Label: 1973
+        [4, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 52
+            [4, 2, 0] Type: Cell
+            │         Label: Genre
+            └──────── Style: Emphasize
+            [4, 2, 1] Type: Cell
+            └──────── Label: Science fiction drama
+            [4, 2, 2] Type: Cell
+            └──────── Label: Horror science fiction
+            [4, 2, 3] Type: Cell
+            └──────── Label: Science fiction
+            [4, 2, 4] Type: Cell
+            └──────── Label: Science fiction
+            [4, 2, 5] Type: Cell
+            │         Label: Horror comedy
+            └──────── Link: {'text:Horror comedy': 'http://en.wikipedia.org/wiki/Horror_comedy'}
+            [4, 2, 6] Type: Cell
+            └──────── Label: Science fiction
+            [4, 2, 7] Type: Cell
+            └──────── Label: Science fiction psychological thriller
+            [4, 2, 8] Type: Cell
+            └──────── Label: Live action/animation science fiction drama
+            [4, 2, 9] Type: Cell
+            └──────── Label: Science fiction psychological thriller
+            [4, 2, 10] Type: Cell
+            └───────── Label: Science fiction
+            [4, 2, 11] Type: Cell
+            │          Label: Neo-noir, science fiction
+            └───────── Link: {'text:Neo-noir': 'http://en.wikipedia.org/wiki/Neo-noir'}
+            [4, 2, 12] Type: Cell
+            └───────── Label: Science Fiction
+            [4, 2, 13] Type: Cell
+            │          Label: Science fiction Romantic comedy
+            └───────── Link: {'text:Romantic comedy': 'http://en.wikipedia.org/wiki/Romantic_comedy'}
+            [4, 2, 14] Type: Cell
+            │          Label: Science fiction body horror
+            └───────── Link: {'text:body horror': 'http://en.wikipedia.org/wiki/Body_horror'}
+            [4, 2, 15] Type: Cell
+            │          Label: Tragicomedy
+            └───────── Link: {'text:Tragicomedy': 'http://en.wikipedia.org/wiki/Tragicomedy'}
+            [4, 2, 16] Type: Cell
+            │          Label: Science Fiction
+            └───────── Link: {'text:Science Fiction': 'http://en.wikipedia.org/wiki/Science_Fiction'}
+            [4, 2, 17] Type: Cell
+            └───────── Label: Horror
+            [4, 2, 18] Type: Cell
+            └───────── Label: 
+            [4, 2, 19] Type: Cell
+            └───────── Label: Science fiction heist thriller
+            [4, 2, 20] Type: Cell
+            └───────── Label: Science fiction action drama
+            [4, 2, 21] Type: Cell
+            │          Label: Psychological horror
+            └───────── Link: {'text:Psychological horror': 'http://en.wikipedia.org/wiki/Psychological_horror'}
+            [4, 2, 22] Type: Cell
+            └───────── Label: Science fiction action horror
+            [4, 2, 23] Type: Cell
+            │          Label: Neo-noir, psychological mystery thriller
+            └───────── Link: {'text:Neo-noir': 'http://en.wikipedia.org/wiki/Neo-noir'}
+            [4, 2, 24] Type: Cell
+            │          Label: Science fiction, cyberpunk
+            └───────── Link: {'text:cyberpunk': 'http://en.wikipedia.org/wiki/Cyberpunk'}
+            [4, 2, 25] Type: Cell
+            └───────── Label: Science fiction
+            [4, 2, 26] Type: Cell
+            └───────── Label: Science Fiction
+            [4, 2, 27] Type: Cell
+            │          Label: Science fantasy
+            └───────── Link: {'text:Science fantasy': 'http://en.wikipedia.org/wiki/Science_fantasy'}
+            [4, 2, 28] Type: Cell
+            │          Label: Science fiction, cyberpunk
+            └───────── Link: {'text:cyberpunk': 'http://en.wikipedia.org/wiki/Cyberpunk'}
+            [4, 2, 29] Type: Cell
+            └───────── Label: Psychological thriller
+            [4, 2, 30] Type: Cell
+            │          Label: Dark fantasy
+            └───────── Link: {'text:Dark fantasy': 'http://en.wikipedia.org/wiki/Dark_fantasy'}
+            [4, 2, 31] Type: Cell
+            └───────── Label: 
+            [4, 2, 32] Type: Cell
+            └───────── Label: Fantasy, horror
+            [4, 2, 33] Type: Cell
+            └───────── Label: Science Fiction
+            [4, 2, 34] Type: Cell
+            │          Label: Science fiction, techno-thriller
+            └───────── Link: {'text:techno-thriller': 'http://en.wikipedia.org/wiki/Techno-thriller'}
+            [4, 2, 35] Type: Cell
+            │          Label: Science fiction, cyberpunk, thriller
+            └───────── Link: {'text:cyberpunk': 'http://en.wikipedia.org/wiki/Cyberpunk'}
+            [4, 2, 36] Type: Cell
+            │          Label: Science fiction, cyberpunk
+            └───────── Link: {'text:cyberpunk': 'http://en.wikipedia.org/wiki/Cyberpunk'}
+            [4, 2, 37] Type: Cell
+            │          Label: Postmodern comedy drama
+            └───────── Link: {'text:Postmodern': 'http://en.wikipedia.org/wiki/Postmodern'}
+            [4, 2, 38] Type: Cell
+            └───────── Label: Science Fiction
+            [4, 2, 39] Type: Cell
+            └───────── Label: Science fiction
+            [4, 2, 40] Type: Cell
+            └───────── Label: Science fiction action
+            [4, 2, 41] Type: Cell
+            └───────── Label: Science fiction
+            [4, 2, 42] Type: Cell
+            └───────── Label: Science fiction
+            [4, 2, 43] Type: Cell
+            └───────── Label: Drama
+            [4, 2, 44] Type: Cell
+            └───────── Label: Science fiction psychological thriller
+            [4, 2, 45] Type: Cell
+            └───────── Label: Horror
+            [4, 2, 46] Type: Cell
+            └───────── Label: Psychologic Thriller
+            [4, 2, 47] Type: Cell
+            └───────── Label: Science fiction
+            [4, 2, 48] Type: Cell
+            └───────── Label: Science fiction action
+            [4, 2, 49] Type: Cell
+            │          Label: Science fiction Western
+            └───────── Link: {'text:Science fiction Western': 'http://en.wikipedia.org/wiki/Science_fiction_Western'}
+            [4, 2, 50] Type: Cell
+            │          Label: Science fiction Western-thriller
+            └───────── Link: {'text:Science fiction Western': 'http://en.wikipedia.org/wiki/Science_fiction_Western'}
+            [4, 2, 51] Type: Cell
+            └───────── Label: Science fiction
+        [4, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 52
+            [4, 3, 0] Type: Cell
+            │         Label: Based on
+            └──────── Style: Emphasize
+            [4, 3, 1] Type: Cell
+            └──────── Label: 
+            [4, 3, 2] Type: Cell
+            └──────── Label: 
+            [4, 3, 3] Type: Cell
+            └──────── Label: 
+            [4, 3, 4] Type: Cell
+            └──────── Label: 
+            [4, 3, 5] Type: Cell
+            └──────── Label: 
+            [4, 3, 6] Type: Cell
+            └──────── Label: 
+            [4, 3, 7] Type: Cell
+            └──────── Label: 
+            [4, 3, 8] Type: Cell
+            │         Label: Loosely based on Stanislaw Lem's novel The Futurological Congress
+            └──────── Link: {'text:Stanislaw Lem': 'http://en.wikipedia.org/wiki/Stanislaw_Lem', 'text:The Futurological Congress': 'http://en.wikipedia.org/wiki/The_Futurological_Congress'}
+            [4, 3, 9] Type: Cell
+            └──────── Label: 
+            [4, 3, 10] Type: Cell
+            └───────── Label: 
+            [4, 3, 11] Type: Cell
+            └───────── Label: 
+            [4, 3, 12] Type: Cell
+            │          Label: Roger Zelazny's The Dream Master
+            └───────── Link: {'text:Roger Zelazny': 'http://en.wikipedia.org/wiki/Roger_Zelazny', 'text:The Dream Master': 'http://en.wikipedia.org/wiki/The_Dream_Master'}
+            [4, 3, 13] Type: Cell
+            └───────── Label: 
+            [4, 3, 14] Type: Cell
+            └───────── Label: 
+            [4, 3, 15] Type: Cell
+            └───────── Label: 
+            [4, 3, 16] Type: Cell
+            └───────── Label: Philip K. Dick short story of the same name.
+            [4, 3, 17] Type: Cell
+            └───────── Label: 
+            [4, 3, 18] Type: Cell
+            └───────── Label: 
+            [4, 3, 19] Type: Cell
+            └───────── Label: 
+            [4, 3, 20] Type: Cell
+            └───────── Label: 
+            [4, 3, 21] Type: Cell
+            └───────── Label: 
+            [4, 3, 22] Type: Cell
+            └───────── Label: 
+            [4, 3, 23] Type: Cell
+            └───────── Label: 
+            [4, 3, 24] Type: Cell
+            └───────── Label: 
+            [4, 3, 25] Type: Cell
+            └───────── Label: 
+            [4, 3, 26] Type: Cell
+            └───────── Label: 
+            [4, 3, 27] Type: Cell
+            └───────── Label: 
+            [4, 3, 28] Type: Cell
+            └───────── Label: 
+            [4, 3, 29] Type: Cell
+            └───────── Label: 
+            [4, 3, 30] Type: Cell
+            └───────── Label: 
+            [4, 3, 31] Type: Cell
+            └───────── Label: 
+            [4, 3, 32] Type: Cell
+            └───────── Label: 
+            [4, 3, 33] Type: Cell
+            └───────── Label: 
+            [4, 3, 34] Type: Cell
+            └───────── Label: 
+            [4, 3, 35] Type: Cell
+            └───────── Label: 
+            [4, 3, 36] Type: Cell
+            └───────── Label: 
+            [4, 3, 37] Type: Cell
+            └───────── Label: 
+            [4, 3, 38] Type: Cell
+            │          Label: "Eight O'Clock in the Morning" by Ray Nelson
+            └───────── Link: {'text:Ray Nelson': 'http://en.wikipedia.org/wiki/Ray_Nelson'}
+            [4, 3, 39] Type: Cell
+            │          Label: Daniel F. Galouye's Simulacron-3
+            └───────── Link: {'text:Daniel F. Galouye': 'http://en.wikipedia.org/wiki/Daniel_F._Galouye', 'text:Simulacron-3': 'http://en.wikipedia.org/wiki/Simulacron-3'}
+            [4, 3, 40] Type: Cell
+            │          Label: Philip K. Dick's story "We Can Remember It for You Wholesale"
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick', 'text:We Can Remember It for You Wholesale': 'http://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale'}
+            [4, 3, 41] Type: Cell
+            └───────── Label: 
+            [4, 3, 42] Type: Cell
+            └───────── Label: 
+            [4, 3, 43] Type: Cell
+            │          Label: Philip K. Dick's novel Time Out Of Joint
+            └───────── Link: {'text:Philip K. Dick': 'http://en.wikipedia.org/wiki/Philip_K._Dick', 'text:Time Out Of Joint': 'http://en.wikipedia.org/wiki/Time_Out_Of_Joint'}
+            [4, 3, 44] Type: Cell
+            │          Label: Remake of Abre los Ojos (Open Your Eyes)
+            └───────── Link: {'text:Abre los Ojos': 'http://en.wikipedia.org/wiki/Abre_los_Ojos'}
+            [4, 3, 45] Type: Cell
+            └───────── Label: 
+            [4, 3, 46] Type: Cell
+            └───────── Label: 
+            [4, 3, 47] Type: Cell
+            └───────── Label: 
+            [4, 3, 48] Type: Cell
+            └───────── Label: 
+            [4, 3, 49] Type: Cell
+            └───────── Label: 
+            [4, 3, 50] Type: Cell
+            └───────── Label: 
+            [4, 3, 51] Type: Cell
+            │          Label: Daniel F. Galouye's Simulacron-3
+            └───────── Link: {'text:Daniel F. Galouye': 'http://en.wikipedia.org/wiki/Daniel_F._Galouye', 'text:Simulacron-3': 'http://en.wikipedia.org/wiki/Simulacron-3'}
+        [4, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 52
+            [4, 4, 0] Type: Cell
+            │         Label: Description
+            └──────── Style: Emphasize
+            [4, 4, 1] Type: Cell
+            └──────── Label: By Mamoru Oshii
+            [4, 4, 2] Type: Cell
+            │         Label: A science fiction/horror film about a teenager playing an interactive video game; directed by John Flynn
+            └──────── Link: {'text:John Flynn': 'http://en.wikipedia.org/wiki/John_Flynn_(director)'}
+            [4, 4, 3] Type: Cell
+            │         Label: Science fiction film directed by Douglas Trumbull and starring Christopher Walken and Natalie Wood
+            └──────── Link: {'text:Douglas Trumbull': 'http://en.wikipedia.org/wiki/Douglas_Trumbull', 'text:Christopher Walken': 'http://en.wikipedia.org/wiki/Christopher_Walken', 'text:Natalie Wood': 'http://en.wikipedia.org/wiki/Natalie_Wood'}
+            [4, 4, 4] Type: Cell
+            │         Label: Directed by Terry Gilliam
+            └──────── Link: {'text:Terry Gilliam': 'http://en.wikipedia.org/wiki/Terry_Gilliam'}
+            [4, 4, 5] Type: Cell
+            └──────── Label: Directed by Drew Goddard, in which to prevent doomsday a group of teenagers must be sacrificed without their realizing what is really behind the horrors they experience. One reviewer wrote that the film "is all about the reality conspiracy."
+            [4, 4, 6] Type: Cell
+            └──────── Label: Directed by Ivan Engler and Ralph Etter.
+            [4, 4, 7] Type: Cell
+            │         Label: By Tarsem Singh
+            └──────── Link: {'text:Tarsem Singh': 'http://en.wikipedia.org/wiki/Tarsem_Singh'}
+            [4, 4, 8] Type: Cell
+            │         Label: By Ari Folman and Stanislaw Lem: An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider. A take on the common sci-fi trope of an apparently Utopian future that turns out to be an illusion.
+            └──────── Link: {'text:Ari Folman': 'http://en.wikipedia.org/wiki/Ari_Folman', 'text:Stanislaw Lem': 'http://en.wikipedia.org/wiki/Stanislaw_Lem'}
+            [4, 4, 9] Type: Cell
+            │         Label: Written by Sean Hood
+            └──────── Link: {'text:Sean Hood': 'http://en.wikipedia.org/wiki/Sean_Hood'}
+            [4, 4, 10] Type: Cell
+            └───────── Label: By Phillip J. Roth
+            [4, 4, 11] Type: Cell
+            │          Label: By Alex Proyas
+            └───────── Link: {'text:Alex Proyas': 'http://en.wikipedia.org/wiki/Alex_Proyas'}
+            [4, 4, 12] Type: Cell
+            └───────── Label: Directed by	Joseph Ruben
+            [4, 4, 13] Type: Cell
+            └───────── Label: 
+            [4, 4, 14] Type: Cell
+            │          Label: By David Cronenberg, in which level switches occur so seamlessly and numerously that at the end of the movie it is difficult to tell whether the main characters are back in "reality".
+            └───────── Link: {'text:David Cronenberg': 'http://en.wikipedia.org/wiki/David_Cronenberg'}
+            [4, 4, 15] Type: Cell
+            │          Label: By Wolfgang Becker: a Berlin family tries to make the feeble mother believe that East Germany did not fall.
+            └───────── Link: {'text:Wolfgang Becker': 'http://en.wikipedia.org/wiki/Wolfgang_Becker'}
+            [4, 4, 16] Type: Cell
+            └───────── Label: A man wakes up one morning and goes about his day, only to find himself arrested and accused of being an alien robot programmed to kill the Chancellor of Earth, and told that he is not even aware that he is impersonating a dead man from whose memories his were stolen.
+            [4, 4, 17] Type: Cell
+            │          Label: Directed by	John Carpenter
+            └───────── Link: {'text:John Carpenter': 'http://en.wikipedia.org/wiki/John_Carpenter'}
+            [4, 4, 18] Type: Cell
+            └───────── Label: The second half of the film is a simulated reality being fed into the protagonist's brain while he's incapacitated in a hospital due to events in the first half of the film.
+            [4, 4, 19] Type: Cell
+            │          Label: Written and directed by Christopher Nolan, in which an extractor invades dreams to steal information and ideas, but is asked to implant an idea instead of stealing one.
+            └───────── Link: {'text:Christopher Nolan': 'http://en.wikipedia.org/wiki/Christopher_Nolan'}
+            [4, 4, 20] Type: Cell
+            │          Label: Directed by Michael Bay, in which numerous clones of wealthy investors are kept in an isolated facility as to rejuvenate the investors with the clones' organs. The clones' facility is presented as an idealized society and the last safe place on Earth to prevent them from leaving.
+            └───────── Link: {'text:Michael Bay': 'http://en.wikipedia.org/wiki/Michael_Bay'}
+            [4, 4, 21] Type: Cell
+            │          Label: Thriller directed by Adrian Lyne
+            └───────── Link: {'text:Adrian Lyne': 'http://en.wikipedia.org/wiki/Adrian_Lyne'}
+            [4, 4, 22] Type: Cell
+            │          Label: Directed by Brett Leonard.
+            └───────── Link: {'text:Brett Leonard': 'http://en.wikipedia.org/wiki/Brett_Leonard'}
+            [4, 4, 23] Type: Cell
+            │          Label: By David Lynch
+            └───────── Link: {'text:David Lynch': 'http://en.wikipedia.org/wiki/David_Lynch'}
+            [4, 4, 24] Type: Cell
+            │          Label: By Lilly and Lana Wachowski, in which humanity lost a war against sentient robots and now are predominately used as bio-electric power for the robots, their minds kept active by populating them in the simulated reality of the Matrix
+            └───────── Link: {'text:Lilly and Lana Wachowski': 'http://en.wikipedia.org/wiki/The_Wachowskis'}
+            [4, 4, 25] Type: 
+            [4, 4, 26] Type: Cell
+            │          Label: Written by Nathan Parker and directed by Duncan Jones.  A man working on the Moon harvesting Helium 3, which provides 70% of Earth's energy by fusion in the near-future, believes that he is nearing the end of a three-year work contract and will soon return to Earth to be with his wife and child.  After a harvesting accident he learns that his environment is a deception created to keep him from learning that he is not who or what he thought himself to be.
+            └───────── Link: {'text:Nathan Parker': 'http://en.wikipedia.org/wiki/Nathan_Parker', 'text:Duncan Jones': 'http://en.wikipedia.org/wiki/Duncan_Jones'}
+            [4, 4, 27] Type: Cell
+            │          Label: Written and directed by John August, is focused on the subject of simulated reality.
+            └───────── Link: {'text:John August': 'http://en.wikipedia.org/wiki/John_August'}
+            [4, 4, 28] Type: Cell
+            │          Label: Written and directed by Gabriele Salvatores
+            └───────── Link: {'text:Gabriele Salvatores': 'http://en.wikipedia.org/wiki/Gabriele_Salvatores'}
+            [4, 4, 29] Type: Cell
+            │          Label: By Alejandro Amenábar (remade as Vanilla Sky, 2001).
+            └───────── Link: {'text:Alejandro Amenábar': 'http://en.wikipedia.org/wiki/Alejandro_Amen%C3%A1bar'}
+            [4, 4, 30] Type: Cell
+            │          Label: Directed by Bernard Rose. Based on the novel Marianne Dreams by Catherine Storr.
+            └───────── Link: {'text:Bernard Rose': 'http://en.wikipedia.org/wiki/Bernard_Rose_(director)', 'text:Marianne Dreams': 'http://en.wikipedia.org/wiki/Marianne_Dreams', 'text:Catherine Storr': 'http://en.wikipedia.org/wiki/Catherine_Storr'}
+            [4, 4, 31] Type: Cell
+            │          Label: By Steven Spielberg
+            └───────── Link: {'text:Steven Spielberg': 'http://en.wikipedia.org/wiki/Steven_Spielberg'}
+            [4, 4, 32] Type: Cell
+            │          Label: Directed by Christian Volckman.
+            └───────── Link: {'text:Christian Volckman': 'http://en.wikipedia.org/wiki/Christian_Volckman'}
+            [4, 4, 33] Type: Cell
+            │          Label: Directed by Steven Knight
+            └───────── Link: {'text:Steven Knight': 'http://en.wikipedia.org/wiki/Steven_Knight'}
+            [4, 4, 34] Type: Cell
+            │          Label: An Army pilot is resurrected into a virtual world in order to identify and stop a would-be bomber; a science fiction techno-thriller film directed by Duncan Jones.
+            └───────── Link: {'text:techno-thriller': 'http://en.wikipedia.org/wiki/Techno-thriller', 'text:Duncan Jones': 'http://en.wikipedia.org/wiki/Duncan_Jones'}
+            [4, 4, 35] Type: Cell
+            │          Label: A thriller in which users can experience another person's memories; the film earned director Kathryn Bigelow a Saturn Award for Best Director. Angela Bassett won the Saturn Award for Best Actress.
+            └───────── Link: {'text:Kathryn Bigelow': 'http://en.wikipedia.org/wiki/Kathryn_Bigelow', 'text:Saturn Award for Best Director': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Director', 'text:Angela Bassett': 'http://en.wikipedia.org/wiki/Angela_Bassett', 'text:Saturn Award for Best Actress': 'http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Actress'}
+            [4, 4, 36] Type: Cell
+            │          Label: Directed by Jonathan Mostow, is based on the 2005–2006 comic book series of the same name and stars Bruce Willis as an FBI agent who ventures out into the real world to investigate the murder of surrogates (humanoid remote control vehicles).
+            └───────── Link: {'text:Jonathan Mostow': 'http://en.wikipedia.org/wiki/Jonathan_Mostow', 'text:comic book series of the same name': 'http://en.wikipedia.org/wiki/The_Surrogates', 'text:Bruce Willis': 'http://en.wikipedia.org/wiki/Bruce_Willis'}
+            [4, 4, 37] Type: Cell
+            │          Label: Written and directed by Charlie Kaufman: an eccentric theatre director creates a replica of New York City inside New York City, complete with a copy of himself making his own replica of New York City.
+            └───────── Link: {'text:Charlie Kaufman': 'http://en.wikipedia.org/wiki/Charlie_Kaufman'}
+            [4, 4, 38] Type: Cell
+            │          Label: Directed by	John Carpenter
+            └───────── Link: {'text:John Carpenter': 'http://en.wikipedia.org/wiki/John_Carpenter'}
+            [4, 4, 39] Type: Cell
+            │          Label: Directed by Josef Rusnak, is loosely based upon Simulacron-3 (1964), a novel by Daniel F. Galouye, and features many characters acting within an uncertain number of layers of virtual reality.
+            └───────── Link: {'text:Simulacron-3': 'http://en.wikipedia.org/wiki/Simulacron-3', 'text:Daniel F. Galouye': 'http://en.wikipedia.org/wiki/Daniel_F._Galouye'}
+            [4, 4, 40] Type: Cell
+            │          Label: Directed by Paul Verhoeven, in which the lead character, looking to have the inexpensive memories of a trip to a Mars colony implanted in his mind, experiences an adventure of espionage that leads him to Mars and helps free the colony from an exploitive businessman, but whether these are part of the memory implant or reality is open-ended.
+            └───────── Link: {'text:Paul Verhoeven': 'http://en.wikipedia.org/wiki/Paul_Verhoeven'}
+            [4, 4, 41] Type: Cell
+            │          Label: Released by Walt Disney Productions. The film was written and directed by Steven Lisberger. A computer programmer is transported inside the software world of a mainframe computer, where he interacts with various programs in his attempt to get back out.
+            └───────── Link: {'text:Walt Disney Productions': 'http://en.wikipedia.org/wiki/Walt_Disney_Pictures', 'text:Steven Lisberger': 'http://en.wikipedia.org/wiki/Steven_Lisberger', 'text:mainframe computer': 'http://en.wikipedia.org/wiki/Mainframe_computer'}
+            [4, 4, 42] Type: Cell
+            └───────── Label: By Walt Disney Pictures
+            [4, 4, 43] Type: Cell
+            │          Label: Directed by Peter Weir, in which the lead character discovers his entire life is actually a reality television show.
+            └───────── Link: {'text:Peter Weir': 'http://en.wikipedia.org/wiki/Peter_Weir', 'text:reality television': 'http://en.wikipedia.org/wiki/Reality_television'}
+            [4, 4, 44] Type: Cell
+            │          Label: Directed by Cameron Crowe, in which the lead character experiences out-of-control lucid dreaming while having been cryogenically frozen
+            └───────── Link: {'text:Cameron Crowe': 'http://en.wikipedia.org/wiki/Cameron_Crowe'}
+            [4, 4, 45] Type: Cell
+            │          Label: Directed by David Cronenberg
+            └───────── Link: {'text:David Cronenberg': 'http://en.wikipedia.org/wiki/David_Cronenberg'}
+            [4, 4, 46] Type: Cell
+            │          Label: Directed by M. Night Shyamalan, in which an isolated-19th-century small Pennsylvania village residents reveal the secrets of their elders.
+            └───────── Link: {'text:M. Night Shyamalan': 'http://en.wikipedia.org/wiki/M._Night_Shyamalan'}
+            [4, 4, 47] Type: Cell
+            └───────── Label: Dale begins noticing disturbing glitches in the fabric of reality.
+            [4, 4, 48] Type: Cell
+            │          Label: Directed by Brett Leonard
+            └───────── Link: {'text:Brett Leonard': 'http://en.wikipedia.org/wiki/Brett_Leonard'}
+            [4, 4, 49] Type: Cell
+            │          Label: Directed by Peter Sasdy
+            └───────── Link: {'text:Peter Sasdy': 'http://en.wikipedia.org/wiki/Peter_Sasdy'}
+            [4, 4, 50] Type: Cell
+            │          Label: Directed by writer Michael Crichton
+            └───────── Link: {'text:Michael Crichton': 'http://en.wikipedia.org/wiki/Michael_Crichton'}
+            [4, 4, 51] Type: Cell
+            │          Label: German film adaptation of the novel Simulacron-3, directed by Rainer Werner Fassbinder.
+            └───────── Link: {'text:Simulacron-3': 'http://en.wikipedia.org/wiki/Simulacron-3', 'text:Rainer Werner Fassbinder': 'http://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder'}
+    [5] Type: List
+    │   Label: Television
+    │   Dimension: 2
+    └── Number of Member: 25
+        [5, 0] Type: Item
+        │      Label: Agents of S.H.I.E.L.D., the third arc of the 4th season focuses on the characters trapped within a simulated reality.
+        └───── Link: {'text:Agents of S.H.I.E.L.D.': 'http://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.'}
+        [5, 1] Type: Item, List
+        │      Label: Arrowverse
+        │      Link: {'text:Arrowverse': 'http://en.wikipedia.org/wiki/Arrowverse'}
+        └───── Number of Member: 1
+            [5, 1, 0] Type: Item
+            │         Label: "Invasion!" a crossover of Supergirl, The Flash, Arrow and Legends of Tomorrow.
+            └──────── Link: {'text:Invasion!': 'http://en.wikipedia.org/wiki/Invasion!_(Arrowverse)', 'text:The Flash': 'http://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)', 'text:Arrow': 'http://en.wikipedia.org/wiki/Arrow_(TV_series)', 'text:Legends of Tomorrow': 'http://en.wikipedia.org/wiki/Legends_of_Tomorrow'}
+        [5, 2] Type: Item
+        │      Label: Ascension - A Netflix mini-series about 600 people who believe they live on a spaceship halfway to Proxima Centauri, but who are actually trapped in a simulated environment on Earth.
+        └───── Link: {'text:Ascension': 'http://en.wikipedia.org/wiki/Ascension_(miniseries)'}
+        [5, 3] Type: Item, List
+        │      Label: Black Mirror
+        │      Link: {'text:Black Mirror': 'http://en.wikipedia.org/wiki/Black_Mirror'}
+        └───── Number of Member: 6
+            [5, 3, 0] Type: Item
+            │         Label: "White Bear"
+            └──────── Link: {'text:White Bear': 'http://en.wikipedia.org/wiki/White_Bear_(Black_Mirror)'}
+            [5, 3, 1] Type: Item
+            │         Label: "White Christmas"
+            └──────── Link: {'text:White Christmas': 'http://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)'}
+            [5, 3, 2] Type: Item
+            │         Label: "Playtest"
+            └──────── Link: {'text:Playtest': 'http://en.wikipedia.org/wiki/Playtest_(Black_Mirror)'}
+            [5, 3, 3] Type: Item
+            │         Label: "San Junipero"
+            └──────── Link: {'text:San Junipero': 'http://en.wikipedia.org/wiki/San_Junipero'}
+            [5, 3, 4] Type: Item
+            │         Label: "USS Callister"
+            └──────── Link: {'text:USS Callister': 'http://en.wikipedia.org/wiki/USS_Callister'}
+            [5, 3, 5] Type: Item
+            │         Label: "Hang the DJ"
+            └──────── Link: {'text:Hang the DJ': 'http://en.wikipedia.org/wiki/Hang_the_DJ'}
+        [5, 4] Type: Item
+        │      Label: Doctor Who episode "The Deadly Assassin" (1976), written by Robert Holmes.
+        └───── Link: {'text:Doctor Who': 'http://en.wikipedia.org/wiki/Doctor_Who', 'text:The Deadly Assassin': 'http://en.wikipedia.org/wiki/The_Deadly_Assassin'}
+        [5, 5] Type: Item
+        │      Label: Matrix computer from the Doctor Who universe.
+        └───── Link: {'text:Matrix': 'http://en.wikipedia.org/wiki/Matrix_(Doctor_Who)', 'text:Doctor Who universe': 'http://en.wikipedia.org/wiki/Whoniverse'}
+        [5, 6] Type: Item
+        │      Label: Doctor Who episodes "Forest of the Dead" and "Extremis", written by Steven Moffat and "Amy's Choice", written by Simon Nye.
+        └───── Link: {'text:Doctor Who': 'http://en.wikipedia.org/wiki/Doctor_Who', 'text:Forest of the Dead': 'http://en.wikipedia.org/wiki/Forest_of_the_Dead', 'text:Extremis': 'http://en.wikipedia.org/wiki/Extremis_(Doctor_Who)', 'text:Steven Moffat': 'http://en.wikipedia.org/wiki/Steven_Moffat', "text:Amy's Choice": 'http://en.wikipedia.org/wiki/Amy%27s_Choice_(Doctor_Who)', 'text:Simon Nye': 'http://en.wikipedia.org/wiki/Simon_Nye'}
+        [5, 7] Type: Item
+        │      Label: Farscape episode "John Quixote" (2002) places the lead character in a virtual reality game.
+        └───── Link: {'text:Farscape': 'http://en.wikipedia.org/wiki/Farscape', 'text:John Quixote': 'http://en.wikipedia.org/wiki/John_Quixote'}
+        [5, 8] Type: Item, List
+        │      Label: The Flash (2014)
+        │      Link: {'text:The Flash': 'http://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)'}
+        └───── Number of Member: 1
+            [5, 8, 0] Type: Item
+            │         Label: "Duet" a crossover of The Flash and Supergirl.
+            └──────── Link: {'text:Duet': 'http://en.wikipedia.org/wiki/Duet_(The_Flash)'}
+        [5, 9] Type: Item
+        │      Label: Harsh Realm (1999) was a science fiction television series about humans trapped inside a virtual reality simulation. It was developed by Chris Carter, creator of The X-Files and Millennium.
+        └───── Link: {'text:Harsh Realm': 'http://en.wikipedia.org/wiki/Harsh_Realm', 'text:virtual reality': 'http://en.wikipedia.org/wiki/Virtual_reality', 'text:Chris Carter': 'http://en.wikipedia.org/wiki/Chris_Carter_(screenwriter)', 'text:The X-Files': 'http://en.wikipedia.org/wiki/The_X-Files', 'text:Millennium': 'http://en.wikipedia.org/wiki/Millennium_(TV_series)'}
+        [5, 10] Type: Item
+        │       Label: Kiss Me First (2018)
+        └────── Link: {'text:Kiss Me First': 'http://en.wikipedia.org/wiki/Kiss_Me_First_(TV_series)'}
+        [5, 11] Type: Item, List
+        │       Label: Legends of Tomorrow (2016)
+        │       Link: {'text:Legends of Tomorrow': 'http://en.wikipedia.org/wiki/Legends_of_Tomorrow'}
+        └────── Number of Member: 1
+            [5, 11, 0] Type: Item
+            └───────── Label: "Here I Go Again", an episode from the third season
+        [5, 12] Type: Item
+        │       Label: Life on Mars (2008-2009), The U.S. TV series
+        └────── Link: {'text:Life on Mars': 'http://en.wikipedia.org/wiki/Life_on_Mars_(U.S._TV_series)'}
+        [5, 13] Type: Item
+        │       Label: The Outer Limits episode "The Sentence" (1996)
+        └────── Link: {'text:The Outer Limits': 'http://en.wikipedia.org/wiki/The_Outer_Limits_(1995_TV_series)', 'text:The Sentence': 'http://en.wikipedia.org/wiki/The_Sentence_(The_Outer_Limits)'}
+        [5, 14] Type: Item
+        │       Label: The Prisoner (1967-1968)
+        └────── Link: {'text:The Prisoner': 'http://en.wikipedia.org/wiki/The_Prisoner'}
+        [5, 15] Type: Item
+        │       Label: Red Dwarf episodes "Better Than Life", "Back to Reality", "Gunmen of the Apocalypse", "Stoke Me a Clipper", "Blue", "Beyond a Joke" and "Back in the Red" by Rob Grant and/or Doug Naylor with Paul Alexander, Kim Fuller and Robert Llewellyn all feature some sort of artificial reality or "total immersion video game".
+        └────── Link: {'text:Red Dwarf': 'http://en.wikipedia.org/wiki/Red_Dwarf', 'text:Better Than Life': 'http://en.wikipedia.org/wiki/Better_Than_Life_(Red_Dwarf_episode)', 'text:Back to Reality': 'http://en.wikipedia.org/wiki/Back_to_Reality_(Red_Dwarf_episode)', 'text:Gunmen of the Apocalypse': 'http://en.wikipedia.org/wiki/Gunmen_of_the_Apocalypse', 'text:Stoke Me a Clipper': 'http://en.wikipedia.org/wiki/Stoke_Me_a_Clipper', 'text:Blue': 'http://en.wikipedia.org/wiki/Blue_(Red_Dwarf)', 'text:Beyond a Joke': 'http://en.wikipedia.org/wiki/Beyond_a_Joke_(Red_Dwarf)', 'text:Back in the Red': 'http://en.wikipedia.org/wiki/Back_in_the_Red', 'text:Rob Grant': 'http://en.wikipedia.org/wiki/Rob_Grant', 'text:Doug Naylor': 'http://en.wikipedia.org/wiki/Doug_Naylor', 'text:Paul Alexander': 'http://en.wikipedia.org/wiki/Paul_Alexander_(British_writer)', 'text:Kim Fuller': 'http://en.wikipedia.org/wiki/Kim_Fuller', 'text:Robert Llewellyn': 'http://en.wikipedia.org/wiki/Robert_Llewellyn'}
+        [5, 16] Type: Item, List
+        │       Label: Star Trek: The Next Generation
+        │       Link: {'text:Star Trek: The Next Generation': 'http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation'}
+        └────── Number of Member: 3
+            [5, 16, 0] Type: Item
+            │          Label: Episode "Future Imperfect" (1990): During an away mission, Commander William Riker loses consciousness; he awakes sixteen years in the future with that period of his memory lost; he is now the new Captain of the Enterprise, is widowed and has a son named Jean-Luc (after Picard); this eventually turns out to be a simulated reality.
+            └───────── Link: {'text:Future Imperfect': 'http://en.wikipedia.org/wiki/Future_Imperfect', 'text:Commander William Riker': 'http://en.wikipedia.org/wiki/William_Riker', 'text:Captain': 'http://en.wikipedia.org/wiki/Starfleet_ranks_and_insignia#Captain', 'text:Enterprise': 'http://en.wikipedia.org/wiki/USS_Enterprise_(NCC-1701-D)'}
+            [5, 16, 1] Type: Item
+            │          Label: Episode "The Inner Light" (1992): Jean-Luc Picard is rendered unconscious by a probe of unknown origin. Within the span of 25 minutes, he lives the life of a scientist named Kamin from the doomed planet of Kataan whose sun had gone nova 1000 years before.  The probe contains the stored memories of Kataan's civilization which Picard relives as Kamin.
+            └───────── Link: {'text:The Inner Light': 'http://en.wikipedia.org/wiki/The_Inner_Light_(Star_Trek:_The_Next_Generation)', 'text:Jean-Luc Picard': 'http://en.wikipedia.org/wiki/Jean-Luc_Picard', 'text:nova': 'http://en.wikipedia.org/wiki/Nova'}
+            [5, 16, 2] Type: Item
+            │          Label: Episode "Ship in a Bottle" (1993): The fictional Professor Moriarty of Sir Arthur Conan Doyle's Sherlock Holmes stories is allowed to exist in a holodeck simulation of the world.
+            └───────── Link: {'text:Ship in a Bottle': 'http://en.wikipedia.org/wiki/Ship_in_a_Bottle_(TNG_episode)', 'text:Professor Moriarty': 'http://en.wikipedia.org/wiki/Professor_Moriarty', 'text:Arthur Conan Doyle': 'http://en.wikipedia.org/wiki/Arthur_Conan_Doyle', 'text:Sherlock Holmes': 'http://en.wikipedia.org/wiki/Sherlock_Holmes', 'text:holodeck': 'http://en.wikipedia.org/wiki/Holodeck'}
+        [5, 17] Type: Item
+        │       Label: Star Trek: The Original Series episodes "The Cage" and "The Menagerie", the unaired pilot and later episode (respectively).
+        └────── Link: {'text:Star Trek: The Original Series': 'http://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series', 'text:The Cage': 'http://en.wikipedia.org/wiki/The_Cage_(TOS_episode)', 'text:The Menagerie': 'http://en.wikipedia.org/wiki/The_Menagerie_(Star_Trek:_The_Original_Series)'}
+        [5, 18] Type: Item
+        │       Label: Star Trek: Voyager: Several episodes took place in the holodeck, including "Fair Haven", "Spirit Folk", the two part episode "The Killing Game" and "Projections".
+        └────── Link: {'text:Star Trek: Voyager': 'http://en.wikipedia.org/wiki/Star_Trek:_Voyager', 'text:holodeck': 'http://en.wikipedia.org/wiki/Holodeck', 'text:Fair Haven': 'http://en.wikipedia.org/wiki/Fair_Haven_(Star_Trek:_Voyager)', 'text:Spirit Folk': 'http://en.wikipedia.org/wiki/Spirit_Folk', 'text:The Killing Game': 'http://en.wikipedia.org/wiki/The_Killing_Game_(Star_Trek:_Voyager)'}
+        [5, 19] Type: Item
+        │       Label: Stargate SG-1 episode "The Gamekeeper"
+        └────── Link: {'text:Stargate SG-1': 'http://en.wikipedia.org/wiki/Stargate_SG-1', 'text:The Gamekeeper': 'http://en.wikipedia.org/wiki/Stargate_SG-1_(season_2)#ep26'}
+        [5, 20] Type: Item
+        │       Label: Supergirl episode "For the Girl Who Has Everything", based on the Superman story "For the Man Who Has Everything", which was written by Alan Moore and Dave Gibbons for Superman Annual #11 published by DC Comics in 1985.
+        └────── Link: {'text:Supergirl': 'http://en.wikipedia.org/wiki/Supergirl_(TV_series)', 'text:For the Girl Who Has Everything': 'http://en.wikipedia.org/wiki/For_the_Girl_Who_Has_Everything_(Supergirl)', 'text:For the Man Who Has Everything': 'http://en.wikipedia.org/wiki/For_the_Man_Who_Has_Everything', 'text:DC Comics': 'http://en.wikipedia.org/wiki/DC_Comics'}
+        [5, 21] Type: Item
+        │       Label: The Twilight Zone (1959), and its later revivals, feature a number of episodes involving false or simulated realities of some sort. Examples include "Where Is Everybody?" and "Dreams for Sale".
+        └────── Link: {'text:The Twilight Zone': 'http://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)', 'text:later revivals': 'http://en.wikipedia.org/wiki/The_Twilight_Zone_(1985_TV_series)', 'text:Where Is Everybody?': 'http://en.wikipedia.org/wiki/Where_Is_Everybody%3F', 'text:Dreams for Sale': 'http://en.wikipedia.org/wiki/Dreams_for_Sale_(The_Twilight_Zone)'}
+        [5, 22] Type: Item
+        │       Label: The X-Files features a number of episodes involving simulated realities of some sort, such as "Kill Switch" and "First Person Shooter", both written by William Gibson and Tom Maddox.
+        └────── Link: {'text:The X-Files': 'http://en.wikipedia.org/wiki/The_X-Files', 'text:Kill Switch': 'http://en.wikipedia.org/wiki/Kill_Switch_(The_X-Files)', 'text:First Person Shooter': 'http://en.wikipedia.org/wiki/First_Person_Shooter_(The_X-Files)', 'text:William Gibson': 'http://en.wikipedia.org/wiki/William_Gibson', 'text:Tom Maddox': 'http://en.wikipedia.org/wiki/Tom_Maddox'}
+        [5, 23] Type: Item
+        │       Label: Westworld (2016-)
+        └────── Link: {'text:Westworld': 'http://en.wikipedia.org/wiki/Westworld_(TV_series)'}
+        [5, 24] Type: Item
+        │       Label: Wild Palms (1993), miniseries.
+        └────── Link: {'text:Wild Palms': 'http://en.wikipedia.org/wiki/Wild_Palms'}
+    [6] Type: List
+    │   Label: Interactive fiction
+    │   Dimension: 1
+    └── Number of Member: 1
+        [6, 0] Type: Item
+        │      Label: A Mind Forever Voyaging (1985) by Steve Meretzky
+        └───── Link: {'text:A Mind Forever Voyaging': 'http://en.wikipedia.org/wiki/A_Mind_Forever_Voyaging', 'text:Steve Meretzky': 'http://en.wikipedia.org/wiki/Steve_Meretzky'}
+    [7] Type: List
+    │   Label: Computer and video games
+    │   Dimension: 1
+    └── Number of Member: 46
+        [7, 0] Type: Item
+        │      Label: .hack series
+        └───── Link: {'text:.hack series': 'http://en.wikipedia.org/wiki/.hack'}
+        [7, 1] Type: Item
+        │      Label: Active Worlds
+        └───── Link: {'text:Active Worlds': 'http://en.wikipedia.org/wiki/Active_Worlds'}
+        [7, 2] Type: Item
+        │      Label: Alternate Reality
+        └───── Link: {'text:Alternate Reality': 'http://en.wikipedia.org/wiki/Alternate_Reality_(video_game)'}
+        [7, 3] Type: Item
+        │      Label: Assassin's Creed
+        └───── Link: {"text:Assassin's Creed": 'http://en.wikipedia.org/wiki/Assassin%27s_Creed'}
+        [7, 4] Type: Item
+        │      Label: Astral Chain
+        └───── Link: {'text:Astral Chain': 'http://en.wikipedia.org/wiki/Astral_Chain'}
+        [7, 5] Type: Item
+        │      Label: Battleborn
+        └───── Link: {'text:Battleborn': 'http://en.wikipedia.org/wiki/Battleborn_(video_game)'}
+        [7, 6] Type: Item
+        │      Label: Chrono Trigger
+        └───── Link: {'text:Chrono Trigger': 'http://en.wikipedia.org/wiki/Chrono_Trigger'}
+        [7, 7] Type: Item
+        │      Label: Creatures
+        └───── Link: {'text:Creatures': 'http://en.wikipedia.org/wiki/Creatures_(artificial_life_program)'}
+        [7, 8] Type: Item
+        │      Label: Custom Robo
+        └───── Link: {'text:Custom Robo': 'http://en.wikipedia.org/wiki/Custom_Robo'}
+        [7, 9] Type: Item
+        │      Label: Cyberpunk 2077
+        └───── Link: {'text:Cyberpunk 2077': 'http://en.wikipedia.org/wiki/Cyberpunk_2077'}
+        [7, 10] Type: Item
+        │       Label: Danganronpa 2
+        └────── Link: {'text:Danganronpa 2': 'http://en.wikipedia.org/wiki/Danganronpa_2'}
+        [7, 11] Type: Item
+        │       Label: Darwinia
+        └────── Link: {'text:Darwinia': 'http://en.wikipedia.org/wiki/Darwinia_(computer_game)'}
+        [7, 12] Type: Item
+        │       Label: Destiny
+        └────── Link: {'text:Destiny': 'http://en.wikipedia.org/wiki/Destiny_(video_game)'}
+        [7, 13] Type: Item
+        │       Label: Deus Ex
+        └────── Link: {'text:Deus Ex': 'http://en.wikipedia.org/wiki/Deus_Ex'}
+        [7, 14] Type: Item
+        │       Label: Digital Devil Saga
+        └────── Link: {'text:Digital Devil Saga': 'http://en.wikipedia.org/wiki/Digital_Devil_Saga'}
+        [7, 15] Type: Item
+        │       Label: Doki Doki Literature Club
+        └────── Link: {'text:Doki Doki Literature Club': 'http://en.wikipedia.org/wiki/Doki_Doki_Literature_Club'}
+        [7, 16] Type: Item
+        │       Label: Enter the Matrix
+        └────── Link: {'text:Enter the Matrix': 'http://en.wikipedia.org/wiki/Enter_the_Matrix'}
+        [7, 17] Type: Item
+        │       Label: Eternal Sonata
+        └────── Link: {'text:Eternal Sonata': 'http://en.wikipedia.org/wiki/Eternal_Sonata'}
+        [7, 18] Type: Item
+        │       Label: Fallout 3
+        └────── Link: {'text:Fallout 3': 'http://en.wikipedia.org/wiki/Fallout_3'}
+        [7, 19] Type: Item
+        │       Label: Harvester
+        └────── Link: {'text:Harvester': 'http://en.wikipedia.org/wiki/Harvester_(video_game)'}
+        [7, 20] Type: Item
+        │       Label: Kingdom Hearts coded
+        └────── Link: {'text:Kingdom Hearts coded': 'http://en.wikipedia.org/wiki/Kingdom_Hearts_coded'}
+        [7, 21] Type: Item
+        │       Label: The Matrix: Path of Neo
+        └────── Link: {'text:The Matrix: Path of Neo': 'http://en.wikipedia.org/wiki/The_Matrix:_Path_of_Neo'}
+        [7, 22] Type: Item
+        │       Label: Max Payne
+        └────── Link: {'text:Max Payne': 'http://en.wikipedia.org/wiki/Max_Payne_(video_game)'}
+        [7, 23] Type: Item
+        │       Label: Metal Gear Solid 2: Sons of Liberty
+        └────── Link: {'text:Metal Gear Solid 2: Sons of Liberty': 'http://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty'}
+        [7, 24] Type: Item
+        │       Label: No Man's Sky
+        └────── Link: {"text:No Man's Sky": 'http://en.wikipedia.org/wiki/No_Man%27s_Sky'}
+        [7, 25] Type: Item
+        │       Label: Omikron: The Nomad Soul
+        └────── Link: {'text:Omikron: The Nomad Soul': 'http://en.wikipedia.org/wiki/Omikron:_The_Nomad_Soul'}
+        [7, 26] Type: Item
+        │       Label: Persona
+        └────── Link: {'text:Persona': 'http://en.wikipedia.org/wiki/Persona_(series)'}
+        [7, 27] Type: Item
+        │       Label: Planescape: Torment
+        └────── Link: {'text:Planescape: Torment': 'http://en.wikipedia.org/wiki/Planescape:_Torment'}
+        [7, 28] Type: Item
+        │       Label: Prey (2017 video game)
+        └────── Link: {'text:Prey (2017 video game)': 'http://en.wikipedia.org/wiki/Prey_(2017_video_game)'}
+        [7, 29] Type: Item
+        │       Label: Saints Row IV
+        └────── Link: {'text:Saints Row IV': 'http://en.wikipedia.org/wiki/Saints_Row_IV'}
+        [7, 30] Type: Item
+        │       Label: Second Life
+        └────── Link: {'text:Second Life': 'http://en.wikipedia.org/wiki/Second_Life'}
+        [7, 31] Type: Item
+        │       Label: Shadowrun
+        └────── Link: {'text:Shadowrun': 'http://en.wikipedia.org/wiki/Shadowrun'}
+        [7, 32] Type: Item
+        │       Label: Shin Megami Tensei
+        └────── Link: {'text:Shin Megami Tensei': 'http://en.wikipedia.org/wiki/Shin_Megami_Tensei'}
+        [7, 33] Type: Item
+        │       Label: SOMA
+        └────── Link: {'text:SOMA': 'http://en.wikipedia.org/wiki/Soma_(video_game)'}
+        [7, 34] Type: Item
+        │       Label: Star Ocean: Till the End of Time
+        └────── Link: {'text:Star Ocean: Till the End of Time': 'http://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time'}
+        [7, 35] Type: Item
+        │       Label: Star Wars: The Old Republic
+        └────── Link: {'text:Star Wars: The Old Republic': 'http://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic'}
+        [7, 36] Type: Item
+        │       Label: The Evil Within
+        └────── Link: {'text:The Evil Within': 'http://en.wikipedia.org/wiki/The_Evil_Within'}
+        [7, 37] Type: Item
+        │       Label: The Sims
+        └────── Link: {'text:The Sims': 'http://en.wikipedia.org/wiki/The_Sims'}
+        [7, 38] Type: Item
+        │       Label: The World Ends with You
+        └────── Link: {'text:The World Ends with You': 'http://en.wikipedia.org/wiki/The_World_Ends_with_You'}
+        [7, 39] Type: Item
+        │       Label: Sonic Forces (Episode Shadow)
+        └────── Link: {'text:Sonic Forces': 'http://en.wikipedia.org/wiki/Sonic_Forces'}
+        [7, 40] Type: Item
+        │       Label: There.com
+        └────── Link: {'text:There.com': 'http://en.wikipedia.org/wiki/There.com'}
+        [7, 41] Type: Item
+        │       Label: Thimbleweed Park
+        └────── Link: {'text:Thimbleweed Park': 'http://en.wikipedia.org/wiki/Thimbleweed_Park'}
+        [7, 42] Type: Item
+        │       Label: Stellaris
+        └────── Link: {'text:Stellaris': 'http://en.wikipedia.org/wiki/Stellaris_(video_game)'}
+        [7, 43] Type: Item
+        │       Label: Ultima series
+        └────── Link: {'text:Ultima series': 'http://en.wikipedia.org/wiki/Ultima_(series)'}
+        [7, 44] Type: Item
+        │       Label: Xenosaga series
+        └────── Link: {'text:Xenosaga series': 'http://en.wikipedia.org/wiki/Xenosaga_(series)'}
+        [7, 45] Type: Item
+        │       Label: Zombienomicon |
+        └────── Link: {'text:Zombienomicon': 'http://en.wikipedia.org/w/index.php?title=Zombienomicon&action=edit&redlink=1'}
+    [8] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 12
+        [8, 0] Type: Item
+        │      Label: Answers In Simulation, amazon.com
+        └───── Link: {'text:Answers In Simulation': 'https://www.amazon.com/dp/B07WJW3LM3'}
+        [8, 1] Type: Item
+        │      Label: Kelleghan, Fiona (July 1998). "Private Hells and Radical Doubts: An Interview with Jonathan Lethem". Science Fiction Studies. Retrieved March 30, 2014.
+        └───── Link: {'text:"Private Hells and Radical Doubts: An Interview with Jonathan Lethem"': 'http://www.depauw.edu/sfs/interviews/letheminterview.htm', 'text:Science Fiction Studies': 'http://en.wikipedia.org/wiki/Science_Fiction_Studies'}
+        [8, 2] Type: Item
+        │      Label: Von Ruff, Al. "Bibliography: The Cookie Monster". Internet Speculative Fiction Database. Retrieved March 30, 2014.
+        └───── Link: {'text:"Bibliography: The Cookie Monster"': 'http://www.isfdb.org/cgi-bin/title.cgi?246511', 'text:Internet Speculative Fiction Database': 'http://en.wikipedia.org/wiki/Internet_Speculative_Fiction_Database'}
+        [8, 3] Type: Item
+        │      Label: Alexander, Justin. "What I'm Reading #46 - The Short Stories of Vernor Vinge". The Alexandrian. Retrieved March 30, 2014.
+        └───── Link: {'text:"What I\'m Reading #46 - The Short Stories of Vernor Vinge"': 'http://www.thealexandrian.net/reviews/wir/wir046-vinge1.html'}
+        [8, 4] Type: Item
+        │      Label: Shippey, Tom (Aug 17, 2012). "We Can Build You: Tom Shippey reviews Eye in the Sky by Philip K. Dick, and How to Build An Android by David F. Dufty". The Wall Street Journal. Retrieved March 30, 2014.
+        └───── Link: {'text:"We Can Build You: Tom Shippey reviews Eye in the Sky by Philip K. Dick, and How to Build An Android by David F. Dufty"': 'https://online.wsj.com/news/articles/SB10000872396390444873204577536981635981756', 'text:The Wall Street Journal': 'http://en.wikipedia.org/wiki/The_Wall_Street_Journal'}
+        [8, 5] Type: Item
+        │      Label: Duncan, David (October 1960). "The Immortals". Galaxy Science Fiction. pp. 162–193.
+        └───── Link: {'text:"The Immortals"': 'https://archive.org/stream/Galaxy_v19n01_1960-10#page/n81/mode/1up'}
+        [8, 6] Type: Item
+        │      Label: Von Ruff, Al. "Bibliography: You're Another". Internet Speculative Fiction Database. Retrieved March 30, 2014.
+        └───── Link: {'text:"Bibliography: You\'re Another"': 'http://www.isfdb.org/cgi-bin/title.cgi?57082', 'text:Internet Speculative Fiction Database': 'http://en.wikipedia.org/wiki/Internet_Speculative_Fiction_Database'}
+        [8, 7] Type: Item
+        │      Label: Brantley, Ben (January 17, 2012). "Worlds Within Worlds Within Worlds. And a Duane Reade". New York Times. Retrieved January 6, 2014.
+        └───── Link: {'text:"Worlds Within Worlds Within Worlds. And a Duane Reade"': 'https://www.nytimes.com/2012/01/17/theater/reviews/world-of-wires-at-the-kitchen-review.html', 'text:New York Times': 'http://en.wikipedia.org/wiki/New_York_Times'}
+        [8, 8] Type: Item
+        │      Label: Bradshaw, Peter (12 April 2012). "The Cabin in the Woods – review". The Guardian. London: Guardian News and Media. Retrieved March 30, 2014.
+        └───── Link: {'text:Bradshaw, Peter': 'http://en.wikipedia.org/wiki/Peter_Bradshaw', 'text:"The Cabin in the Woods – review"': 'https://www.theguardian.com/film/2012/apr/12/the-cabin-in-the-woods-review', 'text:The Guardian': 'http://en.wikipedia.org/wiki/The_Guardian'}
+        [8, 9] Type: Item
+        └───── Label: Max hallucinating on Valkyr - [the note reads] You're in a graphic novel & Michelle Payne: [the note reads] You're in a computer game, Max.
+        [8, 10] Type: Item
+        │       Label: http://kotaku.com/metal-gear-solid-2-was-a-twisted-experiment-in-mind-con-1785833195
+        └────── Link: {'text:http://kotaku.com/metal-gear-solid-2-was-a-twisted-experiment-in-mind-con-1785833195': 'http://kotaku.com/metal-gear-solid-2-was-a-twisted-experiment-in-mind-con-1785833195'}
+        [8, 11] Type: Item
+        │       Label: https://thezombienomicon.com/zombienomicon.html
+        └────── Link: {'text:https://thezombienomicon.com/zombienomicon.html': 'https://thezombienomicon.com/zombienomicon.html'}
+    [9] Type: List
+    │   Label: References
+    │   Dimension: 1
+    └── Number of Member: 3
+        [9, 0] Type: Item
+        │      Label: Simulated reality in fiction
+        └───── Link: {'text:Simulated reality in fiction': 'http://en.wikipedia.org/wiki/Category:Simulated_reality_in_fiction'}
+        [9, 1] Type: Item
+        │      Label: Lists of fictional things
+        └───── Link: {'text:Lists of fictional things': 'http://en.wikipedia.org/wiki/Category:Lists_of_fictional_things'}
+        [9, 2] Type: Item
+        │      Label: Lists of fictional locations
+        └───── Link: {'text:Lists of fictional locations': 'http://en.wikipedia.org/wiki/Category:Lists_of_fictional_locations'}
+    [10] Type: List
+    │    Label: References
+    │    Dimension: 1
+    └─── Number of Member: 2
+        [10, 0] Type: Item
+        │       Label: All articles with unsourced statements
+        └────── Link: {'text:All articles with unsourced statements': 'http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements'}
+        [10, 1] Type: Item
+        │       Label: Articles with unsourced statements from January 2016
+        └────── Link: {'text:Articles with unsourced statements from January 2016': 'http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_January_2016'}
+    [11] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [11, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Simulated_reality_in_fiction'}
+        [11, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Simulated_reality_in_fiction'}
+        [11, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [11, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [11, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Simulated_reality_in_fiction&oldid=942740114'}
+        [11, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Simulated_reality_in_fiction&action=info'}
+        [11, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q7521305'}
+        [11, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Simulated_reality_in_fiction&id=942740114'}
+    [12] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [12, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Simulated+reality+in+fiction'}
+        [12, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Simulated+reality+in+fiction&action=show-download-screen'}
+        [12, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Simulated_reality_in_fiction&printable=yes'}
+    [13] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 1
+        [13, 0] Type: Item
+        │       Label: Română
+        └────── Link: {'text:Română': 'https://ro.wikipedia.org/wiki/Realitatea_simulat%C4%83_%C3%AEn_fic%C8%9Biune'}

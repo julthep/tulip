@@ -22,72 +22,76 @@ tlpedia:HTML_table_example_on_Page_3_of_RFC_1942
             tlp:indexList ( 1 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "A test table with merged cells" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 1 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 1 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 1 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "males" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 1 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "females" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 1 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "females" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 1 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Average" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 1 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "height" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -106,21 +110,22 @@ tlpedia:HTML_table_example_on_Page_3_of_RFC_1942
                     tlp:index 3 ;
                     tlp:indexList ( 1 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Average" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 1 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "weight" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -139,6 +144,7 @@ tlpedia:HTML_table_example_on_Page_3_of_RFC_1942
                     tlp:index 4 ;
                     tlp:indexList ( 1 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -146,8 +152,8 @@ tlpedia:HTML_table_example_on_Page_3_of_RFC_1942
                             rdf:type tlp:Cell ;
                             rdfs:label """other
 category""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -155,21 +161,22 @@ category""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """other
 category""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ]
                 ] ,
                 [
                     tlp:index 5 ;
                     tlp:indexList ( 1 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Misc" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ]
         ]

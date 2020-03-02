@@ -3,91 +3,94 @@
 └─ Number of Member: 34
     [0] Type: Table
     │   Label: Chulalongkorn University
+    │   Style: Enumerate, ColMajor
     │   Dimension: 3
     └── Number of Member: 2
         [0, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 22
             [0, 0, 0] Type: Cell
             │         Label: จุฬาลงกรณ์มหาวิทยาลัย
-            └──────── Style: ColSpanned
+            └──────── Style: GrpSpan
             [0, 0, 1] Type: Cell
             │         Label: Phra Kiao Chulalongkorn University Seal
-            │         Style: ColSpanned
+            │         Style: GrpSpan
             └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/135px-Phra_Kiao.svg.png': 'http://en.wikipedia.org/wiki/File:Phra_Kiao.svg', 'text:Chulalongkorn University Seal': 'http://en.wikipedia.org/wiki/Phra_Kiao'}
             [0, 0, 2] Type: Cell
             │         Label: Former names
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 3] Type: Cell
             │         Label: Motto
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 4] Type: Cell
             │         Label: Motto in English
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 5] Type: Cell
             │         Label: Type
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 6] Type: Cell
             │         Label: Established
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 7] Type: Cell
             │         Label: Founder
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 8] Type: Cell
             │         Label: Budget
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 9] Type: Cell
             │         Label: President
-            │         Style: Identified
+            │         Style: Emphasize
             └──────── Link: {'text:President': 'http://en.wikipedia.org/wiki/University_president'}
             [0, 0, 10] Type: Cell
             │          Label: Students
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 11] Type: Cell
             │          Label: Undergraduates
-            │          Style: Identified
+            │          Style: Emphasize
             └───────── Link: {'text:Undergraduates': 'http://en.wikipedia.org/wiki/Undergraduate_education'}
             [0, 0, 12] Type: Cell
             │          Label: Postgraduates
-            │          Style: Identified
+            │          Style: Emphasize
             └───────── Link: {'text:Postgraduates': 'http://en.wikipedia.org/wiki/Postgraduate_education'}
             [0, 0, 13] Type: Cell
             │          Label: Doctoral students
-            │          Style: Identified
+            │          Style: Emphasize
             └───────── Link: {'text:Doctoral students': 'http://en.wikipedia.org/wiki/Doctorate'}
             [0, 0, 14] Type: Cell
             │          Label: Location
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 15] Type: Cell
             │          Label: Campus
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 16] Type: Cell
             │          Label: Anthem
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 17] Type: Cell
             │          Label: Colours
-            │          Style: Identified
+            │          Style: Emphasize
             └───────── Link: {'text:Colours': 'http://en.wikipedia.org/wiki/School_colors'}
             [0, 0, 18] Type: Cell
             │          Label: Affiliations
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 19] Type: Cell
             │          Label: Mascot
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 20] Type: Cell
             │          Label: Website
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 21] Type: Cell
             │          Label: 
-            │          Style: ColSpanned
+            │          Style: GrpSpan
             └───────── Link: {'image:http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Chula_logo_with_namestyle.svg/250px-Chula_logo_with_namestyle.svg.png': 'http://en.wikipedia.org/wiki/File:Chula_logo_with_namestyle.svg'}
         [0, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 22
             [0, 1, 0] Type: Cell
             │         Label: จุฬาลงกรณ์มหาวิทยาลัย
-            └──────── Style: ColSpanned
+            └──────── Style: GrpSpan
             [0, 1, 1] Type: Cell
             │         Label: Phra Kiao Chulalongkorn University Seal
-            │         Style: ColSpanned
+            │         Style: GrpSpan
             └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/135px-Phra_Kiao.svg.png': 'http://en.wikipedia.org/wiki/File:Phra_Kiao.svg', 'text:Chulalongkorn University Seal': 'http://en.wikipedia.org/wiki/Phra_Kiao'}
             [0, 1, 2] Type: Cell
             │         Label: 
@@ -159,7 +162,7 @@
             └───────── Link: {'text:chula.ac.th': 'https://chula.ac.th'}
             [0, 1, 21] Type: Cell
             │          Label: 
-            │          Style: ColSpanned
+            │          Style: GrpSpan
             └───────── Link: {'image:http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Chula_logo_with_namestyle.svg/250px-Chula_logo_with_namestyle.svg.png': 'http://en.wikipedia.org/wiki/File:Chula_logo_with_namestyle.svg'}
     [1] Type: List
     │   Label: Contents
@@ -446,13 +449,15 @@
         └────── Label: Transportation Institute
     [12] Type: Table
     │    Label: Rankings
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 3
         [12, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [12, 0, 0] Type: Cell
             │          Label: Ranking
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [12, 0, 1] Type: Cell
             └───────── Label: 
             [12, 0, 2] Type: Cell
@@ -486,10 +491,11 @@
             [12, 0, 15] Type: Cell
             └────────── Label: UI Green Metric City Center (2016)
         [12, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [12, 1, 0] Type: Cell
             │          Label: Ranking
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [12, 1, 1] Type: Cell
             └───────── Label: National Ranking
             [12, 1, 2] Type: Cell
@@ -521,10 +527,11 @@
             [12, 1, 15] Type: Cell
             └────────── Label: 1
         [12, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [12, 2, 0] Type: Cell
             │          Label: Ranking
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [12, 2, 1] Type: Cell
             └───────── Label: Global Ranking
             [12, 2, 2] Type: Cell
@@ -593,36 +600,39 @@
         └─────── Label: QS World University Ranking by Subject 2018
     [14] Type: Table
     │    Label: Rankings
+    │    Style: Enumerate, ColMajor
     │    Dimension: 3
     └─── Number of Member: 2
         [14, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 7
             [14, 0, 0] Type: Cell
             │          Label: World rank
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 1] Type: Cell
             │          Label: 48
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 2] Type: Cell
             │          Label: 51 – 100
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 3] Type: Cell
             │          Label: 101 – 150
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 4] Type: Cell
             │          Label: 151 – 200
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 5] Type: Cell
             │          Label: 201 – 250
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 6] Type: Cell
             │          Label: 301 – 350
-            └───────── Style: Identified
+            └───────── Style: Emphasize
         [14, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 7
             [14, 1, 0] Type: Cell
             │          Label: Subject
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 1, 1] Type: Cell
             │          Label: 
             └───────── Number of Member: 1
@@ -695,57 +705,60 @@
         └────── Label: The Webometric ranking  indicates quantity and quality of the university's medium, considered by being searched by search engines, online documents, and citations in Google Scholar.  Chulalongkorn is ranked the 1st in national rankings 548th in the world.
     [16] Type: Table
     │    Label: Undergraduate
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 4
         [16, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [16, 0, 0] Type: Cell
             │          Label: Faculty/College/School
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [16, 0, 1] Type: Cell
             │          Label: Architecture
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [16, 0, 2] Type: Cell
             │          Label: Architecture
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [16, 0, 3] Type: Cell
             └───────── Label: Arts
             [16, 0, 4] Type: Cell
             └───────── Label: Arts and Science
             [16, 0, 5] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [16, 0, 6] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [16, 0, 7] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [16, 0, 8] Type: Cell
             └───────── Label: Communication Arts
             [16, 0, 9] Type: Cell
             └───────── Label: Economics
             [16, 0, 10] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [16, 0, 11] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [16, 0, 12] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [16, 0, 13] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [16, 0, 14] Type: Cell
             └────────── Label: Psychology
             [16, 0, 15] Type: Cell
             └────────── Label: Science
         [16, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [16, 1, 0] Type: Cell
             │          Label: Degree
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [16, 1, 1] Type: Cell
             └───────── Label: B.Sc.
             [16, 1, 2] Type: Cell
@@ -777,10 +790,11 @@
             [16, 1, 15] Type: Cell
             └────────── Label: B.Sc.
         [16, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [16, 2, 0] Type: Cell
             │          Label: Calendar System
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [16, 2, 1] Type: Cell
             └───────── Label: Semester
             [16, 2, 2] Type: Cell
@@ -812,10 +826,11 @@
             [16, 2, 15] Type: Cell
             └────────── Label: Semester
         [16, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 16
             [16, 3, 0] Type: Cell
             │          Label: Programs
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [16, 3, 1] Type: Cell
             └───────── Label: Architectural Design
             [16, 3, 2] Type: Cell
@@ -848,13 +863,15 @@
             └────────── Label: Applied Chemistry
     [17] Type: Table
     │    Label: Graduate
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 8
         [17, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 0, 0] Type: Cell
             │          Label: Faculty/College/School
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 0, 1] Type: Cell
             └───────── Label: Allied Health Sciences
             [17, 0, 2] Type: Cell
@@ -863,85 +880,86 @@
             └───────── Label: Arts
             [17, 0, 4] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 0, 5] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 0, 6] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 0, 7] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 0, 8] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 0, 9] Type: Cell
             │          Label: Commerce and Accountancy
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 0, 10] Type: Cell
             └────────── Label: Communication Arts
             [17, 0, 11] Type: Cell
             │           Label: Dentistry
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 12] Type: Cell
             │           Label: Dentistry
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 13] Type: Cell
             │           Label: Economics
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 14] Type: Cell
             │           Label: Economics
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 15] Type: Cell
             │           Label: Economics
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 16] Type: Cell
             │           Label: Economics
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 17] Type: Cell
             │           Label: Economics
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 18] Type: Cell
             │           Label: Education
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 19] Type: Cell
             │           Label: Education
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 20] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 21] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 22] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 23] Type: Cell
             │           Label: Engineering
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 24] Type: Cell
             └────────── Label: Law
             [17, 0, 25] Type: Cell
             │           Label: Medicine
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 26] Type: Cell
             │           Label: Medicine
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 27] Type: Cell
             │           Label: Medicine
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 28] Type: Cell
             │           Label: Medicine
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 0, 29] Type: Cell
             │           Label: 
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
         [17, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 1, 0] Type: Cell
             │          Label: Degree
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 1, 1] Type: Cell
             └───────── Label: M.Sc./Ph.D.
             [17, 1, 2] Type: Cell
@@ -1000,12 +1018,13 @@
             └────────── Label: Ph.D.
             [17, 1, 29] Type: Cell
             │           Label: 
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
         [17, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 2, 0] Type: Cell
             │          Label: Calendar System
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 2, 1] Type: Cell
             └───────── Label: Semester
             [17, 2, 2] Type: Cell
@@ -1064,12 +1083,13 @@
             └────────── Label: Semester
             [17, 2, 29] Type: Cell
             │           Label: 
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
         [17, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 3, 0] Type: Cell
             │          Label: Programs
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 3, 1] Type: Cell
             └───────── Label: Food and Nutrition
             [17, 3, 2] Type: Cell
@@ -1128,103 +1148,105 @@
             └────────── Label: Biomedical Science and Biotechnology
             [17, 3, 29] Type: Cell
             │           Label: 
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
         [17, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 4, 0] Type: Cell
             │          Label: Faculty/College/School
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 4, 1] Type: Cell
             └───────── Label: Nursing
             [17, 4, 2] Type: Cell
             │          Label: Pharmaceutical Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 3] Type: Cell
             │          Label: Pharmaceutical Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 4] Type: Cell
             │          Label: Pharmaceutical Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 5] Type: Cell
             │          Label: Political Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 6] Type: Cell
             │          Label: Political Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 7] Type: Cell
             │          Label: Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 8] Type: Cell
             │          Label: Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 9] Type: Cell
             │          Label: Science
-            └───────── Style: RowSpanned
+            └───────── Style: LineSpan
             [17, 4, 10] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 11] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 12] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 13] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 14] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 15] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 16] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 17] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 18] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 19] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 20] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 21] Type: Cell
             │           Label: Graduate School
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 22] Type: Cell
             │           Label: Public Health Sciences
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 23] Type: Cell
             │           Label: Public Health Sciences
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 24] Type: Cell
             │           Label: SASIN
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 25] Type: Cell
             │           Label: SASIN
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 26] Type: Cell
             │           Label: SASIN
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 27] Type: Cell
             │           Label: Petroleum and Petrochemical
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 28] Type: Cell
             │           Label: Petroleum and Petrochemical
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
             [17, 4, 29] Type: Cell
             │           Label: Petroleum and Petrochemical
-            └────────── Style: RowSpanned
+            └────────── Style: LineSpan
         [17, 5] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 5, 0] Type: Cell
             │          Label: Degree
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 5, 1] Type: Cell
             └───────── Label: Ph.D.
             [17, 5, 2] Type: Cell
@@ -1284,10 +1306,11 @@
             [17, 5, 29] Type: Cell
             └────────── Label: M.S./Ph.D.
         [17, 6] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 6, 0] Type: Cell
             │          Label: Calendar System
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 6, 1] Type: Cell
             └───────── Label: Semester
             [17, 6, 2] Type: Cell
@@ -1347,10 +1370,11 @@
             [17, 6, 29] Type: Cell
             └────────── Label: Semester
         [17, 7] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 30
             [17, 7, 0] Type: Cell
             │          Label: Programs
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [17, 7, 1] Type: Cell
             └───────── Label: Nursing Science
             [17, 7, 2] Type: Cell
@@ -1616,7 +1640,7 @@
         └────── Link: {'text:Department of Statistics': 'https://stat.cbs.chula.ac.th'}
     [26] Type: List
     │    Label: References
-    │    Style: Enumerated
+    │    Style: Enumerate
     │    Dimension: 1
     └─── Number of Member: 64
         [26, 0] Type: Item
@@ -1806,15 +1830,15 @@
         │        Label: PlasmaZ Extended Team Description Paper
         └─────── Link: {'text:PlasmaZ Extended Team Description Paper': 'http://kucitypic.kasetsart.org/kucity.com8/kucity8_robocup2009_Symposium/tdps/small/small_plasma_z.pdf'}
         [26, 62] Type: Item
-        │        Label: "IEEE Xplore - Sign In". Retrieved July 16, 2015.
-        └─────── Link: {'text:"IEEE Xplore - Sign In"': 'https://ieeexplore.ieee.org/document/4913305'}
+        │        Label: Chuengsatiansup, K.; Sajjapongse, K.; Kruapraditsiri, P.; Chanma, C.; Termthanasombat, N.; Suttasupa, Y.; Sattaratnamai, S.; Pongkaew, E.; Udsatid, P.; Hattha, B.; Wibulpolprasert, P.; Usaphapanus, P.; Tulyanon, N.; Wongsaisuwan, M.; Wannasuphoprasit, W.; Chongstitvatana, P. (2009). "Plasma-RX: Autonomous Rescue robots". 2008 IEEE International Conference on Robotics and Biomimetics. pp. 1986–1990. doi:10.1109/ROBIO.2009.4913305. ISBN 978-1-4244-2678-2.
+        └─────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1109/ROBIO.2009.4913305': 'https://doi.org/10.1109%2FROBIO.2009.4913305', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-4244-2678-2': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-4244-2678-2'}
         [26, 63] Type: Item
         │        Label: Plasma-RX: Autonomous Rescue Robots
         └─────── Link: {'text:Plasma-RX: Autonomous Rescue Robots': 'http://www.cp.eng.chula.ac.th/~piak/paper/2009/Plasma-RX19.pdf'}
     [27] Type: List
     │    Label: External links
     │    Dimension: 1
-    └─── Number of Member: 5
+    └─── Number of Member: 6
         [27, 0] Type: Item
         │       Label: Chulalongkorn University official website
         └────── Link: {'text:Chulalongkorn University official website': 'http://www.chula.ac.th'}
@@ -1825,9 +1849,12 @@
         │       Label: Sasin Graduate Institute of Business Administration of Chulalongkorn University
         └────── Link: {'text:Sasin Graduate Institute of Business Administration of Chulalongkorn University': 'http://www.sasin.edu'}
         [27, 3] Type: Item
+        │       Label: School of Integrated Innovation
+        └────── Link: {'text:School of Integrated Innovation': 'https://inter-bascii-chula.com/'}
+        [27, 4] Type: Item
         │       Label: CU-TEP
         └────── Link: {'text:CU-TEP': 'http://www.atc.chula.ac.th/en_html/en_tep.html'}
-        [27, 4] Type: Item
+        [27, 5] Type: Item
         │       Label: Panoramic view of Chulalongkorn
         └────── Link: {'text:Panoramic view of Chulalongkorn': 'http://www.chula.ac.th/CUpano/CUpanoM1/CuPano.html'}
     [28] Type: List
@@ -1931,7 +1958,7 @@
         └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
         [30, 4] Type: Item
         │       Label: Permanent link
-        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=940290980'}
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=942978751'}
         [30, 5] Type: Item
         │       Label: Page information
         └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&action=info'}
@@ -1940,7 +1967,7 @@
         └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q855730'}
         [30, 7] Type: Item
         │       Label: Cite this page
-        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=940290980'}
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=942978751'}
     [31] Type: List
     │    Label: In other projects
     │    Dimension: 1

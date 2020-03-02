@@ -3,84 +3,87 @@
 └─ Number of Member: 40
     [0] Type: Table
     │   Label: Comparison of the AK-47 and M16
+    │   Style: Enumerate, ColMajor
     │   Dimension: 2
     └── Number of Member: 4
         [0, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 22
             [0, 0, 0] Type: Cell
             │         Label: M16A2 (top) and AK-47 (bottom) assault rifles
-            │         Style: ColSpanned
+            │         Style: GrpSpan
             └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png': 'http://en.wikipedia.org/wiki/File:M16_and_AK-47_length_comparison.png'}
             [0, 0, 1] Type: Cell
             │         Label: Firearm
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 2] Type: Cell
             │         Label: Manufacturer
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 3] Type: Cell
             │         Label: Design year
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 4] Type: Cell
             │         Label: Weight (with loaded 30-round magazine)
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 5] Type: Cell
             │         Label: Overall length
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 6] Type: Cell
             │         Label: Barrel length
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 7] Type: Cell
             │         Label: Height (with magazine)
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 8] Type: Cell
             │         Label: Sight radius
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 9] Type: Cell
             │         Label: Cartridge
-            │         Style: Identified
+            │         Style: Emphasize
             └──────── Link: {'text:Cartridge': 'http://en.wikipedia.org/wiki/Cartridge_(firearms)'}
             [0, 0, 10] Type: Cell
             │          Label: Bullet weight
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 11] Type: Cell
             │          Label: Velocity
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 12] Type: Cell
             │          Label: Energy
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 13] Type: Cell
             │          Label: Effective range
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 14] Type: Cell
             │          Label: Accuracy @ 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 15] Type: Cell
             │          Label: Penetration (ballistic Gelatin)
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 16] Type: Cell
             │          Label: Rate of fire
-            │          Style: Identified
+            │          Style: Emphasize
             └───────── Link: {'text:Rate of fire': 'http://en.wikipedia.org/wiki/Rate_of_fire'}
             [0, 0, 17] Type: Cell
             │          Label: Standard magazine capacity
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 18] Type: Cell
             │          Label: Designer
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 19] Type: Cell
             │          Label: Variants
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 20] Type: Cell
             │          Label: Numbers made
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [0, 0, 21] Type: Cell
             │          Label: Unit cost
-            └───────── Style: Identified
+            └───────── Style: Emphasize
         [0, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 22
             [0, 1, 0] Type: Cell
             │         Label: M16A2 (top) and AK-47 (bottom) assault rifles
-            │         Style: ColSpanned
+            │         Style: GrpSpan
             └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png': 'http://en.wikipedia.org/wiki/File:M16_and_AK-47_length_comparison.png'}
             [0, 1, 1] Type: Cell
             │         Label: AK-47
@@ -135,10 +138,11 @@ AK-100 series, AK-12
             [0, 1, 21] Type: Cell
             └───────── Label: $150 to $160 per unit for a new AK-103
         [0, 2] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 22
             [0, 2, 0] Type: Cell
             │         Label: M16A2 (top) and AK-47 (bottom) assault rifles
-            │         Style: ColSpanned
+            │         Style: GrpSpan
             └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png': 'http://en.wikipedia.org/wiki/File:M16_and_AK-47_length_comparison.png'}
             [0, 2, 1] Type: Cell
             │         Label: M16A1
@@ -192,10 +196,11 @@ AK-100 series, AK-12
             [0, 2, 21] Type: Cell
             └───────── Label: $700 per unit for a new M4
         [0, 3] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 22
             [0, 3, 0] Type: Cell
             │         Label: M16A2 (top) and AK-47 (bottom) assault rifles
-            │         Style: ColSpanned
+            │         Style: GrpSpan
             └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png': 'http://en.wikipedia.org/wiki/File:M16_and_AK-47_length_comparison.png'}
             [0, 3, 1] Type: 
             [0, 3, 2] Type: 
@@ -308,13 +313,15 @@ AK-100 series, AK-12
         └───── Link: {'text:External links': 'http://en.wikipedia.org/wiki/Comparison_of_the_AK-47_and_M16#External_links'}
     [2] Type: Table
     │   Label: Size and weight
+    │   Style: Enumerate, ColMajor
     │   Dimension: 2
     └── Number of Member: 7
         [2, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 0, 0] Type: Cell
             │         Label: 
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 0, 1] Type: Cell
             └──────── Label: Barrel length
             [2, 0, 2] Type: Cell
@@ -329,10 +336,11 @@ loaded magazine
             └──────── Label: Weight of loaded
 30-round magazine
         [2, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 1, 0] Type: Cell
             │         Label: AK-47
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 1, 1] Type: Cell
             └──────── Label: 41.5 cm (16.3 in)
             [2, 1, 2] Type: Cell
@@ -346,10 +354,11 @@ loaded magazine
 magazine
 0.92 kg (2.0 lb).
         [2, 2] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 2, 0] Type: Cell
             │         Label: M16A1
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 2, 1] Type: Cell
             └──────── Label: 50.8 cm (20.0 in)
             [2, 2, 2] Type: Cell
@@ -363,10 +372,11 @@ magazine
 magazine
 0.45 kg (0.99 lb)
         [2, 3] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 3, 0] Type: Cell
             │         Label: AKM
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 3, 1] Type: Cell
             └──────── Label: 41.5 cm (16.3 in)
             [2, 3, 2] Type: Cell
@@ -380,10 +390,11 @@ magazine
 magazine
 0.82 kg (1.8 lb)
         [2, 4] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 4, 0] Type: Cell
             │         Label: M16A2
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 4, 1] Type: Cell
             └──────── Label: 50.8 cm (20.0 in)
             [2, 4, 2] Type: Cell
@@ -397,10 +408,11 @@ magazine
 magazine
 0.45 kg (0.99 lb)
         [2, 5] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 5, 0] Type: Cell
             │         Label: AK-103
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 5, 1] Type: Cell
             └──────── Label: 41.5 cm (16.3 in)
             [2, 5, 2] Type: Cell
@@ -416,10 +428,11 @@ stock
 plastic magazine
 0.74 kg (1.6 lb)
         [2, 6] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 6
             [2, 6, 0] Type: Cell
             │         Label: M4
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [2, 6, 1] Type: Cell
             └──────── Label: 36.8 cm (14.5 in)
             [2, 6, 2] Type: Cell
@@ -436,7 +449,7 @@ magazine
 0.45 kg (0.99 lb)
     [3] Type: List
     │   Label: Size and weight
-    │   Style: Enumerated
+    │   Style: Enumerate
     │   Dimension: 1
     └── Number of Member: 3
         [3, 0] Type: Item
@@ -469,157 +482,162 @@ magazine
         └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Coltm4a1.jpeg/120px-Coltm4a1.jpeg': 'http://en.wikipedia.org/wiki/File:Coltm4a1.jpeg'}
     [5] Type: Table
     │   Label: Ergonomics
+    │   Style: Enumerate, ColMajor
     │   Dimension: 2
     └── Number of Member: 2
         [5, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 25
             [5, 0, 0] Type: Cell
             │         Label: M16
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [5, 0, 1] Type: Cell
             │         Label: Carrying handle
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 0, 2] Type: Cell
             │         Label: The M16's most distinctive ergonomic feature is the carrying handle and rear sight assembly on top of the receiver. Current issue M16A4s and M4s have detachable carrying handles and use Picatinny rails which allow for the use of various scopes and sighting devices.
             └──────── Link: {'text:Picatinny rails': 'http://en.wikipedia.org/wiki/Picatinny_rail'}
             [5, 0, 3] Type: Cell
             │         Label: Fire selector
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 0, 4] Type: Cell
             └──────── Label: The fire selector is located on the left side of the rifle just above the pistol grip and is rotated by the shooter's right thumb. When the selector points forward = safe, up = semi-auto and backward = full-auto or burst. To use, the selector is rotated 90 degrees clockwise (down and forward) into the semi-auto position and then rotated an additional 90 degrees clockwise (forward and up) into the full-auto or burst position. To return to safe the selector is then rotated 180 degrees counter-clockwise (down, backward and up). Some M16 type rifles also have an ambidextrous fire selector on the right side of the receiver, designed to be operated by a left-handed shooter's thumb. This selector mirrors its opposite and functions as describe above.
             [5, 0, 5] Type: Cell
             │         Label: Charging handle
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 0, 6] Type: Cell
             └──────── Label: The charging handle is located on top of the receiver, below and to the rear of the rear sight/carrying handle. To chamber, simply insert a loaded magazine straight into the magazine well, then pull the cocking handle back and release. The charging handle does not reciprocate while firing.
             [5, 0, 7] Type: Cell
             │         Label: Magazine release
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 0, 8] Type: Cell
             └──────── Label: The magazine release is a push button, located on the right side of the receiver in front of the trigger. To reload, the magazine release is pushed in, the empty magazine falls out and a loaded magazine is then inserted straight into the magazine well.
             [5, 0, 9] Type: Cell
             │         Label: Bolt-stop/release
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 0, 10] Type: Cell
             │          Label: The bolt-stop/release is located on the left side of the receiver and the bolt-carrier-assembly locks back after the last shot. After reloading, the bolt-stop is pushed, the bolt-carrier-assembly is released, and the rifle is chambered and ready to fire. Also, leaving the bolt open for as long as possible aids in cooling and prevent cartridges from "cooking off."
             └───────── Link: {'text:cooking off': 'http://en.wikipedia.org/wiki/Cooking_off'}
             [5, 0, 11] Type: Cell
             │          Label: Forward-assist
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 12] Type: Cell
             └───────── Label: The M16A1 and later models have a separate forward-assist on the right side to the rear of the receiver which is operated by pushing it forward.
             [5, 0, 13] Type: Cell
             │          Label: Dust cover
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 14] Type: Cell
             └───────── Label: Has a spring-loaded dust-cover, which opens when the rifle is fired or chambered. The dust-cover must be closed manually.
             [5, 0, 15] Type: Cell
             │          Label: Trigger-pull
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 16] Type: Cell
             └───────── Label: pull weight of 5.5 to 9.0 pounds;
 creep of .04 to .05 inches;
 mechanical energy of .22 to .45 inch pounds
             [5, 0, 17] Type: Cell
             │          Label: Trigger-guard
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 18] Type: Cell
             └───────── Label: The M16s trigger-guard can be lowered to allow the trigger to be pulled while wearing winter mittens.
             [5, 0, 19] Type: Cell
             │          Label: Cartridge deflector
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 20] Type: Cell
             └───────── Label: To prevent hot shell casings from hitting a left handed shooter's face, older M16s had a plastic cartridge deflector attachment that is mounted in the carrying handle. Current model M16s have a cartridge deflector bump built into the upper receiver.
             [5, 0, 21] Type: Cell
             │          Label: Forestocks
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 22] Type: Cell
             └───────── Label: The M16 gets extremely hot when fired for prolonged periods. However, early model M16s use a large well-insulated triangular shaped forestock to protect the shooter's hands. The M16A2 and later models use rounded forestocks, that are stronger, more ergonomic and better insulated.
             [5, 0, 23] Type: Cell
             │          Label: Collapsing buttstocks
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 0, 24] Type: Cell
             └───────── Label: The M16 has variants with shortened barrels and adjustable telescoping buttstocks.
         [5, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 25
             [5, 1, 0] Type: Cell
             │         Label: AK-47
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [5, 1, 1] Type: Cell
             │         Label: Carrying handle
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 1, 2] Type: Cell
             └──────── Label: The AK-47 does not have a carrying-handle.
             [5, 1, 3] Type: Cell
             │         Label: Fire selector
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 1, 4] Type: Cell
             └──────── Label: The fire selector is a large lever located on the right side of the rifle; it acts as a dust-cover and prevents the charging handle from being pulled fully to the rear when it is on safe. It is operated by the shooter's right fore-fingers and it has 3 settings: up = safe, center = full-auto and down = semi-auto. The reason for this is that, when under stress, a soldier will push the selector lever down with considerable force bypassing the full-auto stage and setting the rifle to semi-auto. To set the AK-47 to full-auto requires the deliberate action of centering the selector lever. Some AK-47 type rifles also have a small vertical selector lever on the left side of the receiver just above the pistol grip. This lever is operated by the shooter's right thumb and has three settings: forward = safe, center = full-auto and backwards = semi-auto.
             [5, 1, 5] Type: Cell
             │         Label: Charging handle
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 1, 6] Type: Cell
             └──────── Label: The charging handle is located on the right side of the receiver. To chamber, simply rock a loaded magazine into the magazine well in a forward to back motion, then pull the cocking handle back and release. The charging handle reciprocates while firing.
             [5, 1, 7] Type: Cell
             │         Label: Magazine release
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 1, 8] Type: Cell
             └──────── Label: The magazine release is a lever located directly in front of and just below the trigger guard. To reload push the magazine release lever forward, the empty magazine is removed and a loaded magazine is then rocked into the magazine well in a forward to back motion.
             [5, 1, 9] Type: Cell
             │         Label: Bolt-stop/release
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [5, 1, 10] Type: Cell
             └───────── Label: Does not have a bolt-stop/release and does not lock back on the last shot. After reloading, simply pull back and release the charging handle, and the rifle is chambered and ready to fire.
             [5, 1, 11] Type: Cell
             │          Label: Forward-assist
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 12] Type: Cell
             └───────── Label: The charging handle also acts as a forward assist which is operated by pushing it forward.
             [5, 1, 13] Type: Cell
             │          Label: Dust cover
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 14] Type: Cell
             └───────── Label: The fire selector doubles as a dust-cover when set to "safe".
             [5, 1, 15] Type: Cell
             │          Label: Trigger-pull
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 16] Type: Cell
             └───────── Label: pull weight of 3.0 to 7.0 pounds;
 creep of .15 inches;
 mechanical energy of .45 to 1.05 inch pounds
             [5, 1, 17] Type: Cell
             │          Label: Trigger-guard
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 18] Type: Cell
             └───────── Label: The AK-47s trigger-guard is fixed and "does not lend itself well to trigger operation wearing heavy gloves." However the AK-47's trigger guard is larger and has more room inside it than other similar weapons, somewhat mitigating the issue.
             [5, 1, 19] Type: Cell
             │          Label: Cartridge deflector
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 20] Type: Cell
             └───────── Label: The AK-47 has no need for a cartridge deflector, as it ejects spent shell casings to the right at a forward and upward angle.
             [5, 1, 21] Type: Cell
             │          Label: Forestocks
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 22] Type: Cell
             │          Label: The AK-47 also gets extremely hot when fired for prolonged periods. However, the AK-47 has a small poorly-insulated fore-stock that overheats quickly making the AK hard to handle. The AK-47's wooden fore-stocks have even been known to catch fire if magazines are shot quickly enough on full-auto. Some older AK type rifles have vertical foregrips which make it easier to control and cooler to the touch making the AK easier to handle as it overheats.
             └───────── Link: {'text:vertical foregrips': 'http://en.wikipedia.org/wiki/Foregrip'}
             [5, 1, 23] Type: Cell
             │          Label: Collapsing buttstocks
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [5, 1, 24] Type: Cell
             └───────── Label: The AK-47 has variants with both standard and shortened barrels, and both under- and side-folding buttstocks.
     [6] Type: Table
     │   Label: Recoil
+    │   Style: Enumerate, ColMajor
     │   Dimension: 2
     └── Number of Member: 3
         [6, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 5
             [6, 0, 0] Type: Cell
             │         Label: Free Recoil
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [6, 0, 1] Type: Cell
             │         Label: 
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [6, 0, 2] Type: Cell
             └──────── Label: momentum
             [6, 0, 3] Type: Cell
@@ -627,13 +645,14 @@ mechanical energy of .45 to 1.05 inch pounds
             [6, 0, 4] Type: Cell
             └──────── Label: energy
         [6, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 5
             [6, 1, 0] Type: Cell
             │         Label: Free Recoil
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [6, 1, 1] Type: Cell
             │         Label: M16
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [6, 1, 2] Type: Cell
             └──────── Label: 40.4 lb-fps
             [6, 1, 3] Type: Cell
@@ -641,13 +660,14 @@ mechanical energy of .45 to 1.05 inch pounds
             [6, 1, 4] Type: Cell
             └──────── Label: 3.2 ft-lbs
         [6, 2] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 5
             [6, 2, 0] Type: Cell
             │         Label: Free Recoil
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [6, 2, 1] Type: Cell
             │         Label: AK-47
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [6, 2, 2] Type: Cell
             └──────── Label: 54.3 lb-fps
             [6, 2, 3] Type: Cell
@@ -700,22 +720,24 @@ mechanical energy of .45 to 1.05 inch pounds
         └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/M16A4_%28nukeit1%29.jpg/120px-M16A4_%28nukeit1%29.jpg': 'http://en.wikipedia.org/wiki/File:M16A4_(nukeit1).jpg', 'text:Picatinny rails': 'http://en.wikipedia.org/wiki/Picatinny_rail'}
     [9] Type: Table
     │   Label: Range and accuracy
+    │   Style: Enumerate, ColMajor
     │   Dimension: 2
     └── Number of Member: 13
         [9, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 0, 0] Type: Cell
             │         Label: Rifle
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 0, 1] Type: Cell
             │         Label: Rifle
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 0, 2] Type: Cell
             │         Label: M16
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [9, 0, 3] Type: Cell
             │         Label: AK-47
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [9, 0, 4] Type: 
             [9, 0, 5] Type: 
             [9, 0, 6] Type: 
@@ -727,13 +749,14 @@ mechanical energy of .45 to 1.05 inch pounds
             [9, 0, 12] Type: 
             [9, 0, 13] Type: 
         [9, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 1, 0] Type: Cell
             │         Label: Caliber
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 1, 1] Type: Cell
             │         Label: Caliber
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 1, 2] Type: Cell
             │         Label: 5.56×45mm
             └──────── Link: {'text:5.56×45mm': 'http://en.wikipedia.org/wiki/5.56%C3%9745mm'}
@@ -751,13 +774,14 @@ mechanical energy of .45 to 1.05 inch pounds
             [9, 1, 12] Type: 
             [9, 1, 13] Type: 
         [9, 2] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 2, 0] Type: Cell
             │         Label: Cartridge
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 2, 1] Type: Cell
             │         Label: Cartridge
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 2, 2] Type: Cell
             └──────── Label: M193
             [9, 2, 3] Type: Cell
@@ -773,15 +797,16 @@ mechanical energy of .45 to 1.05 inch pounds
             [9, 2, 12] Type: 
             [9, 2, 13] Type: 
         [9, 3] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 3, 0] Type: Cell
             │         Label: Cartridge
 weight
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 3, 1] Type: Cell
             │         Label: Cartridge
 weight
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 3, 2] Type: Cell
             └──────── Label: 184 gr
 (11.9 g)
@@ -799,15 +824,16 @@ weight
             [9, 3, 12] Type: 
             [9, 3, 13] Type: 
         [9, 4] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 4, 0] Type: Cell
             │         Label: Bullet
 weight
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 4, 1] Type: Cell
             │         Label: Bullet
 weight
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 4, 2] Type: Cell
             └──────── Label: 55 gr
 (3.6 g)
@@ -825,13 +851,14 @@ weight
             [9, 4, 12] Type: 
             [9, 4, 13] Type: 
         [9, 5] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 5, 0] Type: Cell
             │         Label: Velocity
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 5, 1] Type: Cell
             │         Label: Velocity
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 5, 2] Type: Cell
             └──────── Label: 3,250 fps
 (990 m/s)
@@ -849,13 +876,14 @@ weight
             [9, 5, 12] Type: 
             [9, 5, 13] Type: 
         [9, 6] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 6, 0] Type: Cell
             │         Label: Energy
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 6, 1] Type: Cell
             │         Label: Energy
-            └──────── Style: Identified, RowSpanned
+            └──────── Style: Emphasize, LineSpan
             [9, 6, 2] Type: Cell
             └──────── Label: 1,302 ft/lbs
 (1,764 J)
@@ -873,13 +901,14 @@ weight
             [9, 6, 12] Type: 
             [9, 6, 13] Type: 
         [9, 7] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 7, 0] Type: Cell
             │         Label: Range
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [9, 7, 1] Type: Cell
             │         Label: Effective*
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [9, 7, 2] Type: Cell
             └──────── Label: 500 yds
 (460 m)
@@ -897,13 +926,14 @@ weight
             [9, 7, 12] Type: 
             [9, 7, 13] Type: 
         [9, 8] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 8, 0] Type: Cell
             │         Label: Range
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [9, 8, 1] Type: Cell
             │         Label: Horizontal**
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [9, 8, 2] Type: Cell
             └──────── Label: 711 yds
 (650 m)
@@ -921,13 +951,14 @@ weight
             [9, 8, 12] Type: 
             [9, 8, 13] Type: 
         [9, 9] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 14
             [9, 9, 0] Type: Cell
             │         Label: Range
-            └──────── Style: Identified, ColSpanned
+            └──────── Style: Emphasize, GrpSpan
             [9, 9, 1] Type: Cell
             │         Label: Lethal***
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [9, 9, 2] Type: Cell
             └──────── Label: 984 yds
 (900 m)
@@ -945,13 +976,14 @@ weight
             [9, 9, 12] Type: 
             [9, 9, 13] Type: 
         [9, 10] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 14
             [9, 10, 0] Type: Cell
             │          Label: Range
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [9, 10, 1] Type: Cell
             │          Label: Maximum****
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [9, 10, 2] Type: Cell
             └───────── Label: 3000 yds
 (2700 m)
@@ -969,14 +1001,15 @@ weight
             [9, 10, 12] Type: 
             [9, 10, 13] Type: 
         [9, 11] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 14
             [9, 11, 0] Type: Cell
             │          Label: Accuracy
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [9, 11, 1] Type: Cell
             │          Label: 10 shot group
 @ 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [9, 11, 2] Type: Cell
             └───────── Label: 4.3 in
 (11 cm)
@@ -994,14 +1027,15 @@ weight
             [9, 11, 12] Type: 
             [9, 11, 13] Type: 
         [9, 12] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 14
             [9, 12, 0] Type: Cell
             │          Label: Accuracy
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [9, 12, 1] Type: Cell
             │          Label: 10 shot group
 @ 300 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [9, 12, 2] Type: Cell
             └───────── Label: 12.6 in
 (32 cm)
@@ -1020,36 +1054,39 @@ weight
             [9, 12, 13] Type: 
     [10] Type: Table
     │    Label: Range and accuracy
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 11
         [10, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 0, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 0, 1] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [10, 0, 2] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [10, 0, 3] Type: Cell
             │          Label: M16A1
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 0, 4] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
         [10, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 1, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 1, 1] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [10, 1, 2] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [10, 1, 3] Type: Cell
             │          Label: 5.56×45mm
             └───────── Link: {'text:5.56×45mm': 'http://en.wikipedia.org/wiki/5.56%C3%9745mm'}
@@ -1057,168 +1094,180 @@ weight
             │          Label: 7.62×39mm
             └───────── Link: {'text:7.62×39mm': 'http://en.wikipedia.org/wiki/7.62%C3%9739mm'}
         [10, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 2, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 2, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 2, 2] Type: Cell
             │          Label: 50 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 2, 3] Type: Cell
             └───────── Label: 100%
             [10, 2, 4] Type: Cell
             └───────── Label: 100%
         [10, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 3, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 3, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 3, 2] Type: Cell
             │          Label: 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 3, 3] Type: Cell
             └───────── Label: 100%
             [10, 3, 4] Type: Cell
             └───────── Label: 100%
         [10, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 4, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 4, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 4, 2] Type: Cell
             │          Label: 200 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 4, 3] Type: Cell
             └───────── Label: 100%
             [10, 4, 4] Type: Cell
             └───────── Label: 99%
         [10, 5] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 5, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 5, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 5, 2] Type: Cell
             │          Label: 300 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 5, 3] Type: Cell
             └───────── Label: 100%
             [10, 5, 4] Type: Cell
             └───────── Label: 94%
         [10, 6] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 6, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 6, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 6, 2] Type: Cell
             │          Label: 400 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 6, 3] Type: Cell
             └───────── Label: 96%
             [10, 6, 4] Type: Cell
             └───────── Label: 82%
         [10, 7] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 7, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 7, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 7, 2] Type: Cell
             │          Label: 500 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 7, 3] Type: Cell
             └───────── Label: 87%
             [10, 7, 4] Type: Cell
             └───────── Label: 67%
         [10, 8] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 8, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 8, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 8, 2] Type: Cell
             │          Label: 600 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 8, 3] Type: Cell
             └───────── Label: 73%
             [10, 8, 4] Type: Cell
             └───────── Label: 54%
         [10, 9] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [10, 9, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 9, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [10, 9, 2] Type: Cell
             │          Label: 700 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [10, 9, 3] Type: Cell
             └───────── Label: 56%
             [10, 9, 4] Type: Cell
             └───────── Label: 42%
         [10, 10] Type: Column
+        │        Style: Enumerate
         └─────── Number of Member: 5
             [10, 10, 0] Type: Cell
             │           Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [10, 10, 1] Type: Cell
             │           Label: Hit-probability (With no range estimation or aiming errors)
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [10, 10, 2] Type: Cell
             │           Label: 800 meters
-            └────────── Style: Identified
+            └────────── Style: Emphasize
             [10, 10, 3] Type: Cell
             └────────── Label: 39%
             [10, 10, 4] Type: Cell
             └────────── Label: 31%
     [11] Type: Table
     │    Label: Terminal ballistics
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 10
         [11, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 0, 0] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [11, 0, 1] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [11, 0, 2] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 0, 3] Type: Cell
             │          Label: M16
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 0, 4] Type: 
             [11, 0, 5] Type: 
         [11, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 1, 0] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [11, 1, 1] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [11, 1, 2] Type: Cell
             │          Label: 7.62×39mm
             └───────── Link: {'text:7.62×39mm': 'http://en.wikipedia.org/wiki/7.62%C3%9739mm'}
@@ -1228,13 +1277,14 @@ weight
             [11, 1, 4] Type: 
             [11, 1, 5] Type: 
         [11, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 2, 0] Type: Cell
             │          Label: Cartridge
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [11, 2, 1] Type: Cell
             │          Label: Cartridge
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [11, 2, 2] Type: Cell
             └───────── Label: M43
             [11, 2, 3] Type: Cell
@@ -1242,14 +1292,15 @@ weight
             [11, 2, 4] Type: 
             [11, 2, 5] Type: 
         [11, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 3, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 3, 1] Type: Cell
             │          Label: Ballistic gelatin
 @ 10 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 3, 2] Type: Cell
             └───────── Label: ≈29 in (74 cm)
 (bullet did
@@ -1261,14 +1312,15 @@ into smaller pieces)
             [11, 3, 4] Type: 
             [11, 3, 5] Type: 
         [11, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 4, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 4, 1] Type: Cell
             │          Label: Sandbags
 @ 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 4, 2] Type: Cell
             └───────── Label: 13 in (33 cm)
 (bullet did
@@ -1280,14 +1332,15 @@ disintegration)
             [11, 4, 4] Type: 
             [11, 4, 5] Type: 
         [11, 5] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 5, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 5, 1] Type: Cell
             │          Label: 3/4" pine boards
 @ 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 5, 2] Type: Cell
             └───────── Label: 19 boards
 (bullet did
@@ -1298,14 +1351,15 @@ not tumble)
             [11, 5, 4] Type: 
             [11, 5, 5] Type: 
         [11, 6] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 6, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 6, 1] Type: Cell
             │          Label: Concrete building block
 (one center rib)
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 6, 2] Type: Cell
             └───────── Label: both sides to 200 m
 one side to 400 m
@@ -1314,13 +1368,14 @@ one side to 400 m
             [11, 6, 4] Type: 
             [11, 6, 5] Type: 
         [11, 7] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 7, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 7, 1] Type: Cell
             │          Label: Steel helmet
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 7, 2] Type: Cell
             └───────── Label: both sides to 200 m
 one side to 400 m
@@ -1330,15 +1385,16 @@ one side to 500 m
             [11, 7, 4] Type: 
             [11, 7, 5] Type: 
         [11, 8] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 8, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 8, 1] Type: Cell
             │          Label: 1.9mm steel
 (14 gauge)
 @ 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 8, 2] Type: Cell
             └───────── Label: 3 layers
             [11, 8, 3] Type: Cell
@@ -1346,16 +1402,17 @@ one side to 500 m
             [11, 8, 4] Type: 
             [11, 8, 5] Type: 
         [11, 9] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [11, 9, 0] Type: Cell
             │          Label: Penetration
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [11, 9, 1] Type: Cell
             │          Label: 4mm steel
 (8 gauge)
 + layers of
 Kevlar-29
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [11, 9, 2] Type: Cell
             └───────── Label: 33 layers of Kevlar
             [11, 9, 3] Type: Cell
@@ -1386,91 +1443,100 @@ Kevlar-29
         └────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Modern-rifle-cartridges-cases.jpg/120px-Modern-rifle-cartridges-cases.jpg': 'http://en.wikipedia.org/wiki/File:Modern-rifle-cartridges-cases.jpg'}
     [13] Type: Table
     │    Label: Firepower
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 6
         [13, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [13, 0, 0] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [13, 0, 1] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [13, 0, 2] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [13, 0, 3] Type: Cell
             │          Label: M16
-            └───────── Style: Identified
+            └───────── Style: Emphasize
         [13, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [13, 1, 0] Type: Cell
             │          Label: Rate of fire
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [13, 1, 1] Type: Cell
             │          Label: Full-auto cyclical
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [13, 1, 2] Type: Cell
             └───────── Label: 600 rpm
             [13, 1, 3] Type: Cell
             └───────── Label: 700–950 rpm
         [13, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [13, 2, 0] Type: Cell
             │          Label: Rate of fire
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [13, 2, 1] Type: Cell
             │          Label: Full-auto practical
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [13, 2, 2] Type: Cell
             └───────── Label: 100 rpm
             [13, 2, 3] Type: Cell
             └───────── Label: 150 rpm
         [13, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [13, 3, 0] Type: Cell
             │          Label: Rate of fire
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [13, 3, 1] Type: Cell
             │          Label: 3-round-burst practical *
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [13, 3, 2] Type: Cell
             └───────── Label: NA
             [13, 3, 3] Type: Cell
             └───────── Label: 90 rpm
         [13, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [13, 4, 0] Type: Cell
             │          Label: Rate of fire
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [13, 4, 1] Type: Cell
             │          Label: Semi-auto practical
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [13, 4, 2] Type: Cell
             └───────── Label: 40 rpm
             [13, 4, 3] Type: Cell
             └───────── Label: 45 rpm
         [13, 5] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [13, 5, 0] Type: Cell
             │          Label: Rate of fire
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [13, 5, 1] Type: Cell
             │          Label: Sustained **
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [13, 5, 2] Type: Cell
             └───────── Label: 12 to 15 rpm
             [13, 5, 3] Type: Cell
             └───────── Label: 12 to 15 rpm
     [14] Type: Table
     │    Label: Firepower
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 5
         [14, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [14, 0, 0] Type: Cell
             │          Label: Magazine
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 0, 1] Type: Cell
             └───────── Label: AK-47 slab-sided steel magazine
             [14, 0, 2] Type: Cell
@@ -1482,11 +1548,12 @@ Kevlar-29
             [14, 0, 5] Type: Cell
             └───────── Label: M16 aluminum 30-round magazine
         [14, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [14, 1, 0] Type: Cell
             │          Label: Weight of loaded
 magazine
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 1, 1] Type: Cell
             └───────── Label: 0.916 kg (2.02 lb)
             [14, 1, 2] Type: Cell
@@ -1498,11 +1565,12 @@ magazine
             [14, 1, 5] Type: Cell
             └───────── Label: 0.490 kg (1.08 lb)
         [14, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [14, 2, 0] Type: Cell
             │          Label: Magazine
 capacity
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 2, 1] Type: Cell
             └───────── Label: 30 rounds
             [14, 2, 2] Type: Cell
@@ -1514,11 +1582,12 @@ capacity
             [14, 2, 5] Type: Cell
             └───────── Label: 30 rounds
         [14, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [14, 3, 0] Type: Cell
             │          Label: Max. 10.1 kg (22 lb)
 ammunition load *
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 3, 1] Type: Cell
             └───────── Label: 10 magazines @ 9.61 kg (21.2 lb)
             [14, 3, 2] Type: Cell
@@ -1530,11 +1599,12 @@ ammunition load *
             [14, 3, 5] Type: Cell
             └───────── Label: 20 magazines @ 9.80 kg (21.6 lb)
         [14, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 6
             [14, 4, 0] Type: Cell
             │          Label: Total available
 firepower
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [14, 4, 1] Type: Cell
             └───────── Label: 300 rounds
             [14, 4, 2] Type: Cell
@@ -1547,16 +1617,18 @@ firepower
             └───────── Label: 600 rounds
     [15] Type: Table
     │    Label: Firepower
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 2
         [15, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 8
             [15, 0, 0] Type: Cell
             │          Label: Additional firepower
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [15, 0, 1] Type: Cell
             │          Label: M16
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [15, 0, 2] Type: Cell
             │          Label: All current M16 type rifles are capable of launching NATO STANAG type 22mm rifle grenades from their integral flash hiders without the use of an adapter. These 22mm rifle grenade types range from powerful anti-tank rounds to simple finned tubes with a fragmentation hand grenade attached to the end. The "standard" type rifle grenade is propelled by a blank cartridge inserted into the chamber of the rifle. The "bullet trap" and "shoot through" types, as their names imply use live ammunition. The U.S. military does not generally use rifle grenades, however they are used by other nations.
             └───────── Link: {'text:22mm': 'http://en.wikipedia.org/wiki/22_mm_grenade', 'text:rifle grenades': 'http://en.wikipedia.org/wiki/Rifle_grenade'}
@@ -1575,13 +1647,14 @@ firepower
             │          Label: The M16 can mount the Rifleman's Assault Weapon (also called RAW). This close-support, 140 mm spherical rocket-propelled grenade was developed around 1977 and put into limited service by the United States Marine Corps in the 1990s. The RAW's 1-kg high explosive squash head (HESH) warhead can penetrate 20 cm of reinforced concrete (creating a 36 cm-wide hole) and hit moving targets at a range of 300 meters. The RAW is no longer used by the USMC. It has been replaced by the Shoulder-launched Multipurpose Assault Weapon (also called SMAW).
             └───────── Link: {"text:Rifleman's Assault Weapon": 'http://en.wikipedia.org/wiki/Rifleman%27s_Assault_Weapon', 'text:United States Marine Corps': 'http://en.wikipedia.org/wiki/United_States_Marine_Corps', 'text:high explosive squash head': 'http://en.wikipedia.org/wiki/High_explosive_squash_head'}
         [15, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 8
             [15, 1, 0] Type: Cell
             │          Label: Additional firepower
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [15, 1, 1] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [15, 1, 2] Type: Cell
             │          Label: Some AK-47 type rifles like the Zastava M70's are also capable of launching 22mm rifle-grenades and have a grenade-launching ladder-type sight and gas cut-off, attached to the front end of the gas cylinder and coupled to the gas regulator. To launch rifle-grenades a 22mm adapter is screwed on in place of the slant brake or other muzzle device.
             └───────── Link: {'text:Zastava M70': 'http://en.wikipedia.org/wiki/Zastava_M70'}
@@ -1725,16 +1798,18 @@ Video of U.S. troops using GREM (Simon) rifle grenade system
         └────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Improved_M16_Magazine_Follower.jpg/120px-Improved_M16_Magazine_Follower.jpg': 'http://en.wikipedia.org/wiki/File:Improved_M16_Magazine_Follower.jpg'}
     [22] Type: Table
     │    Label: Miscellaneous
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 2
         [22, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 33
             [22, 0, 0] Type: Cell
             │          Label: M16
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [22, 0, 1] Type: Cell
             │          Label: Technical
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [22, 0, 2] Type: Cell
             │          Label: 5.56×45mm cartridge dimensions
             └───────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/5.56x45mm_NATO.svg/450px-5.56x45mm_NATO.svg.png': 'http://en.wikipedia.org/wiki/File:5.56x45mm_NATO.svg'}
@@ -1748,7 +1823,7 @@ most current models have 6 grooves, right hand twist, 1 turn in 7 inches (177.8�
 some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6 mm)
             [22, 0, 5] Type: Cell
             │          Label: Features
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [22, 0, 6] Type: Cell
             └───────── Label: The M16 has a flash-hider or flash-suppressor. Also, current M16 flash-suppressors also act as compensators.
             [22, 0, 7] Type: Cell
@@ -1767,7 +1842,7 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6�
             └────────── Label: The M16s bolt carrier group is small enough that an extra group can be carried as a back-up. If necessary a malfunctioning group can be quickly and easily removed, and replaced.
             [22, 0, 14] Type: Cell
             │           Label: Shortcomings
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [22, 0, 15] Type: Cell
             └────────── Label: Early model M16 barrels could bend under rough handling or while firing as the barrel overheats. However, this shortcoming was corrected by the M16A2.
             [22, 0, 16] Type: Cell
@@ -1780,7 +1855,7 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6�
             └────────── Label: 
             [22, 0, 20] Type: Cell
             │           Label: Variants
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [22, 0, 21] Type: Cell
             └────────── Label: The M16 has variants with shortened barrels and adjustable telescoping buttstocks.
             [22, 0, 22] Type: Cell
@@ -1806,7 +1881,7 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6�
             └────────── Link: {'text:Safir T-14': 'http://en.wikipedia.org/wiki/Safir_T-series'}
             [22, 0, 29] Type: Cell
             │           Label: Additional
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [22, 0, 30] Type: Cell
             └────────── Label: The M16 has .22 caliber conversion kits.
             [22, 0, 31] Type: Cell
@@ -1818,13 +1893,14 @@ for shooter = 155 (dB)
             │           Label: The M16s sling is not only used to carry the rifle, but also to help support and stabilize the rifle while shooting, to allow for more accurate fire. "When the rifle sling is adjusted properly, it will provide maximum stability for the weapon and help reduce the effects of the rifle's recoil. There are three basic types of rifle sling adjustments: the loop sling, the hasty sling, and the three-point sling."
             └────────── Link: {'text:sling': 'http://en.wikipedia.org/wiki/Sling_(firearms)'}
         [22, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 33
             [22, 1, 0] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [22, 1, 1] Type: Cell
             │          Label: Technical
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [22, 1, 2] Type: Cell
             │          Label: 7.62×39mm cartridge dimensions
             └───────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/7.62x39mm_round.svg/450px-7.62x39mm_round.svg.png': 'http://en.wikipedia.org/wiki/File:7.62x39mm_round.svg'}
@@ -1835,7 +1911,7 @@ for shooter = 155 (dB)
 4 grooves, right hand twist, 1 turn in 9.25 inches (235 mm)
             [22, 1, 5] Type: Cell
             │          Label: Features
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [22, 1, 6] Type: Cell
             └───────── Label: The AK-47 does not have a flash-hider. However, all AKM and current AK models have a simple slant-type muzzle-brake or compensator.
             [22, 1, 7] Type: Cell
@@ -1854,7 +1930,7 @@ for shooter = 155 (dB)
             └────────── Label: 
             [22, 1, 14] Type: Cell
             │           Label: Shortcomings
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [22, 1, 15] Type: Cell
             └────────── Label: 
             [22, 1, 16] Type: Cell
@@ -1867,7 +1943,7 @@ for shooter = 155 (dB)
             └────────── Label: The AK-47s exposed gas cylinder is easily dented by rough handling, sometimes causing malfunctions.
             [22, 1, 20] Type: Cell
             │           Label: Variants
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [22, 1, 21] Type: Cell
             └────────── Label: The AK-47 has variants with both standard and shortened barrels, and both under and side folding buttstocks.
             [22, 1, 22] Type: Cell
@@ -1890,7 +1966,7 @@ for shooter = 155 (dB)
             └────────── Link: {'text:Saiga-12': 'http://en.wikipedia.org/wiki/Saiga-12'}
             [22, 1, 29] Type: Cell
             │           Label: Additional
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [22, 1, 30] Type: Cell
             └────────── Label: The AK-47 has .22 caliber conversion kits.
             [22, 1, 31] Type: Cell
@@ -1902,80 +1978,87 @@ for shooter = 159 (dB)
             └────────── Label: 
     [23] Type: Table
     │    Label: AK-74 vs M16A2
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 4
         [23, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [23, 0, 0] Type: Cell
             │          Label: Available firepower comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [23, 0, 1] Type: Cell
             │          Label: Magazine
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [23, 0, 2] Type: Cell
             └───────── Label: AK-74 steel-reinforced plastic magazine
             [23, 0, 3] Type: Cell
             └───────── Label: M16 aluminum magazine
         [23, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [23, 1, 0] Type: Cell
             │          Label: Available firepower comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [23, 1, 1] Type: Cell
             │          Label: Weight of loaded
 30-round magazine
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [23, 1, 2] Type: Cell
             └───────── Label: 551 g (1.215 lb)
             [23, 1, 3] Type: Cell
             └───────── Label: 490 g (1.08 lb)
         [23, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [23, 2, 0] Type: Cell
             │          Label: Available firepower comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [23, 2, 1] Type: Cell
             │          Label: Max. 10 kg (22 lb)
 ammunition load
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [23, 2, 2] Type: Cell
             └───────── Label: 18 magazines @ 9.92 kg (21.9 lb)
             [23, 2, 3] Type: Cell
             └───────── Label: 20 magazines @ 9.80 kg (21.6 lb)
         [23, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [23, 3, 0] Type: Cell
             │          Label: Available firepower comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [23, 3, 1] Type: Cell
             │          Label: Total available
 firepower
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [23, 3, 2] Type: Cell
             └───────── Label: 540 rounds
             [23, 3, 3] Type: Cell
             └───────── Label: 600 rounds
     [24] Type: Table
     │    Label: AK-74 vs M16A2
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 13
         [24, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 0, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 0, 1] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 0, 2] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 0, 3] Type: Cell
             │          Label: M16A2
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [24, 0, 4] Type: Cell
             │          Label: AK-74
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [24, 0, 5] Type: 
             [24, 0, 6] Type: 
             [24, 0, 7] Type: 
@@ -1989,16 +2072,17 @@ firepower
             [24, 0, 15] Type: 
             [24, 0, 16] Type: 
         [24, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 1, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 1, 1] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 1, 2] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 1, 3] Type: Cell
             │          Label: 5.56×45mm
             └───────── Link: {'text:5.56×45mm': 'http://en.wikipedia.org/wiki/5.56%C3%9745mm'}
@@ -2018,16 +2102,17 @@ firepower
             [24, 1, 15] Type: 
             [24, 1, 16] Type: 
         [24, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 2, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 2, 1] Type: Cell
             │          Label: Cartridge
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 2, 2] Type: Cell
             │          Label: Cartridge
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 2, 3] Type: Cell
             └───────── Label: SS109 / M855
             [24, 2, 4] Type: Cell
@@ -2045,18 +2130,19 @@ firepower
             [24, 2, 15] Type: 
             [24, 2, 16] Type: 
         [24, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 3, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 3, 1] Type: Cell
             │          Label: Bullet
 weight
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 3, 2] Type: Cell
             │          Label: Bullet
 weight
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 3, 3] Type: Cell
             └───────── Label: 62 gr
 (4.0 g)
@@ -2076,16 +2162,17 @@ weight
             [24, 3, 15] Type: 
             [24, 3, 16] Type: 
         [24, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 4, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 4, 1] Type: Cell
             │          Label: Velocity
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 4, 2] Type: Cell
             │          Label: Velocity
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 4, 3] Type: Cell
             └───────── Label: 3,100 fps
 (940 m/s)
@@ -2105,16 +2192,17 @@ weight
             [24, 4, 15] Type: 
             [24, 4, 16] Type: 
         [24, 5] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 5, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 5, 1] Type: Cell
             │          Label: Energy
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 5, 2] Type: Cell
             │          Label: Energy
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 5, 3] Type: Cell
             └───────── Label: 1,303 ft/lbs
 (1776 J)
@@ -2134,18 +2222,19 @@ weight
             [24, 5, 15] Type: 
             [24, 5, 16] Type: 
         [24, 6] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 6, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 6, 1] Type: Cell
             │          Label: Effective
 range
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 6, 2] Type: Cell
             │          Label: Effective
 range
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [24, 6, 3] Type: Cell
             └───────── Label: 656 yd
 (600 m)
@@ -2165,17 +2254,18 @@ range
             [24, 6, 15] Type: 
             [24, 6, 16] Type: 
         [24, 7] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 7, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 7, 1] Type: Cell
             │          Label: Accuracy Group/Hits*
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 7, 2] Type: Cell
             │          Label: 20 shot group @
 100 yards
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [24, 7, 3] Type: Cell
             └───────── Label: 5.50 in
 20×20
@@ -2195,17 +2285,18 @@ range
             [24, 7, 15] Type: 
             [24, 7, 16] Type: 
         [24, 8] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 8, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 8, 1] Type: Cell
             │          Label: Accuracy Group/Hits*
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 8, 2] Type: Cell
             │          Label: 20 shot group @
 300 yards
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [24, 8, 3] Type: Cell
             └───────── Label: 15.75 in
 20×20
@@ -2225,17 +2316,18 @@ range
             [24, 8, 15] Type: 
             [24, 8, 16] Type: 
         [24, 9] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 17
             [24, 9, 0] Type: Cell
             │          Label: Ballistic & terminal ballistics comparison
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 9, 1] Type: Cell
             │          Label: Accuracy Group/Hits*
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [24, 9, 2] Type: Cell
             │          Label: 20 shot group @
 600 yards
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [24, 9, 3] Type: Cell
             └───────── Label: 32.75 in
 15×20
@@ -2255,17 +2347,18 @@ range
             [24, 9, 15] Type: 
             [24, 9, 16] Type: 
         [24, 10] Type: Column
+        │        Style: Enumerate
         └─────── Number of Member: 17
             [24, 10, 0] Type: Cell
             │           Label: Ballistic & terminal ballistics comparison
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [24, 10, 1] Type: Cell
             │           Label: Accuracy Group/Hits*
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [24, 10, 2] Type: Cell
             │           Label: 20 shot group @
 800 yards
-            └────────── Style: Identified
+            └────────── Style: Emphasize
             [24, 10, 3] Type: Cell
             └────────── Label: 43.00 in
 12×20
@@ -2285,17 +2378,18 @@ range
             [24, 10, 15] Type: 
             [24, 10, 16] Type: 
         [24, 11] Type: Column
+        │        Style: Enumerate
         └─────── Number of Member: 17
             [24, 11, 0] Type: Cell
             │           Label: Ballistic & terminal ballistics comparison
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [24, 11, 1] Type: Cell
             │           Label: Accuracy Group/Hits*
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [24, 11, 2] Type: Cell
             │           Label: 10 shot group @
 1000 yards
-            └────────── Style: Identified
+            └────────── Style: Emphasize
             [24, 11, 3] Type: Cell
             └────────── Label: 73.90 in
 6×10
@@ -2314,20 +2408,21 @@ range
             [24, 11, 15] Type: 
             [24, 11, 16] Type: 
         [24, 12] Type: Column
+        │        Style: Enumerate
         └─────── Number of Member: 17
             [24, 12, 0] Type: Cell
             │           Label: Ballistic & terminal ballistics comparison
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [24, 12, 1] Type: Cell
             │           Label: Penetration
 Ballistic gelatin
 @ 10 meters
-            └────────── Style: Identified, RowSpanned
+            └────────── Style: Emphasize, LineSpan
             [24, 12, 2] Type: Cell
             │           Label: Penetration
 Ballistic gelatin
 @ 10 meters
-            └────────── Style: Identified, RowSpanned
+            └────────── Style: Emphasize, LineSpan
             [24, 12, 3] Type: Cell
             └────────── Label: ≈34 cm (13 in)
 (bullet fragments
@@ -2350,36 +2445,39 @@ not fragment)
             [24, 12, 16] Type: 
     [25] Type: Table
     │    Label: AK-74 vs M16A2
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 11
         [25, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 0, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 0, 1] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [25, 0, 2] Type: Cell
             │          Label: Rifle
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [25, 0, 3] Type: Cell
             │          Label: M16A2
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 0, 4] Type: Cell
             │          Label: AK-74
-            └───────── Style: Identified
+            └───────── Style: Emphasize
         [25, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 1, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 1, 1] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [25, 1, 2] Type: Cell
             │          Label: Caliber
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [25, 1, 3] Type: Cell
             │          Label: 5.56×45mm
             └───────── Link: {'text:5.56×45mm': 'http://en.wikipedia.org/wiki/5.56%C3%9745mm'}
@@ -2387,136 +2485,145 @@ not fragment)
             │          Label: 5.45×39mm
             └───────── Link: {'text:5.45×39mm': 'http://en.wikipedia.org/wiki/5.45%C3%9739mm'}
         [25, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 2, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 2, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 2, 2] Type: Cell
             │          Label: 50 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 2, 3] Type: Cell
             └───────── Label: 100%
             [25, 2, 4] Type: Cell
             └───────── Label: 100%
         [25, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 3, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 3, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 3, 2] Type: Cell
             │          Label: 100 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 3, 3] Type: Cell
             └───────── Label: 100%
             [25, 3, 4] Type: Cell
             └───────── Label: 100%
         [25, 4] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 4, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 4, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 4, 2] Type: Cell
             │          Label: 200 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 4, 3] Type: Cell
             └───────── Label: 100%
             [25, 4, 4] Type: Cell
             └───────── Label: 100%
         [25, 5] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 5, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 5, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 5, 2] Type: Cell
             │          Label: 300 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 5, 3] Type: Cell
             └───────── Label: 100%
             [25, 5, 4] Type: Cell
             └───────── Label: 99%
         [25, 6] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 6, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 6, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 6, 2] Type: Cell
             │          Label: 400 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 6, 3] Type: Cell
             └───────── Label: 98%
             [25, 6, 4] Type: Cell
             └───────── Label: 93%
         [25, 7] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 7, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 7, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 7, 2] Type: Cell
             │          Label: 500 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 7, 3] Type: Cell
             └───────── Label: 90%
             [25, 7, 4] Type: Cell
             └───────── Label: 81%
         [25, 8] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 8, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 8, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 8, 2] Type: Cell
             │          Label: 600 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 8, 3] Type: Cell
             └───────── Label: 79%
             [25, 8, 4] Type: Cell
             └───────── Label: 66%
         [25, 9] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 5
             [25, 9, 0] Type: Cell
             │          Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 9, 1] Type: Cell
             │          Label: Hit-probability (With no range estimation or aiming errors)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [25, 9, 2] Type: Cell
             │          Label: 700 meters
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [25, 9, 3] Type: Cell
             └───────── Label: 63%
             [25, 9, 4] Type: Cell
             └───────── Label: 51%
         [25, 10] Type: Column
+        │        Style: Enumerate
         └─────── Number of Member: 5
             [25, 10, 0] Type: Cell
             │           Label: Single-shot hit-probability on Crouching Man (E-Silhouette) Target
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [25, 10, 1] Type: Cell
             │           Label: Hit-probability (With no range estimation or aiming errors)
-            └────────── Style: Identified, ColSpanned
+            └────────── Style: Emphasize, GrpSpan
             [25, 10, 2] Type: Cell
             │           Label: 800 meters
-            └────────── Style: Identified
+            └────────── Style: Emphasize
             [25, 10, 3] Type: Cell
             └────────── Label: 43%
             [25, 10, 4] Type: Cell
@@ -2545,13 +2652,15 @@ not fragment)
         └────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/6l31_ak74m_gp34.jpeg/120px-6l31_ak74m_gp34.jpeg': 'http://en.wikipedia.org/wiki/File:6l31_ak74m_gp34.jpeg'}
     [27] Type: Table
     │    Label: From Rifle Evaluation Study, United States Army, Combat Development Command, ADA046961, 20 Dec 1962.
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 4
         [27, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 27
             [27, 0, 0] Type: Cell
             │          Label: Factor
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [27, 0, 1] Type: Cell
             └───────── Label: Length
             [27, 0, 2] Type: Cell
@@ -2580,7 +2689,7 @@ not fragment)
             └────────── Label: Ammo weight
             [27, 0, 14] Type: Cell
             │           Label: Automatic rifle mode
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 0, 15] Type: Cell
             └────────── Label: 0–100 m
             [27, 0, 16] Type: Cell
@@ -2589,30 +2698,31 @@ not fragment)
             └────────── Label: 400–600 m
             [27, 0, 18] Type: Cell
             │           Label: Semiautomatic fire
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 0, 19] Type: Cell
             └────────── Label: 0–400 m
             [27, 0, 20] Type: Cell
             └────────── Label: 400–600 m
             [27, 0, 21] Type: Cell
             │           Label: Penetration: Helmets
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 0, 22] Type: Cell
             └────────── Label: 0–400 m
             [27, 0, 23] Type: Cell
             └────────── Label: 400–600 m
             [27, 0, 24] Type: Cell
             │           Label: Penetration: Vests
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 0, 25] Type: Cell
             └────────── Label: 0–400 m
             [27, 0, 26] Type: Cell
             └────────── Label: 400–600 m
         [27, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 27
             [27, 1, 0] Type: Cell
             │          Label: AR-15/M16
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [27, 1, 1] Type: Cell
             └───────── Label: Superior
             [27, 1, 2] Type: Cell
@@ -2641,7 +2751,7 @@ not fragment)
             └────────── Label: Superior
             [27, 1, 14] Type: Cell
             │           Label: Automatic rifle mode
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 1, 15] Type: Cell
             └────────── Label: Superior
             [27, 1, 16] Type: Cell
@@ -2650,30 +2760,31 @@ not fragment)
             └────────── Label: Acceptable
             [27, 1, 18] Type: Cell
             │           Label: Semiautomatic fire
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 1, 19] Type: Cell
             └────────── Label: Superior
             [27, 1, 20] Type: Cell
             └────────── Label: Acceptable
             [27, 1, 21] Type: Cell
             │           Label: Penetration: Helmets
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 1, 22] Type: Cell
             └────────── Label: Acceptable
             [27, 1, 23] Type: Cell
             └────────── Label: Unacceptable
             [27, 1, 24] Type: Cell
             │           Label: Penetration: Vests
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 1, 25] Type: Cell
             └────────── Label: Acceptable
             [27, 1, 26] Type: Cell
             └────────── Label: Acceptable
         [27, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 27
             [27, 2, 0] Type: Cell
             │          Label: M14
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [27, 2, 1] Type: Cell
             └───────── Label: Acceptable
             [27, 2, 2] Type: Cell
@@ -2702,7 +2813,7 @@ not fragment)
             └────────── Label: Acceptable
             [27, 2, 14] Type: Cell
             │           Label: Automatic rifle mode
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 2, 15] Type: Cell
             └────────── Label: Unacceptable
             [27, 2, 16] Type: Cell
@@ -2711,30 +2822,31 @@ not fragment)
             └────────── Label: Unacceptable
             [27, 2, 18] Type: Cell
             │           Label: Semiautomatic fire
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 2, 19] Type: Cell
             └────────── Label: Acceptable
             [27, 2, 20] Type: Cell
             └────────── Label: Superior
             [27, 2, 21] Type: Cell
             │           Label: Penetration: Helmets
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 2, 22] Type: Cell
             └────────── Label: Superior
             [27, 2, 23] Type: Cell
             └────────── Label: Superior
             [27, 2, 24] Type: Cell
             │           Label: Penetration: Vests
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 2, 25] Type: Cell
             └────────── Label: Superior
             [27, 2, 26] Type: Cell
             └────────── Label: Superior
         [27, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 27
             [27, 3, 0] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [27, 3, 1] Type: Cell
             └───────── Label: Superior
             [27, 3, 2] Type: Cell
@@ -2763,7 +2875,7 @@ not fragment)
             └────────── Label: Acceptable
             [27, 3, 14] Type: Cell
             │           Label: Automatic rifle mode
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 3, 15] Type: Cell
             └────────── Label: Superior
             [27, 3, 16] Type: Cell
@@ -2772,21 +2884,21 @@ not fragment)
             └────────── Label: Unacceptable
             [27, 3, 18] Type: Cell
             │           Label: Semiautomatic fire
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 3, 19] Type: Cell
             └────────── Label: Unacceptable
             [27, 3, 20] Type: Cell
             └────────── Label: Unacceptable
             [27, 3, 21] Type: Cell
             │           Label: Penetration: Helmets
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 3, 22] Type: Cell
             └────────── Label: Acceptable
             [27, 3, 23] Type: Cell
             └────────── Label: Unacceptable
             [27, 3, 24] Type: Cell
             │           Label: Penetration: Vests
-            └────────── Style: ColSpanned
+            └────────── Style: GrpSpan
             [27, 3, 25] Type: Cell
             └────────── Label: Acceptable
             [27, 3, 26] Type: Cell
@@ -2795,59 +2907,64 @@ not fragment)
     │    Label: From "Rifle Evaluation Study", United States Army
  Infantry Combat Developments Agency
  ADA050268, 10 Dec 1962
+    │    Style: Enumerate, ColMajor
     │    Dimension: 2
     └─── Number of Member: 4
         [28, 0] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [28, 0, 0] Type: Cell
             │          Label: Method
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [28, 0, 1] Type: Cell
             │          Label: Method
-            └───────── Style: Identified, RowSpanned
+            └───────── Style: Emphasize, LineSpan
             [28, 0, 2] Type: Cell
             └───────── Label: Unaided eye
             [28, 0, 3] Type: Cell
             └───────── Label: 6×30 binoculars
         [28, 1] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [28, 1, 0] Type: Cell
             │          Label: Visual detection range (m)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [28, 1, 1] Type: Cell
             │          Label: AR-15/M16
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [28, 1, 2] Type: Cell
             └───────── Label: 75–100
             [28, 1, 3] Type: Cell
             └───────── Label: 200–225
         [28, 2] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [28, 2, 0] Type: Cell
             │          Label: Visual detection range (m)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [28, 2, 1] Type: Cell
             │          Label: M14
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [28, 2, 2] Type: Cell
             └───────── Label: 100–125
             [28, 2, 3] Type: Cell
             └───────── Label: 225–250
         [28, 3] Type: Column
+        │       Style: Enumerate
         └────── Number of Member: 4
             [28, 3, 0] Type: Cell
             │          Label: Visual detection range (m)
-            └───────── Style: Identified, ColSpanned
+            └───────── Style: Emphasize, GrpSpan
             [28, 3, 1] Type: Cell
             │          Label: AK-47
-            └───────── Style: Identified
+            └───────── Style: Emphasize
             [28, 3, 2] Type: Cell
             └───────── Label: 225–250
             [28, 3, 3] Type: Cell
             └───────── Label: 350–375
     [29] Type: List
     │    Label: References
-    │    Style: Enumerated
+    │    Style: Enumerate
     │    Dimension: 1
     └─── Number of Member: 352
         [29, 0] Type: Item
@@ -3909,7 +4026,7 @@ Defense Review. by David Crane. September 7th, 2010
         └────── Label: There is no question that this round has increased accuracy at greater distances and much improved through and through issues
     [32] Type: List
     │    Label: References
-    │    Style: Enumerated
+    │    Style: Enumerate
     │    Dimension: 1
     └─── Number of Member: 2
         [32, 0] Type: Item

@@ -22,19 +22,22 @@ tlpedia:Comparison_of_the_AK-47_and_M16
             tlp:indexList ( 1 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Comparison of the AK-47 and M16" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 1 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2 (top) and AK-47 (bottom) assault rifles" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png> ;
@@ -46,63 +49,63 @@ tlpedia:Comparison_of_the_AK-47_and_M16
                             tlp:indexList ( 1 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Firearm" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 1 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Manufacturer" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 1 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Design year" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 1 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Weight (with loaded 30-round magazine)" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 6 ;
                             tlp:indexList ( 1 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Overall length" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 7 ;
                             tlp:indexList ( 1 1 7 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Barrel length" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 8 ;
                             tlp:indexList ( 1 1 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Height (with magazine)" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 9 ;
                             tlp:indexList ( 1 1 9 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Sight radius" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 10 ;
                             tlp:indexList ( 1 1 10 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "Cartridge" ;
@@ -114,49 +117,49 @@ tlpedia:Comparison_of_the_AK-47_and_M16
                             tlp:indexList ( 1 1 11 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Bullet weight" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 12 ;
                             tlp:indexList ( 1 1 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Velocity" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 13 ;
                             tlp:indexList ( 1 1 13 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Energy" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 14 ;
                             tlp:indexList ( 1 1 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Effective range" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 15 ;
                             tlp:indexList ( 1 1 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy @ 100 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 16 ;
                             tlp:indexList ( 1 1 16 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration (ballistic Gelatin)" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 17 ;
                             tlp:indexList ( 1 1 17 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rate of fire" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "Rate of fire" ;
@@ -168,48 +171,49 @@ tlpedia:Comparison_of_the_AK-47_and_M16
                             tlp:indexList ( 1 1 18 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Standard magazine capacity" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 19 ;
                             tlp:indexList ( 1 1 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Designer" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 20 ;
                             tlp:indexList ( 1 1 20 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Variants" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 21 ;
                             tlp:indexList ( 1 1 21 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Numbers made" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 22 ;
                             tlp:indexList ( 1 1 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Unit cost" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 1 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2 (top) and AK-47 (bottom) assault rifles" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png> ;
@@ -433,13 +437,14 @@ AK-100 series, AK-12""" ;
                     tlp:index 3 ;
                     tlp:indexList ( 1 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2 (top) and AK-47 (bottom) assault rifles" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png> ;
@@ -666,13 +671,14 @@ AK-100 series, AK-12""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 1 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2 (top) and AK-47 (bottom) assault rifles" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M16_and_AK-47_length_comparison.png/250px-M16_and_AK-47_length_comparison.png> ;
@@ -997,19 +1003,22 @@ AK-100 series, AK-12""" ;
             tlp:indexList ( 3 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Size and weight" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 3 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1049,13 +1058,14 @@ loaded magazine"""
                     tlp:index 2 ;
                     tlp:indexList ( 3 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1094,13 +1104,14 @@ magazine
                     tlp:index 3 ;
                     tlp:indexList ( 3 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A1" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1139,13 +1150,14 @@ magazine
                     tlp:index 4 ;
                     tlp:indexList ( 3 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AKM" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1184,13 +1196,14 @@ magazine
                     tlp:index 5 ;
                     tlp:indexList ( 3 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1229,13 +1242,14 @@ magazine
                     tlp:index 6 ;
                     tlp:indexList ( 3 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-103" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1276,13 +1290,14 @@ plastic magazine
                     tlp:index 7 ;
                     tlp:indexList ( 3 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 3 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M4" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1323,7 +1338,7 @@ magazine
         [
             tlp:index 4 ;
             tlp:indexList ( 4 0 ) ;
-            tlp:style tlp:Enumerated ;
+            tlp:style tlp:Enumerate ;
             tlp:dimension 1 ;
             rdfs:label "Size and weight" ;
             rdf:type tlp:List ;
@@ -1426,27 +1441,30 @@ magazine
             tlp:indexList ( 6 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Ergonomics" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 6 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 6 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 6 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Carrying handle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -1464,8 +1482,8 @@ magazine
                             tlp:indexList ( 6 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Fire selector" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 5 ;
@@ -1478,8 +1496,8 @@ magazine
                             tlp:indexList ( 6 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Charging handle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 7 ;
@@ -1492,8 +1510,8 @@ magazine
                             tlp:indexList ( 6 1 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Magazine release" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 9 ;
@@ -1506,8 +1524,8 @@ magazine
                             tlp:indexList ( 6 1 10 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Bolt-stop/release" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 11 ;
@@ -1525,8 +1543,8 @@ magazine
                             tlp:indexList ( 6 1 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Forward-assist" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 13 ;
@@ -1539,8 +1557,8 @@ magazine
                             tlp:indexList ( 6 1 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Dust cover" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 15 ;
@@ -1553,8 +1571,8 @@ magazine
                             tlp:indexList ( 6 1 16 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Trigger-pull" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 17 ;
@@ -1569,8 +1587,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 1 18 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Trigger-guard" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 19 ;
@@ -1583,8 +1601,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 1 20 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge deflector" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 21 ;
@@ -1597,8 +1615,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 1 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Forestocks" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 23 ;
@@ -1611,8 +1629,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 1 24 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Collapsing buttstocks" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 25 ;
@@ -1625,21 +1643,22 @@ mechanical energy of .22 to .45 inch pounds"""
                     tlp:index 2 ;
                     tlp:indexList ( 6 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 6 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 6 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Carrying handle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -1652,8 +1671,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Fire selector" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 5 ;
@@ -1666,8 +1685,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Charging handle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 7 ;
@@ -1680,8 +1699,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Magazine release" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 9 ;
@@ -1694,8 +1713,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 10 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Bolt-stop/release" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 11 ;
@@ -1708,8 +1727,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Forward-assist" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 13 ;
@@ -1722,8 +1741,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Dust cover" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 15 ;
@@ -1736,8 +1755,8 @@ mechanical energy of .22 to .45 inch pounds"""
                             tlp:indexList ( 6 2 16 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Trigger-pull" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 17 ;
@@ -1752,8 +1771,8 @@ mechanical energy of .45 to 1.05 inch pounds"""
                             tlp:indexList ( 6 2 18 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Trigger-guard" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 19 ;
@@ -1766,8 +1785,8 @@ mechanical energy of .45 to 1.05 inch pounds"""
                             tlp:indexList ( 6 2 20 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge deflector" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 21 ;
@@ -1780,8 +1799,8 @@ mechanical energy of .45 to 1.05 inch pounds"""
                             tlp:indexList ( 6 2 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Forestocks" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 23 ;
@@ -1799,8 +1818,8 @@ mechanical energy of .45 to 1.05 inch pounds"""
                             tlp:indexList ( 6 2 24 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Collapsing buttstocks" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 25 ;
@@ -1815,27 +1834,30 @@ mechanical energy of .45 to 1.05 inch pounds"""
             tlp:indexList ( 7 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Recoil" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 7 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 7 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Free Recoil" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 7 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -1860,21 +1882,22 @@ mechanical energy of .45 to 1.05 inch pounds"""
                     tlp:index 2 ;
                     tlp:indexList ( 7 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 7 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Free Recoil" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 7 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -1899,21 +1922,22 @@ mechanical energy of .45 to 1.05 inch pounds"""
                     tlp:index 3 ;
                     tlp:indexList ( 7 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 7 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Free Recoil" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 7 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2100,64 +2124,68 @@ mechanical energy of .45 to 1.05 inch pounds"""
             tlp:indexList ( 10 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Range and accuracy" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 10 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 10 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 10 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 10 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2186,22 +2214,23 @@ mechanical energy of .45 to 1.05 inch pounds"""
                     tlp:index 3 ;
                     tlp:indexList ( 10 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2220,6 +2249,7 @@ mechanical energy of .45 to 1.05 inch pounds"""
                     tlp:index 4 ;
                     tlp:indexList ( 10 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -2227,8 +2257,8 @@ mechanical energy of .45 to 1.05 inch pounds"""
                             rdf:type tlp:Cell ;
                             rdfs:label """Cartridge
 weight""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2236,8 +2266,8 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Cartridge
 weight""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2258,6 +2288,7 @@ weight""" ;
                     tlp:index 5 ;
                     tlp:indexList ( 10 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -2265,8 +2296,8 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Bullet
 weight""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2274,8 +2305,8 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Bullet
 weight""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2296,22 +2327,23 @@ weight""" ;
                     tlp:index 6 ;
                     tlp:indexList ( 10 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Velocity" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 6 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Velocity" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2332,22 +2364,23 @@ weight""" ;
                     tlp:index 7 ;
                     tlp:indexList ( 10 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Energy" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 7 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Energy" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2368,21 +2401,22 @@ weight""" ;
                     tlp:index 8 ;
                     tlp:indexList ( 10 8 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 8 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Range" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 8 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Effective*" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2403,21 +2437,22 @@ weight""" ;
                     tlp:index 9 ;
                     tlp:indexList ( 10 9 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 9 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Range" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 9 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Horizontal**" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2438,21 +2473,22 @@ weight""" ;
                     tlp:index 10 ;
                     tlp:indexList ( 10 10 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 10 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Range" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 10 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Lethal***" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2473,21 +2509,22 @@ weight""" ;
                     tlp:index 11 ;
                     tlp:indexList ( 10 11 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 11 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Range" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 10 11 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Maximum****" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2508,14 +2545,15 @@ weight""" ;
                     tlp:index 12 ;
                     tlp:indexList ( 10 12 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 12 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2523,7 +2561,7 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """10 shot group
 @ 100 meters""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2544,14 +2582,15 @@ weight""" ;
                     tlp:index 13 ;
                     tlp:indexList ( 10 13 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 10 13 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2559,7 +2598,7 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """10 shot group
 @ 300 meters""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -2582,80 +2621,84 @@ weight""" ;
             tlp:indexList ( 11 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Range and accuracy" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 11 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 11 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A1" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 11 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 11 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 2 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2684,29 +2727,30 @@ weight""" ;
                     tlp:index 3 ;
                     tlp:indexList ( 11 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 3 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "50 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2725,29 +2769,30 @@ weight""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 11 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 4 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 4 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "100 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2766,29 +2811,30 @@ weight""" ;
                     tlp:index 5 ;
                     tlp:indexList ( 11 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 5 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 5 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "200 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2807,29 +2853,30 @@ weight""" ;
                     tlp:index 6 ;
                     tlp:indexList ( 11 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 6 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 6 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "300 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2848,29 +2895,30 @@ weight""" ;
                     tlp:index 7 ;
                     tlp:indexList ( 11 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 7 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 7 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "400 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2889,29 +2937,30 @@ weight""" ;
                     tlp:index 8 ;
                     tlp:indexList ( 11 8 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 8 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 8 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 8 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "500 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2930,29 +2979,30 @@ weight""" ;
                     tlp:index 9 ;
                     tlp:indexList ( 11 9 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 9 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 9 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 9 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "600 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2971,29 +3021,30 @@ weight""" ;
                     tlp:index 10 ;
                     tlp:indexList ( 11 10 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 10 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 10 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 10 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "700 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -3012,29 +3063,30 @@ weight""" ;
                     tlp:index 11 ;
                     tlp:indexList ( 11 11 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 11 11 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 11 11 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 11 11 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "800 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -3055,64 +3107,68 @@ weight""" ;
             tlp:indexList ( 12 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Terminal ballistics" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 12 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 12 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 12 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 12 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 12 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 12 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3141,22 +3197,23 @@ weight""" ;
                     tlp:index 3 ;
                     tlp:indexList ( 12 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 12 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3175,14 +3232,15 @@ weight""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 12 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3190,7 +3248,7 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Ballistic gelatin
 @ 10 meters""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3213,14 +3271,15 @@ into smaller pieces)"""
                     tlp:index 5 ;
                     tlp:indexList ( 12 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3228,7 +3287,7 @@ into smaller pieces)"""
                             rdf:type tlp:Cell ;
                             rdfs:label """Sandbags
 @ 100 meters""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3251,14 +3310,15 @@ disintegration)"""
                     tlp:index 6 ;
                     tlp:indexList ( 12 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3266,7 +3326,7 @@ disintegration)"""
                             rdf:type tlp:Cell ;
                             rdfs:label """3/4" pine boards
 @ 100 meters""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3288,14 +3348,15 @@ not tumble)"""
                     tlp:index 7 ;
                     tlp:indexList ( 12 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3303,7 +3364,7 @@ not tumble)"""
                             rdf:type tlp:Cell ;
                             rdfs:label """Concrete building block
 (one center rib)""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3323,21 +3384,22 @@ one side to 400 m"""
                     tlp:index 8 ;
                     tlp:indexList ( 12 8 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 8 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 12 8 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Steel helmet" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3358,14 +3420,15 @@ one side to 500 m"""
                     tlp:index 9 ;
                     tlp:indexList ( 12 9 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 9 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3374,7 +3437,7 @@ one side to 500 m"""
                             rdfs:label """1.9mm steel
 (14 gauge)
 @ 100 meters""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3393,14 +3456,15 @@ one side to 500 m"""
                     tlp:index 10 ;
                     tlp:indexList ( 12 10 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 12 10 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3410,7 +3474,7 @@ one side to 500 m"""
 (8 gauge)
 + layers of
 Kevlar-29""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3505,63 +3569,67 @@ Kevlar-29""" ;
             tlp:indexList ( 14 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Firepower" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 14 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 14 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 14 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 14 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 14 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 14 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 14 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rate of fire" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 14 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Full-auto cyclical" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3580,21 +3648,22 @@ Kevlar-29""" ;
                     tlp:index 3 ;
                     tlp:indexList ( 14 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 14 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rate of fire" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 14 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Full-auto practical" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3613,21 +3682,22 @@ Kevlar-29""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 14 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 14 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rate of fire" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 14 4 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "3-round-burst practical *" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3646,21 +3716,22 @@ Kevlar-29""" ;
                     tlp:index 5 ;
                     tlp:indexList ( 14 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 14 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rate of fire" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 14 5 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Semi-auto practical" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3679,21 +3750,22 @@ Kevlar-29""" ;
                     tlp:index 6 ;
                     tlp:indexList ( 14 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 14 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rate of fire" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 14 6 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Sustained **" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -3714,19 +3786,22 @@ Kevlar-29""" ;
             tlp:indexList ( 15 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Firepower" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 15 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 15 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Magazine" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3763,6 +3838,7 @@ Kevlar-29""" ;
                     tlp:index 2 ;
                     tlp:indexList ( 15 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -3770,7 +3846,7 @@ Kevlar-29""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Weight of loaded
 magazine""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3807,6 +3883,7 @@ magazine""" ;
                     tlp:index 3 ;
                     tlp:indexList ( 15 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -3814,7 +3891,7 @@ magazine""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Magazine
 capacity""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3851,6 +3928,7 @@ capacity""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 15 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -3858,7 +3936,7 @@ capacity""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Max. 10.1Â kg (22Â lb)
 ammunition load *""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3895,6 +3973,7 @@ ammunition load *""" ;
                     tlp:index 5 ;
                     tlp:indexList ( 15 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
@@ -3902,7 +3981,7 @@ ammunition load *""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Total available
 firepower""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3941,27 +4020,30 @@ firepower""" ;
             tlp:indexList ( 16 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Firepower" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 16 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 16 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Additional firepower" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 16 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -4057,21 +4139,22 @@ firepower""" ;
                     tlp:index 2 ;
                     tlp:indexList ( 16 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 16 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Additional firepower" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 16 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -4557,27 +4640,30 @@ Video of U.S. troops using GREM (Simon) rifle grenade system""" ;
             tlp:indexList ( 23 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Miscellaneous" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 23 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 23 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 23 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Technical" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -4611,8 +4697,8 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6Â
                             tlp:indexList ( 23 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Features" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 7 ;
@@ -4667,8 +4753,8 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6Â
                             tlp:indexList ( 23 1 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Shortcomings" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 16 ;
@@ -4705,8 +4791,8 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6Â
                             tlp:indexList ( 23 1 21 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Variants" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 22 ;
@@ -4808,8 +4894,8 @@ some current models have 6 grooves, right hand twist, 1 turn in 9 inches (228.6Â
                             tlp:indexList ( 23 1 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Additional" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 31 ;
@@ -4842,21 +4928,22 @@ for shooter = 155 (dB)
                     tlp:index 2 ;
                     tlp:indexList ( 23 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 23 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 23 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Technical" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -4887,8 +4974,8 @@ for shooter = 155 (dB)
                             tlp:indexList ( 23 2 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Features" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 7 ;
@@ -4943,8 +5030,8 @@ for shooter = 155 (dB)
                             tlp:indexList ( 23 2 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Shortcomings" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 16 ;
@@ -4981,8 +5068,8 @@ for shooter = 155 (dB)
                             tlp:indexList ( 23 2 21 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Variants" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 22 ;
@@ -5065,8 +5152,8 @@ for shooter = 155 (dB)
                             tlp:indexList ( 23 2 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Additional" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 31 ;
@@ -5096,27 +5183,30 @@ for shooter = 159 (dB)
             tlp:indexList ( 24 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "AK-74 vs M16A2" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 24 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 24 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Available firepower comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 24 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Magazine" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5135,14 +5225,15 @@ for shooter = 159 (dB)
                     tlp:index 2 ;
                     tlp:indexList ( 24 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 24 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Available firepower comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -5150,7 +5241,7 @@ for shooter = 159 (dB)
                             rdf:type tlp:Cell ;
                             rdfs:label """Weight of loaded
 30-round magazine""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5169,14 +5260,15 @@ for shooter = 159 (dB)
                     tlp:index 3 ;
                     tlp:indexList ( 24 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 24 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Available firepower comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -5184,7 +5276,7 @@ for shooter = 159 (dB)
                             rdf:type tlp:Cell ;
                             rdfs:label """Max. 10Â kg (22Â lb)
 ammunition load""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5203,14 +5295,15 @@ ammunition load""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 24 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 24 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Available firepower comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -5218,7 +5311,7 @@ ammunition load""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Total available
 firepower""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5239,80 +5332,84 @@ firepower""" ;
             tlp:indexList ( 25 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "AK-74 vs M16A2" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 25 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 25 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 25 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 25 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-74" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 25 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 25 2 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5341,30 +5438,31 @@ firepower""" ;
                     tlp:index 3 ;
                     tlp:indexList ( 25 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 25 3 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Cartridge" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5383,14 +5481,15 @@ firepower""" ;
                     tlp:index 4 ;
                     tlp:indexList ( 25 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -5398,8 +5497,8 @@ firepower""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Bullet
 weight""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5407,8 +5506,8 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Bullet
 weight""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5429,30 +5528,31 @@ weight""" ;
                     tlp:index 5 ;
                     tlp:indexList ( 25 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 5 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Velocity" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 25 5 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Velocity" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5473,30 +5573,31 @@ weight""" ;
                     tlp:index 6 ;
                     tlp:indexList ( 25 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 6 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Energy" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 25 6 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Energy" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5517,14 +5618,15 @@ weight""" ;
                     tlp:index 7 ;
                     tlp:indexList ( 25 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -5532,8 +5634,8 @@ weight""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Effective
 range""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5541,8 +5643,8 @@ range""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """Effective
 range""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5563,22 +5665,23 @@ range""" ;
                     tlp:index 8 ;
                     tlp:indexList ( 25 8 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 8 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 8 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy Group/Hits*" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5586,7 +5689,7 @@ range""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """20 shot group @
 100 yards""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5607,22 +5710,23 @@ range""" ;
                     tlp:index 9 ;
                     tlp:indexList ( 25 9 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 9 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 9 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy Group/Hits*" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5630,7 +5734,7 @@ range""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """20 shot group @
 300 yards""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5651,22 +5755,23 @@ range""" ;
                     tlp:index 10 ;
                     tlp:indexList ( 25 10 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 10 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 10 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy Group/Hits*" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5674,7 +5779,7 @@ range""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """20 shot group @
 600 yards""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5695,22 +5800,23 @@ range""" ;
                     tlp:index 11 ;
                     tlp:indexList ( 25 11 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 11 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 11 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy Group/Hits*" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5718,7 +5824,7 @@ range""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """20 shot group @
 800 yards""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5739,22 +5845,23 @@ range""" ;
                     tlp:index 12 ;
                     tlp:indexList ( 25 12 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 12 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 25 12 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Accuracy Group/Hits*" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5762,7 +5869,7 @@ range""" ;
                             rdf:type tlp:Cell ;
                             rdfs:label """10 shot group @
 1000 yards""" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5782,14 +5889,15 @@ range""" ;
                     tlp:index 13 ;
                     tlp:indexList ( 25 13 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 25 13 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ballistic & terminal ballistics comparison" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -5798,8 +5906,8 @@ range""" ;
                             rdfs:label """Penetration
 Ballistic gelatin
 @ 10 meters""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -5808,8 +5916,8 @@ Ballistic gelatin
                             rdfs:label """Penetration
 Ballistic gelatin
 @ 10 meters""" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5834,80 +5942,84 @@ not fragment)"""
             tlp:indexList ( 26 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "AK-74 vs M16A2" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 26 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Rifle" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 26 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M16A2" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 26 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-74" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 26 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 2 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Caliber" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5936,29 +6048,30 @@ not fragment)"""
                     tlp:index 3 ;
                     tlp:indexList ( 26 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 3 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "50 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -5977,29 +6090,30 @@ not fragment)"""
                     tlp:index 4 ;
                     tlp:indexList ( 26 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 4 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 4 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "100 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6018,29 +6132,30 @@ not fragment)"""
                     tlp:index 5 ;
                     tlp:indexList ( 26 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 5 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 5 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "200 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6059,29 +6174,30 @@ not fragment)"""
                     tlp:index 6 ;
                     tlp:indexList ( 26 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 6 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 6 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "300 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6100,29 +6216,30 @@ not fragment)"""
                     tlp:index 7 ;
                     tlp:indexList ( 26 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 7 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 7 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "400 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6141,29 +6258,30 @@ not fragment)"""
                     tlp:index 8 ;
                     tlp:indexList ( 26 8 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 8 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 8 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 8 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "500 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6182,29 +6300,30 @@ not fragment)"""
                     tlp:index 9 ;
                     tlp:indexList ( 26 9 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 9 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 9 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 9 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "600 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6223,29 +6342,30 @@ not fragment)"""
                     tlp:index 10 ;
                     tlp:indexList ( 26 10 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 10 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 10 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 10 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "700 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6264,29 +6384,30 @@ not fragment)"""
                     tlp:index 11 ;
                     tlp:indexList ( 26 11 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 26 11 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Single-shot hit-probability on Crouching Man (E-Silhouette) Target" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 26 11 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Hit-probability (With no range estimation or aiming errors)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 26 11 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "800 meters" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
@@ -6381,19 +6502,22 @@ not fragment)"""
             tlp:indexList ( 28 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "From Rifle Evaluation Study, United States Army, Combat Development Command, ADA046961, 20 Dec 1962." ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 28 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 28 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Factor" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -6478,7 +6602,7 @@ not fragment)"""
                             tlp:indexList ( 28 1 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Automatic rifle mode" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 16 ;
@@ -6503,7 +6627,7 @@ not fragment)"""
                             tlp:indexList ( 28 1 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Semiautomatic fire" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 20 ;
@@ -6522,7 +6646,7 @@ not fragment)"""
                             tlp:indexList ( 28 1 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Helmets" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 23 ;
@@ -6541,7 +6665,7 @@ not fragment)"""
                             tlp:indexList ( 28 1 25 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Vests" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 26 ;
@@ -6560,13 +6684,14 @@ not fragment)"""
                     tlp:index 2 ;
                     tlp:indexList ( 28 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 28 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AR-15/M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -6651,7 +6776,7 @@ not fragment)"""
                             tlp:indexList ( 28 2 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Automatic rifle mode" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 16 ;
@@ -6676,7 +6801,7 @@ not fragment)"""
                             tlp:indexList ( 28 2 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Semiautomatic fire" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 20 ;
@@ -6695,7 +6820,7 @@ not fragment)"""
                             tlp:indexList ( 28 2 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Helmets" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 23 ;
@@ -6714,7 +6839,7 @@ not fragment)"""
                             tlp:indexList ( 28 2 25 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Vests" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 26 ;
@@ -6733,13 +6858,14 @@ not fragment)"""
                     tlp:index 3 ;
                     tlp:indexList ( 28 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 28 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M14" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -6824,7 +6950,7 @@ not fragment)"""
                             tlp:indexList ( 28 3 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Automatic rifle mode" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 16 ;
@@ -6849,7 +6975,7 @@ not fragment)"""
                             tlp:indexList ( 28 3 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Semiautomatic fire" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 20 ;
@@ -6868,7 +6994,7 @@ not fragment)"""
                             tlp:indexList ( 28 3 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Helmets" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 23 ;
@@ -6887,7 +7013,7 @@ not fragment)"""
                             tlp:indexList ( 28 3 25 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Vests" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 26 ;
@@ -6906,13 +7032,14 @@ not fragment)"""
                     tlp:index 4 ;
                     tlp:indexList ( 28 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 28 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -6997,7 +7124,7 @@ not fragment)"""
                             tlp:indexList ( 28 4 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Automatic rifle mode" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 16 ;
@@ -7022,7 +7149,7 @@ not fragment)"""
                             tlp:indexList ( 28 4 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Semiautomatic fire" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 20 ;
@@ -7041,7 +7168,7 @@ not fragment)"""
                             tlp:indexList ( 28 4 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Helmets" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 23 ;
@@ -7060,7 +7187,7 @@ not fragment)"""
                             tlp:indexList ( 28 4 25 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Penetration: Vests" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 26 ;
@@ -7083,28 +7210,31 @@ not fragment)"""
             rdfs:label """From "Rifle Evaluation Study", United States Army
  Infantry Combat Developments Agency
  ADA050268, 10 Dec 1962""" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 29 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 29 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Method" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 29 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Method" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
@@ -7123,21 +7253,22 @@ not fragment)"""
                     tlp:index 2 ;
                     tlp:indexList ( 29 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 29 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Visual detection range (m)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 29 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AR-15/M16" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -7156,21 +7287,22 @@ not fragment)"""
                     tlp:index 3 ;
                     tlp:indexList ( 29 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 29 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Visual detection range (m)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 29 3 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "M14" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -7189,21 +7321,22 @@ not fragment)"""
                     tlp:index 4 ;
                     tlp:indexList ( 29 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 29 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Visual detection range (m)" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 29 4 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "AK-47" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
@@ -7222,7 +7355,7 @@ not fragment)"""
         [
             tlp:index 30 ;
             tlp:indexList ( 30 0 ) ;
-            tlp:style tlp:Enumerated ;
+            tlp:style tlp:Enumerate ;
             tlp:dimension 1 ;
             rdfs:label "References" ;
             rdf:type tlp:List ;
@@ -11580,7 +11713,7 @@ Defense Review. by David Crane. September 7th, 2010""" ;
         [
             tlp:index 33 ;
             tlp:indexList ( 33 0 ) ;
-            tlp:style tlp:Enumerated ;
+            tlp:style tlp:Enumerate ;
             tlp:dimension 1 ;
             rdfs:label "References" ;
             rdf:type tlp:List ;

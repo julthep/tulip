@@ -3,13 +3,15 @@
 └─ Number of Member: 7
     [0] Type: Table
     │   Label: List of C-family programming languages
+    │   Style: Enumerate, ColMajor
     │   Dimension: 2
     └── Number of Member: 5
         [0, 0] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 70
             [0, 0, 0] Type: Cell
             │         Label: Language
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 0, 1] Type: Cell
             │         Label: E
             └──────── Link: {'text:E': 'http://en.wikipedia.org/wiki/E_(programming_language)'}
@@ -215,10 +217,11 @@
             [0, 0, 69] Type: Cell
             └───────── Label: HolyC
         [0, 1] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 70
             [0, 1, 0] Type: Cell
             │         Label: Year started
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 1, 1] Type: Cell
             └──────── Label: 1997
             [0, 1, 2] Type: Cell
@@ -358,10 +361,11 @@
             [0, 1, 69] Type: Cell
             └───────── Label: 2005
         [0, 2] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 70
             [0, 2, 0] Type: Cell
             │         Label: Created by (at)
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 2, 1] Type: Cell
             │         Label: Mark S. Miller, Dan Bornstein (Electric Communities)
             └──────── Link: {'text:Mark S. Miller': 'http://en.wikipedia.org/wiki/Mark_S._Miller', 'text:Dan Bornstein': 'http://en.wikipedia.org/wiki/Dan_Bornstein'}
@@ -544,10 +548,11 @@
             │          Label: Terry A. Davis
             └───────── Link: {'text:Terry A. Davis': 'http://en.wikipedia.org/wiki/Terry_A._Davis'}
         [0, 3] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 70
             [0, 3, 0] Type: Cell
             │         Label: Comments
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 3, 1] Type: Cell
             │         Label: Designed with secure computing in mind, accomplished chiefly by strict adherence to the object-oriented computing model.
             └──────── Link: {'text:secure computing': 'http://en.wikipedia.org/wiki/Computer_security'}
@@ -708,10 +713,11 @@
             │          Label: A dialect of C for Terry's own operating system TempleOS. Most notable changes are the argument passing, variable type naming (U8 instead of unsigned char, I32 instead of int and so on), code structure ("There is no main() function.  Any code outside of functions gets executed upon start-up, in order "), switch statement structure and substitution of some parts of the preprocessor like the removal of #define and the use of '$' as the escape character.
             └───────── Link: {'text:TempleOS': 'http://en.wikipedia.org/wiki/TempleOS'}
         [0, 4] Type: Column
+        │      Style: Enumerate
         └───── Number of Member: 70
             [0, 4, 0] Type: Cell
             │         Label: References
-            └──────── Style: Identified
+            └──────── Style: Emphasize
             [0, 4, 1] Type: Cell
             └──────── Label: 
             [0, 4, 2] Type: Cell
@@ -852,7 +858,7 @@
             └───────── Label: 
     [1] Type: List
     │   Label: References
-    │   Style: Enumerated
+    │   Style: Enumerate
     │   Dimension: 1
     └── Number of Member: 15
         [1, 0] Type: Item
@@ -862,8 +868,8 @@
         │      Label: "S-Lang Library Information Page".
         └───── Link: {'text:"S-Lang Library Information Page"': 'http://www.jedsoft.org/slang/'}
         [1, 2] Type: Item
-        │      Label: http://www.sac-home.org/publications/GrelSchoIJPP06.pdf
-        └───── Link: {'text:http://www.sac-home.org/publications/GrelSchoIJPP06.pdf': 'http://www.sac-home.org/publications/GrelSchoIJPP06.pdf'}
+        │      Label: "Archived copy" (PDF). Archived from the original (PDF) on 2016-03-05. Retrieved 2015-05-11.CS1 maint: archived copy as title (link)
+        └───── Link: {'text:"Archived copy"': 'https://web.archive.org/web/20160305180814/http://www.sac-home.org/publications/GrelSchoIJPP06.pdf', 'text:the original': 'http://www.sac-home.org/publications/GrelSchoIJPP06.pdf', 'text:link': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_archived_copy_as_title'}
         [1, 3] Type: Item
         │      Label: "Alef Language Reference Manual".
         └───── Link: {'text:"Alef Language Reference Manual"': 'http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref'}
@@ -883,8 +889,8 @@
         │      Label: https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md
         └───── Link: {'text:https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md': 'https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md'}
         [1, 9] Type: Item
-        │      Label: "Project Fortress: Wiki: Home — Project Kenai".
-        └───── Link: {'text:"Project Fortress: Wiki: Home — Project Kenai"': 'https://java.net/projects/projectfortress/pages/Home'}
+        │      Label: "Project Fortress: Wiki: Home — Project Kenai". Archived from the original on 2013-01-12. Retrieved 2015-05-11.
+        └───── Link: {'text:"Project Fortress: Wiki: Home — Project Kenai"': 'https://archive.is/20130112202316/http://java.net/projects/projectfortress/pages/Home', 'text:the original': 'https://java.net/projects/projectfortress/pages/Home'}
         [1, 10] Type: Item
         │       Label: http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf
         └────── Link: {'text:http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf': 'http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf'}
@@ -913,26 +919,32 @@
     [3] Type: List
     │   Label: References
     │   Dimension: 1
-    └── Number of Member: 7
+    └── Number of Member: 9
         [3, 0] Type: Item
+        │      Label: CS1 maint: archived copy as title
+        └───── Link: {'text:CS1 maint: archived copy as title': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_archived_copy_as_title'}
+        [3, 1] Type: Item
+        │      Label: Articles with short description
+        └───── Link: {'text:Articles with short description': 'http://en.wikipedia.org/wiki/Category:Articles_with_short_description'}
+        [3, 2] Type: Item
         │      Label: Accuracy disputes from April 2015
         └───── Link: {'text:Accuracy disputes from April 2015': 'http://en.wikipedia.org/wiki/Category:Accuracy_disputes_from_April_2015'}
-        [3, 1] Type: Item
+        [3, 3] Type: Item
         │      Label: All accuracy disputes
         └───── Link: {'text:All accuracy disputes': 'http://en.wikipedia.org/wiki/Category:All_accuracy_disputes'}
-        [3, 2] Type: Item
+        [3, 4] Type: Item
         │      Label: Articles needing additional references from June 2015
         └───── Link: {'text:Articles needing additional references from June 2015': 'http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_June_2015'}
-        [3, 3] Type: Item
+        [3, 5] Type: Item
         │      Label: All articles needing additional references
         └───── Link: {'text:All articles needing additional references': 'http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references'}
-        [3, 4] Type: Item
+        [3, 6] Type: Item
         │      Label: Articles with multiple maintenance issues
         └───── Link: {'text:Articles with multiple maintenance issues': 'http://en.wikipedia.org/wiki/Category:Articles_with_multiple_maintenance_issues'}
-        [3, 5] Type: Item
+        [3, 7] Type: Item
         │      Label: All articles with unsourced statements
         └───── Link: {'text:All articles with unsourced statements': 'http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements'}
-        [3, 6] Type: Item
+        [3, 8] Type: Item
         │      Label: Articles with unsourced statements from January 2019
         └───── Link: {'text:Articles with unsourced statements from January 2019': 'http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_January_2019'}
     [4] Type: List
@@ -953,7 +965,7 @@
         └───── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
         [4, 4] Type: Item
         │      Label: Permanent link
-        └───── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=918026011'}
+        └───── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=943310346'}
         [4, 5] Type: Item
         │      Label: Page information
         └───── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&action=info'}
@@ -962,7 +974,7 @@
         └───── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q6565327'}
         [4, 7] Type: Item
         │      Label: Cite this page
-        └───── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=918026011'}
+        └───── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=943310346'}
     [5] Type: List
     │   Label: Print/export
     │   Dimension: 1

@@ -22,26 +22,29 @@ tlpedia:Chulalongkorn_University
             tlp:indexList ( 1 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Chulalongkorn University" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 3 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 1 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "จุฬาลงกรณ์มหาวิทยาลัย" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 1 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Phra Kiao Chulalongkorn University Seal" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/135px-Phra_Kiao.svg.png> ;
@@ -57,56 +60,56 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Former names" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 1 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Motto" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 1 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Motto in English" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 6 ;
                             tlp:indexList ( 1 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Type" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 7 ;
                             tlp:indexList ( 1 1 7 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Established" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 8 ;
                             tlp:indexList ( 1 1 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Founder" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 9 ;
                             tlp:indexList ( 1 1 9 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Budget" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 10 ;
                             tlp:indexList ( 1 1 10 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "President" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "President" ;
@@ -118,14 +121,14 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 1 11 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Students" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 12 ;
                             tlp:indexList ( 1 1 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Undergraduates" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "Undergraduates" ;
@@ -137,7 +140,7 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 1 13 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Postgraduates" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "Postgraduates" ;
@@ -149,7 +152,7 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 1 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Doctoral students" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "Doctoral students" ;
@@ -161,28 +164,28 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 1 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Location" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 16 ;
                             tlp:indexList ( 1 1 16 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Campus" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 17 ;
                             tlp:indexList ( 1 1 17 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Anthem" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 18 ;
                             tlp:indexList ( 1 1 18 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Colours" ;
-                            tlp:style tlp:Identified ;
+                            tlp:style tlp:Emphasize ;
                             tlp:link
                                 [
                                     tlp:text "Colours" ;
@@ -194,28 +197,28 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 1 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Affiliations" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 20 ;
                             tlp:indexList ( 1 1 20 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Mascot" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 21 ;
                             tlp:indexList ( 1 1 21 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Website" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 22 ;
                             tlp:indexList ( 1 1 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Chula_logo_with_namestyle.svg/250px-Chula_logo_with_namestyle.svg.png> ;
@@ -227,20 +230,21 @@ tlpedia:Chulalongkorn_University
                     tlp:index 2 ;
                     tlp:indexList ( 1 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 1 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "จุฬาลงกรณ์มหาวิทยาลัย" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 1 2 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Phra Kiao Chulalongkorn University Seal" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/135px-Phra_Kiao.svg.png> ;
@@ -495,7 +499,7 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 1 2 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:ColSpanned ;
+                            tlp:style tlp:GrpSpan ;
                             tlp:link
                                 [
                                     tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/9/94/Chula_logo_with_namestyle.svg/250px-Chula_logo_with_namestyle.svg.png> ;
@@ -1419,20 +1423,23 @@ tlpedia:Chulalongkorn_University
             tlp:indexList ( 13 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Rankings" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 13 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 13 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ranking" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1539,14 +1546,15 @@ tlpedia:Chulalongkorn_University
                     tlp:index 2 ;
                     tlp:indexList ( 13 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 13 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ranking" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1643,14 +1651,15 @@ tlpedia:Chulalongkorn_University
                     tlp:index 3 ;
                     tlp:indexList ( 13 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 13 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Ranking" ;
-                            tlp:style tlp:Identified ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
                         ] ,
                         [
                             tlp:index 2 ;
@@ -1857,74 +1866,78 @@ tlpedia:Chulalongkorn_University
             tlp:indexList ( 15 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Rankings" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 3 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 15 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 15 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "World rank" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 15 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "48" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 15 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "51 – 100" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 15 1 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "101 – 150" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 15 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "151 – 200" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 6 ;
                             tlp:indexList ( 15 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "201 – 250" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 7 ;
                             tlp:indexList ( 15 1 7 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "301 – 350" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 15 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 15 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Subject" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2133,33 +2146,36 @@ tlpedia:Chulalongkorn_University
             tlp:indexList ( 17 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Undergraduate" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 17 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 17 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Faculty/College/School" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
                             tlp:indexList ( 17 1 2 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Architecture" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 3 ;
                             tlp:indexList ( 17 1 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Architecture" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
@@ -2178,21 +2194,21 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 17 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 7 ;
                             tlp:indexList ( 17 1 7 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 8 ;
                             tlp:indexList ( 17 1 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 9 ;
@@ -2211,28 +2227,28 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 17 1 11 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 12 ;
                             tlp:indexList ( 17 1 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 13 ;
                             tlp:indexList ( 17 1 13 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 14 ;
                             tlp:indexList ( 17 1 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 15 ;
@@ -2251,13 +2267,14 @@ tlpedia:Chulalongkorn_University
                     tlp:index 2 ;
                     tlp:indexList ( 17 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 17 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Degree" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2354,13 +2371,14 @@ tlpedia:Chulalongkorn_University
                     tlp:index 3 ;
                     tlp:indexList ( 17 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 17 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Calendar System" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2457,13 +2475,14 @@ tlpedia:Chulalongkorn_University
                     tlp:index 4 ;
                     tlp:indexList ( 17 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 17 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Programs" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2562,19 +2581,22 @@ tlpedia:Chulalongkorn_University
             tlp:indexList ( 18 0 ) ;
             rdf:type tlp:Table ;
             rdfs:label "Graduate" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
             tlp:dimension 2 ;
             tlp:member
                 [
                     tlp:index 1 ;
                     tlp:indexList ( 18 1 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 1 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Faculty/College/School" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2599,42 +2621,42 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 1 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 6 ;
                             tlp:indexList ( 18 1 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 7 ;
                             tlp:indexList ( 18 1 7 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 8 ;
                             tlp:indexList ( 18 1 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 9 ;
                             tlp:indexList ( 18 1 9 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 10 ;
                             tlp:indexList ( 18 1 10 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Commerce and Accountancy" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 11 ;
@@ -2647,91 +2669,91 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 1 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Dentistry" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 13 ;
                             tlp:indexList ( 18 1 13 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Dentistry" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 14 ;
                             tlp:indexList ( 18 1 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Economics" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 15 ;
                             tlp:indexList ( 18 1 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Economics" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 16 ;
                             tlp:indexList ( 18 1 16 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Economics" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 17 ;
                             tlp:indexList ( 18 1 17 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Economics" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 18 ;
                             tlp:indexList ( 18 1 18 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Economics" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 19 ;
                             tlp:indexList ( 18 1 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Education" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 20 ;
                             tlp:indexList ( 18 1 20 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Education" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 21 ;
                             tlp:indexList ( 18 1 21 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 22 ;
                             tlp:indexList ( 18 1 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 23 ;
                             tlp:indexList ( 18 1 23 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 24 ;
                             tlp:indexList ( 18 1 24 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Engineering" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 25 ;
@@ -2744,48 +2766,49 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 1 26 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Medicine" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 27 ;
                             tlp:indexList ( 18 1 27 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Medicine" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 28 ;
                             tlp:indexList ( 18 1 28 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Medicine" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 29 ;
                             tlp:indexList ( 18 1 29 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Medicine" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 30 ;
                             tlp:indexList ( 18 1 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ]
                 ] ,
                 [
                     tlp:index 2 ;
                     tlp:indexList ( 18 2 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 2 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Degree" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -2960,20 +2983,21 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 2 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ]
                 ] ,
                 [
                     tlp:index 3 ;
                     tlp:indexList ( 18 3 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 3 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Calendar System" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3148,20 +3172,21 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 3 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ]
                 ] ,
                 [
                     tlp:index 4 ;
                     tlp:indexList ( 18 4 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 4 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Programs" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3336,20 +3361,21 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 4 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "" ;
-                            tlp:style tlp:ColSpanned
+                            tlp:style tlp:GrpSpan
                         ]
                 ] ,
                 [
                     tlp:index 5 ;
                     tlp:indexList ( 18 5 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 5 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Faculty/College/School" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3362,209 +3388,210 @@ tlpedia:Chulalongkorn_University
                             tlp:indexList ( 18 5 3 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Pharmaceutical Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 4 ;
                             tlp:indexList ( 18 5 4 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Pharmaceutical Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 5 ;
                             tlp:indexList ( 18 5 5 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Pharmaceutical Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 6 ;
                             tlp:indexList ( 18 5 6 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Political Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 7 ;
                             tlp:indexList ( 18 5 7 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Political Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 8 ;
                             tlp:indexList ( 18 5 8 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 9 ;
                             tlp:indexList ( 18 5 9 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 10 ;
                             tlp:indexList ( 18 5 10 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Science" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 11 ;
                             tlp:indexList ( 18 5 11 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 12 ;
                             tlp:indexList ( 18 5 12 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 13 ;
                             tlp:indexList ( 18 5 13 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 14 ;
                             tlp:indexList ( 18 5 14 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 15 ;
                             tlp:indexList ( 18 5 15 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 16 ;
                             tlp:indexList ( 18 5 16 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 17 ;
                             tlp:indexList ( 18 5 17 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 18 ;
                             tlp:indexList ( 18 5 18 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 19 ;
                             tlp:indexList ( 18 5 19 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 20 ;
                             tlp:indexList ( 18 5 20 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 21 ;
                             tlp:indexList ( 18 5 21 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 22 ;
                             tlp:indexList ( 18 5 22 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Graduate School" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 23 ;
                             tlp:indexList ( 18 5 23 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Public Health Sciences" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 24 ;
                             tlp:indexList ( 18 5 24 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Public Health Sciences" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 25 ;
                             tlp:indexList ( 18 5 25 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "SASIN" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 26 ;
                             tlp:indexList ( 18 5 26 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "SASIN" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 27 ;
                             tlp:indexList ( 18 5 27 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "SASIN" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 28 ;
                             tlp:indexList ( 18 5 28 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Petroleum and Petrochemical" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 29 ;
                             tlp:indexList ( 18 5 29 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Petroleum and Petrochemical" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ] ,
                         [
                             tlp:index 30 ;
                             tlp:indexList ( 18 5 30 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Petroleum and Petrochemical" ;
-                            tlp:style tlp:RowSpanned
+                            tlp:style tlp:LineSpan
                         ]
                 ] ,
                 [
                     tlp:index 6 ;
                     tlp:indexList ( 18 6 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 6 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Degree" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3745,13 +3772,14 @@ tlpedia:Chulalongkorn_University
                     tlp:index 7 ;
                     tlp:indexList ( 18 7 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 7 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Calendar System" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -3932,13 +3960,14 @@ tlpedia:Chulalongkorn_University
                     tlp:index 8 ;
                     tlp:indexList ( 18 8 0 ) ;
                     rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
                     tlp:member
                         [
                             tlp:index 1 ;
                             tlp:indexList ( 18 8 1 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Programs" ;
-                            tlp:style tlp:Identified
+                            tlp:style tlp:Emphasize
                         ] ,
                         [
                             tlp:index 2 ;
@@ -4881,7 +4910,7 @@ tlpedia:Chulalongkorn_University
         [
             tlp:index 27 ;
             tlp:indexList ( 27 0 ) ;
-            tlp:style tlp:Enumerated ;
+            tlp:style tlp:Enumerate ;
             tlp:dimension 1 ;
             rdfs:label "References" ;
             rdf:type tlp:List ;
@@ -5664,11 +5693,23 @@ tlpedia:Chulalongkorn_University
                     tlp:index 63 ;
                     tlp:indexList ( 27 63 0 ) ;
                     rdf:type tlp:Item ;
-                    rdfs:label """"IEEE Xplore - Sign In". Retrieved July 16, 2015.""" ;
+                    rdfs:label """Chuengsatiansup, K.; Sajjapongse, K.; Kruapraditsiri, P.; Chanma, C.; Termthanasombat, N.; Suttasupa, Y.; Sattaratnamai, S.; Pongkaew, E.; Udsatid, P.; Hattha, B.; Wibulpolprasert, P.; Usaphapanus, P.; Tulyanon, N.; Wongsaisuwan, M.; Wannasuphoprasit, W.; Chongstitvatana, P. (2009). "Plasma-RX: Autonomous Rescue robots". 2008 IEEE International Conference on Robotics and Biomimetics. pp. 1986–1990. doi:10.1109/ROBIO.2009.4913305. ISBN 978-1-4244-2678-2.""" ;
                     tlp:link
                         [
-                            tlp:text """"IEEE Xplore - Sign In"""" ;
-                            tlp:url <https://ieeexplore.ieee.org/document/4913305>
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.1109/ROBIO.2009.4913305" ;
+                            tlp:url <https://doi.org/10.1109%2FROBIO.2009.4913305>
+                        ] ,
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-1-4244-2678-2" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-4244-2678-2>
                         ]
                 ] ,
                 [
@@ -5727,6 +5768,17 @@ tlpedia:Chulalongkorn_University
                     tlp:index 4 ;
                     tlp:indexList ( 28 4 0 ) ;
                     rdf:type tlp:Item ;
+                    rdfs:label "School of Integrated Innovation" ;
+                    tlp:link
+                        [
+                            tlp:text "School of Integrated Innovation" ;
+                            tlp:url <https://inter-bascii-chula.com/>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 28 5 0 ) ;
+                    rdf:type tlp:Item ;
                     rdfs:label "CU-TEP" ;
                     tlp:link
                         [
@@ -5735,8 +5787,8 @@ tlpedia:Chulalongkorn_University
                         ]
                 ] ,
                 [
-                    tlp:index 5 ;
-                    tlp:indexList ( 28 5 0 ) ;
+                    tlp:index 6 ;
+                    tlp:indexList ( 28 6 0 ) ;
                     rdf:type tlp:Item ;
                     rdfs:label "Panoramic view of Chulalongkorn" ;
                     tlp:link
@@ -6096,7 +6148,7 @@ tlpedia:Chulalongkorn_University
                     tlp:link
                         [
                             tlp:text "Permanent link" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=940290980>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=942978751>
                         ]
                 ] ,
                 [
@@ -6129,7 +6181,7 @@ tlpedia:Chulalongkorn_University
                     tlp:link
                         [
                             tlp:text "Cite this page" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=940290980>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=942978751>
                         ]
                 ]
         ] ,

@@ -14,7 +14,7 @@ second paragraph of second item
         └───── Label: Third list item
     [1] Type: List
     │   Label: 5.6.2. Ordered List: OL
-    │   Style: Enumerated
+    │   Style: Enumerate
     │   Dimension: 2
     └── Number of Member: 3
         [1, 0] Type: Item
@@ -22,7 +22,7 @@ second paragraph of second item
         [1, 1] Type: Item, List
         │      Label: Enter the URI number in the text field of the Open URI
 window. The Web document you specified is displayed.
-        │      Style: Enumerated
+        │      Style: Enumerate
         └───── Number of Member: 2
             [1, 1, 0] Type: Item
             └──────── Label: substep 1

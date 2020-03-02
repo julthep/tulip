@@ -47,7 +47,7 @@ second paragraph of second item"""
         [
             tlp:index 2 ;
             tlp:indexList ( 2 0 ) ;
-            tlp:style tlp:Enumerated ;
+            tlp:style tlp:Enumerate ;
             tlp:dimension 2 ;
             rdfs:label "5.6.2. Ordered List: OL" ;
             rdf:type tlp:List ;
@@ -62,7 +62,7 @@ second paragraph of second item"""
                     tlp:index 2 ;
                     tlp:indexList ( 2 2 0 ) ;
                     rdf:type tlp:Item ;
-                    tlp:style tlp:Enumerated ;
+                    tlp:style tlp:Enumerate ;
                     rdfs:label """Enter the URI number in the text field of the Open URI
 window. The Web document you specified is displayed.""" ;
                     rdf:type tlp:List ;
