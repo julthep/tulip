@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
 """
 @author: julthep
 """
 
 __author__ = "Julthep Nandakwang"
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __license__ = "LGPL-3.0"
 
 import requests
@@ -19,6 +18,7 @@ from urllib.parse import urljoin
 session = requests.Session()
 
 en_wiki_prefix    = 'http://en.wikipedia.org/wiki/'
+en_wiki_indexphp  = 'http://en.wikipedia.org/w/index.php?title='
 base_url          = ''      # initial set global base_url
 
 class Tulip:
@@ -122,14 +122,17 @@ def parse_article(article):
     parse_article(str:Wikipedia_article_name)
     return Tulip
     """
-    bso = bs4.BeautifulSoup(read_url(en_wiki_prefix + article.replace(" ","_")), "html.parser")
-    
+    # in case 'article' includes any parameters such as 'oldid=' or 'printable='
+    if article.find('&') == -1:
+        bso = bs4.BeautifulSoup(read_url(en_wiki_prefix + article.replace(" ","_")), "html.parser")
+    else:
+        bso = bs4.BeautifulSoup(read_url(en_wiki_indexphp + article.replace(" ","_")), "html.parser")
     # decompose: remove unneeded elements
     for tag in bso.find_all('script'):
         tag.decompose()
     for tag in bso.find_all('style'):
         tag.decompose()
-    for tag in bso.find_all('div', class_=['navbox','suggestions']):
+    for tag in bso.find_all('div', class_=['navbox', 'suggestions']):
         tag.decompose()
     # div:id:mw-navigation
     #     mw-head
@@ -139,22 +142,24 @@ def parse_article(article):
     #         div:class:portal, div:class:body
     # div:id:footer
     #     ul:id:footer-info, ul:id:footer-places ul:id:footer-icons
-    for tag in bso.find_all('div', id=['visual-history-container','mw-page-base','mw-head-base',
-                                       'mw-data-after-content','mw-head','p-navigation','p-interaction',
-                                       'footer','mwe-popups-svg']):
+    for tag in bso.find_all('div', id=['visual-history-container', 'mw-page-base', 'mw-head-base',
+                                       'mw-data-after-content', 'mw-head', 'p-navigation', 'p-interaction',
+                                       'footer', 'mwe-popups-svg']):
         tag.decompose()
-    for tag in bso.find_all('span', class_=['mw-cite-backlink','mw-editsection','tocnumber']):
+    for tag in bso.find_all('span', class_=['mw-cite-backlink', 'mw-editsection', 'tocnumber']):
         tag.decompose()
     # "coordinates" on the top right of each page usually redundant with article content
     for tag in bso.find_all('span', id=['coordinates']):
         tag.decompose()
     # better keep style="display:none" for further check its need
-    for tag in bso.find_all('table', class_=['navbox','mbox-small','plainlinks','sistersitebox']):
+    for tag in bso.find_all('table', class_=['navbox', 'mbox-small', 'plainlinks', 'sistersitebox']):
         tag.decompose()
-    for tag in bso.find_all('sup', class_=['reference','noprint']):
+    for tag in bso.find_all('sup', class_=['reference', 'noprint']):
         tag.decompose()
-    # unwrap: remove some tags that have problem with data structure and keep their children
-    for tag in bso.find_all('div', class_=['plainlist']):
+    # unwrap: remove some tags that have problem with data structure, but keep their children
+    for tag in bso.find_all('div', class_=None):   # all 'div' with no 'class', i.g. 'div' for 'style' purpose
+        tag.unwrap()
+    for tag in bso.find_all('div', class_=['plainlist', 'hlist']):   # 'hlist-separated'
         tag.unwrap()
     return bs2tulip(bso)
 
@@ -358,6 +363,7 @@ def gen_turtle(tulip):
     print('Generating Turtle')
     indent = ' '*4
     # dummy header for Wikipedia page derived resources
+    tulip_label_fn = tulip.label.replace(' ','_')
     turtle = '''@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -368,10 +374,10 @@ def gen_turtle(tulip):
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:''' + tulip.label.replace(' ','_') + '''
-    owl:sameAs dbpedia:''' + tulip.label.replace(' ','_') + ''' ;
-    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/''' + tulip.label.replace(' ','_') + '''?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:''' + tulip.label.replace(' ','_') + ''' ;
+<http://tlpedia.org/resource/''' + tulip_label_fn + '''>
+    owl:sameAs <http://dbpedia.org/resource/''' + tulip_label_fn + '''> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/''' + tulip_label_fn + '''?oldid=> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/''' + tulip_label_fn + '''> ;
     foaf:name "''' + tulip.label + '''" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "''' + tulip.label + '''" ;
@@ -561,11 +567,11 @@ def _turtle_list_recursion(turtle, tulip, idx, index_list, level=0, elem_pred_ad
 
 def add_elem(pre_file, post_file, format):
     """
-    add_elem(str:pre_filename, str:post_filename, str:RDF_format)
+    add_elem(str:pre_filename, str:post_filename, str:post_file_format)
     """
     print('Updating', pre_file, 'with tlp:element to', post_file)
     g = Graph()
-    g.parse(pre_file, format=format)
+    g.parse(pre_file, format='turtle')      # Pre file always in Turtle format
     g.update('''PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
         PREFIX tlp: <http://purl.org/tulip/ns#>
         INSERT {
@@ -575,7 +581,7 @@ def add_elem(pre_file, post_file, format):
             ?s rdf:type tlp:Page .
             ?s tlp:member+ ?b . 
         }''')
-    g.serialize(destination=post_file, format=format)
+    g.serialize(destination=post_file, format=format)   # Post file could be in any supported format
 
 def ttl2nt(turtle_file, ntriples_file):
     """
@@ -605,7 +611,7 @@ def parse_rdf(rdf_str, format):
     parse_rdf(str:RDF text, str:RDF serialization format)
     return Tulip:tulip
     """
-    print('Parsing RDF in', format)
+    print('Parsing RDF in', format, 'format')
     tlp_prefix = 'http://purl.org/tulip/ns#'
     tlp     = Namespace(tlp_prefix)
     G = Graph()
@@ -774,6 +780,10 @@ def gen_html(tulip):
     html += '''</title>
   </head>
   <body style="font-family: sans-serif">
+    <h1>'''
+    if tulip.label != None:
+        html += tulip.label
+    html += '''</h1>
 '''
     indent = str_repeat(' ', 2)
     level = 1
@@ -1009,7 +1019,7 @@ def main():
         Tulip:TULIP = parse_article(str:Wikipedia_article_name)
         Tulip:TULIP = parse_rdf(str:RDF, str:RDF_format)
         str:Turtle  = gen_turtle(Tulip:TULIP)
-                      add_elem(str:pre_filename, str:post_filename, str:RDF_format)
+                      add_elem(str:pre_filename, str:post_filename, str:post_file_format)
         str:HTML    = gen_html(Tulip:TULIP)
         str:text    = dump_tulip(Tulip:TULIP)
                       ttl2nt(str:Turtle_filename, str:NTriples_filename)
@@ -1035,7 +1045,8 @@ def main():
     turtle = gen_turtle(tulip)
     write_file(turtle, 'rfc1942_table.pre.ttl')
     add_elem('rfc1942_table.pre.ttl', 'rfc1942_table.ttl', 'turtle')
-    ttl2nt('rfc1942_table.ttl','rfc1942_table.nt')  # for checking
+    add_elem('rfc1942_table.pre.ttl', 'rfc1942_table.nt', 'ntriples')  # for testing
+    ttl2nt('rfc1942_table.ttl','rfc1942_table.ttl.nt')  # for checking
     dump = dump_tulip(tulip)
     write_file(dump, 'rfc1942_table.txt')
     print(str_repeat('-', 40), 'consume dataset')
@@ -1054,7 +1065,8 @@ def main():
     write_file(gen_turtle(parse_html(read_file('rfc1866_list.html'))), 'rfc1866_list.pre.ttl')
     write_file(dump_tulip(parse_html(read_file('rfc1866_list.html'))), 'rfc1866_list.txt')
     add_elem('rfc1866_list.pre.ttl','rfc1866_list.ttl', 'turtle')
-    ttl2nt('rfc1866_list.ttl','rfc1866_list.nt')  # for checking
+    add_elem('rfc1866_list.pre.ttl','rfc1866_list.nt', 'ntriples')  # for testing
+    ttl2nt('rfc1866_list.ttl','rfc1866_list.ttl.nt')  # for checking
     print(str_repeat('-', 40), 'consume dataset')
     if from_file:
         write_file(tulip2json(parse_rdf(read_file('rfc1866_list.ttl'),'turtle')), 'rfc1866_list.json')
@@ -1065,34 +1077,32 @@ def main():
         write_file(gen_html(json2tulip(read_url(tlpedia_prefix+'rfc1866_list.json'))), 'rfc1866_list.ttl.html')
         write_file(dump_tulip(json2tulip(tulip2json(parse_rdf(read_url(tlpedia_prefix+'rfc1866_list.ttl'),'turtle')))), 'rfc1866_list.ttl.txt')
     ########## test article
-    test_article    = 'List of C-family programming languages'
-    test_article    = 'Comparison of the AK-47 and M16'
-    test_article    = 'User:Julthep'
-    test_article    = 'Chulalongkorn University'
-    test_article    = 'Product life-cycle management (marketing)'
-    test_article    = 'Saturn Award for Best Science Fiction Film'
-    test_article    = 'Simulated reality in fiction'
-    print(str_repeat('=', 40), 'create dataset')
-    tulip = parse_article(test_article)
-    turtle = gen_turtle(tulip)
-    write_file(turtle, test_article.replace(' ','_').replace(':','_')+'.pre.ttl')
-    add_elem(test_article.replace(' ','_').replace(':','_')+'.pre.ttl',test_article.replace(' ','_').replace(':','_')+'.ttl', 'turtle')
-    ttl2nt(test_article.replace(' ','_').replace(':','_')+'.ttl',test_article.replace(' ','_').replace(':','_')+'.nt') # for checking
-    dump = dump_tulip(tulip)
-    write_file(dump, test_article.replace(' ','_').replace(':','_')+'.txt')
-    print(str_repeat('-', 40), 'consume dataset')
-    rdf_str = (read_file(test_article.replace(' ','_').replace(':','_')+'.ttl') if from_file else 
-               read_url(tlpedia_prefix+test_article.replace(' ','_').replace(':','_')+'.ttl'))
-    tulip_obj = parse_rdf(rdf_str, 'turtle')
-    tulip_json = tulip2json(tulip_obj)
-    write_file(tulip_json, test_article.replace(' ','_').replace(':','_')+'.json')
-    tulip_json2 = (read_file(test_article.replace(' ','_').replace(':','_')+'.json') if from_file else 
-                   read_url(tlpedia_prefix+test_article.replace(' ','_').replace(':','_')+'.json'))
-    tulip_obj2 = json2tulip(tulip_json2)
-    html_str = gen_html(tulip_obj2)
-    write_file(html_str, test_article.replace(' ','_').replace(':','_')+'.ttl.html')
-    dump_str = dump_tulip(tulip_obj2)
-    write_file(dump_str, test_article.replace(' ','_').replace(':','_')+'.ttl.txt')
+    test_articles = ['Chulalongkorn University',
+                     'User:Julthep']
+    for test_article in test_articles:
+        test_article_fn = test_article.replace(' ','_').replace(':','_')
+        print(str_repeat('=', 40), 'create dataset')
+        tulip = parse_article(test_article)
+        turtle = gen_turtle(tulip)
+        write_file(turtle, test_article_fn+'.pre.ttl')
+        add_elem(test_article_fn+'.pre.ttl',test_article_fn+'.ttl', 'turtle')
+        add_elem(test_article_fn+'.pre.ttl',test_article_fn+'.nt', 'ntriples')  # for testing
+        ttl2nt(test_article_fn+'.ttl',test_article_fn+'.ttl.nt') # for checking
+        dump = dump_tulip(tulip)
+        write_file(dump, test_article_fn+'.txt')
+        print(str_repeat('-', 40), 'consume dataset')
+        rdf_str = (read_file(test_article_fn+'.ttl') if from_file else 
+                   read_url(tlpedia_prefix+test_article_fn+'.ttl'))
+        tulip_obj = parse_rdf(rdf_str, 'turtle')
+        tulip_json = tulip2json(tulip_obj)
+        write_file(tulip_json, test_article_fn+'.json')
+        tulip_json2 = (read_file(test_article_fn+'.json') if from_file else 
+                       read_url(tlpedia_prefix+test_article_fn+'.json'))
+        tulip_obj2 = json2tulip(tulip_json2)
+        html_str = gen_html(tulip_obj2)
+        write_file(html_str, test_article_fn+'.ttl.html')
+        dump_str = dump_tulip(tulip_obj2)
+        write_file(dump_str, test_article_fn+'.ttl.txt')
 
 if __name__ == '__main__':
     main()

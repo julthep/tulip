@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tulip-rdf",
-    version="0.1.1",
+    version="0.1.2",
     author="Julthep Nandakwang",
     author_email="julthep@nandakwang.com",
     description="TULIP RDF vocabulary",
