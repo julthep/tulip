@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:HTML_table_example_on_Page_3_of_RFC_1942
-    owl:sameAs dbpedia:HTML_table_example_on_Page_3_of_RFC_1942 ;
+<http://tlpedia.org/resource/HTML_table_example_on_Page_3_of_RFC_1942>
+    owl:sameAs <http://dbpedia.org/resource/HTML_table_example_on_Page_3_of_RFC_1942> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/HTML_table_example_on_Page_3_of_RFC_1942?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:HTML_table_example_on_Page_3_of_RFC_1942 ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/HTML_table_example_on_Page_3_of_RFC_1942> ;
     foaf:name "HTML table example on Page 3 of RFC 1942" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "HTML table example on Page 3 of RFC 1942" ;

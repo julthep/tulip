@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:HTML_list_examples_on_Page_28_of_RFC_1866
-    owl:sameAs dbpedia:HTML_list_examples_on_Page_28_of_RFC_1866 ;
+<http://tlpedia.org/resource/HTML_list_examples_on_Page_28_of_RFC_1866>
+    owl:sameAs <http://dbpedia.org/resource/HTML_list_examples_on_Page_28_of_RFC_1866> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/HTML_list_examples_on_Page_28_of_RFC_1866?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:HTML_list_examples_on_Page_28_of_RFC_1866 ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/HTML_list_examples_on_Page_28_of_RFC_1866> ;
     foaf:name "HTML list examples on Page 28 of RFC 1866" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "HTML list examples on Page 28 of RFC 1866" ;

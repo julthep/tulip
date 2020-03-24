@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:List_of_C-family_programming_languages
-    owl:sameAs dbpedia:List_of_C-family_programming_languages ;
+<http://tlpedia.org/resource/List_of_C-family_programming_languages>
+    owl:sameAs <http://dbpedia.org/resource/List_of_C-family_programming_languages> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/List_of_C-family_programming_languages?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:List_of_C-family_programming_languages ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/List_of_C-family_programming_languages> ;
     foaf:name "List of C-family programming languages" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "List of C-family programming languages" ;
@@ -730,6 +730,17 @@ tlpedia:List_of_C-family_programming_languages
                             tlp:index 65 ;
                             tlp:indexList ( 1 1 65 0 ) ;
                             rdf:type tlp:Cell ;
+                            rdfs:label "TypeScript" ;
+                            tlp:link
+                                [
+                                    tlp:text "TypeScript" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/TypeScript>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 1 66 0 ) ;
+                            rdf:type tlp:Cell ;
                             rdfs:label "Umple" ;
                             tlp:link
                                 [
@@ -738,8 +749,8 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 66 ;
-                            tlp:indexList ( 1 1 66 0 ) ;
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 1 67 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "TOM (object-oriented programming language)" ;
                             tlp:link
@@ -749,8 +760,8 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 67 ;
-                            tlp:indexList ( 1 1 67 0 ) ;
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 1 68 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Telescript" ;
                             tlp:link
@@ -760,8 +771,8 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 68 ;
-                            tlp:indexList ( 1 1 68 0 ) ;
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 1 69 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Fantom" ;
                             tlp:link
@@ -771,8 +782,8 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 69 ;
-                            tlp:indexList ( 1 1 69 0 ) ;
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 1 70 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "nesC" ;
                             tlp:link
@@ -782,8 +793,8 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 70 ;
-                            tlp:indexList ( 1 1 70 0 ) ;
+                            tlp:index 71 ;
+                            tlp:indexList ( 1 1 71 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "HolyC"
                         ]
@@ -1183,35 +1194,41 @@ tlpedia:List_of_C-family_programming_languages
                             tlp:index 65 ;
                             tlp:indexList ( 1 2 65 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "2008"
+                            rdfs:label "2012"
                         ] ,
                         [
                             tlp:index 66 ;
                             tlp:indexList ( 1 2 66 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "1990s"
+                            rdfs:label "2008"
                         ] ,
                         [
                             tlp:index 67 ;
                             tlp:indexList ( 1 2 67 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "1990"
+                            rdfs:label "1990s"
                         ] ,
                         [
                             tlp:index 68 ;
                             tlp:indexList ( 1 2 68 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "2005"
+                            rdfs:label "1990"
                         ] ,
                         [
                             tlp:index 69 ;
                             tlp:indexList ( 1 2 69 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label ""
+                            rdfs:label "2005"
                         ] ,
                         [
                             tlp:index 70 ;
                             tlp:indexList ( 1 2 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 71 ;
+                            tlp:indexList ( 1 2 71 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "2005"
                         ]
@@ -1903,6 +1920,17 @@ tlpedia:List_of_C-family_programming_languages
                             tlp:index 65 ;
                             tlp:indexList ( 1 3 65 0 ) ;
                             rdf:type tlp:Cell ;
+                            rdfs:label "Microsoft" ;
+                            tlp:link
+                                [
+                                    tlp:text "Microsoft" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Microsoft>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 66 ;
+                            tlp:indexList ( 1 3 66 0 ) ;
+                            rdf:type tlp:Cell ;
                             rdfs:label "University of Ottawa" ;
                             tlp:link
                                 [
@@ -1911,14 +1939,14 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 66 ;
-                            tlp:indexList ( 1 3 66 0 ) ;
+                            tlp:index 67 ;
+                            tlp:indexList ( 1 3 67 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "?"
                         ] ,
                         [
-                            tlp:index 67 ;
-                            tlp:indexList ( 1 3 67 0 ) ;
+                            tlp:index 68 ;
+                            tlp:indexList ( 1 3 68 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Marc Porat" ;
                             tlp:link
@@ -1928,20 +1956,20 @@ tlpedia:List_of_C-family_programming_languages
                                 ]
                         ] ,
                         [
-                            tlp:index 68 ;
-                            tlp:indexList ( 1 3 68 0 ) ;
+                            tlp:index 69 ;
+                            tlp:indexList ( 1 3 69 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Brian Frank and Andy Frank"
                         ] ,
                         [
-                            tlp:index 69 ;
-                            tlp:indexList ( 1 3 69 0 ) ;
+                            tlp:index 70 ;
+                            tlp:indexList ( 1 3 70 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label ""
                         ] ,
                         [
-                            tlp:index 70 ;
-                            tlp:indexList ( 1 3 70 0 ) ;
+                            tlp:index 71 ;
+                            tlp:indexList ( 1 3 71 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label "Terry A. Davis" ;
                             tlp:link
@@ -2510,35 +2538,41 @@ tlpedia:List_of_C-family_programming_languages
                             tlp:index 65 ;
                             tlp:indexList ( 1 4 65 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "A language for both object-oriented programming and modeling with class diagrams and state diagrams."
+                            rdfs:label "Superset of JavaScript."
                         ] ,
                         [
                             tlp:index 66 ;
                             tlp:indexList ( 1 4 66 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "An object-oriented programming language that built on the lessons learned from Objective-C."
+                            rdfs:label "A language for both object-oriented programming and modeling with class diagrams and state diagrams."
                         ] ,
                         [
                             tlp:index 67 ;
                             tlp:indexList ( 1 4 67 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "An object-oriented programming language."
+                            rdfs:label "An object-oriented programming language that built on the lessons learned from Objective-C."
                         ] ,
                         [
                             tlp:index 68 ;
                             tlp:indexList ( 1 4 68 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "An object-oriented, functional, actor concurrent with a null-able aware type system emphasizing pragmatism in building enterprise systems running on top of the JVM or the CLR or JavaScript."
+                            rdfs:label "An object-oriented programming language."
                         ] ,
                         [
                             tlp:index 69 ;
                             tlp:indexList ( 1 4 69 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label """nesC (pronounced "NES-see") is an extension to the C programming language designed to embody the structuring concepts and execution model of TinyOS. TinyOS is an event-driven operating system designed for sensor network nodes that have very limited resources."""
+                            rdfs:label "An object-oriented, functional, actor concurrent with a null-able aware type system emphasizing pragmatism in building enterprise systems running on top of the JVM or the CLR or JavaScript."
                         ] ,
                         [
                             tlp:index 70 ;
                             tlp:indexList ( 1 4 70 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """nesC (pronounced "NES-see") is an extension to the C programming language designed to embody the structuring concepts and execution model of TinyOS. TinyOS is an event-driven operating system designed for sensor network nodes that have very limited resources."""
+                        ] ,
+                        [
+                            tlp:index 71 ;
+                            tlp:indexList ( 1 4 71 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label """A dialect of C for Terry's own operating system TempleOS. Most notable changes are the argument passing, variable type naming (U8 instead of unsigned char, I32 instead of int and so on), code structure ("There is no main() function.  Any code outside of functions gets executed upon start-up, in order "), switch statement structure and substitution of some parts of the preprocessor like the removal of #define and the use of '$' as the escape character.""" ;
                             tlp:link
@@ -2974,6 +3008,12 @@ tlpedia:List_of_C-family_programming_languages
                             tlp:indexList ( 1 5 70 0 ) ;
                             rdf:type tlp:Cell ;
                             rdfs:label ""
+                        ] ,
+                        [
+                            tlp:index 71 ;
+                            tlp:indexList ( 1 5 71 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label ""
                         ]
                 ]
         ] ,
@@ -3100,7 +3140,7 @@ tlpedia:List_of_C-family_programming_languages
                     tlp:link
                         [
                             tlp:text """"Project Fortress: Wiki: Home — Project Kenai"""" ;
-                            tlp:url <https://archive.is/20130112202316/http://java.net/projects/projectfortress/pages/Home>
+                            tlp:url <https://archive.today/20130112202316/http://java.net/projects/projectfortress/pages/Home>
                         ] ,
                         [
                             tlp:text "the original" ;
@@ -3155,11 +3195,15 @@ tlpedia:List_of_C-family_programming_languages
                     tlp:index 15 ;
                     tlp:indexList ( 2 15 0 ) ;
                     rdf:type tlp:Item ;
-                    rdfs:label """"The Temple Operating System". web.archive.org. 2017-03-25. Retrieved 2019-04-16.""" ;
+                    rdfs:label """"The Temple Operating System". 2017-03-25. Archived from the original on 2017-03-25. Retrieved 2019-04-16.""" ;
                     tlp:link
                         [
                             tlp:text """"The Temple Operating System"""" ;
                             tlp:url <https://web.archive.org/web/20170325000321/http://www.templeos.org/Wb/Doc/HolyC.html>
+                        ] ,
+                        [
+                            tlp:text "the original" ;
+                            tlp:url <http://www.templeos.org/Wb/Doc/HolyC.html>
                         ]
                 ]
         ] ,
@@ -3359,7 +3403,7 @@ tlpedia:List_of_C-family_programming_languages
                     tlp:link
                         [
                             tlp:text "Permanent link" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=943310346>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=946832980>
                         ]
                 ] ,
                 [
@@ -3392,7 +3436,7 @@ tlpedia:List_of_C-family_programming_languages
                     tlp:link
                         [
                             tlp:text "Cite this page" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=943310346>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=946832980&wpFormIdentifier=titleform>
                         ]
                 ]
         ] ,

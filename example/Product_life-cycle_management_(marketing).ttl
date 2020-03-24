@@ -1,0 +1,2113 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://tlpedia.org/resource/Product_life-cycle_management_(marketing)> a tlp:Page ;
+    rdfs:label "Product life-cycle management (marketing)" ;
+    tlp:element _:ub326bL1003C17,
+        _:ub326bL1026C17,
+        _:ub326bL1032C17,
+        _:ub326bL1039C9,
+        _:ub326bL1046C17,
+        _:ub326bL1057C17,
+        _:ub326bL105C17,
+        _:ub326bL1068C17,
+        _:ub326bL1079C17,
+        _:ub326bL1091C9,
+        _:ub326bL1098C17,
+        _:ub326bL1109C17,
+        _:ub326bL1120C17,
+        _:ub326bL1131C17,
+        _:ub326bL1143C9,
+        _:ub326bL1150C17,
+        _:ub326bL1161C17,
+        _:ub326bL1172C17,
+        _:ub326bL117C9,
+        _:ub326bL1183C17,
+        _:ub326bL1194C17,
+        _:ub326bL1205C17,
+        _:ub326bL1216C17,
+        _:ub326bL1227C17,
+        _:ub326bL1239C9,
+        _:ub326bL1246C17,
+        _:ub326bL124C17,
+        _:ub326bL1258C9,
+        _:ub326bL1265C17,
+        _:ub326bL1276C17,
+        _:ub326bL1287C17,
+        _:ub326bL1299C9,
+        _:ub326bL1306C17,
+        _:ub326bL130C17,
+        _:ub326bL1317C17,
+        _:ub326bL1328C17,
+        _:ub326bL1339C17,
+        _:ub326bL1350C17,
+        _:ub326bL1361C17,
+        _:ub326bL136C17,
+        _:ub326bL1372C17,
+        _:ub326bL1383C17,
+        _:ub326bL1394C17,
+        _:ub326bL1405C17,
+        _:ub326bL1416C17,
+        _:ub326bL1427C17,
+        _:ub326bL1438C17,
+        _:ub326bL143C9,
+        _:ub326bL1449C17,
+        _:ub326bL1460C17,
+        _:ub326bL1471C17,
+        _:ub326bL1482C17,
+        _:ub326bL1493C17,
+        _:ub326bL1504C17,
+        _:ub326bL150C17,
+        _:ub326bL1515C17,
+        _:ub326bL156C17,
+        _:ub326bL162C17,
+        _:ub326bL168C17,
+        _:ub326bL174C17,
+        _:ub326bL180C17,
+        _:ub326bL186C17,
+        _:ub326bL192C17,
+        _:ub326bL199C9,
+        _:ub326bL19C9,
+        _:ub326bL208C17,
+        _:ub326bL214C25,
+        _:ub326bL221C25,
+        _:ub326bL227C25,
+        _:ub326bL233C25,
+        _:ub326bL239C25,
+        _:ub326bL246C17,
+        _:ub326bL252C25,
+        _:ub326bL259C25,
+        _:ub326bL267C33,
+        _:ub326bL26C17,
+        _:ub326bL273C33,
+        _:ub326bL279C33,
+        _:ub326bL285C33,
+        _:ub326bL291C33,
+        _:ub326bL297C33,
+        _:ub326bL304C25,
+        _:ub326bL312C33,
+        _:ub326bL318C33,
+        _:ub326bL324C33,
+        _:ub326bL330C33,
+        _:ub326bL336C33,
+        _:ub326bL342C33,
+        _:ub326bL349C25,
+        _:ub326bL357C33,
+        _:ub326bL363C33,
+        _:ub326bL369C33,
+        _:ub326bL375C33,
+        _:ub326bL37C17,
+        _:ub326bL381C33,
+        _:ub326bL387C33,
+        _:ub326bL394C25,
+        _:ub326bL404C33,
+        _:ub326bL410C33,
+        _:ub326bL416C33,
+        _:ub326bL422C33,
+        _:ub326bL431C9,
+        _:ub326bL440C17,
+        _:ub326bL446C25,
+        _:ub326bL455C25,
+        _:ub326bL464C25,
+        _:ub326bL470C25,
+        _:ub326bL476C25,
+        _:ub326bL482C25,
+        _:ub326bL489C17,
+        _:ub326bL495C25,
+        _:ub326bL49C25,
+        _:ub326bL502C25,
+        _:ub326bL509C25,
+        _:ub326bL515C25,
+        _:ub326bL521C25,
+        _:ub326bL527C25,
+        _:ub326bL534C17,
+        _:ub326bL540C25,
+        _:ub326bL547C25,
+        _:ub326bL554C25,
+        _:ub326bL560C25,
+        _:ub326bL566C25,
+        _:ub326bL572C25,
+        _:ub326bL579C17,
+        _:ub326bL585C25,
+        _:ub326bL592C25,
+        _:ub326bL599C25,
+        _:ub326bL605C25,
+        _:ub326bL60C25,
+        _:ub326bL611C25,
+        _:ub326bL617C25,
+        _:ub326bL624C17,
+        _:ub326bL630C25,
+        _:ub326bL637C25,
+        _:ub326bL644C25,
+        _:ub326bL650C25,
+        _:ub326bL656C25,
+        _:ub326bL662C25,
+        _:ub326bL670C9,
+        _:ub326bL677C17,
+        _:ub326bL688C17,
+        _:ub326bL699C17,
+        _:ub326bL710C17,
+        _:ub326bL71C25,
+        _:ub326bL721C17,
+        _:ub326bL732C17,
+        _:ub326bL743C17,
+        _:ub326bL754C17,
+        _:ub326bL765C17,
+        _:ub326bL776C17,
+        _:ub326bL787C17,
+        _:ub326bL798C17,
+        _:ub326bL809C17,
+        _:ub326bL820C17,
+        _:ub326bL832C9,
+        _:ub326bL83C17,
+        _:ub326bL840C17,
+        _:ub326bL851C17,
+        _:ub326bL874C17,
+        _:ub326bL880C17,
+        _:ub326bL904C9,
+        _:ub326bL911C17,
+        _:ub326bL917C17,
+        _:ub326bL923C17,
+        _:ub326bL929C17,
+        _:ub326bL935C17,
+        _:ub326bL94C17,
+        _:ub326bL950C17,
+        _:ub326bL965C17,
+        _:ub326bL980C17 ;
+    tlp:indexList ( 0 ) ;
+    tlp:member _:ub326bL1039C9,
+        _:ub326bL1091C9,
+        _:ub326bL1143C9,
+        _:ub326bL117C9,
+        _:ub326bL1239C9,
+        _:ub326bL1258C9,
+        _:ub326bL1299C9,
+        _:ub326bL143C9,
+        _:ub326bL199C9,
+        _:ub326bL19C9,
+        _:ub326bL431C9,
+        _:ub326bL670C9,
+        _:ub326bL832C9,
+        _:ub326bL904C9 ;
+    owl:sameAs <http://dbpedia.org/resource/Product_life-cycle_management_(marketing)> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)?oldid=> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)> ;
+    foaf:name "Product life-cycle management (marketing)" .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb10 rdf:first 1 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb100 rdf:first 4 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb104 rdf:first 4 ;
+    rdf:rest ( 2 2 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb109 rdf:first 4 ;
+    rdf:rest ( 2 2 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb114 rdf:first 4 ;
+    rdf:rest ( 2 2 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb119 rdf:first 4 ;
+    rdf:rest ( 2 2 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb124 rdf:first 4 ;
+    rdf:rest ( 2 2 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb129 rdf:first 4 ;
+    rdf:rest ( 2 2 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb134 rdf:first 4 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb138 rdf:first 4 ;
+    rdf:rest ( 2 3 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb14 rdf:first 1 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb143 rdf:first 4 ;
+    rdf:rest ( 2 3 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb148 rdf:first 4 ;
+    rdf:rest ( 2 3 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb153 rdf:first 4 ;
+    rdf:rest ( 2 3 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb158 rdf:first 4 ;
+    rdf:rest ( 2 3 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb163 rdf:first 4 ;
+    rdf:rest ( 2 3 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb168 rdf:first 4 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb172 rdf:first 4 ;
+    rdf:rest ( 2 4 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb177 rdf:first 4 ;
+    rdf:rest ( 2 4 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb18 rdf:first 1 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb182 rdf:first 4 ;
+    rdf:rest ( 2 4 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb187 rdf:first 4 ;
+    rdf:rest ( 2 4 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb192 rdf:first 4 ;
+    rdf:rest ( 2 4 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb197 rdf:first 4 ;
+    rdf:rest ( 2 4 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb2 rdf:first 1 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb202 rdf:first 4 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb206 rdf:first 4 ;
+    rdf:rest ( 2 5 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb211 rdf:first 4 ;
+    rdf:rest ( 2 5 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb216 rdf:first 4 ;
+    rdf:rest ( 2 5 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb22 rdf:first 1 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb221 rdf:first 4 ;
+    rdf:rest ( 2 5 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb226 rdf:first 5 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb228 rdf:first 5 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb231 rdf:first 5 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb235 rdf:first 5 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb239 rdf:first 5 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb243 rdf:first 5 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb247 rdf:first 5 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb25 rdf:first 1 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb251 rdf:first 5 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb255 rdf:first 5 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb258 rdf:first 5 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb262 rdf:first 5 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb266 rdf:first 5 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb270 rdf:first 5 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb274 rdf:first 5 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb278 rdf:first 5 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb28 rdf:first 1 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb282 rdf:first 5 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb285 rdf:first 5 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb289 rdf:first 5 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb293 rdf:first 5 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb297 rdf:first 5 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb301 rdf:first 5 ;
+    rdf:rest ( 3 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb305 rdf:first 5 ;
+    rdf:rest ( 3 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb309 rdf:first 5 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb31 rdf:first 2 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb312 rdf:first 5 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb316 rdf:first 5 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb320 rdf:first 5 ;
+    rdf:rest ( 4 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb324 rdf:first 5 ;
+    rdf:rest ( 4 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb328 rdf:first 5 ;
+    rdf:rest ( 4 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb33 rdf:first 2 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb332 rdf:first 5 ;
+    rdf:rest ( 4 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb336 rdf:first 5 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb339 rdf:first 5 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb343 rdf:first 5 ;
+    rdf:rest ( 5 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb347 rdf:first 5 ;
+    rdf:rest ( 5 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb351 rdf:first 5 ;
+    rdf:rest ( 5 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb355 rdf:first 5 ;
+    rdf:rest ( 5 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb359 rdf:first 5 ;
+    rdf:rest ( 5 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb36 rdf:first 2 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb363 rdf:first 6 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb365 rdf:first 6 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb368 rdf:first 6 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb371 rdf:first 6 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb374 rdf:first 6 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb377 rdf:first 6 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb380 rdf:first 6 ;
+    rdf:rest ( 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb383 rdf:first 6 ;
+    rdf:rest ( 7 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb386 rdf:first 6 ;
+    rdf:rest ( 8 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb389 rdf:first 6 ;
+    rdf:rest ( 9 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb39 rdf:first 2 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb392 rdf:first 6 ;
+    rdf:rest ( 10 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb395 rdf:first 6 ;
+    rdf:rest ( 11 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb398 rdf:first 6 ;
+    rdf:rest ( 12 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb4 rdf:first 1 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb401 rdf:first 6 ;
+    rdf:rest ( 13 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb404 rdf:first 6 ;
+    rdf:rest ( 14 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb407 rdf:first 7 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb409 rdf:first 7 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb412 rdf:first 7 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb415 rdf:first 7 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb418 rdf:first 7 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb42 rdf:first 3 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb421 rdf:first 8 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb423 rdf:first 8 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb426 rdf:first 8 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb429 rdf:first 8 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb432 rdf:first 8 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb435 rdf:first 8 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb438 rdf:first 8 ;
+    rdf:rest ( 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb44 rdf:first 3 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb441 rdf:first 8 ;
+    rdf:rest ( 7 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb444 rdf:first 8 ;
+    rdf:rest ( 8 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb447 rdf:first 8 ;
+    rdf:rest ( 9 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb450 rdf:first 8 ;
+    rdf:rest ( 10 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb453 rdf:first 8 ;
+    rdf:rest ( 11 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb456 rdf:first 9 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb458 rdf:first 9 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb461 rdf:first 9 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb464 rdf:first 9 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb467 rdf:first 9 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb47 rdf:first 3 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb470 rdf:first 10 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb472 rdf:first 10 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb475 rdf:first 10 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb478 rdf:first 10 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb481 rdf:first 10 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb484 rdf:first 11 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb486 rdf:first 11 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb489 rdf:first 11 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb492 rdf:first 11 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb495 rdf:first 11 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb498 rdf:first 11 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb50 rdf:first 3 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb501 rdf:first 11 ;
+    rdf:rest ( 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb504 rdf:first 11 ;
+    rdf:rest ( 7 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb507 rdf:first 11 ;
+    rdf:rest ( 8 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb510 rdf:first 12 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb512 rdf:first 12 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb515 rdf:first 13 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb517 rdf:first 13 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb520 rdf:first 13 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb523 rdf:first 13 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb526 rdf:first 14 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb528 rdf:first 14 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb53 rdf:first 3 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb531 rdf:first 14 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb534 rdf:first 14 ;
+    rdf:rest ( 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb537 rdf:first 14 ;
+    rdf:rest ( 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb540 rdf:first 14 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb543 rdf:first 14 ;
+    rdf:rest ( 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb546 rdf:first 14 ;
+    rdf:rest ( 7 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb549 rdf:first 14 ;
+    rdf:rest ( 8 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb552 rdf:first 14 ;
+    rdf:rest ( 9 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb555 rdf:first 14 ;
+    rdf:rest ( 10 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb558 rdf:first 14 ;
+    rdf:rest ( 11 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb56 rdf:first 3 ;
+    rdf:rest ( 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb561 rdf:first 14 ;
+    rdf:rest ( 12 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb564 rdf:first 14 ;
+    rdf:rest ( 13 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb567 rdf:first 14 ;
+    rdf:rest ( 14 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb570 rdf:first 14 ;
+    rdf:rest ( 15 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb573 rdf:first 14 ;
+    rdf:rest ( 16 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb576 rdf:first 14 ;
+    rdf:rest ( 17 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb579 rdf:first 14 ;
+    rdf:rest ( 18 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb582 rdf:first 14 ;
+    rdf:rest ( 19 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb585 rdf:first 14 ;
+    rdf:rest ( 20 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb59 rdf:first 3 ;
+    rdf:rest ( 6 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb62 rdf:first 3 ;
+    rdf:rest ( 7 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb65 rdf:first 3 ;
+    rdf:rest ( 8 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb68 rdf:first 4 ;
+    rdf:rest ( 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb7 rdf:first 1 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb70 rdf:first 4 ;
+    rdf:rest ( 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb73 rdf:first 4 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb77 rdf:first 4 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb81 rdf:first 4 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb85 rdf:first 4 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb89 rdf:first 4 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb93 rdf:first 4 ;
+    rdf:rest ( 2 0 ) .
+
+_:fb7a226dfe6044f5e809446a01fc86fceb96 rdf:first 4 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:ub326bL1009C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL100C25 tlp:text "References" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#References> .
+
+_:ub326bL1013C25 tlp:text "10.2307/3152062" ;
+    tlp:url <https://doi.org/10.2307%2F3152062> .
+
+_:ub326bL1017C25 tlp:text "JSTOR" ;
+    tlp:url wikipedia:JSTOR .
+
+_:ub326bL1021C25 tlp:text "3152062" ;
+    tlp:url <http://www.jstor.org/stable/3152062> .
+
+_:ub326bL1052C25 tlp:text "Brand management" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Brand_management> .
+
+_:ub326bL1063C25 tlp:text "Business terms" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Business_terms> .
+
+_:ub326bL1074C25 tlp:text "Marketing strategy" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Marketing_strategy> .
+
+_:ub326bL1085C25 tlp:text "Product management" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Product_management> .
+
+_:ub326bL1104C25 tlp:text "Articles needing additional references from August 2012" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_August_2012> .
+
+_:ub326bL1115C25 tlp:text "All articles needing additional references" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references> .
+
+_:ub326bL111C25 tlp:text "Further reading" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Further_reading> .
+
+_:ub326bL1126C25 tlp:text "All articles with unsourced statements" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements> .
+
+_:ub326bL1137C25 tlp:text "Articles with unsourced statements from August 2012" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_August_2012> .
+
+_:ub326bL1156C25 tlp:text "What links here" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/Product_life-cycle_management_(marketing)> .
+
+_:ub326bL1167C25 tlp:text "Related changes" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Product_life-cycle_management_(marketing)> .
+
+_:ub326bL1178C25 tlp:text "Upload file" ;
+    tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard> .
+
+_:ub326bL1189C25 tlp:text "Special pages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages> .
+
+_:ub326bL1200C25 tlp:text "Permanent link" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&oldid=930500151> .
+
+_:ub326bL1211C25 tlp:text "Page information" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&action=info> .
+
+_:ub326bL1222C25 tlp:text "Wikidata item" ;
+    tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q1572577> .
+
+_:ub326bL1233C25 tlp:text "Cite this page" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Product_life-cycle_management_%28marketing%29&id=930500151&wpFormIdentifier=titleform> .
+
+_:ub326bL1252C25 tlp:text "Wikimedia Commons" ;
+    tlp:url <https://commons.wikimedia.org/wiki/Category:Product_life_cycles> .
+
+_:ub326bL1271C25 tlp:text "Create a book" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Product+life-cycle+management+%28marketing%29> .
+
+_:ub326bL1282C25 tlp:text "Download as PDF" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Product+life-cycle+management+%28marketing%29&action=show-download-screen> .
+
+_:ub326bL1293C25 tlp:text "Printable version" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&printable=yes> .
+
+_:ub326bL1312C25 tlp:text "العربية" ;
+    tlp:url <https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%AD%D9%8A%D8%A7%D8%A9_%D8%B3%D9%84%D8%B9%D8%A9> .
+
+_:ub326bL1323C25 tlp:text "Български" ;
+    tlp:url <https://bg.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD_%D1%86%D0%B8%D0%BA%D1%8A%D0%BB_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82> .
+
+_:ub326bL1334C25 tlp:text "Deutsch" ;
+    tlp:url <https://de.wikipedia.org/wiki/Produktlebenszyklus> .
+
+_:ub326bL1345C25 tlp:text "Español" ;
+    tlp:url <https://es.wikipedia.org/wiki/Ciclo_de_vida_del_producto> .
+
+_:ub326bL1356C25 tlp:text "Euskara" ;
+    tlp:url <https://eu.wikipedia.org/wiki/Produktuaren_bizitza-ziklo> .
+
+_:ub326bL1367C25 tlp:text "Français" ;
+    tlp:url <https://fr.wikipedia.org/wiki/Cycle_de_vie_(commerce)> .
+
+_:ub326bL1378C25 tlp:text "Bahasa Indonesia" ;
+    tlp:url <https://id.wikipedia.org/wiki/Siklus_produk> .
+
+_:ub326bL1389C25 tlp:text "Latviešu" ;
+    tlp:url <https://lv.wikipedia.org/wiki/Produkta_dz%C4%ABves_cikls> .
+
+_:ub326bL1400C25 tlp:text "Lietuvių" ;
+    tlp:url <https://lt.wikipedia.org/wiki/Prek%C4%97s_gyvenimo_ciklas> .
+
+_:ub326bL1411C25 tlp:text "Nederlands" ;
+    tlp:url <https://nl.wikipedia.org/wiki/Productlevenscyclus> .
+
+_:ub326bL1422C25 tlp:text "日本語" ;
+    tlp:url <https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88> .
+
+_:ub326bL1433C25 tlp:text "Polski" ;
+    tlp:url <https://pl.wikipedia.org/wiki/Cykl_%C5%BCycia_produktu> .
+
+_:ub326bL1444C25 tlp:text "Português" ;
+    tlp:url <https://pt.wikipedia.org/wiki/Ciclo_de_vida_do_produto> .
+
+_:ub326bL1455C25 tlp:text "Română" ;
+    tlp:url <https://ro.wikipedia.org/wiki/Ciclu_de_via%C8%9B%C4%83_al_produsului> .
+
+_:ub326bL1466C25 tlp:text "Русский" ;
+    tlp:url <https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0> .
+
+_:ub326bL1477C25 tlp:text "Slovenčina" ;
+    tlp:url <https://sk.wikipedia.org/wiki/%C5%BDivotn%C3%BD_cyklus_v%C3%BDrobku> .
+
+_:ub326bL1488C25 tlp:text "Svenska" ;
+    tlp:url <https://sv.wikipedia.org/wiki/Produktlivscykeln> .
+
+_:ub326bL1499C25 tlp:text "Українська" ;
+    tlp:url <https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%83> .
+
+_:ub326bL1510C25 tlp:text "Tiếng Việt" ;
+    tlp:url <https://vi.wikipedia.org/wiki/Qu%E1%BA%A3n_l%C3%BD_v%C3%B2ng_%C4%91%E1%BB%9Di_s%E1%BA%A3n_ph%E1%BA%A9m> .
+
+_:ub326bL1521C25 tlp:text "中文" ;
+    tlp:url <https://zh.wikipedia.org/wiki/%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E7%AE%A1%E7%90%86_(%E5%B8%82%E5%9C%BA)> .
+
+_:ub326bL32C25 tlp:text "Goals" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Goals> .
+
+_:ub326bL43C25 tlp:text "Product life cycle" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Product_life_cycle> .
+
+_:ub326bL55C33 tlp:text "Extending the product life cycle" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Extending_the_product_life_cycle> .
+
+_:ub326bL66C33 tlp:text "Characteristics of PLC stages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Characteristics_of_PLC_stages> .
+
+_:ub326bL683C25 tlp:text "Application lifecycle management" ;
+    tlp:url wikipedia:Application_lifecycle_management .
+
+_:ub326bL694C25 tlp:text "Brand awareness" ;
+    tlp:url wikipedia:Brand_awareness .
+
+_:ub326bL705C25 tlp:text "Consumer behaviour" ;
+    tlp:url wikipedia:Consumer_behaviour .
+
+_:ub326bL716C25 tlp:text "Diminishing manufacturing sources and material shortages (DMSMS)" ;
+    tlp:url wikipedia:DMSMS .
+
+_:ub326bL727C25 tlp:text "Material selection" ;
+    tlp:url wikipedia:Material_selection .
+
+_:ub326bL738C25 tlp:text "New product development" ;
+    tlp:url wikipedia:New_product_development .
+
+_:ub326bL749C25 tlp:text "Obsolescence" ;
+    tlp:url wikipedia:Obsolescence .
+
+_:ub326bL760C25 tlp:text "Planned obsolescence" ;
+    tlp:url <http://en.wikipedia.org/wiki/Planned_obsolescence_(business)> .
+
+_:ub326bL771C25 tlp:text "Product lifecycle management" ;
+    tlp:url wikipedia:Product_lifecycle_management .
+
+_:ub326bL77C33 tlp:text "Identifying PLC stages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Identifying_PLC_stages> .
+
+_:ub326bL782C25 tlp:text "Product management" ;
+    tlp:url wikipedia:Product_management .
+
+_:ub326bL793C25 tlp:text "Product teardown" ;
+    tlp:url wikipedia:Product_teardown .
+
+_:ub326bL804C25 tlp:text "Software product management" ;
+    tlp:url wikipedia:Software_product_management .
+
+_:ub326bL815C25 tlp:text "Technology life cycle" ;
+    tlp:url wikipedia:Technology_life_cycle .
+
+_:ub326bL826C25 tlp:text "Toolkits for user innovation" ;
+    tlp:url wikipedia:Toolkits_for_user_innovation .
+
+_:ub326bL846C25 tlp:text "\"Exploit the Product Life Cycle\"" ;
+    tlp:url <https://hbr.org/1965/11/exploit-the-product-life-cycle> .
+
+_:ub326bL857C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL861C25 tlp:text "10.2307/255954" ;
+    tlp:url <https://doi.org/10.2307%2F255954> .
+
+_:ub326bL865C25 tlp:text "JSTOR" ;
+    tlp:url wikipedia:JSTOR .
+
+_:ub326bL869C25 tlp:text "255954" ;
+    tlp:url <http://www.jstor.org/stable/255954> .
+
+_:ub326bL886C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL890C25 tlp:text "10.1057/s41303-017-0045-2" ;
+    tlp:url <https://doi.org/10.1057%2Fs41303-017-0045-2> .
+
+_:ub326bL894C25 tlp:text "ISSN" ;
+    tlp:url wikipedia:International_Standard_Serial_Number .
+
+_:ub326bL898C25 tlp:text "0960-085X" ;
+    tlp:url <http://www.worldcat.org/issn/0960-085X> .
+
+_:ub326bL89C25 tlp:text "See also" ;
+    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#See_also> .
+
+_:ub326bL941C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL945C25 tlp:text "10.1089/ees.2004.21.591" ;
+    tlp:url <https://doi.org/10.1089%2Fees.2004.21.591> .
+
+_:ub326bL956C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL960C25 tlp:text "10.1016/s0007-8506(07)63453-2" ;
+    tlp:url <https://doi.org/10.1016%2Fs0007-8506%2807%2963453-2> .
+
+_:ub326bL971C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL975C25 tlp:text "10.1142/S0217595915500219" ;
+    tlp:url <https://doi.org/10.1142%2FS0217595915500219> .
+
+_:ub326bL986C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub326bL990C25 tlp:text "10.2307/255954" ;
+    tlp:url <https://doi.org/10.2307%2F255954> .
+
+_:ub326bL994C25 tlp:text "JSTOR" ;
+    tlp:url wikipedia:JSTOR .
+
+_:ub326bL998C25 tlp:text "255954" ;
+    tlp:url <http://www.jstor.org/stable/255954> .
+
+_:ub326bL1003C17 a tlp:Item ;
+    rdfs:label "Griffin, A (1997). \"The Effect of Project and Process Characteristics on Product Development Cycle Time\". Journal of Marketing Research. 34 (1): 24–35. doi:10.2307/3152062. JSTOR 3152062." ;
+    tlp:index 9 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb447 ;
+    tlp:link _:ub326bL1009C25,
+        _:ub326bL1013C25,
+        _:ub326bL1017C25,
+        _:ub326bL1021C25 .
+
+_:ub326bL1026C17 a tlp:Item ;
+    rdfs:label "Levitt, T., 1965. Exploit the Product Life Cycle. Harvard Business Review" ;
+    tlp:index 10 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb450 .
+
+_:ub326bL1032C17 a tlp:Item ;
+    rdfs:label "Steffens, P (2002). \"The Product Life Cycle Concept: Buried or Resurrected by the Diffusion Literature?\". Academy of Management Conference. 1 (5): 1–30." ;
+    tlp:index 11 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb453 .
+
+_:ub326bL1039C9 a tlp:List ;
+    rdfs:label "Further reading" ;
+    tlp:dimension 1 ;
+    tlp:index 9 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb456 ;
+    tlp:member _:ub326bL1046C17,
+        _:ub326bL1057C17,
+        _:ub326bL1068C17,
+        _:ub326bL1079C17 .
+
+_:ub326bL1046C17 a tlp:Item ;
+    rdfs:label "Brand management" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb458 ;
+    tlp:link _:ub326bL1052C25 .
+
+_:ub326bL1057C17 a tlp:Item ;
+    rdfs:label "Business terms" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb461 ;
+    tlp:link _:ub326bL1063C25 .
+
+_:ub326bL105C17 a tlp:Item ;
+    rdfs:label "Further reading" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb28 ;
+    tlp:link _:ub326bL111C25 .
+
+_:ub326bL1068C17 a tlp:Item ;
+    rdfs:label "Marketing strategy" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb464 ;
+    tlp:link _:ub326bL1074C25 .
+
+_:ub326bL1079C17 a tlp:Item ;
+    rdfs:label "Product management" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb467 ;
+    tlp:link _:ub326bL1085C25 .
+
+_:ub326bL1091C9 a tlp:List ;
+    rdfs:label "Further reading" ;
+    tlp:dimension 1 ;
+    tlp:index 10 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb470 ;
+    tlp:member _:ub326bL1098C17,
+        _:ub326bL1109C17,
+        _:ub326bL1120C17,
+        _:ub326bL1131C17 .
+
+_:ub326bL1098C17 a tlp:Item ;
+    rdfs:label "Articles needing additional references from August 2012" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb472 ;
+    tlp:link _:ub326bL1104C25 .
+
+_:ub326bL1109C17 a tlp:Item ;
+    rdfs:label "All articles needing additional references" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb475 ;
+    tlp:link _:ub326bL1115C25 .
+
+_:ub326bL1120C17 a tlp:Item ;
+    rdfs:label "All articles with unsourced statements" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb478 ;
+    tlp:link _:ub326bL1126C25 .
+
+_:ub326bL1131C17 a tlp:Item ;
+    rdfs:label "Articles with unsourced statements from August 2012" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb481 ;
+    tlp:link _:ub326bL1137C25 .
+
+_:ub326bL1143C9 a tlp:List ;
+    rdfs:label "Tools" ;
+    tlp:dimension 1 ;
+    tlp:index 11 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb484 ;
+    tlp:member _:ub326bL1150C17,
+        _:ub326bL1161C17,
+        _:ub326bL1172C17,
+        _:ub326bL1183C17,
+        _:ub326bL1194C17,
+        _:ub326bL1205C17,
+        _:ub326bL1216C17,
+        _:ub326bL1227C17 .
+
+_:ub326bL1150C17 a tlp:Item ;
+    rdfs:label "What links here" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb486 ;
+    tlp:link _:ub326bL1156C25 .
+
+_:ub326bL1161C17 a tlp:Item ;
+    rdfs:label "Related changes" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb489 ;
+    tlp:link _:ub326bL1167C25 .
+
+_:ub326bL1172C17 a tlp:Item ;
+    rdfs:label "Upload file" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb492 ;
+    tlp:link _:ub326bL1178C25 .
+
+_:ub326bL117C9 a tlp:List ;
+    rdfs:label "Product life cycle" ;
+    tlp:dimension 1 ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb31 ;
+    tlp:member _:ub326bL124C17,
+        _:ub326bL130C17,
+        _:ub326bL136C17 .
+
+_:ub326bL1183C17 a tlp:Item ;
+    rdfs:label "Special pages" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb495 ;
+    tlp:link _:ub326bL1189C25 .
+
+_:ub326bL1194C17 a tlp:Item ;
+    rdfs:label "Permanent link" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb498 ;
+    tlp:link _:ub326bL1200C25 .
+
+_:ub326bL1205C17 a tlp:Item ;
+    rdfs:label "Page information" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb501 ;
+    tlp:link _:ub326bL1211C25 .
+
+_:ub326bL1216C17 a tlp:Item ;
+    rdfs:label "Wikidata item" ;
+    tlp:index 7 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb504 ;
+    tlp:link _:ub326bL1222C25 .
+
+_:ub326bL1227C17 a tlp:Item ;
+    rdfs:label "Cite this page" ;
+    tlp:index 8 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb507 ;
+    tlp:link _:ub326bL1233C25 .
+
+_:ub326bL1239C9 a tlp:List ;
+    rdfs:label "In other projects" ;
+    tlp:dimension 1 ;
+    tlp:index 12 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb510 ;
+    tlp:member _:ub326bL1246C17 .
+
+_:ub326bL1246C17 a tlp:Item ;
+    rdfs:label "Wikimedia Commons" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb512 ;
+    tlp:link _:ub326bL1252C25 .
+
+_:ub326bL124C17 a tlp:Item ;
+    rdfs:label "Products have a limited life and thus every product has a life cycle." ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb33 .
+
+_:ub326bL1258C9 a tlp:List ;
+    rdfs:label "Print/export" ;
+    tlp:dimension 1 ;
+    tlp:index 13 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb515 ;
+    tlp:member _:ub326bL1265C17,
+        _:ub326bL1276C17,
+        _:ub326bL1287C17 .
+
+_:ub326bL1265C17 a tlp:Item ;
+    rdfs:label "Create a book" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb517 ;
+    tlp:link _:ub326bL1271C25 .
+
+_:ub326bL1276C17 a tlp:Item ;
+    rdfs:label "Download as PDF" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb520 ;
+    tlp:link _:ub326bL1282C25 .
+
+_:ub326bL1287C17 a tlp:Item ;
+    rdfs:label "Printable version" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb523 ;
+    tlp:link _:ub326bL1293C25 .
+
+_:ub326bL1299C9 a tlp:List ;
+    rdfs:label "Languages" ;
+    tlp:dimension 1 ;
+    tlp:index 14 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb526 ;
+    tlp:member _:ub326bL1306C17,
+        _:ub326bL1317C17,
+        _:ub326bL1328C17,
+        _:ub326bL1339C17,
+        _:ub326bL1350C17,
+        _:ub326bL1361C17,
+        _:ub326bL1372C17,
+        _:ub326bL1383C17,
+        _:ub326bL1394C17,
+        _:ub326bL1405C17,
+        _:ub326bL1416C17,
+        _:ub326bL1427C17,
+        _:ub326bL1438C17,
+        _:ub326bL1449C17,
+        _:ub326bL1460C17,
+        _:ub326bL1471C17,
+        _:ub326bL1482C17,
+        _:ub326bL1493C17,
+        _:ub326bL1504C17,
+        _:ub326bL1515C17 .
+
+_:ub326bL1306C17 a tlp:Item ;
+    rdfs:label "العربية" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb528 ;
+    tlp:link _:ub326bL1312C25 .
+
+_:ub326bL130C17 a tlp:Item ;
+    rdfs:label "Product sales pass through distinct stages, each posing different challenges, opportunities, and problems to the seller." ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb36 .
+
+_:ub326bL1317C17 a tlp:Item ;
+    rdfs:label "Български" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb531 ;
+    tlp:link _:ub326bL1323C25 .
+
+_:ub326bL1328C17 a tlp:Item ;
+    rdfs:label "Deutsch" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb534 ;
+    tlp:link _:ub326bL1334C25 .
+
+_:ub326bL1339C17 a tlp:Item ;
+    rdfs:label "Español" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb537 ;
+    tlp:link _:ub326bL1345C25 .
+
+_:ub326bL1350C17 a tlp:Item ;
+    rdfs:label "Euskara" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb540 ;
+    tlp:link _:ub326bL1356C25 .
+
+_:ub326bL1361C17 a tlp:Item ;
+    rdfs:label "Français" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb543 ;
+    tlp:link _:ub326bL1367C25 .
+
+_:ub326bL136C17 a tlp:Item ;
+    rdfs:label "Products require different marketing, financing, manufacturing, purchasing, and human resource strategies in each life cycle stage." ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb39 .
+
+_:ub326bL1372C17 a tlp:Item ;
+    rdfs:label "Bahasa Indonesia" ;
+    tlp:index 7 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb546 ;
+    tlp:link _:ub326bL1378C25 .
+
+_:ub326bL1383C17 a tlp:Item ;
+    rdfs:label "Latviešu" ;
+    tlp:index 8 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb549 ;
+    tlp:link _:ub326bL1389C25 .
+
+_:ub326bL1394C17 a tlp:Item ;
+    rdfs:label "Lietuvių" ;
+    tlp:index 9 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb552 ;
+    tlp:link _:ub326bL1400C25 .
+
+_:ub326bL1405C17 a tlp:Item ;
+    rdfs:label "Nederlands" ;
+    tlp:index 10 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb555 ;
+    tlp:link _:ub326bL1411C25 .
+
+_:ub326bL1416C17 a tlp:Item ;
+    rdfs:label "日本語" ;
+    tlp:index 11 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb558 ;
+    tlp:link _:ub326bL1422C25 .
+
+_:ub326bL1427C17 a tlp:Item ;
+    rdfs:label "Polski" ;
+    tlp:index 12 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb561 ;
+    tlp:link _:ub326bL1433C25 .
+
+_:ub326bL1438C17 a tlp:Item ;
+    rdfs:label "Português" ;
+    tlp:index 13 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb564 ;
+    tlp:link _:ub326bL1444C25 .
+
+_:ub326bL143C9 a tlp:List ;
+    rdfs:label "Extending the product life cycle" ;
+    tlp:dimension 1 ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb42 ;
+    tlp:member _:ub326bL150C17,
+        _:ub326bL156C17,
+        _:ub326bL162C17,
+        _:ub326bL168C17,
+        _:ub326bL174C17,
+        _:ub326bL180C17,
+        _:ub326bL186C17,
+        _:ub326bL192C17 .
+
+_:ub326bL1449C17 a tlp:Item ;
+    rdfs:label "Română" ;
+    tlp:index 14 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb567 ;
+    tlp:link _:ub326bL1455C25 .
+
+_:ub326bL1460C17 a tlp:Item ;
+    rdfs:label "Русский" ;
+    tlp:index 15 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb570 ;
+    tlp:link _:ub326bL1466C25 .
+
+_:ub326bL1471C17 a tlp:Item ;
+    rdfs:label "Slovenčina" ;
+    tlp:index 16 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb573 ;
+    tlp:link _:ub326bL1477C25 .
+
+_:ub326bL1482C17 a tlp:Item ;
+    rdfs:label "Svenska" ;
+    tlp:index 17 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb576 ;
+    tlp:link _:ub326bL1488C25 .
+
+_:ub326bL1493C17 a tlp:Item ;
+    rdfs:label "Українська" ;
+    tlp:index 18 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb579 ;
+    tlp:link _:ub326bL1499C25 .
+
+_:ub326bL1504C17 a tlp:Item ;
+    rdfs:label "Tiếng Việt" ;
+    tlp:index 19 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb582 ;
+    tlp:link _:ub326bL1510C25 .
+
+_:ub326bL150C17 a tlp:Item ;
+    rdfs:label "Advertising: Its purpose is to get additional audience and potential customers." ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb44 .
+
+_:ub326bL1515C17 a tlp:Item ;
+    rdfs:label "中文" ;
+    tlp:index 20 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb585 ;
+    tlp:link _:ub326bL1521C25 .
+
+_:ub326bL156C17 a tlp:Item ;
+    rdfs:label "Exploring and expanding to new markets: By conducting market research and offering the product (or some adapted form of it) to new markets, it is possible to get more customers." ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb47 .
+
+_:ub326bL162C17 a tlp:Item ;
+    rdfs:label "Price reduction: Many customers are attracted by price cuts and discount tags." ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb50 .
+
+_:ub326bL168C17 a tlp:Item ;
+    rdfs:label "Adding new features: Adding value to the product to enhance its usability or to attract the attention of a wider customer base." ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb53 .
+
+_:ub326bL174C17 a tlp:Item ;
+    rdfs:label "Packaging: New, attractive, useful or eco-friendly packaging influence the target customers." ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb56 .
+
+_:ub326bL180C17 a tlp:Item ;
+    rdfs:label "Changing customer consumption habits: Promoting new trends of consumption can increase the number of customers." ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb59 .
+
+_:ub326bL186C17 a tlp:Item ;
+    rdfs:label "Special promotions: Raising interest by offering Jackpot and other offers." ;
+    tlp:index 7 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb62 .
+
+_:ub326bL192C17 a tlp:Item ;
+    rdfs:label "Heightening interest: Many of the following things attract many customers who match certain profiles: Eco-friendly production processes, good work conditions, funding the efforts of non-profit organizations (cancer cure, anti-war efforts, refugees, GLTBI, environment and animal protection, etc.) and the like." ;
+    tlp:index 8 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb65 .
+
+_:ub326bL199C9 a tlp:Table ;
+    rdfs:label "Characteristics of PLC stages" ;
+    tlp:dimension 3 ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb68 ;
+    tlp:member _:ub326bL208C17,
+        _:ub326bL246C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub326bL19C9 a tlp:List ;
+    rdfs:label "Contents" ;
+    tlp:dimension 2 ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb2 ;
+    tlp:member _:ub326bL105C17,
+        _:ub326bL26C17,
+        _:ub326bL37C17,
+        _:ub326bL83C17,
+        _:ub326bL94C17 .
+
+_:ub326bL208C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb70 ;
+    tlp:member _:ub326bL214C25,
+        _:ub326bL221C25,
+        _:ub326bL227C25,
+        _:ub326bL233C25,
+        _:ub326bL239C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL214C25 a tlp:Cell ;
+    rdfs:label "Stage" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb73 ;
+    tlp:style tlp:Emphasize .
+
+_:ub326bL221C25 a tlp:Cell ;
+    rdfs:label "1. Market introduction stage" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb77 .
+
+_:ub326bL227C25 a tlp:Cell ;
+    rdfs:label "2. Growth stage" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb81 .
+
+_:ub326bL233C25 a tlp:Cell ;
+    rdfs:label "3. Maturity stage" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb85 .
+
+_:ub326bL239C25 a tlp:Cell ;
+    rdfs:label "4. Saturation and decline stage" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb89 .
+
+_:ub326bL246C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb93 ;
+    tlp:member _:ub326bL252C25,
+        _:ub326bL259C25,
+        _:ub326bL304C25,
+        _:ub326bL349C25,
+        _:ub326bL394C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL252C25 a tlp:Cell ;
+    rdfs:label "Characteristics" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb96 ;
+    tlp:style tlp:Emphasize .
+
+_:ub326bL259C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "This is the stage in which the product has been introduced first time in the market and the sales of the product starts to grow slowly and gradually and the profit received from the product is nominal and non-attained. The market for the product is not competitive initially and also the company spends initially on the advertisement and uses various other tools for promotion in order to motivate and produce awareness among the consumers, therefore generating discerning demands for particular brand. The products start to gain distribution as the product is initially new in the market and in this stage the quality of the product is not assured and the price of the product will also be determined as low or high." ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb100 ;
+    tlp:member _:ub326bL267C33,
+        _:ub326bL273C33,
+        _:ub326bL279C33,
+        _:ub326bL285C33,
+        _:ub326bL291C33,
+        _:ub326bL297C33 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL267C33 a tlp:Item ;
+    rdfs:label "costs are very high" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb104 .
+
+_:ub326bL26C17 a tlp:Item ;
+    rdfs:label "Goals" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb4 ;
+    tlp:link _:ub326bL32C25 .
+
+_:ub326bL273C33 a tlp:Item ;
+    rdfs:label "slow sales volumes to start" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb109 .
+
+_:ub326bL279C33 a tlp:Item ;
+    rdfs:label "little or no competition" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb114 .
+
+_:ub326bL285C33 a tlp:Item ;
+    rdfs:label "demand has to be created" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb119 .
+
+_:ub326bL291C33 a tlp:Item ;
+    rdfs:label "customers have to be prompted to try the product" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb124 .
+
+_:ub326bL297C33 a tlp:Item ;
+    rdfs:label "makes little money at this stage" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb129 .
+
+_:ub326bL304C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "In the growth stage, the product is visibly present in the market, the product has habitual consumers, and there is quick growth in product sales. More new customers are becoming aware of the product and trying it. The customers are becoming satisfied with the product and are buying it again and again. The ratio of the product repetition for the trial procurement has risen. Competitors have started to overflow the market with more appealing and attractive inventions. This helps in creating increased competition in the market and also results in decreasing the product price." ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb134 ;
+    tlp:member _:ub326bL312C33,
+        _:ub326bL318C33,
+        _:ub326bL324C33,
+        _:ub326bL330C33,
+        _:ub326bL336C33,
+        _:ub326bL342C33 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL312C33 a tlp:Item ;
+    rdfs:label "costs reduced due to economies of scale" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb138 .
+
+_:ub326bL318C33 a tlp:Item ;
+    rdfs:label "sales volume increases significantly" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb143 .
+
+_:ub326bL324C33 a tlp:Item ;
+    rdfs:label "profitability begins to rise" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb148 .
+
+_:ub326bL330C33 a tlp:Item ;
+    rdfs:label "public awareness increases" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb153 .
+
+_:ub326bL336C33 a tlp:Item ;
+    rdfs:label "competition begins to increase with a few new players in establishing market" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb158 .
+
+_:ub326bL342C33 a tlp:Item ;
+    rdfs:label "increased competition leads to price decreases" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb163 .
+
+_:ub326bL349C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "In maturity stage, the cost of the product has been decreased because of the increased volume of the product and the product started to experience the curve effects. Also, more and more competitors have seen to be leaving the market. In this way very few buyers have been left for the product and this results in less sales of the product. The decline of the product and cost of attaining new buyers in this level is more as compare to the resulted profit. The brand or the product differentiation via rebating and discounts in price supports in recalling the outlet distribution. Also, there is a decline in the entire cost of marketing through enhancing the distribution and promotional efficiency with switching brand and segmentation." ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb168 ;
+    tlp:member _:ub326bL357C33,
+        _:ub326bL363C33,
+        _:ub326bL369C33,
+        _:ub326bL375C33,
+        _:ub326bL381C33,
+        _:ub326bL387C33 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL357C33 a tlp:Item ;
+    rdfs:label "costs are decreased as a result of production volumes increasing and experience curve effects" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb172 .
+
+_:ub326bL363C33 a tlp:Item ;
+    rdfs:label "sales volume peaks and market saturation is reached" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb177 .
+
+_:ub326bL369C33 a tlp:Item ;
+    rdfs:label "increase in competitors entering the market" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb182 .
+
+_:ub326bL375C33 a tlp:Item ;
+    rdfs:label "prices tend to drop due to the proliferation of competing products" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb187 .
+
+_:ub326bL37C17 a tlp:Item,
+        tlp:List ;
+    rdfs:label "Product life cycle" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb7 ;
+    tlp:link _:ub326bL43C25 ;
+    tlp:member _:ub326bL49C25,
+        _:ub326bL60C25,
+        _:ub326bL71C25 .
+
+_:ub326bL381C33 a tlp:Item ;
+    rdfs:label "brand differentiation and feature diversification is emphasized to maintain or increase market share" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb192 .
+
+_:ub326bL387C33 a tlp:Item ;
+    rdfs:label "industrial profits go down" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb197 .
+
+_:ub326bL394C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label """In this stage, the profit as well as the sales of the product has started to decline because of the deletion of the product from the market. The market for the product in this stage started to show negative rate of growth and corroding cash flows. The product at this stage may be kept but there should be fewer adverts.\r
+Note: Product termination is usually not the end of the business cycle, only the end of a single entrant within the larger scope of an ongoing business program.""" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb202 ;
+    tlp:member _:ub326bL404C33,
+        _:ub326bL410C33,
+        _:ub326bL416C33,
+        _:ub326bL422C33 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL404C33 a tlp:Item ;
+    rdfs:label "costs become counter-optimal" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb206 .
+
+_:ub326bL410C33 a tlp:Item ;
+    rdfs:label "sales volume decline" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb211 .
+
+_:ub326bL416C33 a tlp:Item ;
+    rdfs:label "prices, profitability diminish" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb216 .
+
+_:ub326bL422C33 a tlp:Item ;
+    rdfs:label "profit becomes more a challenge of production/distribution efficiency than increased sales" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb221 .
+
+_:ub326bL431C9 a tlp:Table ;
+    rdfs:label "Identifying PLC stages" ;
+    tlp:dimension 2 ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb226 ;
+    tlp:member _:ub326bL440C17,
+        _:ub326bL489C17,
+        _:ub326bL534C17,
+        _:ub326bL579C17,
+        _:ub326bL624C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub326bL440C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb228 ;
+    tlp:member _:ub326bL446C25,
+        _:ub326bL455C25,
+        _:ub326bL464C25,
+        _:ub326bL470C25,
+        _:ub326bL476C25,
+        _:ub326bL482C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL446C25 a tlp:Cell ;
+    rdfs:label """Identifying\r
+features""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb231 ;
+    tlp:style tlp:LineSpan .
+
+_:ub326bL455C25 a tlp:Cell ;
+    rdfs:label """Identifying\r
+features""" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb235 ;
+    tlp:style tlp:LineSpan .
+
+_:ub326bL464C25 a tlp:Cell ;
+    rdfs:label "Sales" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb239 .
+
+_:ub326bL470C25 a tlp:Cell ;
+    rdfs:label "Investment cost" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb243 .
+
+_:ub326bL476C25 a tlp:Cell ;
+    rdfs:label "Competition" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb247 .
+
+_:ub326bL482C25 a tlp:Cell ;
+    rdfs:label "Profit" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb251 .
+
+_:ub326bL489C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb255 ;
+    tlp:member _:ub326bL495C25,
+        _:ub326bL502C25,
+        _:ub326bL509C25,
+        _:ub326bL515C25,
+        _:ub326bL521C25,
+        _:ub326bL527C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL495C25 a tlp:Cell ;
+    rdfs:label "Stages" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb258 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub326bL49C25 a tlp:Item ;
+    rdfs:label "Extending the product life cycle" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb10 ;
+    tlp:link _:ub326bL55C33 .
+
+_:ub326bL502C25 a tlp:Cell ;
+    rdfs:label "Introduction" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb262 ;
+    tlp:style tlp:Emphasize .
+
+_:ub326bL509C25 a tlp:Cell ;
+    rdfs:label "Low" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb266 .
+
+_:ub326bL515C25 a tlp:Cell ;
+    rdfs:label "Very high" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb270 .
+
+_:ub326bL521C25 a tlp:Cell ;
+    rdfs:label "Low or no competition" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb274 .
+
+_:ub326bL527C25 a tlp:Cell ;
+    rdfs:label "Low" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb278 .
+
+_:ub326bL534C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb282 ;
+    tlp:member _:ub326bL540C25,
+        _:ub326bL547C25,
+        _:ub326bL554C25,
+        _:ub326bL560C25,
+        _:ub326bL566C25,
+        _:ub326bL572C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL540C25 a tlp:Cell ;
+    rdfs:label "Stages" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb285 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub326bL547C25 a tlp:Cell ;
+    rdfs:label "Growth" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb289 ;
+    tlp:style tlp:Emphasize .
+
+_:ub326bL554C25 a tlp:Cell ;
+    rdfs:label "High" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb293 .
+
+_:ub326bL560C25 a tlp:Cell ;
+    rdfs:label "High (lower than intro stage)" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb297 .
+
+_:ub326bL566C25 a tlp:Cell ;
+    rdfs:label "High" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb301 .
+
+_:ub326bL572C25 a tlp:Cell ;
+    rdfs:label "High" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb305 .
+
+_:ub326bL579C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb309 ;
+    tlp:member _:ub326bL585C25,
+        _:ub326bL592C25,
+        _:ub326bL599C25,
+        _:ub326bL605C25,
+        _:ub326bL611C25,
+        _:ub326bL617C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL585C25 a tlp:Cell ;
+    rdfs:label "Stages" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb312 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub326bL592C25 a tlp:Cell ;
+    rdfs:label "Maturity" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb316 ;
+    tlp:style tlp:Emphasize .
+
+_:ub326bL599C25 a tlp:Cell ;
+    rdfs:label "High" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb320 .
+
+_:ub326bL605C25 a tlp:Cell ;
+    rdfs:label "Low" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb324 .
+
+_:ub326bL60C25 a tlp:Item ;
+    rdfs:label "Characteristics of PLC stages" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb14 ;
+    tlp:link _:ub326bL66C33 .
+
+_:ub326bL611C25 a tlp:Cell ;
+    rdfs:label "Very high" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb328 .
+
+_:ub326bL617C25 a tlp:Cell ;
+    rdfs:label "High" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb332 .
+
+_:ub326bL624C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb336 ;
+    tlp:member _:ub326bL630C25,
+        _:ub326bL637C25,
+        _:ub326bL644C25,
+        _:ub326bL650C25,
+        _:ub326bL656C25,
+        _:ub326bL662C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL630C25 a tlp:Cell ;
+    rdfs:label "Stages" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb339 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub326bL637C25 a tlp:Cell ;
+    rdfs:label "Decline" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb343 ;
+    tlp:style tlp:Emphasize .
+
+_:ub326bL644C25 a tlp:Cell ;
+    rdfs:label "Low" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb347 .
+
+_:ub326bL650C25 a tlp:Cell ;
+    rdfs:label "Low" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb351 .
+
+_:ub326bL656C25 a tlp:Cell ;
+    rdfs:label "Very High" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb355 .
+
+_:ub326bL662C25 a tlp:Cell ;
+    rdfs:label "Low" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb359 .
+
+_:ub326bL670C9 a tlp:List ;
+    rdfs:label "See also" ;
+    tlp:dimension 1 ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb363 ;
+    tlp:member _:ub326bL677C17,
+        _:ub326bL688C17,
+        _:ub326bL699C17,
+        _:ub326bL710C17,
+        _:ub326bL721C17,
+        _:ub326bL732C17,
+        _:ub326bL743C17,
+        _:ub326bL754C17,
+        _:ub326bL765C17,
+        _:ub326bL776C17,
+        _:ub326bL787C17,
+        _:ub326bL798C17,
+        _:ub326bL809C17,
+        _:ub326bL820C17 .
+
+_:ub326bL677C17 a tlp:Item ;
+    rdfs:label "Application lifecycle management" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb365 ;
+    tlp:link _:ub326bL683C25 .
+
+_:ub326bL688C17 a tlp:Item ;
+    rdfs:label "Brand awareness" ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb368 ;
+    tlp:link _:ub326bL694C25 .
+
+_:ub326bL699C17 a tlp:Item ;
+    rdfs:label "Consumer behaviour" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb371 ;
+    tlp:link _:ub326bL705C25 .
+
+_:ub326bL710C17 a tlp:Item ;
+    rdfs:label "Diminishing manufacturing sources and material shortages (DMSMS)" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb374 ;
+    tlp:link _:ub326bL716C25 .
+
+_:ub326bL71C25 a tlp:Item ;
+    rdfs:label "Identifying PLC stages" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb18 ;
+    tlp:link _:ub326bL77C33 .
+
+_:ub326bL721C17 a tlp:Item ;
+    rdfs:label "Material selection" ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb377 ;
+    tlp:link _:ub326bL727C25 .
+
+_:ub326bL732C17 a tlp:Item ;
+    rdfs:label "New product development" ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb380 ;
+    tlp:link _:ub326bL738C25 .
+
+_:ub326bL743C17 a tlp:Item ;
+    rdfs:label "Obsolescence" ;
+    tlp:index 7 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb383 ;
+    tlp:link _:ub326bL749C25 .
+
+_:ub326bL754C17 a tlp:Item ;
+    rdfs:label "Planned obsolescence" ;
+    tlp:index 8 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb386 ;
+    tlp:link _:ub326bL760C25 .
+
+_:ub326bL765C17 a tlp:Item ;
+    rdfs:label "Product lifecycle management" ;
+    tlp:index 9 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb389 ;
+    tlp:link _:ub326bL771C25 .
+
+_:ub326bL776C17 a tlp:Item ;
+    rdfs:label "Product management" ;
+    tlp:index 10 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb392 ;
+    tlp:link _:ub326bL782C25 .
+
+_:ub326bL787C17 a tlp:Item ;
+    rdfs:label "Product teardown" ;
+    tlp:index 11 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb395 ;
+    tlp:link _:ub326bL793C25 .
+
+_:ub326bL798C17 a tlp:Item ;
+    rdfs:label "Software product management" ;
+    tlp:index 12 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb398 ;
+    tlp:link _:ub326bL804C25 .
+
+_:ub326bL809C17 a tlp:Item ;
+    rdfs:label "Technology life cycle" ;
+    tlp:index 13 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb401 ;
+    tlp:link _:ub326bL815C25 .
+
+_:ub326bL820C17 a tlp:Item ;
+    rdfs:label "Toolkits for user innovation" ;
+    tlp:index 14 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb404 ;
+    tlp:link _:ub326bL826C25 .
+
+_:ub326bL832C9 a tlp:List ;
+    rdfs:label "References" ;
+    tlp:dimension 1 ;
+    tlp:index 7 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb407 ;
+    tlp:member _:ub326bL840C17,
+        _:ub326bL851C17,
+        _:ub326bL874C17,
+        _:ub326bL880C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub326bL83C17 a tlp:Item ;
+    rdfs:label "See also" ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb22 ;
+    tlp:link _:ub326bL89C25 .
+
+_:ub326bL840C17 a tlp:Item ;
+    rdfs:label "Levitt, Theodore (November 1965). \"Exploit the Product Life Cycle\". Harvard Business Review." ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb409 ;
+    tlp:link _:ub326bL846C25 .
+
+_:ub326bL851C17 a tlp:Item ;
+    rdfs:label "Anderson & Zeithaml, Carl R. & Carl P. (Mar 1984). \"Stage of the Product Life Cycle, Business Strategy, and Business Performance\". The Academy of Management Journal. 27 (1): 5–24. doi:10.2307/255954. JSTOR 255954." ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb412 ;
+    tlp:link _:ub326bL857C25,
+        _:ub326bL861C25,
+        _:ub326bL865C25,
+        _:ub326bL869C25 .
+
+_:ub326bL874C17 a tlp:Item ;
+    rdfs:label "Steffens, Paul (August 2002). \"The Product Life Cycle Concept: Buried or Resurrected by the Diffusion Literature?\". Academy of Management Conference. 1 (5): 1–30." ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb415 .
+
+_:ub326bL880C17 a tlp:Item ;
+    rdfs:label "Safi, Roozmehr; Yu, Yang (July 2017). \"Online product review as an indicator of users' degree of innovativeness and product adoption time: a longitudinal analysis of text reviews\". European Journal of Information Systems. 26 (4): 414–431. doi:10.1057/s41303-017-0045-2. ISSN 0960-085X." ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb418 ;
+    tlp:link _:ub326bL886C25,
+        _:ub326bL890C25,
+        _:ub326bL894C25,
+        _:ub326bL898C25 .
+
+_:ub326bL904C9 a tlp:List ;
+    rdfs:label "Further reading" ;
+    tlp:dimension 1 ;
+    tlp:index 8 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb421 ;
+    tlp:member _:ub326bL1003C17,
+        _:ub326bL1026C17,
+        _:ub326bL1032C17,
+        _:ub326bL911C17,
+        _:ub326bL917C17,
+        _:ub326bL923C17,
+        _:ub326bL929C17,
+        _:ub326bL935C17,
+        _:ub326bL950C17,
+        _:ub326bL965C17,
+        _:ub326bL980C17 .
+
+_:ub326bL911C17 a tlp:Item ;
+    rdfs:label "Box, Jonathan Mbosia,  Extending product lifetime: Prospects and opportunities, Tanzanian Journal of Marketing September, 1983" ;
+    tlp:index 1 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb423 .
+
+_:ub326bL917C17 a tlp:Item ;
+    rdfs:label "Day, G. \"The product life cycle: Analysis and applications issues\", Journal of Marketing, vol 45, Autumn 1981, pp 60–67." ;
+    tlp:index 2 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb426 .
+
+_:ub326bL923C17 a tlp:Item ;
+    rdfs:label "Levitt, T., \"Exploit the product life cycle\", Harvard Business Review, vol 43, November–December 1965, pp 81–94." ;
+    tlp:index 3 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb429 .
+
+_:ub326bL929C17 a tlp:Item ;
+    rdfs:label "Dhalla, N.K., Yuspeh, S., \"Forget the product life cycle concept\", Harvard Business Review, Jan–Feb 1976" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb432 .
+
+_:ub326bL935C17 a tlp:Item ;
+    rdfs:label "Rey, F.J.; Martín-Gil, J.; Velasco, E.;  et al. (2004). \"Life Cycle Assessment and external environmental cost analysis of heat pumps\". Environmental Engineering Science. 21 (5): 591–604. doi:10.1089/ees.2004.21.591." ;
+    tlp:index 5 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb435 ;
+    tlp:link _:ub326bL941C25,
+        _:ub326bL945C25 .
+
+_:ub326bL94C17 a tlp:Item ;
+    rdfs:label "References" ;
+    tlp:index 4 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb25 ;
+    tlp:link _:ub326bL100C25 .
+
+_:ub326bL950C17 a tlp:Item ;
+    rdfs:label "Westkämper, E (2000). \"Live Cycle Management and Assessment: Approaches and Visions Towards Sustainable Manufacturing\". CIRP Annals. 49 (2): 501–522. doi:10.1016/s0007-8506(07)63453-2." ;
+    tlp:index 6 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb438 ;
+    tlp:link _:ub326bL956C25,
+        _:ub326bL960C25 .
+
+_:ub326bL965C17 a tlp:Item ;
+    rdfs:label "Chan, K.C.; Mills, T.M. (2015). \"Modeling competition over product life cycles\". Asia-Pacific Journal of Operational Research. 32 (4): 1550021. doi:10.1142/S0217595915500219." ;
+    tlp:index 7 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb441 ;
+    tlp:link _:ub326bL971C25,
+        _:ub326bL975C25 .
+
+_:ub326bL980C17 a tlp:Item ;
+    rdfs:label "Anderson, C.; Zeithaml, C. (1984). \"Stage of the Product Life Cycle, Business Strategy, and Business Performance\". Academy of Management. 27 (1): 5–24. doi:10.2307/255954. JSTOR 255954." ;
+    tlp:index 8 ;
+    tlp:indexList _:fb7a226dfe6044f5e809446a01fc86fceb444 ;
+    tlp:link _:ub326bL986C25,
+        _:ub326bL990C25,
+        _:ub326bL994C25,
+        _:ub326bL998C25 .
+

@@ -1,0 +1,1525 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+
+<http://tlpedia.org/resource/Product_life-cycle_management_(marketing)>
+    owl:sameAs <http://dbpedia.org/resource/Product_life-cycle_management_(marketing)> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)?oldid=> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)> ;
+    foaf:name "Product life-cycle management (marketing)" ;
+    tlp:indexList ( 0 ) ;
+    rdfs:label "Product life-cycle management (marketing)" ;
+    rdf:type tlp:Page ;
+    tlp:member
+        [
+            tlp:index 1 ;
+            tlp:indexList ( 1 0 ) ;
+            tlp:dimension 2 ;
+            rdfs:label "Contents" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 1 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Goals" ;
+                    tlp:link
+                        [
+                            tlp:text "Goals" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Goals>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 1 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Product life cycle" ;
+                    tlp:link
+                        [
+                            tlp:text "Product life cycle" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Product_life_cycle>
+                        ] ;
+                    rdf:type tlp:List ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 2 1 0 ) ;
+                            rdf:type tlp:Item ;
+                            rdfs:label "Extending the product life cycle" ;
+                            tlp:link
+                                [
+                                    tlp:text "Extending the product life cycle" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Extending_the_product_life_cycle>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 2 2 0 ) ;
+                            rdf:type tlp:Item ;
+                            rdfs:label "Characteristics of PLC stages" ;
+                            tlp:link
+                                [
+                                    tlp:text "Characteristics of PLC stages" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Characteristics_of_PLC_stages>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 2 3 0 ) ;
+                            rdf:type tlp:Item ;
+                            rdfs:label "Identifying PLC stages" ;
+                            tlp:link
+                                [
+                                    tlp:text "Identifying PLC stages" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Identifying_PLC_stages>
+                                ]
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 1 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "See also" ;
+                    tlp:link
+                        [
+                            tlp:text "See also" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#See_also>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 1 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "References" ;
+                    tlp:link
+                        [
+                            tlp:text "References" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#References>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 1 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Further reading" ;
+                    tlp:link
+                        [
+                            tlp:text "Further reading" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Further_reading>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 2 ;
+            tlp:indexList ( 2 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Product life cycle" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 2 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Products have a limited life and thus every product has a life cycle."
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 2 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Product sales pass through distinct stages, each posing different challenges, opportunities, and problems to the seller."
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 2 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Products require different marketing, financing, manufacturing, purchasing, and human resource strategies in each life cycle stage."
+                ]
+        ] ,
+        [
+            tlp:index 3 ;
+            tlp:indexList ( 3 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Extending the product life cycle" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 3 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Advertising: Its purpose is to get additional audience and potential customers."
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 3 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Exploring and expanding to new markets: By conducting market research and offering the product (or some adapted form of it) to new markets, it is possible to get more customers."
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 3 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Price reduction: Many customers are attracted by price cuts and discount tags."
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 3 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Adding new features: Adding value to the product to enhance its usability or to attract the attention of a wider customer base."
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 3 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Packaging: New, attractive, useful or eco-friendly packaging influence the target customers."
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 3 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Changing customer consumption habits: Promoting new trends of consumption can increase the number of customers."
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 3 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Special promotions: Raising interest by offering Jackpot and other offers."
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 3 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Heightening interest: Many of the following things attract many customers who match certain profiles: Eco-friendly production processes, good work conditions, funding the efforts of non-profit organizations (cancer cure, anti-war efforts, refugees, GLTBI, environment and animal protection, etc.) and the like."
+                ]
+        ] ,
+        [
+            tlp:index 4 ;
+            tlp:indexList ( 4 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label "Characteristics of PLC stages" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
+            tlp:dimension 3 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 4 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 4 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Stage" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 4 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1. Market introduction stage"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 4 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2. Growth stage"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 4 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "3. Maturity stage"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 4 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "4. Saturation and decline stage"
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 4 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 4 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Characteristics" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 4 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "This is the stage in which the product has been introduced first time in the market and the sales of the product starts to grow slowly and gradually and the profit received from the product is nominal and non-attained. The market for the product is not competitive initially and also the company spends initially on the advertisement and uses various other tools for promotion in order to motivate and produce awareness among the consumers, therefore generating discerning demands for particular brand. The products start to gain distribution as the product is initially new in the market and in this stage the quality of the product is not assured and the price of the product will also be determined as low or high." ;
+                            tlp:style tlp:Enumerate ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 4 2 2 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "costs are very high"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 4 2 2 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "slow sales volumes to start"
+                                ] ,
+                                [
+                                    tlp:index 3 ;
+                                    tlp:indexList ( 4 2 2 3 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "little or no competition"
+                                ] ,
+                                [
+                                    tlp:index 4 ;
+                                    tlp:indexList ( 4 2 2 4 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "demand has to be created"
+                                ] ,
+                                [
+                                    tlp:index 5 ;
+                                    tlp:indexList ( 4 2 2 5 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "customers have to be prompted to try the product"
+                                ] ,
+                                [
+                                    tlp:index 6 ;
+                                    tlp:indexList ( 4 2 2 6 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "makes little money at this stage"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 4 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "In the growth stage, the product is visibly present in the market, the product has habitual consumers, and there is quick growth in product sales. More new customers are becoming aware of the product and trying it. The customers are becoming satisfied with the product and are buying it again and again. The ratio of the product repetition for the trial procurement has risen. Competitors have started to overflow the market with more appealing and attractive inventions. This helps in creating increased competition in the market and also results in decreasing the product price." ;
+                            tlp:style tlp:Enumerate ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 4 2 3 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "costs reduced due to economies of scale"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 4 2 3 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "sales volume increases significantly"
+                                ] ,
+                                [
+                                    tlp:index 3 ;
+                                    tlp:indexList ( 4 2 3 3 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "profitability begins to rise"
+                                ] ,
+                                [
+                                    tlp:index 4 ;
+                                    tlp:indexList ( 4 2 3 4 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "public awareness increases"
+                                ] ,
+                                [
+                                    tlp:index 5 ;
+                                    tlp:indexList ( 4 2 3 5 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "competition begins to increase with a few new players in establishing market"
+                                ] ,
+                                [
+                                    tlp:index 6 ;
+                                    tlp:indexList ( 4 2 3 6 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "increased competition leads to price decreases"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 4 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "In maturity stage, the cost of the product has been decreased because of the increased volume of the product and the product started to experience the curve effects. Also, more and more competitors have seen to be leaving the market. In this way very few buyers have been left for the product and this results in less sales of the product. The decline of the product and cost of attaining new buyers in this level is more as compare to the resulted profit. The brand or the product differentiation via rebating and discounts in price supports in recalling the outlet distribution. Also, there is a decline in the entire cost of marketing through enhancing the distribution and promotional efficiency with switching brand and segmentation." ;
+                            tlp:style tlp:Enumerate ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 4 2 4 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "costs are decreased as a result of production volumes increasing and experience curve effects"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 4 2 4 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "sales volume peaks and market saturation is reached"
+                                ] ,
+                                [
+                                    tlp:index 3 ;
+                                    tlp:indexList ( 4 2 4 3 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "increase in competitors entering the market"
+                                ] ,
+                                [
+                                    tlp:index 4 ;
+                                    tlp:indexList ( 4 2 4 4 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "prices tend to drop due to the proliferation of competing products"
+                                ] ,
+                                [
+                                    tlp:index 5 ;
+                                    tlp:indexList ( 4 2 4 5 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "brand differentiation and feature diversification is emphasized to maintain or increase market share"
+                                ] ,
+                                [
+                                    tlp:index 6 ;
+                                    tlp:indexList ( 4 2 4 6 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "industrial profits go down"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 4 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """In this stage, the profit as well as the sales of the product has started to decline because of the deletion of the product from the market. The market for the product in this stage started to show negative rate of growth and corroding cash flows. The product at this stage may be kept but there should be fewer adverts.
+Note: Product termination is usually not the end of the business cycle, only the end of a single entrant within the larger scope of an ongoing business program.""" ;
+                            tlp:style tlp:Enumerate ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 4 2 5 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "costs become counter-optimal"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 4 2 5 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "sales volume decline"
+                                ] ,
+                                [
+                                    tlp:index 3 ;
+                                    tlp:indexList ( 4 2 5 3 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "prices, profitability diminish"
+                                ] ,
+                                [
+                                    tlp:index 4 ;
+                                    tlp:indexList ( 4 2 5 4 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "profit becomes more a challenge of production/distribution efficiency than increased sales"
+                                ]
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 5 ;
+            tlp:indexList ( 5 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label "Identifying PLC stages" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
+            tlp:dimension 2 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 5 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 5 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Identifying
+features""" ;
+                            tlp:style tlp:LineSpan
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 5 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Identifying
+features""" ;
+                            tlp:style tlp:LineSpan
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 5 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Sales"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 5 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Investment cost"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 5 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Competition"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 5 1 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Profit"
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 5 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 5 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Stages" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 5 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Introduction" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 5 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 5 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Very high"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 5 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low or no competition"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 5 2 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low"
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 5 3 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 5 3 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Stages" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 5 3 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Growth" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 5 3 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "High"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 5 3 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "High (lower than intro stage)"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 5 3 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "High"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 5 3 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "High"
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 5 4 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 5 4 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Stages" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 5 4 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Maturity" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 5 4 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "High"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 5 4 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 5 4 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Very high"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 5 4 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "High"
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 5 5 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 5 5 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Stages" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 5 5 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Decline" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 5 5 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 5 5 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 5 5 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Very High"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 5 5 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Low"
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 6 ;
+            tlp:indexList ( 6 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "See also" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 6 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Application lifecycle management" ;
+                    tlp:link
+                        [
+                            tlp:text "Application lifecycle management" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Application_lifecycle_management>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 6 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Brand awareness" ;
+                    tlp:link
+                        [
+                            tlp:text "Brand awareness" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Brand_awareness>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 6 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Consumer behaviour" ;
+                    tlp:link
+                        [
+                            tlp:text "Consumer behaviour" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Consumer_behaviour>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 6 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Diminishing manufacturing sources and material shortages (DMSMS)" ;
+                    tlp:link
+                        [
+                            tlp:text "Diminishing manufacturing sources and material shortages (DMSMS)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/DMSMS>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 6 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Material selection" ;
+                    tlp:link
+                        [
+                            tlp:text "Material selection" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Material_selection>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 6 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "New product development" ;
+                    tlp:link
+                        [
+                            tlp:text "New product development" ;
+                            tlp:url <http://en.wikipedia.org/wiki/New_product_development>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 6 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Obsolescence" ;
+                    tlp:link
+                        [
+                            tlp:text "Obsolescence" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Obsolescence>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 6 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Planned obsolescence" ;
+                    tlp:link
+                        [
+                            tlp:text "Planned obsolescence" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Planned_obsolescence_(business)>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 6 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Product lifecycle management" ;
+                    tlp:link
+                        [
+                            tlp:text "Product lifecycle management" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_lifecycle_management>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 6 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Product management" ;
+                    tlp:link
+                        [
+                            tlp:text "Product management" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_management>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 6 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Product teardown" ;
+                    tlp:link
+                        [
+                            tlp:text "Product teardown" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Product_teardown>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 6 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Software product management" ;
+                    tlp:link
+                        [
+                            tlp:text "Software product management" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Software_product_management>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 6 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Technology life cycle" ;
+                    tlp:link
+                        [
+                            tlp:text "Technology life cycle" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Technology_life_cycle>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 6 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Toolkits for user innovation" ;
+                    tlp:link
+                        [
+                            tlp:text "Toolkits for user innovation" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Toolkits_for_user_innovation>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 7 ;
+            tlp:indexList ( 7 0 ) ;
+            tlp:style tlp:Enumerate ;
+            tlp:dimension 1 ;
+            rdfs:label "References" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 7 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Levitt, Theodore (November 1965). "Exploit the Product Life Cycle". Harvard Business Review.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Exploit the Product Life Cycle"""" ;
+                            tlp:url <https://hbr.org/1965/11/exploit-the-product-life-cycle>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 7 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Anderson & Zeithaml, Carl R. & Carl P. (Mar 1984). "Stage of the Product Life Cycle, Business Strategy, and Business Performance". The Academy of Management Journal. 27 (1): 5–24. doi:10.2307/255954. JSTOR 255954.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.2307/255954" ;
+                            tlp:url <https://doi.org/10.2307%2F255954>
+                        ] ,
+                        [
+                            tlp:text "JSTOR" ;
+                            tlp:url <http://en.wikipedia.org/wiki/JSTOR>
+                        ] ,
+                        [
+                            tlp:text "255954" ;
+                            tlp:url <http://www.jstor.org/stable/255954>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 7 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Steffens, Paul (August 2002). "The Product Life Cycle Concept: Buried or Resurrected by the Diffusion Literature?". Academy of Management Conference. 1 (5): 1–30."""
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 7 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Safi, Roozmehr; Yu, Yang (July 2017). "Online product review as an indicator of users' degree of innovativeness and product adoption time: a longitudinal analysis of text reviews". European Journal of Information Systems. 26 (4): 414–431. doi:10.1057/s41303-017-0045-2. ISSN 0960-085X.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.1057/s41303-017-0045-2" ;
+                            tlp:url <https://doi.org/10.1057%2Fs41303-017-0045-2>
+                        ] ,
+                        [
+                            tlp:text "ISSN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Serial_Number>
+                        ] ,
+                        [
+                            tlp:text "0960-085X" ;
+                            tlp:url <http://www.worldcat.org/issn/0960-085X>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 8 ;
+            tlp:indexList ( 8 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Further reading" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 8 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Box, Jonathan Mbosia,  Extending product lifetime: Prospects and opportunities, Tanzanian Journal of Marketing September, 1983"
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 8 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Day, G. "The product life cycle: Analysis and applications issues", Journal of Marketing, vol 45, Autumn 1981, pp 60–67."""
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 8 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Levitt, T., "Exploit the product life cycle", Harvard Business Review, vol 43, November–December 1965, pp 81–94."""
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 8 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Dhalla, N.K., Yuspeh, S., "Forget the product life cycle concept", Harvard Business Review, Jan–Feb 1976"""
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 8 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Rey, F.J.; Martín-Gil, J.; Velasco, E.;  et al. (2004). "Life Cycle Assessment and external environmental cost analysis of heat pumps". Environmental Engineering Science. 21 (5): 591–604. doi:10.1089/ees.2004.21.591.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.1089/ees.2004.21.591" ;
+                            tlp:url <https://doi.org/10.1089%2Fees.2004.21.591>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 8 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Westkämper, E (2000). "Live Cycle Management and Assessment: Approaches and Visions Towards Sustainable Manufacturing". CIRP Annals. 49 (2): 501–522. doi:10.1016/s0007-8506(07)63453-2.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.1016/s0007-8506(07)63453-2" ;
+                            tlp:url <https://doi.org/10.1016%2Fs0007-8506%2807%2963453-2>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 8 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Chan, K.C.; Mills, T.M. (2015). "Modeling competition over product life cycles". Asia-Pacific Journal of Operational Research. 32 (4): 1550021. doi:10.1142/S0217595915500219.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.1142/S0217595915500219" ;
+                            tlp:url <https://doi.org/10.1142%2FS0217595915500219>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 8 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Anderson, C.; Zeithaml, C. (1984). "Stage of the Product Life Cycle, Business Strategy, and Business Performance". Academy of Management. 27 (1): 5–24. doi:10.2307/255954. JSTOR 255954.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.2307/255954" ;
+                            tlp:url <https://doi.org/10.2307%2F255954>
+                        ] ,
+                        [
+                            tlp:text "JSTOR" ;
+                            tlp:url <http://en.wikipedia.org/wiki/JSTOR>
+                        ] ,
+                        [
+                            tlp:text "255954" ;
+                            tlp:url <http://www.jstor.org/stable/255954>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 8 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Griffin, A (1997). "The Effect of Project and Process Characteristics on Product Development Cycle Time". Journal of Marketing Research. 34 (1): 24–35. doi:10.2307/3152062. JSTOR 3152062.""" ;
+                    tlp:link
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.2307/3152062" ;
+                            tlp:url <https://doi.org/10.2307%2F3152062>
+                        ] ,
+                        [
+                            tlp:text "JSTOR" ;
+                            tlp:url <http://en.wikipedia.org/wiki/JSTOR>
+                        ] ,
+                        [
+                            tlp:text "3152062" ;
+                            tlp:url <http://www.jstor.org/stable/3152062>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 8 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Levitt, T., 1965. Exploit the Product Life Cycle. Harvard Business Review"
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 8 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Steffens, P (2002). "The Product Life Cycle Concept: Buried or Resurrected by the Diffusion Literature?". Academy of Management Conference. 1 (5): 1–30."""
+                ]
+        ] ,
+        [
+            tlp:index 9 ;
+            tlp:indexList ( 9 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Further reading" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 9 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Brand management" ;
+                    tlp:link
+                        [
+                            tlp:text "Brand management" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Brand_management>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 9 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Business terms" ;
+                    tlp:link
+                        [
+                            tlp:text "Business terms" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Business_terms>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 9 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Marketing strategy" ;
+                    tlp:link
+                        [
+                            tlp:text "Marketing strategy" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Marketing_strategy>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 9 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Product management" ;
+                    tlp:link
+                        [
+                            tlp:text "Product management" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Product_management>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 10 ;
+            tlp:indexList ( 10 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Further reading" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 10 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles needing additional references from August 2012" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles needing additional references from August 2012" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_August_2012>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 10 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All articles needing additional references" ;
+                    tlp:link
+                        [
+                            tlp:text "All articles needing additional references" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 10 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All articles with unsourced statements" ;
+                    tlp:link
+                        [
+                            tlp:text "All articles with unsourced statements" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 10 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles with unsourced statements from August 2012" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles with unsourced statements from August 2012" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_August_2012>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 11 ;
+            tlp:indexList ( 11 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Tools" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 11 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "What links here" ;
+                    tlp:link
+                        [
+                            tlp:text "What links here" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/Product_life-cycle_management_(marketing)>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 11 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Related changes" ;
+                    tlp:link
+                        [
+                            tlp:text "Related changes" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Product_life-cycle_management_(marketing)>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 11 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Upload file" ;
+                    tlp:link
+                        [
+                            tlp:text "Upload file" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 11 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Special pages" ;
+                    tlp:link
+                        [
+                            tlp:text "Special pages" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 11 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Permanent link" ;
+                    tlp:link
+                        [
+                            tlp:text "Permanent link" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&oldid=930500151>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 11 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Page information" ;
+                    tlp:link
+                        [
+                            tlp:text "Page information" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&action=info>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 11 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikidata item" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikidata item" ;
+                            tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q1572577>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 11 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Cite this page" ;
+                    tlp:link
+                        [
+                            tlp:text "Cite this page" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Product_life-cycle_management_%28marketing%29&id=930500151&wpFormIdentifier=titleform>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 12 ;
+            tlp:indexList ( 12 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "In other projects" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 12 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikimedia Commons" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikimedia Commons" ;
+                            tlp:url <https://commons.wikimedia.org/wiki/Category:Product_life_cycles>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 13 ;
+            tlp:indexList ( 13 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Print/export" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 13 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Create a book" ;
+                    tlp:link
+                        [
+                            tlp:text "Create a book" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Product+life-cycle+management+%28marketing%29>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 13 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Download as PDF" ;
+                    tlp:link
+                        [
+                            tlp:text "Download as PDF" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Product+life-cycle+management+%28marketing%29&action=show-download-screen>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 13 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Printable version" ;
+                    tlp:link
+                        [
+                            tlp:text "Printable version" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&printable=yes>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 14 ;
+            tlp:indexList ( 14 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Languages" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 14 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "العربية" ;
+                    tlp:link
+                        [
+                            tlp:text "العربية" ;
+                            tlp:url <https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%AD%D9%8A%D8%A7%D8%A9_%D8%B3%D9%84%D8%B9%D8%A9>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 14 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Български" ;
+                    tlp:link
+                        [
+                            tlp:text "Български" ;
+                            tlp:url <https://bg.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD_%D1%86%D0%B8%D0%BA%D1%8A%D0%BB_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 14 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Deutsch" ;
+                    tlp:link
+                        [
+                            tlp:text "Deutsch" ;
+                            tlp:url <https://de.wikipedia.org/wiki/Produktlebenszyklus>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 14 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Español" ;
+                    tlp:link
+                        [
+                            tlp:text "Español" ;
+                            tlp:url <https://es.wikipedia.org/wiki/Ciclo_de_vida_del_producto>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 14 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Euskara" ;
+                    tlp:link
+                        [
+                            tlp:text "Euskara" ;
+                            tlp:url <https://eu.wikipedia.org/wiki/Produktuaren_bizitza-ziklo>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 14 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Français" ;
+                    tlp:link
+                        [
+                            tlp:text "Français" ;
+                            tlp:url <https://fr.wikipedia.org/wiki/Cycle_de_vie_(commerce)>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 14 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bahasa Indonesia" ;
+                    tlp:link
+                        [
+                            tlp:text "Bahasa Indonesia" ;
+                            tlp:url <https://id.wikipedia.org/wiki/Siklus_produk>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 14 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Latviešu" ;
+                    tlp:link
+                        [
+                            tlp:text "Latviešu" ;
+                            tlp:url <https://lv.wikipedia.org/wiki/Produkta_dz%C4%ABves_cikls>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 14 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Lietuvių" ;
+                    tlp:link
+                        [
+                            tlp:text "Lietuvių" ;
+                            tlp:url <https://lt.wikipedia.org/wiki/Prek%C4%97s_gyvenimo_ciklas>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 14 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Nederlands" ;
+                    tlp:link
+                        [
+                            tlp:text "Nederlands" ;
+                            tlp:url <https://nl.wikipedia.org/wiki/Productlevenscyclus>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 14 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "日本語" ;
+                    tlp:link
+                        [
+                            tlp:text "日本語" ;
+                            tlp:url <https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 14 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Polski" ;
+                    tlp:link
+                        [
+                            tlp:text "Polski" ;
+                            tlp:url <https://pl.wikipedia.org/wiki/Cykl_%C5%BCycia_produktu>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 14 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Português" ;
+                    tlp:link
+                        [
+                            tlp:text "Português" ;
+                            tlp:url <https://pt.wikipedia.org/wiki/Ciclo_de_vida_do_produto>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 14 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Română" ;
+                    tlp:link
+                        [
+                            tlp:text "Română" ;
+                            tlp:url <https://ro.wikipedia.org/wiki/Ciclu_de_via%C8%9B%C4%83_al_produsului>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 14 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Русский" ;
+                    tlp:link
+                        [
+                            tlp:text "Русский" ;
+                            tlp:url <https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0>
+                        ]
+                ] ,
+                [
+                    tlp:index 16 ;
+                    tlp:indexList ( 14 16 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Slovenčina" ;
+                    tlp:link
+                        [
+                            tlp:text "Slovenčina" ;
+                            tlp:url <https://sk.wikipedia.org/wiki/%C5%BDivotn%C3%BD_cyklus_v%C3%BDrobku>
+                        ]
+                ] ,
+                [
+                    tlp:index 17 ;
+                    tlp:indexList ( 14 17 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Svenska" ;
+                    tlp:link
+                        [
+                            tlp:text "Svenska" ;
+                            tlp:url <https://sv.wikipedia.org/wiki/Produktlivscykeln>
+                        ]
+                ] ,
+                [
+                    tlp:index 18 ;
+                    tlp:indexList ( 14 18 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Українська" ;
+                    tlp:link
+                        [
+                            tlp:text "Українська" ;
+                            tlp:url <https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%83>
+                        ]
+                ] ,
+                [
+                    tlp:index 19 ;
+                    tlp:indexList ( 14 19 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Tiếng Việt" ;
+                    tlp:link
+                        [
+                            tlp:text "Tiếng Việt" ;
+                            tlp:url <https://vi.wikipedia.org/wiki/Qu%E1%BA%A3n_l%C3%BD_v%C3%B2ng_%C4%91%E1%BB%9Di_s%E1%BA%A3n_ph%E1%BA%A9m>
+                        ]
+                ] ,
+                [
+                    tlp:index 20 ;
+                    tlp:indexList ( 14 20 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "中文" ;
+                    tlp:link
+                        [
+                            tlp:text "中文" ;
+                            tlp:url <https://zh.wikipedia.org/wiki/%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E7%AE%A1%E7%90%86_(%E5%B8%82%E5%9C%BA)>
+                        ]
+                ]
+        ]
+.

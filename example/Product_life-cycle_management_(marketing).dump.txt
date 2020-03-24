@@ -1,0 +1,477 @@
+[] Type: Page
+│  Label: Product life-cycle management (marketing)
+└─ Number of Member: 14
+    [0] Type: List
+    │   Label: Contents
+    │   Dimension: 2
+    └── Number of Member: 5
+        [0, 0] Type: Item
+        │      Label: Goals
+        └───── Link: {'text:Goals': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Goals'}
+        [0, 1] Type: Item, List
+        │      Label: Product life cycle
+        │      Link: {'text:Product life cycle': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Product_life_cycle'}
+        └───── Number of Member: 3
+            [0, 1, 0] Type: Item
+            │         Label: Extending the product life cycle
+            └──────── Link: {'text:Extending the product life cycle': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Extending_the_product_life_cycle'}
+            [0, 1, 1] Type: Item
+            │         Label: Characteristics of PLC stages
+            └──────── Link: {'text:Characteristics of PLC stages': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Characteristics_of_PLC_stages'}
+            [0, 1, 2] Type: Item
+            │         Label: Identifying PLC stages
+            └──────── Link: {'text:Identifying PLC stages': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Identifying_PLC_stages'}
+        [0, 2] Type: Item
+        │      Label: See also
+        └───── Link: {'text:See also': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#See_also'}
+        [0, 3] Type: Item
+        │      Label: References
+        └───── Link: {'text:References': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#References'}
+        [0, 4] Type: Item
+        │      Label: Further reading
+        └───── Link: {'text:Further reading': 'http://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)#Further_reading'}
+    [1] Type: List
+    │   Label: Product life cycle
+    │   Dimension: 1
+    └── Number of Member: 3
+        [1, 0] Type: Item
+        └───── Label: Products have a limited life and thus every product has a life cycle.
+        [1, 1] Type: Item
+        └───── Label: Product sales pass through distinct stages, each posing different challenges, opportunities, and problems to the seller.
+        [1, 2] Type: Item
+        └───── Label: Products require different marketing, financing, manufacturing, purchasing, and human resource strategies in each life cycle stage.
+    [2] Type: List
+    │   Label: Extending the product life cycle
+    │   Dimension: 1
+    └── Number of Member: 8
+        [2, 0] Type: Item
+        └───── Label: Advertising: Its purpose is to get additional audience and potential customers.
+        [2, 1] Type: Item
+        └───── Label: Exploring and expanding to new markets: By conducting market research and offering the product (or some adapted form of it) to new markets, it is possible to get more customers.
+        [2, 2] Type: Item
+        └───── Label: Price reduction: Many customers are attracted by price cuts and discount tags.
+        [2, 3] Type: Item
+        └───── Label: Adding new features: Adding value to the product to enhance its usability or to attract the attention of a wider customer base.
+        [2, 4] Type: Item
+        └───── Label: Packaging: New, attractive, useful or eco-friendly packaging influence the target customers.
+        [2, 5] Type: Item
+        └───── Label: Changing customer consumption habits: Promoting new trends of consumption can increase the number of customers.
+        [2, 6] Type: Item
+        └───── Label: Special promotions: Raising interest by offering Jackpot and other offers.
+        [2, 7] Type: Item
+        └───── Label: Heightening interest: Many of the following things attract many customers who match certain profiles: Eco-friendly production processes, good work conditions, funding the efforts of non-profit organizations (cancer cure, anti-war efforts, refugees, GLTBI, environment and animal protection, etc.) and the like.
+    [3] Type: Table
+    │   Label: Characteristics of PLC stages
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 3
+    └── Number of Member: 2
+        [3, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 5
+            [3, 0, 0] Type: Cell
+            │         Label: Stage
+            └──────── Style: Emphasize
+            [3, 0, 1] Type: Cell
+            └──────── Label: 1. Market introduction stage
+            [3, 0, 2] Type: Cell
+            └──────── Label: 2. Growth stage
+            [3, 0, 3] Type: Cell
+            └──────── Label: 3. Maturity stage
+            [3, 0, 4] Type: Cell
+            └──────── Label: 4. Saturation and decline stage
+        [3, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 5
+            [3, 1, 0] Type: Cell
+            │         Label: Characteristics
+            └──────── Style: Emphasize
+            [3, 1, 1] Type: Cell
+            │         Label: This is the stage in which the product has been introduced first time in the market and the sales of the product starts to grow slowly and gradually and the profit received from the product is nominal and non-attained. The market for the product is not competitive initially and also the company spends initially on the advertisement and uses various other tools for promotion in order to motivate and produce awareness among the consumers, therefore generating discerning demands for particular brand. The products start to gain distribution as the product is initially new in the market and in this stage the quality of the product is not assured and the price of the product will also be determined as low or high.
+            │         Style: Enumerate
+            └──────── Number of Member: 6
+                [3, 1, 1, 0] Type: Item
+                └─────────── Label: costs are very high
+                [3, 1, 1, 1] Type: Item
+                └─────────── Label: slow sales volumes to start
+                [3, 1, 1, 2] Type: Item
+                └─────────── Label: little or no competition
+                [3, 1, 1, 3] Type: Item
+                └─────────── Label: demand has to be created
+                [3, 1, 1, 4] Type: Item
+                └─────────── Label: customers have to be prompted to try the product
+                [3, 1, 1, 5] Type: Item
+                └─────────── Label: makes little money at this stage
+            [3, 1, 2] Type: Cell
+            │         Label: In the growth stage, the product is visibly present in the market, the product has habitual consumers, and there is quick growth in product sales. More new customers are becoming aware of the product and trying it. The customers are becoming satisfied with the product and are buying it again and again. The ratio of the product repetition for the trial procurement has risen. Competitors have started to overflow the market with more appealing and attractive inventions. This helps in creating increased competition in the market and also results in decreasing the product price.
+            │         Style: Enumerate
+            └──────── Number of Member: 6
+                [3, 1, 2, 0] Type: Item
+                └─────────── Label: costs reduced due to economies of scale
+                [3, 1, 2, 1] Type: Item
+                └─────────── Label: sales volume increases significantly
+                [3, 1, 2, 2] Type: Item
+                └─────────── Label: profitability begins to rise
+                [3, 1, 2, 3] Type: Item
+                └─────────── Label: public awareness increases
+                [3, 1, 2, 4] Type: Item
+                └─────────── Label: competition begins to increase with a few new players in establishing market
+                [3, 1, 2, 5] Type: Item
+                └─────────── Label: increased competition leads to price decreases
+            [3, 1, 3] Type: Cell
+            │         Label: In maturity stage, the cost of the product has been decreased because of the increased volume of the product and the product started to experience the curve effects. Also, more and more competitors have seen to be leaving the market. In this way very few buyers have been left for the product and this results in less sales of the product. The decline of the product and cost of attaining new buyers in this level is more as compare to the resulted profit. The brand or the product differentiation via rebating and discounts in price supports in recalling the outlet distribution. Also, there is a decline in the entire cost of marketing through enhancing the distribution and promotional efficiency with switching brand and segmentation.
+            │         Style: Enumerate
+            └──────── Number of Member: 6
+                [3, 1, 3, 0] Type: Item
+                └─────────── Label: costs are decreased as a result of production volumes increasing and experience curve effects
+                [3, 1, 3, 1] Type: Item
+                └─────────── Label: sales volume peaks and market saturation is reached
+                [3, 1, 3, 2] Type: Item
+                └─────────── Label: increase in competitors entering the market
+                [3, 1, 3, 3] Type: Item
+                └─────────── Label: prices tend to drop due to the proliferation of competing products
+                [3, 1, 3, 4] Type: Item
+                └─────────── Label: brand differentiation and feature diversification is emphasized to maintain or increase market share
+                [3, 1, 3, 5] Type: Item
+                └─────────── Label: industrial profits go down
+            [3, 1, 4] Type: Cell
+            │         Label: In this stage, the profit as well as the sales of the product has started to decline because of the deletion of the product from the market. The market for the product in this stage started to show negative rate of growth and corroding cash flows. The product at this stage may be kept but there should be fewer adverts.
+Note: Product termination is usually not the end of the business cycle, only the end of a single entrant within the larger scope of an ongoing business program.
+            │         Style: Enumerate
+            └──────── Number of Member: 4
+                [3, 1, 4, 0] Type: Item
+                └─────────── Label: costs become counter-optimal
+                [3, 1, 4, 1] Type: Item
+                └─────────── Label: sales volume decline
+                [3, 1, 4, 2] Type: Item
+                └─────────── Label: prices, profitability diminish
+                [3, 1, 4, 3] Type: Item
+                └─────────── Label: profit becomes more a challenge of production/distribution efficiency than increased sales
+    [4] Type: Table
+    │   Label: Identifying PLC stages
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 5
+        [4, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [4, 0, 0] Type: Cell
+            │         Label: Identifying
+features
+            └──────── Style: LineSpan
+            [4, 0, 1] Type: Cell
+            │         Label: Identifying
+features
+            └──────── Style: LineSpan
+            [4, 0, 2] Type: Cell
+            └──────── Label: Sales
+            [4, 0, 3] Type: Cell
+            └──────── Label: Investment cost
+            [4, 0, 4] Type: Cell
+            └──────── Label: Competition
+            [4, 0, 5] Type: Cell
+            └──────── Label: Profit
+        [4, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [4, 1, 0] Type: Cell
+            │         Label: Stages
+            └──────── Style: GrpSpan
+            [4, 1, 1] Type: Cell
+            │         Label: Introduction
+            └──────── Style: Emphasize
+            [4, 1, 2] Type: Cell
+            └──────── Label: Low
+            [4, 1, 3] Type: Cell
+            └──────── Label: Very high
+            [4, 1, 4] Type: Cell
+            └──────── Label: Low or no competition
+            [4, 1, 5] Type: Cell
+            └──────── Label: Low
+        [4, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [4, 2, 0] Type: Cell
+            │         Label: Stages
+            └──────── Style: GrpSpan
+            [4, 2, 1] Type: Cell
+            │         Label: Growth
+            └──────── Style: Emphasize
+            [4, 2, 2] Type: Cell
+            └──────── Label: High
+            [4, 2, 3] Type: Cell
+            └──────── Label: High (lower than intro stage)
+            [4, 2, 4] Type: Cell
+            └──────── Label: High
+            [4, 2, 5] Type: Cell
+            └──────── Label: High
+        [4, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [4, 3, 0] Type: Cell
+            │         Label: Stages
+            └──────── Style: GrpSpan
+            [4, 3, 1] Type: Cell
+            │         Label: Maturity
+            └──────── Style: Emphasize
+            [4, 3, 2] Type: Cell
+            └──────── Label: High
+            [4, 3, 3] Type: Cell
+            └──────── Label: Low
+            [4, 3, 4] Type: Cell
+            └──────── Label: Very high
+            [4, 3, 5] Type: Cell
+            └──────── Label: High
+        [4, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [4, 4, 0] Type: Cell
+            │         Label: Stages
+            └──────── Style: GrpSpan
+            [4, 4, 1] Type: Cell
+            │         Label: Decline
+            └──────── Style: Emphasize
+            [4, 4, 2] Type: Cell
+            └──────── Label: Low
+            [4, 4, 3] Type: Cell
+            └──────── Label: Low
+            [4, 4, 4] Type: Cell
+            └──────── Label: Very High
+            [4, 4, 5] Type: Cell
+            └──────── Label: Low
+    [5] Type: List
+    │   Label: See also
+    │   Dimension: 1
+    └── Number of Member: 14
+        [5, 0] Type: Item
+        │      Label: Application lifecycle management
+        └───── Link: {'text:Application lifecycle management': 'http://en.wikipedia.org/wiki/Application_lifecycle_management'}
+        [5, 1] Type: Item
+        │      Label: Brand awareness
+        └───── Link: {'text:Brand awareness': 'http://en.wikipedia.org/wiki/Brand_awareness'}
+        [5, 2] Type: Item
+        │      Label: Consumer behaviour
+        └───── Link: {'text:Consumer behaviour': 'http://en.wikipedia.org/wiki/Consumer_behaviour'}
+        [5, 3] Type: Item
+        │      Label: Diminishing manufacturing sources and material shortages (DMSMS)
+        └───── Link: {'text:Diminishing manufacturing sources and material shortages (DMSMS)': 'http://en.wikipedia.org/wiki/DMSMS'}
+        [5, 4] Type: Item
+        │      Label: Material selection
+        └───── Link: {'text:Material selection': 'http://en.wikipedia.org/wiki/Material_selection'}
+        [5, 5] Type: Item
+        │      Label: New product development
+        └───── Link: {'text:New product development': 'http://en.wikipedia.org/wiki/New_product_development'}
+        [5, 6] Type: Item
+        │      Label: Obsolescence
+        └───── Link: {'text:Obsolescence': 'http://en.wikipedia.org/wiki/Obsolescence'}
+        [5, 7] Type: Item
+        │      Label: Planned obsolescence
+        └───── Link: {'text:Planned obsolescence': 'http://en.wikipedia.org/wiki/Planned_obsolescence_(business)'}
+        [5, 8] Type: Item
+        │      Label: Product lifecycle management
+        └───── Link: {'text:Product lifecycle management': 'http://en.wikipedia.org/wiki/Product_lifecycle_management'}
+        [5, 9] Type: Item
+        │      Label: Product management
+        └───── Link: {'text:Product management': 'http://en.wikipedia.org/wiki/Product_management'}
+        [5, 10] Type: Item
+        │       Label: Product teardown
+        └────── Link: {'text:Product teardown': 'http://en.wikipedia.org/wiki/Product_teardown'}
+        [5, 11] Type: Item
+        │       Label: Software product management
+        └────── Link: {'text:Software product management': 'http://en.wikipedia.org/wiki/Software_product_management'}
+        [5, 12] Type: Item
+        │       Label: Technology life cycle
+        └────── Link: {'text:Technology life cycle': 'http://en.wikipedia.org/wiki/Technology_life_cycle'}
+        [5, 13] Type: Item
+        │       Label: Toolkits for user innovation
+        └────── Link: {'text:Toolkits for user innovation': 'http://en.wikipedia.org/wiki/Toolkits_for_user_innovation'}
+    [6] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 4
+        [6, 0] Type: Item
+        │      Label: Levitt, Theodore (November 1965). "Exploit the Product Life Cycle". Harvard Business Review.
+        └───── Link: {'text:"Exploit the Product Life Cycle"': 'https://hbr.org/1965/11/exploit-the-product-life-cycle'}
+        [6, 1] Type: Item
+        │      Label: Anderson & Zeithaml, Carl R. & Carl P. (Mar 1984). "Stage of the Product Life Cycle, Business Strategy, and Business Performance". The Academy of Management Journal. 27 (1): 5–24. doi:10.2307/255954. JSTOR 255954.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.2307/255954': 'https://doi.org/10.2307%2F255954', 'text:JSTOR': 'http://en.wikipedia.org/wiki/JSTOR', 'text:255954': 'http://www.jstor.org/stable/255954'}
+        [6, 2] Type: Item
+        └───── Label: Steffens, Paul (August 2002). "The Product Life Cycle Concept: Buried or Resurrected by the Diffusion Literature?". Academy of Management Conference. 1 (5): 1–30.
+        [6, 3] Type: Item
+        │      Label: Safi, Roozmehr; Yu, Yang (July 2017). "Online product review as an indicator of users' degree of innovativeness and product adoption time: a longitudinal analysis of text reviews". European Journal of Information Systems. 26 (4): 414–431. doi:10.1057/s41303-017-0045-2. ISSN 0960-085X.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1057/s41303-017-0045-2': 'https://doi.org/10.1057%2Fs41303-017-0045-2', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0960-085X': 'http://www.worldcat.org/issn/0960-085X'}
+    [7] Type: List
+    │   Label: Further reading
+    │   Dimension: 1
+    └── Number of Member: 11
+        [7, 0] Type: Item
+        └───── Label: Box, Jonathan Mbosia,  Extending product lifetime: Prospects and opportunities, Tanzanian Journal of Marketing September, 1983
+        [7, 1] Type: Item
+        └───── Label: Day, G. "The product life cycle: Analysis and applications issues", Journal of Marketing, vol 45, Autumn 1981, pp 60–67.
+        [7, 2] Type: Item
+        └───── Label: Levitt, T., "Exploit the product life cycle", Harvard Business Review, vol 43, November–December 1965, pp 81–94.
+        [7, 3] Type: Item
+        └───── Label: Dhalla, N.K., Yuspeh, S., "Forget the product life cycle concept", Harvard Business Review, Jan–Feb 1976
+        [7, 4] Type: Item
+        │      Label: Rey, F.J.; Martín-Gil, J.; Velasco, E.;  et al. (2004). "Life Cycle Assessment and external environmental cost analysis of heat pumps". Environmental Engineering Science. 21 (5): 591–604. doi:10.1089/ees.2004.21.591.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1089/ees.2004.21.591': 'https://doi.org/10.1089%2Fees.2004.21.591'}
+        [7, 5] Type: Item
+        │      Label: Westkämper, E (2000). "Live Cycle Management and Assessment: Approaches and Visions Towards Sustainable Manufacturing". CIRP Annals. 49 (2): 501–522. doi:10.1016/s0007-8506(07)63453-2.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/s0007-8506(07)63453-2': 'https://doi.org/10.1016%2Fs0007-8506%2807%2963453-2'}
+        [7, 6] Type: Item
+        │      Label: Chan, K.C.; Mills, T.M. (2015). "Modeling competition over product life cycles". Asia-Pacific Journal of Operational Research. 32 (4): 1550021. doi:10.1142/S0217595915500219.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1142/S0217595915500219': 'https://doi.org/10.1142%2FS0217595915500219'}
+        [7, 7] Type: Item
+        │      Label: Anderson, C.; Zeithaml, C. (1984). "Stage of the Product Life Cycle, Business Strategy, and Business Performance". Academy of Management. 27 (1): 5–24. doi:10.2307/255954. JSTOR 255954.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.2307/255954': 'https://doi.org/10.2307%2F255954', 'text:JSTOR': 'http://en.wikipedia.org/wiki/JSTOR', 'text:255954': 'http://www.jstor.org/stable/255954'}
+        [7, 8] Type: Item
+        │      Label: Griffin, A (1997). "The Effect of Project and Process Characteristics on Product Development Cycle Time". Journal of Marketing Research. 34 (1): 24–35. doi:10.2307/3152062. JSTOR 3152062.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.2307/3152062': 'https://doi.org/10.2307%2F3152062', 'text:JSTOR': 'http://en.wikipedia.org/wiki/JSTOR', 'text:3152062': 'http://www.jstor.org/stable/3152062'}
+        [7, 9] Type: Item
+        └───── Label: Levitt, T., 1965. Exploit the Product Life Cycle. Harvard Business Review
+        [7, 10] Type: Item
+        └────── Label: Steffens, P (2002). "The Product Life Cycle Concept: Buried or Resurrected by the Diffusion Literature?". Academy of Management Conference. 1 (5): 1–30.
+    [8] Type: List
+    │   Label: Further reading
+    │   Dimension: 1
+    └── Number of Member: 4
+        [8, 0] Type: Item
+        │      Label: Brand management
+        └───── Link: {'text:Brand management': 'http://en.wikipedia.org/wiki/Category:Brand_management'}
+        [8, 1] Type: Item
+        │      Label: Business terms
+        └───── Link: {'text:Business terms': 'http://en.wikipedia.org/wiki/Category:Business_terms'}
+        [8, 2] Type: Item
+        │      Label: Marketing strategy
+        └───── Link: {'text:Marketing strategy': 'http://en.wikipedia.org/wiki/Category:Marketing_strategy'}
+        [8, 3] Type: Item
+        │      Label: Product management
+        └───── Link: {'text:Product management': 'http://en.wikipedia.org/wiki/Category:Product_management'}
+    [9] Type: List
+    │   Label: Further reading
+    │   Dimension: 1
+    └── Number of Member: 4
+        [9, 0] Type: Item
+        │      Label: Articles needing additional references from August 2012
+        └───── Link: {'text:Articles needing additional references from August 2012': 'http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_August_2012'}
+        [9, 1] Type: Item
+        │      Label: All articles needing additional references
+        └───── Link: {'text:All articles needing additional references': 'http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references'}
+        [9, 2] Type: Item
+        │      Label: All articles with unsourced statements
+        └───── Link: {'text:All articles with unsourced statements': 'http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements'}
+        [9, 3] Type: Item
+        │      Label: Articles with unsourced statements from August 2012
+        └───── Link: {'text:Articles with unsourced statements from August 2012': 'http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_August_2012'}
+    [10] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [10, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Product_life-cycle_management_(marketing)'}
+        [10, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Product_life-cycle_management_(marketing)'}
+        [10, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [10, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [10, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&oldid=930500151'}
+        [10, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&action=info'}
+        [10, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q1572577'}
+        [10, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Product_life-cycle_management_%28marketing%29&id=930500151&wpFormIdentifier=titleform'}
+    [11] Type: List
+    │    Label: In other projects
+    │    Dimension: 1
+    └─── Number of Member: 1
+        [11, 0] Type: Item
+        │       Label: Wikimedia Commons
+        └────── Link: {'text:Wikimedia Commons': 'https://commons.wikimedia.org/wiki/Category:Product_life_cycles'}
+    [12] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [12, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Product+life-cycle+management+%28marketing%29'}
+        [12, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Product+life-cycle+management+%28marketing%29&action=show-download-screen'}
+        [12, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Product_life-cycle_management_(marketing)&printable=yes'}
+    [13] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 20
+        [13, 0] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%AD%D9%8A%D8%A7%D8%A9_%D8%B3%D9%84%D8%B9%D8%A9'}
+        [13, 1] Type: Item
+        │       Label: Български
+        └────── Link: {'text:Български': 'https://bg.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD_%D1%86%D0%B8%D0%BA%D1%8A%D0%BB_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82'}
+        [13, 2] Type: Item
+        │       Label: Deutsch
+        └────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Produktlebenszyklus'}
+        [13, 3] Type: Item
+        │       Label: Español
+        └────── Link: {'text:Español': 'https://es.wikipedia.org/wiki/Ciclo_de_vida_del_producto'}
+        [13, 4] Type: Item
+        │       Label: Euskara
+        └────── Link: {'text:Euskara': 'https://eu.wikipedia.org/wiki/Produktuaren_bizitza-ziklo'}
+        [13, 5] Type: Item
+        │       Label: Français
+        └────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Cycle_de_vie_(commerce)'}
+        [13, 6] Type: Item
+        │       Label: Bahasa Indonesia
+        └────── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/Siklus_produk'}
+        [13, 7] Type: Item
+        │       Label: Latviešu
+        └────── Link: {'text:Latviešu': 'https://lv.wikipedia.org/wiki/Produkta_dz%C4%ABves_cikls'}
+        [13, 8] Type: Item
+        │       Label: Lietuvių
+        └────── Link: {'text:Lietuvių': 'https://lt.wikipedia.org/wiki/Prek%C4%97s_gyvenimo_ciklas'}
+        [13, 9] Type: Item
+        │       Label: Nederlands
+        └────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/Productlevenscyclus'}
+        [13, 10] Type: Item
+        │        Label: 日本語
+        └─────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88'}
+        [13, 11] Type: Item
+        │        Label: Polski
+        └─────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/Cykl_%C5%BCycia_produktu'}
+        [13, 12] Type: Item
+        │        Label: Português
+        └─────── Link: {'text:Português': 'https://pt.wikipedia.org/wiki/Ciclo_de_vida_do_produto'}
+        [13, 13] Type: Item
+        │        Label: Română
+        └─────── Link: {'text:Română': 'https://ro.wikipedia.org/wiki/Ciclu_de_via%C8%9B%C4%83_al_produsului'}
+        [13, 14] Type: Item
+        │        Label: Русский
+        └─────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0'}
+        [13, 15] Type: Item
+        │        Label: Slovenčina
+        └─────── Link: {'text:Slovenčina': 'https://sk.wikipedia.org/wiki/%C5%BDivotn%C3%BD_cyklus_v%C3%BDrobku'}
+        [13, 16] Type: Item
+        │        Label: Svenska
+        └─────── Link: {'text:Svenska': 'https://sv.wikipedia.org/wiki/Produktlivscykeln'}
+        [13, 17] Type: Item
+        │        Label: Українська
+        └─────── Link: {'text:Українська': 'https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%83'}
+        [13, 18] Type: Item
+        │        Label: Tiếng Việt
+        └─────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/Qu%E1%BA%A3n_l%C3%BD_v%C3%B2ng_%C4%91%E1%BB%9Di_s%E1%BA%A3n_ph%E1%BA%A9m'}
+        [13, 19] Type: Item
+        │        Label: 中文
+        └─────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E7%AE%A1%E7%90%86_(%E5%B8%82%E5%9C%BA)'}

@@ -1,0 +1,3947 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tlpedia:Thai_people a tlp:Page ;
+    rdfs:label "Thai people" ;
+    tlp:element _:ub314bL1012C9,
+        _:ub314bL1019C17,
+        _:ub314bL1030C17,
+        _:ub314bL103C25,
+        _:ub314bL1041C17,
+        _:ub314bL1052C17,
+        _:ub314bL1063C17,
+        _:ub314bL1074C17,
+        _:ub314bL1085C17,
+        _:ub314bL1096C17,
+        _:ub314bL1107C17,
+        _:ub314bL1118C17,
+        _:ub314bL1129C17,
+        _:ub314bL1141C9,
+        _:ub314bL1148C17,
+        _:ub314bL1159C17,
+        _:ub314bL115C25,
+        _:ub314bL1170C17,
+        _:ub314bL1181C17,
+        _:ub314bL1192C17,
+        _:ub314bL1203C17,
+        _:ub314bL1214C17,
+        _:ub314bL1225C17,
+        _:ub314bL1236C17,
+        _:ub314bL1247C17,
+        _:ub314bL1258C17,
+        _:ub314bL1269C17,
+        _:ub314bL127C25,
+        _:ub314bL1280C17,
+        _:ub314bL1292C9,
+        _:ub314bL1300C17,
+        _:ub314bL1307C9,
+        _:ub314bL1315C17,
+        _:ub314bL1335C9,
+        _:ub314bL1343C17,
+        _:ub314bL1362C17,
+        _:ub314bL1385C17,
+        _:ub314bL139C25,
+        _:ub314bL1404C17,
+        _:ub314bL1415C17,
+        _:ub314bL1426C17,
+        _:ub314bL1437C17,
+        _:ub314bL1448C17,
+        _:ub314bL1463C17,
+        _:ub314bL1474C17,
+        _:ub314bL1493C17,
+        _:ub314bL1508C17,
+        _:ub314bL1519C17,
+        _:ub314bL151C25,
+        _:ub314bL1534C17,
+        _:ub314bL1545C17,
+        _:ub314bL1560C17,
+        _:ub314bL1571C17,
+        _:ub314bL1582C17,
+        _:ub314bL1593C17,
+        _:ub314bL1604C17,
+        _:ub314bL1615C17,
+        _:ub314bL1626C17,
+        _:ub314bL163C25,
+        _:ub314bL1641C17,
+        _:ub314bL1652C17,
+        _:ub314bL1658C17,
+        _:ub314bL1664C17,
+        _:ub314bL1670C17,
+        _:ub314bL1676C17,
+        _:ub314bL1691C17,
+        _:ub314bL1706C17,
+        _:ub314bL1712C17,
+        _:ub314bL1723C17,
+        _:ub314bL1734C17,
+        _:ub314bL1749C17,
+        _:ub314bL175C25,
+        _:ub314bL1772C17,
+        _:ub314bL1783C17,
+        _:ub314bL1789C17,
+        _:ub314bL1800C17,
+        _:ub314bL1811C17,
+        _:ub314bL1830C17,
+        _:ub314bL1849C17,
+        _:ub314bL1864C17,
+        _:ub314bL1875C17,
+        _:ub314bL187C25,
+        _:ub314bL1898C17,
+        _:ub314bL1904C17,
+        _:ub314bL1915C17,
+        _:ub314bL1921C17,
+        _:ub314bL1927C17,
+        _:ub314bL1933C17,
+        _:ub314bL1944C17,
+        _:ub314bL1971C17,
+        _:ub314bL1986C17,
+        _:ub314bL1992C17,
+        _:ub314bL1998C17,
+        _:ub314bL199C25,
+        _:ub314bL19C9,
+        _:ub314bL2004C17,
+        _:ub314bL2010C17,
+        _:ub314bL2016C17,
+        _:ub314bL2022C17,
+        _:ub314bL2028C17,
+        _:ub314bL2034C17,
+        _:ub314bL2040C17,
+        _:ub314bL2052C9,
+        _:ub314bL2059C17,
+        _:ub314bL2065C17,
+        _:ub314bL2071C17,
+        _:ub314bL2078C9,
+        _:ub314bL2085C17,
+        _:ub314bL2097C9,
+        _:ub314bL2104C17,
+        _:ub314bL2115C17,
+        _:ub314bL211C25,
+        _:ub314bL2127C9,
+        _:ub314bL2134C17,
+        _:ub314bL2145C17,
+        _:ub314bL2156C17,
+        _:ub314bL2167C17,
+        _:ub314bL2178C17,
+        _:ub314bL2189C17,
+        _:ub314bL2200C17,
+        _:ub314bL2211C17,
+        _:ub314bL2222C17,
+        _:ub314bL2233C17,
+        _:ub314bL223C25,
+        _:ub314bL2244C17,
+        _:ub314bL2255C17,
+        _:ub314bL2266C17,
+        _:ub314bL2277C17,
+        _:ub314bL2288C17,
+        _:ub314bL2299C17,
+        _:ub314bL2310C17,
+        _:ub314bL2321C17,
+        _:ub314bL2332C17,
+        _:ub314bL2343C17,
+        _:ub314bL2354C17,
+        _:ub314bL235C25,
+        _:ub314bL2365C17,
+        _:ub314bL2376C17,
+        _:ub314bL2388C9,
+        _:ub314bL2395C17,
+        _:ub314bL2406C17,
+        _:ub314bL2417C17,
+        _:ub314bL2428C17,
+        _:ub314bL2439C17,
+        _:ub314bL2450C17,
+        _:ub314bL2461C17,
+        _:ub314bL2472C17,
+        _:ub314bL247C25,
+        _:ub314bL2484C9,
+        _:ub314bL2491C17,
+        _:ub314bL2503C9,
+        _:ub314bL2510C17,
+        _:ub314bL2521C17,
+        _:ub314bL2532C17,
+        _:ub314bL2544C9,
+        _:ub314bL2551C17,
+        _:ub314bL2562C17,
+        _:ub314bL2573C17,
+        _:ub314bL2584C17,
+        _:ub314bL2595C17,
+        _:ub314bL259C25,
+        _:ub314bL2606C17,
+        _:ub314bL2617C17,
+        _:ub314bL2628C17,
+        _:ub314bL2639C17,
+        _:ub314bL2650C17,
+        _:ub314bL2661C17,
+        _:ub314bL2672C17,
+        _:ub314bL2683C17,
+        _:ub314bL2694C17,
+        _:ub314bL2705C17,
+        _:ub314bL2716C17,
+        _:ub314bL271C25,
+        _:ub314bL2727C17,
+        _:ub314bL2738C17,
+        _:ub314bL2749C17,
+        _:ub314bL2760C17,
+        _:ub314bL2771C17,
+        _:ub314bL2782C17,
+        _:ub314bL2793C17,
+        _:ub314bL2804C17,
+        _:ub314bL2815C17,
+        _:ub314bL2826C17,
+        _:ub314bL2837C17,
+        _:ub314bL283C25,
+        _:ub314bL2848C17,
+        _:ub314bL2859C17,
+        _:ub314bL2870C17,
+        _:ub314bL2881C17,
+        _:ub314bL2892C17,
+        _:ub314bL2903C17,
+        _:ub314bL2914C17,
+        _:ub314bL2925C17,
+        _:ub314bL2936C17,
+        _:ub314bL2947C17,
+        _:ub314bL2958C17,
+        _:ub314bL295C25,
+        _:ub314bL2969C17,
+        _:ub314bL2980C17,
+        _:ub314bL2991C17,
+        _:ub314bL3002C17,
+        _:ub314bL3013C17,
+        _:ub314bL307C25,
+        _:ub314bL30C17,
+        _:ub314bL319C25,
+        _:ub314bL331C25,
+        _:ub314bL343C25,
+        _:ub314bL355C25,
+        _:ub314bL367C25,
+        _:ub314bL36C25,
+        _:ub314bL379C25,
+        _:ub314bL391C25,
+        _:ub314bL403C25,
+        _:ub314bL415C25,
+        _:ub314bL427C25,
+        _:ub314bL439C25,
+        _:ub314bL451C25,
+        _:ub314bL463C25,
+        _:ub314bL475C25,
+        _:ub314bL487C25,
+        _:ub314bL499C25,
+        _:ub314bL511C25,
+        _:ub314bL523C25,
+        _:ub314bL530C25,
+        _:ub314bL538C25,
+        _:ub314bL552C25,
+        _:ub314bL560C25,
+        _:ub314bL56C25,
+        _:ub314bL580C25,
+        _:ub314bL588C25,
+        _:ub314bL629C17,
+        _:ub314bL635C25,
+        _:ub314bL64C25,
+        _:ub314bL655C25,
+        _:ub314bL663C25,
+        _:ub314bL670C25,
+        _:ub314bL678C25,
+        _:ub314bL690C25,
+        _:ub314bL696C25,
+        _:ub314bL702C25,
+        _:ub314bL708C25,
+        _:ub314bL714C25,
+        _:ub314bL71C25,
+        _:ub314bL720C25,
+        _:ub314bL726C25,
+        _:ub314bL732C25,
+        _:ub314bL738C25,
+        _:ub314bL744C25,
+        _:ub314bL750C25,
+        _:ub314bL756C25,
+        _:ub314bL762C25,
+        _:ub314bL768C25,
+        _:ub314bL774C25,
+        _:ub314bL780C25,
+        _:ub314bL786C25,
+        _:ub314bL792C25,
+        _:ub314bL798C25,
+        _:ub314bL79C25,
+        _:ub314bL804C25,
+        _:ub314bL810C25,
+        _:ub314bL816C25,
+        _:ub314bL822C25,
+        _:ub314bL828C25,
+        _:ub314bL834C25,
+        _:ub314bL840C25,
+        _:ub314bL846C25,
+        _:ub314bL852C25,
+        _:ub314bL858C25,
+        _:ub314bL864C25,
+        _:ub314bL870C25,
+        _:ub314bL876C25,
+        _:ub314bL882C25,
+        _:ub314bL888C25,
+        _:ub314bL894C25,
+        _:ub314bL900C25,
+        _:ub314bL906C25,
+        _:ub314bL912C25,
+        _:ub314bL91C25,
+        _:ub314bL920C25,
+        _:ub314bL934C25,
+        _:ub314bL942C25,
+        _:ub314bL962C25,
+        _:ub314bL970C25 ;
+    tlp:indexList ( 0 ) ;
+    tlp:member _:ub314bL1012C9,
+        _:ub314bL1141C9,
+        _:ub314bL1292C9,
+        _:ub314bL1307C9,
+        _:ub314bL1335C9,
+        _:ub314bL19C9,
+        _:ub314bL2052C9,
+        _:ub314bL2078C9,
+        _:ub314bL2097C9,
+        _:ub314bL2127C9,
+        _:ub314bL2388C9,
+        _:ub314bL2484C9,
+        _:ub314bL2503C9,
+        _:ub314bL2544C9 ;
+    owl:sameAs dbpedia:Thai_people ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Thai_people?oldid=> ;
+    foaf:isPrimaryTopicOf wikipedia:Thai_people ;
+    foaf:name "Thai people" .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b10 rdf:first 0 ;
+    rdf:rest () .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b100 rdf:first 1 ;
+    rdf:rest ( 24 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b103 rdf:first 1 ;
+    rdf:rest ( 1 25 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b107 rdf:first 1 ;
+    rdf:rest ( 1 26 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b11 rdf:first 1 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b111 rdf:first 1 ;
+    rdf:rest ( 1 27 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b115 rdf:first 1 ;
+    rdf:rest ( 1 28 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b119 rdf:first 1 ;
+    rdf:rest ( 1 29 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b123 rdf:first 1 ;
+    rdf:rest ( 1 30 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b127 rdf:first 1 ;
+    rdf:rest ( 1 31 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b131 rdf:first 1 ;
+    rdf:rest ( 1 32 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b135 rdf:first 1 ;
+    rdf:rest ( 1 33 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b139 rdf:first 1 ;
+    rdf:rest ( 1 34 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b143 rdf:first 1 ;
+    rdf:rest ( 1 35 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b147 rdf:first 1 ;
+    rdf:rest ( 1 36 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b15 rdf:first 1 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b151 rdf:first 1 ;
+    rdf:rest ( 1 37 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b155 rdf:first 1 ;
+    rdf:rest ( 1 38 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b159 rdf:first 1 ;
+    rdf:rest ( 1 39 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b163 rdf:first 1 ;
+    rdf:rest ( 1 40 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b167 rdf:first 1 ;
+    rdf:rest ( 1 41 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b171 rdf:first 1 ;
+    rdf:rest ( 1 42 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b175 rdf:first 1 ;
+    rdf:rest ( 1 43 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b179 rdf:first 1 ;
+    rdf:rest ( 1 44 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b183 rdf:first 1 ;
+    rdf:rest ( 1 45 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b187 rdf:first 1 ;
+    rdf:rest ( 1 46 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b19 rdf:first 1 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b191 rdf:first 1 ;
+    rdf:rest ( 1 47 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b195 rdf:first 1 ;
+    rdf:rest ( 1 48 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b199 rdf:first 1 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b2 rdf:first 1 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b202 rdf:first 1 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b206 rdf:first 1 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b210 rdf:first 1 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b214 rdf:first 1 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b218 rdf:first 1 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b222 rdf:first 1 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b226 rdf:first 1 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b23 rdf:first 1 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b230 rdf:first 1 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b234 rdf:first 1 ;
+    rdf:rest ( 2 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b238 rdf:first 1 ;
+    rdf:rest ( 2 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b242 rdf:first 1 ;
+    rdf:rest ( 2 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b246 rdf:first 1 ;
+    rdf:rest ( 2 12 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b250 rdf:first 1 ;
+    rdf:rest ( 2 13 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b254 rdf:first 1 ;
+    rdf:rest ( 2 14 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b258 rdf:first 1 ;
+    rdf:rest ( 2 15 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b262 rdf:first 1 ;
+    rdf:rest ( 2 16 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b266 rdf:first 1 ;
+    rdf:rest ( 2 17 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b27 rdf:first 1 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b270 rdf:first 1 ;
+    rdf:rest ( 2 18 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b274 rdf:first 1 ;
+    rdf:rest ( 2 19 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b278 rdf:first 1 ;
+    rdf:rest ( 2 20 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b282 rdf:first 1 ;
+    rdf:rest ( 2 21 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b286 rdf:first 1 ;
+    rdf:rest ( 2 22 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b290 rdf:first 1 ;
+    rdf:rest ( 2 23 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b294 rdf:first 1 ;
+    rdf:rest ( 2 24 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b298 rdf:first 1 ;
+    rdf:rest ( 2 25 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b302 rdf:first 1 ;
+    rdf:rest ( 2 26 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b306 rdf:first 1 ;
+    rdf:rest ( 2 27 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b31 rdf:first 1 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b310 rdf:first 1 ;
+    rdf:rest ( 2 28 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b314 rdf:first 1 ;
+    rdf:rest ( 2 29 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b318 rdf:first 1 ;
+    rdf:rest ( 2 30 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b322 rdf:first 1 ;
+    rdf:rest ( 2 31 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b326 rdf:first 1 ;
+    rdf:rest ( 2 32 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b330 rdf:first 1 ;
+    rdf:rest ( 2 33 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b334 rdf:first 1 ;
+    rdf:rest ( 2 34 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b338 rdf:first 1 ;
+    rdf:rest ( 2 35 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b342 rdf:first 1 ;
+    rdf:rest ( 2 36 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b346 rdf:first 1 ;
+    rdf:rest ( 2 37 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b35 rdf:first 1 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b350 rdf:first 1 ;
+    rdf:rest ( 2 38 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b354 rdf:first 1 ;
+    rdf:rest ( 2 39 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b358 rdf:first 1 ;
+    rdf:rest ( 2 40 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b362 rdf:first 1 ;
+    rdf:rest ( 2 41 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b366 rdf:first 1 ;
+    rdf:rest ( 2 42 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b370 rdf:first 1 ;
+    rdf:rest ( 2 43 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b374 rdf:first 1 ;
+    rdf:rest ( 2 44 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b378 rdf:first 1 ;
+    rdf:rest ( 2 45 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b382 rdf:first 1 ;
+    rdf:rest ( 2 46 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b386 rdf:first 1 ;
+    rdf:rest ( 2 47 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b39 rdf:first 1 ;
+    rdf:rest ( 1 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b390 rdf:first 1 ;
+    rdf:rest ( 2 48 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b394 rdf:first 2 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b396 rdf:first 2 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b399 rdf:first 2 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b4 rdf:first 1 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b402 rdf:first 2 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b405 rdf:first 2 ;
+    rdf:rest ( 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b408 rdf:first 2 ;
+    rdf:rest ( 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b411 rdf:first 2 ;
+    rdf:rest ( 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b414 rdf:first 2 ;
+    rdf:rest ( 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b417 rdf:first 2 ;
+    rdf:rest ( 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b420 rdf:first 2 ;
+    rdf:rest ( 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b423 rdf:first 2 ;
+    rdf:rest ( 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b426 rdf:first 2 ;
+    rdf:rest ( 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b429 rdf:first 3 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b43 rdf:first 1 ;
+    rdf:rest ( 1 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b431 rdf:first 3 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b434 rdf:first 3 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b437 rdf:first 3 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b440 rdf:first 3 ;
+    rdf:rest ( 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b443 rdf:first 3 ;
+    rdf:rest ( 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b446 rdf:first 3 ;
+    rdf:rest ( 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b449 rdf:first 3 ;
+    rdf:rest ( 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b452 rdf:first 3 ;
+    rdf:rest ( 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b455 rdf:first 3 ;
+    rdf:rest ( 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b458 rdf:first 3 ;
+    rdf:rest ( 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b461 rdf:first 3 ;
+    rdf:rest ( 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b464 rdf:first 3 ;
+    rdf:rest ( 12 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b467 rdf:first 3 ;
+    rdf:rest ( 13 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b47 rdf:first 1 ;
+    rdf:rest ( 1 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b470 rdf:first 4 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b472 rdf:first 4 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b475 rdf:first 5 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b477 rdf:first 5 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b480 rdf:first 6 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b482 rdf:first 6 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b485 rdf:first 6 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b488 rdf:first 6 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b491 rdf:first 6 ;
+    rdf:rest ( 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b494 rdf:first 6 ;
+    rdf:rest ( 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b497 rdf:first 6 ;
+    rdf:rest ( 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b500 rdf:first 6 ;
+    rdf:rest ( 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b503 rdf:first 6 ;
+    rdf:rest ( 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b506 rdf:first 6 ;
+    rdf:rest ( 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b509 rdf:first 6 ;
+    rdf:rest ( 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b51 rdf:first 1 ;
+    rdf:rest ( 1 12 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b512 rdf:first 6 ;
+    rdf:rest ( 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b515 rdf:first 6 ;
+    rdf:rest ( 12 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b518 rdf:first 6 ;
+    rdf:rest ( 13 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b521 rdf:first 6 ;
+    rdf:rest ( 14 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b524 rdf:first 6 ;
+    rdf:rest ( 15 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b527 rdf:first 6 ;
+    rdf:rest ( 16 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b530 rdf:first 6 ;
+    rdf:rest ( 17 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b533 rdf:first 6 ;
+    rdf:rest ( 18 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b536 rdf:first 6 ;
+    rdf:rest ( 19 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b539 rdf:first 6 ;
+    rdf:rest ( 20 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b542 rdf:first 6 ;
+    rdf:rest ( 21 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b545 rdf:first 6 ;
+    rdf:rest ( 22 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b548 rdf:first 6 ;
+    rdf:rest ( 23 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b55 rdf:first 1 ;
+    rdf:rest ( 1 13 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b551 rdf:first 6 ;
+    rdf:rest ( 24 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b554 rdf:first 6 ;
+    rdf:rest ( 25 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b557 rdf:first 6 ;
+    rdf:rest ( 26 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b560 rdf:first 6 ;
+    rdf:rest ( 27 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b563 rdf:first 6 ;
+    rdf:rest ( 28 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b566 rdf:first 6 ;
+    rdf:rest ( 29 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b569 rdf:first 6 ;
+    rdf:rest ( 30 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b572 rdf:first 6 ;
+    rdf:rest ( 31 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b575 rdf:first 6 ;
+    rdf:rest ( 32 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b578 rdf:first 6 ;
+    rdf:rest ( 33 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b581 rdf:first 6 ;
+    rdf:rest ( 34 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b584 rdf:first 6 ;
+    rdf:rest ( 35 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b587 rdf:first 6 ;
+    rdf:rest ( 36 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b59 rdf:first 1 ;
+    rdf:rest ( 1 14 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b590 rdf:first 6 ;
+    rdf:rest ( 37 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b593 rdf:first 6 ;
+    rdf:rest ( 38 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b596 rdf:first 6 ;
+    rdf:rest ( 39 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b599 rdf:first 6 ;
+    rdf:rest ( 40 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b602 rdf:first 6 ;
+    rdf:rest ( 41 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b605 rdf:first 6 ;
+    rdf:rest ( 42 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b608 rdf:first 6 ;
+    rdf:rest ( 43 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b611 rdf:first 6 ;
+    rdf:rest ( 44 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b614 rdf:first 6 ;
+    rdf:rest ( 45 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b617 rdf:first 6 ;
+    rdf:rest ( 46 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b620 rdf:first 6 ;
+    rdf:rest ( 47 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b623 rdf:first 6 ;
+    rdf:rest ( 48 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b626 rdf:first 6 ;
+    rdf:rest ( 49 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b629 rdf:first 6 ;
+    rdf:rest ( 50 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b63 rdf:first 1 ;
+    rdf:rest ( 1 15 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b632 rdf:first 6 ;
+    rdf:rest ( 51 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b635 rdf:first 6 ;
+    rdf:rest ( 52 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b638 rdf:first 6 ;
+    rdf:rest ( 53 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b641 rdf:first 6 ;
+    rdf:rest ( 54 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b644 rdf:first 6 ;
+    rdf:rest ( 55 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b647 rdf:first 6 ;
+    rdf:rest ( 56 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b650 rdf:first 6 ;
+    rdf:rest ( 57 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b653 rdf:first 6 ;
+    rdf:rest ( 58 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b656 rdf:first 6 ;
+    rdf:rest ( 59 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b659 rdf:first 6 ;
+    rdf:rest ( 60 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b662 rdf:first 6 ;
+    rdf:rest ( 61 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b665 rdf:first 7 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b667 rdf:first 7 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b67 rdf:first 1 ;
+    rdf:rest ( 1 16 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b670 rdf:first 7 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b673 rdf:first 7 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b676 rdf:first 8 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b678 rdf:first 8 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b681 rdf:first 9 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b683 rdf:first 9 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b686 rdf:first 9 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b689 rdf:first 10 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b691 rdf:first 10 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b694 rdf:first 10 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b697 rdf:first 10 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b7 rdf:first 1 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b700 rdf:first 10 ;
+    rdf:rest ( 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b703 rdf:first 10 ;
+    rdf:rest ( 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b706 rdf:first 10 ;
+    rdf:rest ( 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b709 rdf:first 10 ;
+    rdf:rest ( 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b71 rdf:first 1 ;
+    rdf:rest ( 1 17 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b712 rdf:first 10 ;
+    rdf:rest ( 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b715 rdf:first 10 ;
+    rdf:rest ( 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b718 rdf:first 10 ;
+    rdf:rest ( 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b721 rdf:first 10 ;
+    rdf:rest ( 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b724 rdf:first 10 ;
+    rdf:rest ( 12 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b727 rdf:first 10 ;
+    rdf:rest ( 13 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b730 rdf:first 10 ;
+    rdf:rest ( 14 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b733 rdf:first 10 ;
+    rdf:rest ( 15 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b736 rdf:first 10 ;
+    rdf:rest ( 16 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b739 rdf:first 10 ;
+    rdf:rest ( 17 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b742 rdf:first 10 ;
+    rdf:rest ( 18 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b745 rdf:first 10 ;
+    rdf:rest ( 19 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b748 rdf:first 10 ;
+    rdf:rest ( 20 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b75 rdf:first 1 ;
+    rdf:rest ( 1 18 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b751 rdf:first 10 ;
+    rdf:rest ( 21 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b754 rdf:first 10 ;
+    rdf:rest ( 22 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b757 rdf:first 10 ;
+    rdf:rest ( 23 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b760 rdf:first 11 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b762 rdf:first 11 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b765 rdf:first 11 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b768 rdf:first 11 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b771 rdf:first 11 ;
+    rdf:rest ( 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b774 rdf:first 11 ;
+    rdf:rest ( 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b777 rdf:first 11 ;
+    rdf:rest ( 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b780 rdf:first 11 ;
+    rdf:rest ( 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b783 rdf:first 11 ;
+    rdf:rest ( 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b786 rdf:first 12 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b788 rdf:first 12 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b79 rdf:first 1 ;
+    rdf:rest ( 1 19 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b791 rdf:first 13 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b793 rdf:first 13 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b796 rdf:first 13 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b799 rdf:first 13 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b802 rdf:first 14 ;
+    rdf:rest ( 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b804 rdf:first 14 ;
+    rdf:rest ( 1 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b807 rdf:first 14 ;
+    rdf:rest ( 2 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b810 rdf:first 14 ;
+    rdf:rest ( 3 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b813 rdf:first 14 ;
+    rdf:rest ( 4 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b816 rdf:first 14 ;
+    rdf:rest ( 5 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b819 rdf:first 14 ;
+    rdf:rest ( 6 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b822 rdf:first 14 ;
+    rdf:rest ( 7 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b825 rdf:first 14 ;
+    rdf:rest ( 8 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b828 rdf:first 14 ;
+    rdf:rest ( 9 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b83 rdf:first 1 ;
+    rdf:rest ( 1 20 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b831 rdf:first 14 ;
+    rdf:rest ( 10 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b834 rdf:first 14 ;
+    rdf:rest ( 11 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b837 rdf:first 14 ;
+    rdf:rest ( 12 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b840 rdf:first 14 ;
+    rdf:rest ( 13 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b843 rdf:first 14 ;
+    rdf:rest ( 14 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b846 rdf:first 14 ;
+    rdf:rest ( 15 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b849 rdf:first 14 ;
+    rdf:rest ( 16 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b852 rdf:first 14 ;
+    rdf:rest ( 17 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b855 rdf:first 14 ;
+    rdf:rest ( 18 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b858 rdf:first 14 ;
+    rdf:rest ( 19 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b861 rdf:first 14 ;
+    rdf:rest ( 20 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b864 rdf:first 14 ;
+    rdf:rest ( 21 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b867 rdf:first 14 ;
+    rdf:rest ( 22 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b87 rdf:first 1 ;
+    rdf:rest ( 1 21 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b870 rdf:first 14 ;
+    rdf:rest ( 23 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b873 rdf:first 14 ;
+    rdf:rest ( 24 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b876 rdf:first 14 ;
+    rdf:rest ( 25 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b879 rdf:first 14 ;
+    rdf:rest ( 26 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b882 rdf:first 14 ;
+    rdf:rest ( 27 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b885 rdf:first 14 ;
+    rdf:rest ( 28 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b888 rdf:first 14 ;
+    rdf:rest ( 29 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b891 rdf:first 14 ;
+    rdf:rest ( 30 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b894 rdf:first 14 ;
+    rdf:rest ( 31 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b897 rdf:first 14 ;
+    rdf:rest ( 32 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b900 rdf:first 14 ;
+    rdf:rest ( 33 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b903 rdf:first 14 ;
+    rdf:rest ( 34 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b906 rdf:first 14 ;
+    rdf:rest ( 35 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b909 rdf:first 14 ;
+    rdf:rest ( 36 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b91 rdf:first 1 ;
+    rdf:rest ( 1 22 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b912 rdf:first 14 ;
+    rdf:rest ( 37 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b915 rdf:first 14 ;
+    rdf:rest ( 38 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b918 rdf:first 14 ;
+    rdf:rest ( 39 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b921 rdf:first 14 ;
+    rdf:rest ( 40 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b924 rdf:first 14 ;
+    rdf:rest ( 41 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b927 rdf:first 14 ;
+    rdf:rest ( 42 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b930 rdf:first 14 ;
+    rdf:rest ( 43 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b95 rdf:first 1 ;
+    rdf:rest ( 1 23 0 ) .
+
+_:f4e322cbea6be4e3b80efb4c400619fd7b99 rdf:first 1 ;
+    rdf:rest _:f4e322cbea6be4e3b80efb4c400619fd7b100 .
+
+_:ub314bL1001C33 tlp:text "Thai Chinese" ;
+    tlp:url wikipedia:Thai_Chinese .
+
+_:ub314bL1005C33 tlp:text "Malaysian Siamese" ;
+    tlp:url wikipedia:Malaysian_Siamese .
+
+_:ub314bL1025C25 tlp:text "Etymology" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Etymology> .
+
+_:ub314bL1036C25 tlp:text "History" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#History> .
+
+_:ub314bL1047C25 tlp:text "Geography and demographics" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Geography_and_demographics> .
+
+_:ub314bL1058C25 tlp:text "Culture and society" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Culture_and_society> .
+
+_:ub314bL1069C25 tlp:text "Religion" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Religion> .
+
+_:ub314bL1080C25 tlp:text "Craniometry" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Craniometry> .
+
+_:ub314bL1091C25 tlp:text "See also" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#See_also> .
+
+_:ub314bL1102C25 tlp:text "Notes" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Notes> .
+
+_:ub314bL110C33 tlp:text "United States" ;
+    tlp:url wikipedia:United_States .
+
+_:ub314bL1113C25 tlp:text "References" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#References> .
+
+_:ub314bL1124C25 tlp:text "Bibliography" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#Bibliography> .
+
+_:ub314bL1135C25 tlp:text "External links" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_people#External_links> .
+
+_:ub314bL1154C25 tlp:text "Ethnic groups in Thailand" ;
+    tlp:url wikipedia:Ethnic_groups_in_Thailand .
+
+_:ub314bL1165C25 tlp:text "List of Thai actresses" ;
+    tlp:url wikipedia:List_of_Thai_actresses .
+
+_:ub314bL1176C25 tlp:text "List of Thai actors" ;
+    tlp:url wikipedia:List_of_Thai_actors .
+
+_:ub314bL1187C25 tlp:text "List of Thai people" ;
+    tlp:url wikipedia:List_of_Thai_people .
+
+_:ub314bL1198C25 tlp:text "Overseas Thai" ;
+    tlp:url wikipedia:Overseas_Thai .
+
+_:ub314bL1209C25 tlp:text "Peopling of Thailand" ;
+    tlp:url wikipedia:Peopling_of_Thailand .
+
+_:ub314bL1220C25 tlp:text "Thai American" ;
+    tlp:url wikipedia:Thai_American .
+
+_:ub314bL122C33 tlp:text "South Korea" ;
+    tlp:url wikipedia:South_Korea .
+
+_:ub314bL1231C25 tlp:text "Thai British" ;
+    tlp:url wikipedia:Thai_community_in_the_United_Kingdom .
+
+_:ub314bL1242C25 tlp:text "Thai culture" ;
+    tlp:url wikipedia:Thai_culture .
+
+_:ub314bL1253C25 tlp:text "Thai folklore" ;
+    tlp:url wikipedia:Thai_folklore .
+
+_:ub314bL1264C25 tlp:text "Thais in Hong Kong" ;
+    tlp:url wikipedia:Thais_in_Hong_Kong .
+
+_:ub314bL1275C25 tlp:text "Thai marriage" ;
+    tlp:url wikipedia:Thai_marriage .
+
+_:ub314bL1286C25 tlp:text "Thailand" ;
+    tlp:url wikipedia:Thailand .
+
+_:ub314bL1321C25 tlp:text "Southern Thai" ;
+    tlp:url wikipedia:Southern_Thailand .
+
+_:ub314bL1325C25 tlp:text "Northern Thai" ;
+    tlp:url wikipedia:Northern_Thai_people .
+
+_:ub314bL1329C25 tlp:text "Isan people" ;
+    tlp:url wikipedia:Isan_people .
+
+_:ub314bL1349C25 tlp:text "\"Contesting Isan‐ness: Discourses of politics and identity in Northeast Thailand\"" ;
+    tlp:url <http://thaipolitics.leeds.ac.uk/files/2014/05/mccargo-and-krisadawan-2004.pdf> .
+
+_:ub314bL134C33 tlp:text "Australia" ;
+    tlp:url wikipedia:Australia .
+
+_:ub314bL1353C25 tlp:text "doi" ;
+    tlp:url wikipedia:Digital_object_identifier .
+
+_:ub314bL1357C25 tlp:text "10.1080/1463136042000221898" ;
+    tlp:url <https://doi.org/10.1080%2F1463136042000221898> .
+
+_:ub314bL1368C25 tlp:text "Ethnic Groups Worldwide: A Ready Reference Handbook" ;
+    tlp:url <https://archive.org/details/ethnicgroupsworl00levi/page/287> .
+
+_:ub314bL1372C25 tlp:text "287" ;
+    tlp:url <https://archive.org/details/ethnicgroupsworl00levi/page/287> .
+
+_:ub314bL1376C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1380C25 tlp:text "978-1-57356-019-1" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-57356-019-1> .
+
+_:ub314bL1391C25 tlp:text "Ethnologue: Languages of the World" ;
+    tlp:url <http://www.ethnologue.com> .
+
+_:ub314bL1395C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1399C25 tlp:text "978-1-55671-216-6" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-55671-216-6> .
+
+_:ub314bL1410C25 tlp:text "\"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS\"" ;
+    tlp:url <https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_B02018> .
+
+_:ub314bL1421C25 tlp:text "\"출입국·외국인정책 내부용 통계월보 (2018년 7월호)\"" ;
+    tlp:url <http://gzone.kr/cmmn/FileDown.do?atchFileId=226381&fileSn=67807> .
+
+_:ub314bL1432C25 tlp:text "\"Estimated resident population, Country of birth, Age and sex - as at 30 June 1996 to 2018\"" ;
+    tlp:url <http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ERP_COB> .
+
+_:ub314bL1443C25 tlp:text "\"108.02Foreign Residents by Nationality (03/25/2019)\"" ;
+    tlp:url <https://www.immigration.gov.tw/5475/5478/141478/141380/170070/> .
+
+_:ub314bL1454C25 tlp:text "\"Bevölkerung, Familien, Lebensformen (Ausländische Bevölkerung in Deutschland 2017)\"" ;
+    tlp:url <https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-bevoelkerung.pdf?__blob=publicationFile&v=6> .
+
+_:ub314bL1458C25 tlp:text "Destatis" ;
+    tlp:url wikipedia:Federal_Statistical_Office_of_Germany .
+
+_:ub314bL1469C25 tlp:text "\"รายงานจำนวนประมาณการคนไทยในต่างประเทศ 2012\"" ;
+    tlp:url <http://www.consular.go.th/main/contents/files/services-20120630-141533-674689.pdf> .
+
+_:ub314bL146C33 tlp:text "Taiwan" ;
+    tlp:url wikipedia:Taiwan .
+
+_:ub314bL1480C25 tlp:text "\"SIAMESE MALAYSIANS: They are part of our society\"" ;
+    tlp:url <https://web.archive.org/web/20140108111857/http://www.nst.com.my/opinion/letters-to-the-editor/siamese-malaysians-they-are-part-of-our-society-1.457322> .
+
+_:ub314bL1484C25 tlp:text "New Straits Times" ;
+    tlp:url wikipedia:New_Straits_Times .
+
+_:ub314bL1488C25 tlp:text "the original" ;
+    tlp:url <http://www.nst.com.my/opinion/letters-to-the-editor/siamese-malaysians-they-are-part-of-our-society-1.457322> .
+
+_:ub314bL1499C25 tlp:text "\"平成２９年末現在における在留外国人数について（確定値）\"" ;
+    tlp:url <http://www.moj.go.jp/content/001256897.pdf> .
+
+_:ub314bL1503C25 tlp:text "Ministry of Justice (Japan)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Ministry_of_Justice_(Japan)> .
+
+_:ub314bL1514C25 tlp:text "\"Population of the United Kingdom by Country of Birth and Nationality (July 2017 to June 2018)\"" ;
+    tlp:url <https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/populationoftheunitedkingdombycountryofbirthandnationality> .
+
+_:ub314bL1525C25 tlp:text "\"Foreign-born persons – Population by country of birth, age and sex. Year 2000 - 2018\"" ;
+    tlp:url <http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101E/FodelselandArK/table/tableViewLayout1/> .
+
+_:ub314bL1529C25 tlp:text "Statistics Sweden" ;
+    tlp:url wikipedia:Statistics_Sweden .
+
+_:ub314bL1540C25 tlp:text "\"Bevolking; generatie, geslacht, leeftijd en herkomstgroepering\"" ;
+    tlp:url <http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=37325&D1=0&D2=a&D3=0&D4=0&D5=a&D6=l&HDR=G2,G3&STB=G1,G5,T,G4&VW=T> .
+
+_:ub314bL1551C25 tlp:text "\"Data tables, 2016 Census\"" ;
+    tlp:url <http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=110528&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=120&VID=0> .
+
+_:ub314bL1555C25 tlp:text "Statistics Canada" ;
+    tlp:url wikipedia:Statistics_Canada .
+
+_:ub314bL1566C25 tlp:text "\"Befolkningen etter innvandringskategori og landbakgrunn (Innvandrere og Norskfødte med innvandrerforeldre)\"" ;
+    tlp:url <https://ssb.no/befolkning/statistikker/innvbef/aar/2016-03-03?fane=tabell&sort=nummer&tabell=258401> .
+
+_:ub314bL1577C25 tlp:text "\"Table P4.8 Overseas Migrant Population 10 Years Old and Over by Country of Origin and Province of Current Residence\"" ;
+    tlp:url <http://lsb.gov.la/PDF/PHC-ENG-FNAL-WEB.pdf> .
+
+_:ub314bL1588C25 tlp:text "\"FOLK2 Folketal 1. januar efter køn, alder, herkomst, oprindelsesland og statsborgerskab (1980–2018)\"" ;
+    tlp:url <https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=FOLK2> .
+
+_:ub314bL158C33 tlp:text "Germany" ;
+    tlp:url wikipedia:Germany .
+
+_:ub314bL1599C25 tlp:text "\"United Nations Population Division | Department of Economic and Social Affairs\"" ;
+    tlp:url <http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml> .
+
+_:ub314bL1610C25 tlp:text "\"2016 Population By-census: Summary Results 2016年中期人口統計：簡要報告 (by nationality)\"" ;
+    tlp:url <http://www.bycensus2016.gov.hk/data/16bc-summary-results.pdf> .
+
+_:ub314bL1621C25 tlp:text "\"Ständige ausländische Wohnbevölkerung nach Staatsangehörigkeit\"" ;
+    tlp:url <https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/auslaendische-bevoelkerung.assetdetail.104539.html> .
+
+_:ub314bL1632C25 tlp:text "\"Cittadini Stranieri. Popolazione residente per sesso e cittadinanza al 31 dicembre 2016\"" ;
+    tlp:url <http://demo.istat.it/str2016/index.html> .
+
+_:ub314bL1636C25 tlp:text "Istat" ;
+    tlp:url <http://en.wikipedia.org/wiki/National_Institute_of_Statistics_(Italy)> .
+
+_:ub314bL1647C25 tlp:text "\"Trends in International Migrant Stock: Migrants by Destination and Origin\"" ;
+    tlp:url <https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByOriginAndDestination_2015.xlsx> .
+
+_:ub314bL1682C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1686C25 tlp:text "978-981-3035-57-7" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-981-3035-57-7> .
+
+_:ub314bL1697C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1701C25 tlp:text "978-1-4381-1913-7" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-4381-1913-7> .
+
+_:ub314bL170C33 tlp:text "Malaysia" ;
+    tlp:url wikipedia:Malaysia .
+
+_:ub314bL1718C25 tlp:text "Ferlus, Michel (2009). Formation of Ethnonyms in Southeast Asia" ;
+    tlp:url <https://hal.inria.fr/halshs-01182596/document> .
+
+_:ub314bL1729C25 tlp:text "Pain, Frédéric (2008). An Introduction to Thai Ethnonymy: Examples from Shan and Northern Thai" ;
+    tlp:url <https://www.jstor.org/stable/25608449?seq=6#page_scan_tab_contents> .
+
+_:ub314bL1740C25 tlp:text "\"GIS Mapping and Analysis of Tai Linguistic and Settlement Patterns in Southern China\"" ;
+    tlp:url <http://www.niu.edu/landform/papers/JGIS_Tai_Origin.pdf> .
+
+_:ub314bL1744C25 tlp:text "GIS" ;
+    tlp:url wikipedia:Geographic_information_system .
+
+_:ub314bL1755C25 tlp:text "\"Did Kublai Khan's Conquest of the Dali Kingdom Give Rise to the Mass Migration of the Thai People to the South?\"" ;
+    tlp:url <http://www.siamese-heritage.org/jsspdf/1981/JSS_077_1c_DuYutingChenLufan_KublaiKhanConquestAndThaiMigration.pdf> .
+
+_:ub314bL1759C25 tlp:text "Journal of the Siam Society" ;
+    tlp:url wikipedia:Journal_of_the_Siam_Society .
+
+_:ub314bL1763C25 tlp:text "Kublai Khan" ;
+    tlp:url wikipedia:Kublai_Khan .
+
+_:ub314bL1767C25 tlp:text "Dali Kingdom" ;
+    tlp:url wikipedia:Dali_Kingdom .
+
+_:ub314bL1778C25 tlp:text "Pittayaporn, Pittayawat (2014). Layers of Chinese Loanwords in Proto-Southwestern Tai as Evidence for the Dating of the Spread of Southwestern Tai" ;
+    tlp:url <http://www.manusya.journals.chula.ac.th/files/essay/Pittayawat%2047-68.pdf> .
+
+_:ub314bL1795C25 tlp:text "\"Ayodhya-Ayutthaya – SEAArch – The Southeast Asian Archaeology Newsblog\"" ;
+    tlp:url <http://www.southeastasianarchaeology.com/2008/05/05/ayodhya-ayutthaya/> .
+
+_:ub314bL1806C25 tlp:text "Thak Chaloemtiarana. Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand" ;
+    tlp:url <https://chl-old.anu.edu.au/publications/csds/csds2014/csds2014_15.pdf> .
+
+_:ub314bL1817C25 tlp:text "Baker, Chris; Phongpaichit, Pasuk. A History of Thailand" ;
+    tlp:url <https://books.google.co.th/books?id=JT1dAAAAQBAJ&lpg=PP1&pg=PA206#v=onepage&q&f=false> .
+
+_:ub314bL1821C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1825C25 tlp:text "978-1-107-39373-8" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-107-39373-8> .
+
+_:ub314bL182C33 tlp:text "Japan" ;
+    tlp:url wikipedia:Japan .
+
+_:ub314bL1836C25 tlp:text "Thailand: The Politics of Despotic Paternalism" ;
+    tlp:url <https://books.google.co.th/books?id=6f0CMvP203wC&lpg=PP1&pg=PA246#v=onepage&q&f=false> .
+
+_:ub314bL1840C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1844C25 tlp:text "978-0-87727-742-2" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-0-87727-742-2> .
+
+_:ub314bL1855C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1859C25 tlp:text "978-1-56720-302-8" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-56720-302-8> .
+
+_:ub314bL1870C25 tlp:text "\"Economic Globalization, Crisis and the Emergence of Chinese Business Communities in Southeast Asia\"" ;
+    tlp:url <http://courses.nus.edu.sg/course/geoywc/publication/Int%27l%20Sociology.pdf> .
+
+_:ub314bL1881C25 tlp:text "Theraphan Luangthongkum" ;
+    tlp:url wikipedia:Theraphan_Luangthongkum .
+
+_:ub314bL1885C25 tlp:text "\"The Position of Non-Thai Languages in Thailand\"" ;
+    tlp:url <https://books.google.com/?id=ImjVqAVxO74C&lpg=PA181&dq=the%20position%20of%20non%20thai%20languages%20in%20thailand&pg=PA191#v=onepage&q&f=false> .
+
+_:ub314bL1889C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1893C25 tlp:text "9789812304827" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/9789812304827> .
+
+_:ub314bL1910C25 tlp:text "\"The invention of \"Isan\" history\"" ;
+    tlp:url <https://so06.tci-thaijo.org/index.php/pub_jss/article/view/157699> .
+
+_:ub314bL1939C25 tlp:text "\"CIA – The World Factbook\"" ;
+    tlp:url <https://www.cia.gov/library/publications/the-world-factbook/geos/th.html#People> .
+
+_:ub314bL194C33 tlp:text "Singapore" ;
+    tlp:url wikipedia:Singapore .
+
+_:ub314bL1950C25 tlp:text "ISBN" ;
+    tlp:url wikipedia:International_Standard_Book_Number .
+
+_:ub314bL1954C25 tlp:text "978-0-8248-6971-7" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-0-8248-6971-7> .
+
+_:ub314bL1958C25 tlp:text "OCLC" ;
+    tlp:url wikipedia:OCLC .
+
+_:ub314bL1962C25 tlp:text "986596797" ;
+    tlp:url <http://www.worldcat.org/oclc/986596797> .
+
+_:ub314bL1966C25 tlp:text "link" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list> .
+
+_:ub314bL1977C25 tlp:text "OCLC" ;
+    tlp:url wikipedia:OCLC .
+
+_:ub314bL1981C25 tlp:text "223634347" ;
+    tlp:url <http://www.worldcat.org/oclc/223634347> .
+
+_:ub314bL2046C25 tlp:text "link." ;
+    tlp:url <http://www.thaiscience.info/Journals/Article/JMAT/10749105.pdf> .
+
+_:ub314bL206C33 tlp:text "United Kingdom" ;
+    tlp:url wikipedia:United_Kingdom .
+
+_:ub314bL2091C25 tlp:text "US Library of Congress Country Studies, Thailand, The Thai and Other Tai-Speaking Peoples" ;
+    tlp:url <http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+th0053)> .
+
+_:ub314bL2110C25 tlp:text "Tai peoples" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Tai_peoples> .
+
+_:ub314bL2121C25 tlp:text "Ethnic groups in Thailand" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Ethnic_groups_in_Thailand> .
+
+_:ub314bL2140C25 tlp:text "CS1 Korean-language sources (ko)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Korean-language_sources_(ko)> .
+
+_:ub314bL2151C25 tlp:text "CS1 Chinese-language sources (zh)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Chinese-language_sources_(zh)> .
+
+_:ub314bL2162C25 tlp:text "CS1 German-language sources (de)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_German-language_sources_(de)> .
+
+_:ub314bL2173C25 tlp:text "CS1 Thai-language sources (th)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)> .
+
+_:ub314bL2184C25 tlp:text "CS1 Japanese-language sources (ja)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Japanese-language_sources_(ja)> .
+
+_:ub314bL218C33 tlp:text "Sweden" ;
+    tlp:url wikipedia:Sweden .
+
+_:ub314bL2195C25 tlp:text "CS1 Dutch-language sources (nl)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Dutch-language_sources_(nl)> .
+
+_:ub314bL2206C25 tlp:text "CS1 Norwegian-language sources (no)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Norwegian-language_sources_(no)> .
+
+_:ub314bL2217C25 tlp:text "CS1 Danish-language sources (da)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Danish-language_sources_(da)> .
+
+_:ub314bL2228C25 tlp:text "CS1 Italian-language sources (it)" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Italian-language_sources_(it)> .
+
+_:ub314bL2239C25 tlp:text "CS1: long volume value" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1:_long_volume_value> .
+
+_:ub314bL2250C25 tlp:text "CS1 maint: multiple names: authors list" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list> .
+
+_:ub314bL2261C25 tlp:text "Articles with short description" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_short_description> .
+
+_:ub314bL2272C25 tlp:text "Pages using deprecated image syntax" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax> .
+
+_:ub314bL2283C25 tlp:text "\"Related ethnic groups\" needing confirmation" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:%22Related_ethnic_groups%22_needing_confirmation> .
+
+_:ub314bL2294C25 tlp:text "Articles using infobox ethnic group with image parameters" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_using_infobox_ethnic_group_with_image_parameters> .
+
+_:ub314bL2305C25 tlp:text "Articles containing Thai-language text" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text> .
+
+_:ub314bL230C33 tlp:text "France" ;
+    tlp:url wikipedia:France .
+
+_:ub314bL2316C25 tlp:text "All articles with specifically marked weasel-worded phrases" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases> .
+
+_:ub314bL2327C25 tlp:text "Articles with specifically marked weasel-worded phrases from June 2018" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2018> .
+
+_:ub314bL2338C25 tlp:text "Articles containing Chinese-language text" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text> .
+
+_:ub314bL2349C25 tlp:text "Commons category link is on Wikidata" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata> .
+
+_:ub314bL2360C25 tlp:text "Commons category link is on Wikidata using P373" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373> .
+
+_:ub314bL2371C25 tlp:text "Wikipedia articles with BNF identifiers" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_BNF_identifiers> .
+
+_:ub314bL2382C25 tlp:text "Wikipedia articles with LCCN identifiers" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_LCCN_identifiers> .
+
+_:ub314bL2401C25 tlp:text "What links here" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/Thai_people> .
+
+_:ub314bL2412C25 tlp:text "Related changes" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Thai_people> .
+
+_:ub314bL2423C25 tlp:text "Upload file" ;
+    tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard> .
+
+_:ub314bL242C33 tlp:text "Israel" ;
+    tlp:url wikipedia:Israel .
+
+_:ub314bL2434C25 tlp:text "Special pages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages> .
+
+_:ub314bL2445C25 tlp:text "Permanent link" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_people&oldid=945015079> .
+
+_:ub314bL2456C25 tlp:text "Page information" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_people&action=info> .
+
+_:ub314bL2467C25 tlp:text "Wikidata item" ;
+    tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q472834> .
+
+_:ub314bL2478C25 tlp:text "Cite this page" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Thai_people&id=945015079&wpFormIdentifier=titleform> .
+
+_:ub314bL2497C25 tlp:text "Wikimedia Commons" ;
+    tlp:url <https://commons.wikimedia.org/wiki/Category:People_of_Thailand> .
+
+_:ub314bL2516C25 tlp:text "Create a book" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Thai+people> .
+
+_:ub314bL2527C25 tlp:text "Download as PDF" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Thai+people&action=show-download-screen> .
+
+_:ub314bL2538C25 tlp:text "Printable version" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_people&printable=yes> .
+
+_:ub314bL254C33 tlp:text "Libya" ;
+    tlp:url wikipedia:Libya .
+
+_:ub314bL2557C25 tlp:text "Afrikaans" ;
+    tlp:url <https://af.wikipedia.org/wiki/Thai_(volk)> .
+
+_:ub314bL2568C25 tlp:text "العربية" ;
+    tlp:url <https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%8A%D9%88%D9%86> .
+
+_:ub314bL2579C25 tlp:text "Bân-lâm-gú" ;
+    tlp:url <https://zh-min-nan.wikipedia.org/wiki/Th%C3%A0i-cho%CC%8Dk> .
+
+_:ub314bL2590C25 tlp:text "Български" ;
+    tlp:url <https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8> .
+
+_:ub314bL2601C25 tlp:text "Català" ;
+    tlp:url <https://ca.wikipedia.org/wiki/Tailandesos> .
+
+_:ub314bL2612C25 tlp:text "Čeština" ;
+    tlp:url <https://cs.wikipedia.org/wiki/Thajci> .
+
+_:ub314bL2623C25 tlp:text "Deutsch" ;
+    tlp:url <https://de.wikipedia.org/wiki/Thai_(Volk)> .
+
+_:ub314bL2634C25 tlp:text "Eesti" ;
+    tlp:url <https://et.wikipedia.org/wiki/Tailased> .
+
+_:ub314bL2645C25 tlp:text "Esperanto" ;
+    tlp:url <https://eo.wikipedia.org/wiki/Tajoj> .
+
+_:ub314bL2656C25 tlp:text "Euskara" ;
+    tlp:url <https://eu.wikipedia.org/wiki/Thailandiar> .
+
+_:ub314bL2667C25 tlp:text "فارسی" ;
+    tlp:url <https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%AF%D9%85_%D8%AA%D8%A7%DB%8C%D9%84%D9%86%D8%AF> .
+
+_:ub314bL266C33 tlp:text "Netherlands" ;
+    tlp:url wikipedia:Netherlands .
+
+_:ub314bL2678C25 tlp:text "Français" ;
+    tlp:url <https://fr.wikipedia.org/wiki/Tha%C3%AF_(peuple)> .
+
+_:ub314bL2689C25 tlp:text "Gaeilge" ;
+    tlp:url <https://ga.wikipedia.org/wiki/T%C3%A9alannaigh> .
+
+_:ub314bL2700C25 tlp:text "한국어" ;
+    tlp:url <https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EC%9D%B8> .
+
+_:ub314bL2711C25 tlp:text "हिन्दी" ;
+    tlp:url <https://hi.wikipedia.org/wiki/%E0%A4%A5%E0%A4%BE%E0%A4%88_%E0%A4%B2%E0%A5%8B%E0%A4%97> .
+
+_:ub314bL2722C25 tlp:text "Hrvatski" ;
+    tlp:url <https://hr.wikipedia.org/wiki/Thai> .
+
+_:ub314bL2733C25 tlp:text "Bahasa Indonesia" ;
+    tlp:url <https://id.wikipedia.org/wiki/Suku_Thai> .
+
+_:ub314bL2744C25 tlp:text "Italiano" ;
+    tlp:url <https://it.wikipedia.org/wiki/Thai> .
+
+_:ub314bL2755C25 tlp:text "Кыргызча" ;
+    tlp:url <https://ky.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B0%D1%80> .
+
+_:ub314bL2766C25 tlp:text "ລາວ" ;
+    tlp:url <https://lo.wikipedia.org/wiki/%E0%BB%84%E0%BA%97%E0%BA%AA%E0%BA%B0%E0%BA%AB%E0%BA%8D%E0%BA%B2%E0%BA%A1> .
+
+_:ub314bL2777C25 tlp:text "Lietuvių" ;
+    tlp:url <https://lt.wikipedia.org/wiki/Tajai> .
+
+_:ub314bL2788C25 tlp:text "മലയാളം" ;
+    tlp:url <https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B4%BE%E0%B4%AF%E0%B5%8D_%E0%B4%9C%E0%B4%A8%E0%B4%A4> .
+
+_:ub314bL278C33 tlp:text "Canada" ;
+    tlp:url wikipedia:Canada .
+
+_:ub314bL2799C25 tlp:text "Bahasa Melayu" ;
+    tlp:url <https://ms.wikipedia.org/wiki/Orang_Thai> .
+
+_:ub314bL2810C25 tlp:text "Монгол" ;
+    tlp:url <https://mn.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9_%D2%AF%D0%BD%D0%B4%D1%8D%D1%81%D1%82%D1%8D%D0%BD> .
+
+_:ub314bL2821C25 tlp:text "Nederlands" ;
+    tlp:url <https://nl.wikipedia.org/wiki/Thai_(volk)> .
+
+_:ub314bL2832C25 tlp:text "日本語" ;
+    tlp:url <https://ja.wikipedia.org/wiki/%E5%B0%8F%E3%82%BF%E3%82%A4%E6%97%8F> .
+
+_:ub314bL2843C25 tlp:text "Oʻzbekcha/ўзбекча" ;
+    tlp:url <https://uz.wikipedia.org/wiki/Tailar> .
+
+_:ub314bL2854C25 tlp:text "Polski" ;
+    tlp:url <https://pl.wikipedia.org/wiki/Tajowie> .
+
+_:ub314bL2865C25 tlp:text "Português" ;
+    tlp:url <https://pt.wikipedia.org/wiki/Tai_(grupo_%C3%A9tnico)> .
+
+_:ub314bL2876C25 tlp:text "Română" ;
+    tlp:url <https://ro.wikipedia.org/wiki/Thailandezi> .
+
+_:ub314bL2887C25 tlp:text "Русский" ;
+    tlp:url <https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%86%D1%8B> .
+
+_:ub314bL2898C25 tlp:text "Саха тыла" ;
+    tlp:url <https://sah.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B0%D0%B9%D0%B4%D0%B0%D1%80> .
+
+_:ub314bL2909C25 tlp:text "Shqip" ;
+    tlp:url <https://sq.wikipedia.org/wiki/Tai> .
+
+_:ub314bL290C33 tlp:text "Norway" ;
+    tlp:url wikipedia:Norway .
+
+_:ub314bL2920C25 tlp:text "Simple English" ;
+    tlp:url <https://simple.wikipedia.org/wiki/Thai_people> .
+
+_:ub314bL2931C25 tlp:text "Српски / srpski" ;
+    tlp:url <https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)> .
+
+_:ub314bL2942C25 tlp:text "Srpskohrvatski / српскохрватски" ;
+    tlp:url <https://sh.wikipedia.org/wiki/Tajlan%C4%91ani> .
+
+_:ub314bL2953C25 tlp:text "Suomi" ;
+    tlp:url <https://fi.wikipedia.org/wiki/Thait> .
+
+_:ub314bL2964C25 tlp:text "Svenska" ;
+    tlp:url <https://sv.wikipedia.org/wiki/Thai_(etnisk_grupp)> .
+
+_:ub314bL2975C25 tlp:text "ไทย" ;
+    tlp:url <https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1> .
+
+_:ub314bL2986C25 tlp:text "Українська" ;
+    tlp:url <https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%86%D1%96> .
+
+_:ub314bL2997C25 tlp:text "ئۇيغۇرچە / Uyghurche" ;
+    tlp:url <https://ug.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%84%D9%89%D9%82%D9%84%D8%A7%D8%B1> .
+
+_:ub314bL3008C25 tlp:text "Tiếng Việt" ;
+    tlp:url <https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Th%C3%A1i_(Th%C3%A1i_Lan)> .
+
+_:ub314bL3019C25 tlp:text "中文" ;
+    tlp:url <https://zh.wikipedia.org/wiki/%E6%B3%B0%E6%97%8F> .
+
+_:ub314bL302C33 tlp:text "Laos" ;
+    tlp:url wikipedia:Laos .
+
+_:ub314bL314C33 tlp:text "UAE" ;
+    tlp:url wikipedia:United_Arab_Emirates .
+
+_:ub314bL326C33 tlp:text "Denmark" ;
+    tlp:url wikipedia:Denmark .
+
+_:ub314bL338C33 tlp:text "Finland" ;
+    tlp:url wikipedia:Finland .
+
+_:ub314bL350C33 tlp:text "Hong Kong" ;
+    tlp:url wikipedia:Hong_Kong .
+
+_:ub314bL362C33 tlp:text "Saudi Arabia" ;
+    tlp:url wikipedia:Saudi_Arabia .
+
+_:ub314bL374C33 tlp:text "Switzerland" ;
+    tlp:url wikipedia:Switzerland .
+
+_:ub314bL386C33 tlp:text "China" ;
+    tlp:url wikipedia:China .
+
+_:ub314bL398C33 tlp:text "New Zealand" ;
+    tlp:url wikipedia:New_Zealand .
+
+_:ub314bL410C33 tlp:text "Italy" ;
+    tlp:url wikipedia:Italy .
+
+_:ub314bL422C33 tlp:text "Brunei" ;
+    tlp:url wikipedia:Brunei .
+
+_:ub314bL434C33 tlp:text "Belgium" ;
+    tlp:url wikipedia:Belgium .
+
+_:ub314bL43C33 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chan_Kusalo_cremation_15.jpg/250px-Chan_Kusalo_cremation_15.jpg> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Chan_Kusalo_cremation_15.jpg> .
+
+_:ub314bL446C33 tlp:text "Austria" ;
+    tlp:url wikipedia:Austria .
+
+_:ub314bL458C33 tlp:text "India" ;
+    tlp:url wikipedia:India .
+
+_:ub314bL470C33 tlp:text "South Africa" ;
+    tlp:url wikipedia:South_Africa .
+
+_:ub314bL47C33 tlp:text "Wat Chedi Luang" ;
+    tlp:url wikipedia:Wat_Chedi_Luang .
+
+_:ub314bL482C33 tlp:text "Qatar" ;
+    tlp:url wikipedia:Qatar .
+
+_:ub314bL494C33 tlp:text "Bahrain" ;
+    tlp:url wikipedia:Bahrain .
+
+_:ub314bL506C33 tlp:text "Kuwait" ;
+    tlp:url wikipedia:Kuwait .
+
+_:ub314bL518C33 tlp:text "Egypt" ;
+    tlp:url wikipedia:Egypt .
+
+_:ub314bL51C33 tlp:text "Chiang Mai" ;
+    tlp:url wikipedia:Chiang_Mai .
+
+_:ub314bL547C33 tlp:text "Thai" ;
+    tlp:url wikipedia:Thai_language .
+
+_:ub314bL567C33 tlp:text "Theravada" ;
+    tlp:url wikipedia:Theravada .
+
+_:ub314bL571C33 tlp:text "Buddhism" ;
+    tlp:url wikipedia:Buddhism .
+
+_:ub314bL575C33 tlp:text "Tai folk religion" ;
+    tlp:url wikipedia:Tai_folk_religion .
+
+_:ub314bL599C33 tlp:text "Tai peoples" ;
+    tlp:url wikipedia:Tai_peoples .
+
+_:ub314bL603C33 tlp:text "Lao people" ;
+    tlp:url wikipedia:Lao_people .
+
+_:ub314bL607C33 tlp:text "Shan people" ;
+    tlp:url wikipedia:Shan_people .
+
+_:ub314bL611C33 tlp:text "Dai people" ;
+    tlp:url wikipedia:Dai_people .
+
+_:ub314bL615C33 tlp:text "Ahom people" ;
+    tlp:url wikipedia:Ahom_people .
+
+_:ub314bL619C33 tlp:text "Thai Chinese" ;
+    tlp:url wikipedia:Thai_Chinese .
+
+_:ub314bL623C33 tlp:text "Malaysian Siamese" ;
+    tlp:url wikipedia:Malaysian_Siamese .
+
+_:ub314bL642C33 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chan_Kusalo_cremation_15.jpg/250px-Chan_Kusalo_cremation_15.jpg> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Chan_Kusalo_cremation_15.jpg> .
+
+_:ub314bL646C33 tlp:text "Wat Chedi Luang" ;
+    tlp:url wikipedia:Wat_Chedi_Luang .
+
+_:ub314bL650C33 tlp:text "Chiang Mai" ;
+    tlp:url wikipedia:Chiang_Mai .
+
+_:ub314bL685C33 tlp:text "Thailand" ;
+    tlp:url wikipedia:Thailand .
+
+_:ub314bL86C33 tlp:text "Thailand" ;
+    tlp:url wikipedia:Thailand .
+
+_:ub314bL929C33 tlp:text "Thai" ;
+    tlp:url wikipedia:Thai_language .
+
+_:ub314bL949C33 tlp:text "Theravada" ;
+    tlp:url wikipedia:Theravada .
+
+_:ub314bL953C33 tlp:text "Buddhism" ;
+    tlp:url wikipedia:Buddhism .
+
+_:ub314bL957C33 tlp:text "Tai folk religion" ;
+    tlp:url wikipedia:Tai_folk_religion .
+
+_:ub314bL981C33 tlp:text "Tai peoples" ;
+    tlp:url wikipedia:Tai_peoples .
+
+_:ub314bL985C33 tlp:text "Lao people" ;
+    tlp:url wikipedia:Lao_people .
+
+_:ub314bL989C33 tlp:text "Shan people" ;
+    tlp:url wikipedia:Shan_people .
+
+_:ub314bL98C33 tlp:text "Thai diaspora" ;
+    tlp:url wikipedia:Thai_diaspora .
+
+_:ub314bL993C33 tlp:text "Dai people" ;
+    tlp:url wikipedia:Dai_people .
+
+_:ub314bL997C33 tlp:text "Ahom people" ;
+    tlp:url wikipedia:Ahom_people .
+
+_:ub314bL1012C9 a tlp:List ;
+    rdfs:label "Contents" ;
+    tlp:dimension 1 ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b394 ;
+    tlp:member _:ub314bL1019C17,
+        _:ub314bL1030C17,
+        _:ub314bL1041C17,
+        _:ub314bL1052C17,
+        _:ub314bL1063C17,
+        _:ub314bL1074C17,
+        _:ub314bL1085C17,
+        _:ub314bL1096C17,
+        _:ub314bL1107C17,
+        _:ub314bL1118C17,
+        _:ub314bL1129C17 .
+
+_:ub314bL1019C17 a tlp:Item ;
+    rdfs:label "Etymology" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b396 ;
+    tlp:link _:ub314bL1025C25 .
+
+_:ub314bL1030C17 a tlp:Item ;
+    rdfs:label "History" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b399 ;
+    tlp:link _:ub314bL1036C25 .
+
+_:ub314bL103C25 a tlp:Cell ;
+    rdfs:label "United States" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b31 ;
+    tlp:link _:ub314bL110C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1041C17 a tlp:Item ;
+    rdfs:label "Geography and demographics" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b402 ;
+    tlp:link _:ub314bL1047C25 .
+
+_:ub314bL1052C17 a tlp:Item ;
+    rdfs:label "Culture and society" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b405 ;
+    tlp:link _:ub314bL1058C25 .
+
+_:ub314bL1063C17 a tlp:Item ;
+    rdfs:label "Religion" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b408 ;
+    tlp:link _:ub314bL1069C25 .
+
+_:ub314bL1074C17 a tlp:Item ;
+    rdfs:label "Craniometry" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b411 ;
+    tlp:link _:ub314bL1080C25 .
+
+_:ub314bL1085C17 a tlp:Item ;
+    rdfs:label "See also" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b414 ;
+    tlp:link _:ub314bL1091C25 .
+
+_:ub314bL1096C17 a tlp:Item ;
+    rdfs:label "Notes" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b417 ;
+    tlp:link _:ub314bL1102C25 .
+
+_:ub314bL1107C17 a tlp:Item ;
+    rdfs:label "References" ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b420 ;
+    tlp:link _:ub314bL1113C25 .
+
+_:ub314bL1118C17 a tlp:Item ;
+    rdfs:label "Bibliography" ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b423 ;
+    tlp:link _:ub314bL1124C25 .
+
+_:ub314bL1129C17 a tlp:Item ;
+    rdfs:label "External links" ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b426 ;
+    tlp:link _:ub314bL1135C25 .
+
+_:ub314bL1141C9 a tlp:List ;
+    rdfs:label "See also" ;
+    tlp:dimension 1 ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b429 ;
+    tlp:member _:ub314bL1148C17,
+        _:ub314bL1159C17,
+        _:ub314bL1170C17,
+        _:ub314bL1181C17,
+        _:ub314bL1192C17,
+        _:ub314bL1203C17,
+        _:ub314bL1214C17,
+        _:ub314bL1225C17,
+        _:ub314bL1236C17,
+        _:ub314bL1247C17,
+        _:ub314bL1258C17,
+        _:ub314bL1269C17,
+        _:ub314bL1280C17 .
+
+_:ub314bL1148C17 a tlp:Item ;
+    rdfs:label "Ethnic groups in Thailand" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b431 ;
+    tlp:link _:ub314bL1154C25 .
+
+_:ub314bL1159C17 a tlp:Item ;
+    rdfs:label "List of Thai actresses" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b434 ;
+    tlp:link _:ub314bL1165C25 .
+
+_:ub314bL115C25 a tlp:Cell ;
+    rdfs:label "South Korea" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b35 ;
+    tlp:link _:ub314bL122C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1170C17 a tlp:Item ;
+    rdfs:label "List of Thai actors" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b437 ;
+    tlp:link _:ub314bL1176C25 .
+
+_:ub314bL1181C17 a tlp:Item ;
+    rdfs:label "List of Thai people" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b440 ;
+    tlp:link _:ub314bL1187C25 .
+
+_:ub314bL1192C17 a tlp:Item ;
+    rdfs:label "Overseas Thai" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b443 ;
+    tlp:link _:ub314bL1198C25 .
+
+_:ub314bL1203C17 a tlp:Item ;
+    rdfs:label "Peopling of Thailand" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b446 ;
+    tlp:link _:ub314bL1209C25 .
+
+_:ub314bL1214C17 a tlp:Item ;
+    rdfs:label "Thai American" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b449 ;
+    tlp:link _:ub314bL1220C25 .
+
+_:ub314bL1225C17 a tlp:Item ;
+    rdfs:label "Thai British" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b452 ;
+    tlp:link _:ub314bL1231C25 .
+
+_:ub314bL1236C17 a tlp:Item ;
+    rdfs:label "Thai culture" ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b455 ;
+    tlp:link _:ub314bL1242C25 .
+
+_:ub314bL1247C17 a tlp:Item ;
+    rdfs:label "Thai folklore" ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b458 ;
+    tlp:link _:ub314bL1253C25 .
+
+_:ub314bL1258C17 a tlp:Item ;
+    rdfs:label "Thais in Hong Kong" ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b461 ;
+    tlp:link _:ub314bL1264C25 .
+
+_:ub314bL1269C17 a tlp:Item ;
+    rdfs:label "Thai marriage" ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b464 ;
+    tlp:link _:ub314bL1275C25 .
+
+_:ub314bL127C25 a tlp:Cell ;
+    rdfs:label "Australia" ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b39 ;
+    tlp:link _:ub314bL134C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1280C17 a tlp:Item ;
+    rdfs:label "Thailand" ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b467 ;
+    tlp:link _:ub314bL1286C25 .
+
+_:ub314bL1292C9 a tlp:List ;
+    rdfs:label "Notes" ;
+    tlp:dimension 1 ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b470 ;
+    tlp:member _:ub314bL1300C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub314bL1300C17 a tlp:Item ;
+    rdfs:label "The total figure is merely an estimation; sum of all the referenced populations below." ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b472 .
+
+_:ub314bL1307C9 a tlp:List ;
+    rdfs:label "Notes" ;
+    tlp:dimension 1 ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b475 ;
+    tlp:member _:ub314bL1315C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub314bL1315C17 a tlp:Item ;
+    rdfs:label "Thai people make up approximately 75–85% population of the country (68 million) if including the Southern Thai and, more controversially, the Northern Thai and Isan people, all of which include significant populations of non Tai-Kadai ethnic groups" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b477 ;
+    tlp:link _:ub314bL1321C25,
+        _:ub314bL1325C25,
+        _:ub314bL1329C25 .
+
+_:ub314bL1335C9 a tlp:List ;
+    rdfs:label "References" ;
+    tlp:dimension 1 ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b480 ;
+    tlp:member _:ub314bL1343C17,
+        _:ub314bL1362C17,
+        _:ub314bL1385C17,
+        _:ub314bL1404C17,
+        _:ub314bL1415C17,
+        _:ub314bL1426C17,
+        _:ub314bL1437C17,
+        _:ub314bL1448C17,
+        _:ub314bL1463C17,
+        _:ub314bL1474C17,
+        _:ub314bL1493C17,
+        _:ub314bL1508C17,
+        _:ub314bL1519C17,
+        _:ub314bL1534C17,
+        _:ub314bL1545C17,
+        _:ub314bL1560C17,
+        _:ub314bL1571C17,
+        _:ub314bL1582C17,
+        _:ub314bL1593C17,
+        _:ub314bL1604C17,
+        _:ub314bL1615C17,
+        _:ub314bL1626C17,
+        _:ub314bL1641C17,
+        _:ub314bL1652C17,
+        _:ub314bL1658C17,
+        _:ub314bL1664C17,
+        _:ub314bL1670C17,
+        _:ub314bL1676C17,
+        _:ub314bL1691C17,
+        _:ub314bL1706C17,
+        _:ub314bL1712C17,
+        _:ub314bL1723C17,
+        _:ub314bL1734C17,
+        _:ub314bL1749C17,
+        _:ub314bL1772C17,
+        _:ub314bL1783C17,
+        _:ub314bL1789C17,
+        _:ub314bL1800C17,
+        _:ub314bL1811C17,
+        _:ub314bL1830C17,
+        _:ub314bL1849C17,
+        _:ub314bL1864C17,
+        _:ub314bL1875C17,
+        _:ub314bL1898C17,
+        _:ub314bL1904C17,
+        _:ub314bL1915C17,
+        _:ub314bL1921C17,
+        _:ub314bL1927C17,
+        _:ub314bL1933C17,
+        _:ub314bL1944C17,
+        _:ub314bL1971C17,
+        _:ub314bL1986C17,
+        _:ub314bL1992C17,
+        _:ub314bL1998C17,
+        _:ub314bL2004C17,
+        _:ub314bL2010C17,
+        _:ub314bL2016C17,
+        _:ub314bL2022C17,
+        _:ub314bL2028C17,
+        _:ub314bL2034C17,
+        _:ub314bL2040C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub314bL1343C17 a tlp:Item ;
+    rdfs:label "McCargo, D.; Hongladarom, K. (2004). \"Contesting Isan‐ness: Discourses of politics and identity in Northeast Thailand\" (PDF). Asian Ethnicity. 5 (2): 219. doi:10.1080/1463136042000221898." ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b482 ;
+    tlp:link _:ub314bL1349C25,
+        _:ub314bL1353C25,
+        _:ub314bL1357C25 .
+
+_:ub314bL1362C17 a tlp:Item ;
+    rdfs:label "David Levinson (1998), Ethnic Groups Worldwide: A Ready Reference Handbook, Oryx Pres, p. 287, ISBN 978-1-57356-019-1" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b485 ;
+    tlp:link _:ub314bL1368C25,
+        _:ub314bL1372C25,
+        _:ub314bL1376C25,
+        _:ub314bL1380C25 .
+
+_:ub314bL1385C17 a tlp:Item ;
+    rdfs:label "Paul, Lewis M.; Simons, Gary F.; Fennig, Charles D. (2013), Ethnologue: Languages of the World, SIL International, ISBN 978-1-55671-216-6" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b488 ;
+    tlp:link _:ub314bL1391C25,
+        _:ub314bL1395C25,
+        _:ub314bL1399C25 .
+
+_:ub314bL139C25 a tlp:Cell ;
+    rdfs:label "Taiwan" ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b43 ;
+    tlp:link _:ub314bL146C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1404C17 a tlp:Item ;
+    rdfs:label "\"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS\". factfinder.census.gov. Retrieved 2 May 2019." ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b491 ;
+    tlp:link _:ub314bL1410C25 .
+
+_:ub314bL1415C17 a tlp:Item ;
+    rdfs:label "\"출입국·외국인정책 내부용 통계월보 (2018년 7월호)\" (PDF). gov.kr (in Korean). Retrieved 2 May 2019." ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b494 ;
+    tlp:link _:ub314bL1421C25 .
+
+_:ub314bL1426C17 a tlp:Item ;
+    rdfs:label "\"Estimated resident population, Country of birth, Age and sex - as at 30 June 1996 to 2018\". stat.data.abs.gov.au. Retrieved 2 May 2019." ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b497 ;
+    tlp:link _:ub314bL1432C25 .
+
+_:ub314bL1437C17 a tlp:Item ;
+    rdfs:label "\"108.02Foreign Residents by Nationality (03/25/2019)\". immigration.gov.tw (in Chinese). Retrieved 2 May 2019." ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b500 ;
+    tlp:link _:ub314bL1443C25 .
+
+_:ub314bL1448C17 a tlp:Item ;
+    rdfs:label "\"Bevölkerung, Familien, Lebensformen (Ausländische Bevölkerung in Deutschland 2017)\" (PDF). Destatis (in German). Retrieved 2 May 2019." ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b503 ;
+    tlp:link _:ub314bL1454C25,
+        _:ub314bL1458C25 .
+
+_:ub314bL1463C17 a tlp:Item ;
+    rdfs:label "\"รายงานจำนวนประมาณการคนไทยในต่างประเทศ 2012\" (PDF). consular.go.th (in Thai). March 5, 2012." ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b506 ;
+    tlp:link _:ub314bL1469C25 .
+
+_:ub314bL1474C17 a tlp:Item ;
+    rdfs:label "Nop Nai Samrong (8 January 2014). \"SIAMESE MALAYSIANS: They are part of our society\". New Straits Times. Archived from the original on 8 January 2014. Retrieved 10 January 2014." ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b509 ;
+    tlp:link _:ub314bL1480C25,
+        _:ub314bL1484C25,
+        _:ub314bL1488C25 .
+
+_:ub314bL1493C17 a tlp:Item ;
+    rdfs:label "\"平成２９年末現在における在留外国人数について（確定値）\" (PDF). Ministry of Justice (Japan) (in Japanese). Retrieved 2 May 2019." ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b512 ;
+    tlp:link _:ub314bL1499C25,
+        _:ub314bL1503C25 .
+
+_:ub314bL1508C17 a tlp:Item ;
+    rdfs:label "\"Population of the United Kingdom by Country of Birth and Nationality (July 2017 to June 2018)\". ons.gov.uk. 29 November 2018. Retrieved 2 May 2019." ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b515 ;
+    tlp:link _:ub314bL1514C25 .
+
+_:ub314bL1519C17 a tlp:Item ;
+    rdfs:label "\"Foreign-born persons – Population by country of birth, age and sex. Year 2000 - 2018\". Statistics Sweden. 2019-02-21. Retrieved 25 February 2020." ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b518 ;
+    tlp:link _:ub314bL1525C25,
+        _:ub314bL1529C25 .
+
+_:ub314bL151C25 a tlp:Cell ;
+    rdfs:label "Germany" ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b47 ;
+    tlp:link _:ub314bL158C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1534C17 a tlp:Item ;
+    rdfs:label "\"Bevolking; generatie, geslacht, leeftijd en herkomstgroepering\". statline.cbs.nl (in Dutch). July 18, 2017." ;
+    tlp:index 14 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b521 ;
+    tlp:link _:ub314bL1540C25 .
+
+_:ub314bL1545C17 a tlp:Item ;
+    rdfs:label "\"Data tables, 2016 Census\". Statistics Canada. 16 January 2018. Retrieved 5 July 2018." ;
+    tlp:index 15 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b524 ;
+    tlp:link _:ub314bL1551C25,
+        _:ub314bL1555C25 .
+
+_:ub314bL1560C17 a tlp:Item ;
+    rdfs:label "\"Befolkningen etter innvandringskategori og landbakgrunn (Innvandrere og Norskfødte med innvandrerforeldre)\". ssb.no (in Norwegian). 3 March 2016. Retrieved February 21, 2017." ;
+    tlp:index 16 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b527 ;
+    tlp:link _:ub314bL1566C25 .
+
+_:ub314bL1571C17 a tlp:Item ;
+    rdfs:label "\"Table P4.8 Overseas Migrant Population 10 Years Old and Over by Country of Origin and Province of Current Residence\" (PDF). lsb.gov.la. Retrieved February 14, 2017." ;
+    tlp:index 17 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b530 ;
+    tlp:link _:ub314bL1577C25 .
+
+_:ub314bL1582C17 a tlp:Item ;
+    rdfs:label "\"FOLK2 Folketal 1. januar efter køn, alder, herkomst, oprindelsesland og statsborgerskab (1980–2018)\". statistikbanken.dk (in Danish). Retrieved 4 March 2018." ;
+    tlp:index 18 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b533 ;
+    tlp:link _:ub314bL1588C25 .
+
+_:ub314bL1593C17 a tlp:Item ;
+    rdfs:label "\"United Nations Population Division | Department of Economic and Social Affairs\". un.org. Retrieved 2018-06-29." ;
+    tlp:index 19 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b536 ;
+    tlp:link _:ub314bL1599C25 .
+
+_:ub314bL1604C17 a tlp:Item ;
+    rdfs:label "\"2016 Population By-census: Summary Results 2016年中期人口統計：簡要報告 (by nationality)\" (PDF). bycensus2016.gov.hk. Retrieved 26 December 2017." ;
+    tlp:index 20 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b539 ;
+    tlp:link _:ub314bL1610C25 .
+
+_:ub314bL1615C17 a tlp:Item ;
+    rdfs:label "\"Ständige ausländische Wohnbevölkerung nach Staatsangehörigkeit\". bfs.admin.ch (in German). August 26, 2016." ;
+    tlp:index 21 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b542 ;
+    tlp:link _:ub314bL1621C25 .
+
+_:ub314bL1626C17 a tlp:Item ;
+    rdfs:label "\"Cittadini Stranieri. Popolazione residente per sesso e cittadinanza al 31 dicembre 2016\". Istat (in Italian). Retrieved July 14, 2017." ;
+    tlp:index 22 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b545 ;
+    tlp:link _:ub314bL1632C25,
+        _:ub314bL1636C25 .
+
+_:ub314bL163C25 a tlp:Cell ;
+    rdfs:label "Malaysia" ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b51 ;
+    tlp:link _:ub314bL170C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1641C17 a tlp:Item ;
+    rdfs:label "\"Trends in International Migrant Stock: Migrants by Destination and Origin\" (XLSX). United Nations. 1 December 2015. Retrieved 14 July 2016." ;
+    tlp:index 23 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b548 ;
+    tlp:link _:ub314bL1647C25 .
+
+_:ub314bL1652C17 a tlp:Item ;
+    rdfs:label "Cheesman, P. (1988). Lao textiles: ancient symbols-living art. Bangkok, Thailand: White Lotus Co., Thailand." ;
+    tlp:index 24 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b551 .
+
+_:ub314bL1658C17 a tlp:Item ;
+    rdfs:label "Fox, M. (1997). A history of Laos. Cambridge, U.K.: Cambridge University Press." ;
+    tlp:index 25 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b554 .
+
+_:ub314bL1664C17 a tlp:Item ;
+    rdfs:label "Fox, M. (2008). Historical Dictionary of Laos (3rd ed.). Lanham: Scarecrow Press." ;
+    tlp:index 26 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b557 .
+
+_:ub314bL1670C17 a tlp:Item ;
+    rdfs:label "Goodden, C. (1999). Around Lan-na: a guide to Thailand's northern border region from Chiang Mai to Nan. Halesworth, Suffolk: Jungle Books." ;
+    tlp:index 27 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b560 .
+
+_:ub314bL1676C17 a tlp:Item ;
+    rdfs:label "Gehan Wijeyewardene (1990). Ethnic Groups across National Boundaries in Mainland Southeast Asia. Singapore: Institute of Southeast Asian Studies. p. 48. ISBN 978-981-3035-57-7. The word 'Thai' is today generally used for citizens of the Kingdom of Thailand, and more specifically for the 'Siamese'." ;
+    tlp:index 28 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b563 ;
+    tlp:link _:ub314bL1682C25,
+        _:ub314bL1686C25 .
+
+_:ub314bL1691C17 a tlp:Item ;
+    rdfs:label "Barbara A. West (2009), Encyclopedia of the Peoples of Asia and Oceania, Facts on File, p. 794, ISBN 978-1-4381-1913-7" ;
+    tlp:index 29 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b566 ;
+    tlp:link _:ub314bL1697C25,
+        _:ub314bL1701C25 .
+
+_:ub314bL1706C17 a tlp:Item ;
+    rdfs:label "Antonio L. Rappa; Lionel Wee (2006), Language Policy and Modernity in Southeast Asia: Malaysia, the Philippines, Singapore, and Thailand, Springer, pp. 114–115" ;
+    tlp:index 30 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b569 .
+
+_:ub314bL1712C17 a tlp:Item ;
+    rdfs:label "Ferlus, Michel (2009). Formation of Ethnonyms in Southeast Asia. 42nd International Conference on Sino-Tibetan Languages and Linguistics, Nov 2009, Chiang Mai, Thailand. 2009, p.3." ;
+    tlp:index 31 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b572 ;
+    tlp:link _:ub314bL1718C25 .
+
+_:ub314bL1723C17 a tlp:Item ;
+    rdfs:label "Pain, Frédéric (2008). An Introduction to Thai Ethnonymy: Examples from Shan and Northern Thai. Journal of the American Oriental Society Vol. 128, No. 4 (Oct. - Dec., 2008), p.646." ;
+    tlp:index 32 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b575 ;
+    tlp:link _:ub314bL1729C25 .
+
+_:ub314bL1734C17 a tlp:Item ;
+    rdfs:label "Luo, Wei; Hartmann, John; Li, Jinfang; Sysamouth, Vinya (December 2000). \"GIS Mapping and Analysis of Tai Linguistic and Settlement Patterns in Southern China\" (PDF). Geographic Information Sciences. 6 (2): 129–136. Retrieved May 28, 2013. Abstract. By integrating linguistic information and physical geographic features in a GIS environment, this paper maps the spatial variation of terms connected with wet-rice farming of Tai minority groups in southern China and shows that the primary candidate of origin for proto-Tai is in the region of Guangxi-Guizhou, not Yunnan or the middle Yangtze River region as others have proposed...." ;
+    tlp:index 33 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b578 ;
+    tlp:link _:ub314bL1740C25,
+        _:ub314bL1744C25 .
+
+_:ub314bL1749C17 a tlp:Item ;
+    rdfs:label "Du Yuting; Chen Lufan (1989). \"Did Kublai Khan's Conquest of the Dali Kingdom Give Rise to the Mass Migration of the Thai People to the South?\" (PDF). Journal of the Siam Society. JSS Vol. 77.1c (digital). image 7 of p. 39. Retrieved March 17, 2013. The Thai people in the north as well as in the south did not in any sense \"migrate en masse to the south\" after Kublai Khan's conquest of the Dali Kingdom." ;
+    tlp:index 34 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b581 ;
+    tlp:link _:ub314bL1755C25,
+        _:ub314bL1759C25,
+        _:ub314bL1763C25,
+        _:ub314bL1767C25 .
+
+_:ub314bL175C25 a tlp:Cell ;
+    rdfs:label "Japan" ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b55 ;
+    tlp:link _:ub314bL182C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1772C17 a tlp:Item ;
+    rdfs:label "Pittayaporn, Pittayawat (2014). Layers of Chinese Loanwords in Proto-Southwestern Tai as Evidence for the Dating of the Spread of Southwestern Tai. MANUSYA: Journal of Humanities, Special Issue No 20: 47-64." ;
+    tlp:index 35 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b584 ;
+    tlp:link _:ub314bL1778C25 .
+
+_:ub314bL1783C17 a tlp:Item ;
+    rdfs:label "Charles F. Keyes (1997), \"Cultural Diversity and National Identity in Thailand\", Government policies and ethnic relations in Asia and the Pacific, MIT Press, p. 203" ;
+    tlp:index 36 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b587 .
+
+_:ub314bL1789C17 a tlp:Item ;
+    rdfs:label "\"Ayodhya-Ayutthaya – SEAArch – The Southeast Asian Archaeology Newsblog\". Southeastasianarchaeology.com. 2008-05-05. Retrieved 12 December 2017." ;
+    tlp:index 37 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b590 ;
+    tlp:link _:ub314bL1795C25 .
+
+_:ub314bL1800C17 a tlp:Item ;
+    rdfs:label "Thak Chaloemtiarana. Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand. CHINESE SOUTHERN DIASPORA STUDIES, VOLUME SEVEN, 2014–15, p. 186." ;
+    tlp:index 38 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b593 ;
+    tlp:link _:ub314bL1806C25 .
+
+_:ub314bL1811C17 a tlp:Item ;
+    rdfs:label "Baker, Chris; Phongpaichit, Pasuk. A History of Thailand. Cambridge University Press (2009), p. 206. ISBN 978-1-107-39373-8." ;
+    tlp:index 39 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b596 ;
+    tlp:link _:ub314bL1817C25,
+        _:ub314bL1821C25,
+        _:ub314bL1825C25 .
+
+_:ub314bL1830C17 a tlp:Item ;
+    rdfs:label "Thak Chaloemtiarana (2007), Thailand: The Politics of Despotic Paternalism, Ithaca, NY: Cornell Southeast Asia Program, pp. 245–246, ISBN 978-0-87727-742-2" ;
+    tlp:index 40 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b599 ;
+    tlp:link _:ub314bL1836C25,
+        _:ub314bL1840C25,
+        _:ub314bL1844C25 .
+
+_:ub314bL1849C17 a tlp:Item ;
+    rdfs:label "Richter, Frank-Jürgen (1999). Business Networks in Asia: Promises, Doubts, and Perspectives. Praeger. p. 193. ISBN 978-1-56720-302-8." ;
+    tlp:index 41 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b602 ;
+    tlp:link _:ub314bL1855C25,
+        _:ub314bL1859C25 .
+
+_:ub314bL1864C17 a tlp:Item ;
+    rdfs:label "Yeung, Henry Dr. \"Economic Globalization, Crisis and the Emergence of Chinese Business Communities in Southeast Asia\" (PDF). National University of Singapore." ;
+    tlp:index 42 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b605 ;
+    tlp:link _:ub314bL1870C25 .
+
+_:ub314bL1875C17 a tlp:Item ;
+    rdfs:label "Theraphan Luangthongkum (2007), \"The Position of Non-Thai Languages in Thailand\", Language, Nation and Development in Southeast Asia, ISEAS Publishing, p. 191, ISBN 9789812304827" ;
+    tlp:index 43 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b608 ;
+    tlp:link _:ub314bL1881C25,
+        _:ub314bL1885C25,
+        _:ub314bL1889C25,
+        _:ub314bL1893C25 .
+
+_:ub314bL187C25 a tlp:Cell ;
+    rdfs:label "Singapore" ;
+    tlp:index 14 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b59 ;
+    tlp:link _:ub314bL194C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL1898C17 a tlp:Item ;
+    rdfs:label "Streckfuss, David (1993). \"The mixed colonial legacy in Siam: Origins of Thai racialist thought, 1890–1910\". Autonomous Histories, Particular Truths: Essays in the Honor of John R. W. Smail. Madison, WI: Centre for Southeast Asian Studies. pp. 123–153." ;
+    tlp:index 44 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b611 .
+
+_:ub314bL1904C17 a tlp:Item ;
+    rdfs:label "Iijima, Akiko (2018). \"The invention of \"Isan\" history\". Journal of the Siam Society. 106: 171–200." ;
+    tlp:index 45 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b614 ;
+    tlp:link _:ub314bL1910C25 .
+
+_:ub314bL1915C17 a tlp:Item ;
+    rdfs:label "Tejapira, Kasian (2003), \"De-Othering Jek Communists: Rewriting Thai History from the Viewpoint of the Ethno-Ideological Order\", Southeast Asia Over Three Generations: Essays Presented to Benedict R. O'G. Anderson, Ithaca, NY: Cornell Southeast Asia Program, p. 247" ;
+    tlp:index 46 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b617 .
+
+_:ub314bL1921C17 a tlp:Item ;
+    rdfs:label "Thanet Aphornsuvan (1998), \"Slavery and Modernity: Freedom in the Making of Modern Siam\", Asian Freedoms: The Idea of Freedom in East and Southeast Asia, Cambridge University Press, p. 181" ;
+    tlp:index 47 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b620 .
+
+_:ub314bL1927C17 a tlp:Item ;
+    rdfs:label "Chris Baker; Pasuk Phongpaichit (2009), A History of Thailand (Second ed.), Cambridge University Press, pp. 172–175" ;
+    tlp:index 48 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b623 .
+
+_:ub314bL1933C17 a tlp:Item ;
+    rdfs:label "\"CIA – The World Factbook\". Cia.gov. Retrieved 2012-08-29. 95.9% of 67,497,151 (July 2013 est.)" ;
+    tlp:index 49 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b626 ;
+    tlp:link _:ub314bL1939C25 .
+
+_:ub314bL1944C17 a tlp:Item ;
+    rdfs:label "Strate, Shane, author. The lost territories : Thailand's history of national humiliation. ISBN 978-0-8248-6971-7. OCLC 986596797.CS1 maint: multiple names: authors list (link)" ;
+    tlp:index 50 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b629 ;
+    tlp:link _:ub314bL1950C25,
+        _:ub314bL1954C25,
+        _:ub314bL1958C25,
+        _:ub314bL1962C25,
+        _:ub314bL1966C25 .
+
+_:ub314bL1971C17 a tlp:Item ;
+    rdfs:label "Breazeale, Kennon. (1975). The integration of the Lao States into the Thai Kingdom. Bodleian Library, Oxford University. OCLC 223634347." ;
+    tlp:index 51 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b632 ;
+    tlp:link _:ub314bL1977C25,
+        _:ub314bL1981C25 .
+
+_:ub314bL1986C17 a tlp:Item ;
+    rdfs:label "Patit Paban Mishra (2010), The History of Thailand, Greenwood, p. 11" ;
+    tlp:index 52 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b635 .
+
+_:ub314bL1992C17 a tlp:Item ;
+    rdfs:label "S.N. Desai (1980), Hinduism in Thai Life, Bombay: Popular Prakashan Private" ;
+    tlp:index 53 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b638 .
+
+_:ub314bL1998C17 a tlp:Item ;
+    rdfs:label "Pattana Kitiarsa (2011), \"The Horror of the Modern: Violation, Violence and Rampaging Urban Youths in Contemporary Thai Ghost Films\", Engaging the Spirit World: Popular Beliefs and Practices in Modern Southeast Asia, Berghahn Books, pp. 200–220" ;
+    tlp:index 54 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b641 .
+
+_:ub314bL199C25 a tlp:Cell ;
+    rdfs:label "United Kingdom" ;
+    tlp:index 15 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b63 ;
+    tlp:link _:ub314bL206C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL19C9 a tlp:Table ;
+    rdfs:label """Thai\r
+ไทยสยาม""" ;
+    tlp:dimension 2 ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b2 ;
+    tlp:member _:ub314bL30C17,
+        _:ub314bL629C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub314bL2004C17 a tlp:Item ;
+    rdfs:label "Patit Paban Mishra (2010), The History of Thailand, Greenwood, pp. 11–12" ;
+    tlp:index 55 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b644 .
+
+_:ub314bL2010C17 a tlp:Item ;
+    rdfs:label "Desai (1980), Hinduism in Thai Life, p. 63" ;
+    tlp:index 56 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b647 .
+
+_:ub314bL2016C17 a tlp:Item ;
+    rdfs:label "Desai (1980), Hinduism in Thai Life, p. 26" ;
+    tlp:index 57 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b650 .
+
+_:ub314bL2022C17 a tlp:Item ;
+    rdfs:label "Kate Crosby (2014), Theravada Buddhism: Continuity, Diversity, and Identity, Chichester (West Sussex): Wiley Blackwell, p. 277" ;
+    tlp:index 58 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b653 .
+
+_:ub314bL2028C17 a tlp:Item ;
+    rdfs:label "Timothy D. Hoare (2004), Thailand: A Global Studies Handbook, Santa Barbara CA: ABC-CLIO, p. 144" ;
+    tlp:index 59 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b656 .
+
+_:ub314bL2034C17 a tlp:Item ;
+    rdfs:label "Justin Thomas McDaniel (2011), The Lovelorn Ghost and the Magical Monk: Practicing Buddhism in Modern Thailand, New York: Columbia University Press" ;
+    tlp:index 60 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b659 .
+
+_:ub314bL2040C17 a tlp:Item ;
+    rdfs:label "Rooppakhun, Supakit et al. (2010). Craniometric Study of Thai Skull Based on Three-Dimensional Computed Tomography (CT) Data. Journal of the Medical Association of Thailand, 93(1). Pages 91 & 96. Retrieved January 25, 2018, from link." ;
+    tlp:index 61 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b662 ;
+    tlp:link _:ub314bL2046C25 .
+
+_:ub314bL2052C9 a tlp:List ;
+    rdfs:label "Bibliography" ;
+    tlp:dimension 1 ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b665 ;
+    tlp:member _:ub314bL2059C17,
+        _:ub314bL2065C17,
+        _:ub314bL2071C17 .
+
+_:ub314bL2059C17 a tlp:Item ;
+    rdfs:label "Girsling, John L.S., Thailand: Society and Politics (Cornell University Press, 1981)." ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b667 .
+
+_:ub314bL2065C17 a tlp:Item ;
+    rdfs:label "Terwiel, B.J., A History of Modern Thailand (Univ. of Queensland Press, 1984)." ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b670 .
+
+_:ub314bL2071C17 a tlp:Item ;
+    rdfs:label "Wyatt, D.K., Thailand: A Short History (Yale University Press, 1986)." ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b673 .
+
+_:ub314bL2078C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b676 ;
+    tlp:member _:ub314bL2085C17 .
+
+_:ub314bL2085C17 a tlp:Item ;
+    rdfs:label "US Library of Congress Country Studies, Thailand, The Thai and Other Tai-Speaking Peoples" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b678 ;
+    tlp:link _:ub314bL2091C25 .
+
+_:ub314bL2097C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b681 ;
+    tlp:member _:ub314bL2104C17,
+        _:ub314bL2115C17 .
+
+_:ub314bL2104C17 a tlp:Item ;
+    rdfs:label "Tai peoples" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b683 ;
+    tlp:link _:ub314bL2110C25 .
+
+_:ub314bL2115C17 a tlp:Item ;
+    rdfs:label "Ethnic groups in Thailand" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b686 ;
+    tlp:link _:ub314bL2121C25 .
+
+_:ub314bL211C25 a tlp:Cell ;
+    rdfs:label "Sweden" ;
+    tlp:index 16 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b67 ;
+    tlp:link _:ub314bL218C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2127C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b689 ;
+    tlp:member _:ub314bL2134C17,
+        _:ub314bL2145C17,
+        _:ub314bL2156C17,
+        _:ub314bL2167C17,
+        _:ub314bL2178C17,
+        _:ub314bL2189C17,
+        _:ub314bL2200C17,
+        _:ub314bL2211C17,
+        _:ub314bL2222C17,
+        _:ub314bL2233C17,
+        _:ub314bL2244C17,
+        _:ub314bL2255C17,
+        _:ub314bL2266C17,
+        _:ub314bL2277C17,
+        _:ub314bL2288C17,
+        _:ub314bL2299C17,
+        _:ub314bL2310C17,
+        _:ub314bL2321C17,
+        _:ub314bL2332C17,
+        _:ub314bL2343C17,
+        _:ub314bL2354C17,
+        _:ub314bL2365C17,
+        _:ub314bL2376C17 .
+
+_:ub314bL2134C17 a tlp:Item ;
+    rdfs:label "CS1 Korean-language sources (ko)" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b691 ;
+    tlp:link _:ub314bL2140C25 .
+
+_:ub314bL2145C17 a tlp:Item ;
+    rdfs:label "CS1 Chinese-language sources (zh)" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b694 ;
+    tlp:link _:ub314bL2151C25 .
+
+_:ub314bL2156C17 a tlp:Item ;
+    rdfs:label "CS1 German-language sources (de)" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b697 ;
+    tlp:link _:ub314bL2162C25 .
+
+_:ub314bL2167C17 a tlp:Item ;
+    rdfs:label "CS1 Thai-language sources (th)" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b700 ;
+    tlp:link _:ub314bL2173C25 .
+
+_:ub314bL2178C17 a tlp:Item ;
+    rdfs:label "CS1 Japanese-language sources (ja)" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b703 ;
+    tlp:link _:ub314bL2184C25 .
+
+_:ub314bL2189C17 a tlp:Item ;
+    rdfs:label "CS1 Dutch-language sources (nl)" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b706 ;
+    tlp:link _:ub314bL2195C25 .
+
+_:ub314bL2200C17 a tlp:Item ;
+    rdfs:label "CS1 Norwegian-language sources (no)" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b709 ;
+    tlp:link _:ub314bL2206C25 .
+
+_:ub314bL2211C17 a tlp:Item ;
+    rdfs:label "CS1 Danish-language sources (da)" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b712 ;
+    tlp:link _:ub314bL2217C25 .
+
+_:ub314bL2222C17 a tlp:Item ;
+    rdfs:label "CS1 Italian-language sources (it)" ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b715 ;
+    tlp:link _:ub314bL2228C25 .
+
+_:ub314bL2233C17 a tlp:Item ;
+    rdfs:label "CS1: long volume value" ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b718 ;
+    tlp:link _:ub314bL2239C25 .
+
+_:ub314bL223C25 a tlp:Cell ;
+    rdfs:label "France" ;
+    tlp:index 17 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b71 ;
+    tlp:link _:ub314bL230C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2244C17 a tlp:Item ;
+    rdfs:label "CS1 maint: multiple names: authors list" ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b721 ;
+    tlp:link _:ub314bL2250C25 .
+
+_:ub314bL2255C17 a tlp:Item ;
+    rdfs:label "Articles with short description" ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b724 ;
+    tlp:link _:ub314bL2261C25 .
+
+_:ub314bL2266C17 a tlp:Item ;
+    rdfs:label "Pages using deprecated image syntax" ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b727 ;
+    tlp:link _:ub314bL2272C25 .
+
+_:ub314bL2277C17 a tlp:Item ;
+    rdfs:label "\"Related ethnic groups\" needing confirmation" ;
+    tlp:index 14 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b730 ;
+    tlp:link _:ub314bL2283C25 .
+
+_:ub314bL2288C17 a tlp:Item ;
+    rdfs:label "Articles using infobox ethnic group with image parameters" ;
+    tlp:index 15 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b733 ;
+    tlp:link _:ub314bL2294C25 .
+
+_:ub314bL2299C17 a tlp:Item ;
+    rdfs:label "Articles containing Thai-language text" ;
+    tlp:index 16 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b736 ;
+    tlp:link _:ub314bL2305C25 .
+
+_:ub314bL2310C17 a tlp:Item ;
+    rdfs:label "All articles with specifically marked weasel-worded phrases" ;
+    tlp:index 17 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b739 ;
+    tlp:link _:ub314bL2316C25 .
+
+_:ub314bL2321C17 a tlp:Item ;
+    rdfs:label "Articles with specifically marked weasel-worded phrases from June 2018" ;
+    tlp:index 18 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b742 ;
+    tlp:link _:ub314bL2327C25 .
+
+_:ub314bL2332C17 a tlp:Item ;
+    rdfs:label "Articles containing Chinese-language text" ;
+    tlp:index 19 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b745 ;
+    tlp:link _:ub314bL2338C25 .
+
+_:ub314bL2343C17 a tlp:Item ;
+    rdfs:label "Commons category link is on Wikidata" ;
+    tlp:index 20 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b748 ;
+    tlp:link _:ub314bL2349C25 .
+
+_:ub314bL2354C17 a tlp:Item ;
+    rdfs:label "Commons category link is on Wikidata using P373" ;
+    tlp:index 21 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b751 ;
+    tlp:link _:ub314bL2360C25 .
+
+_:ub314bL235C25 a tlp:Cell ;
+    rdfs:label "Israel" ;
+    tlp:index 18 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b75 ;
+    tlp:link _:ub314bL242C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2365C17 a tlp:Item ;
+    rdfs:label "Wikipedia articles with BNF identifiers" ;
+    tlp:index 22 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b754 ;
+    tlp:link _:ub314bL2371C25 .
+
+_:ub314bL2376C17 a tlp:Item ;
+    rdfs:label "Wikipedia articles with LCCN identifiers" ;
+    tlp:index 23 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b757 ;
+    tlp:link _:ub314bL2382C25 .
+
+_:ub314bL2388C9 a tlp:List ;
+    rdfs:label "Tools" ;
+    tlp:dimension 1 ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b760 ;
+    tlp:member _:ub314bL2395C17,
+        _:ub314bL2406C17,
+        _:ub314bL2417C17,
+        _:ub314bL2428C17,
+        _:ub314bL2439C17,
+        _:ub314bL2450C17,
+        _:ub314bL2461C17,
+        _:ub314bL2472C17 .
+
+_:ub314bL2395C17 a tlp:Item ;
+    rdfs:label "What links here" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b762 ;
+    tlp:link _:ub314bL2401C25 .
+
+_:ub314bL2406C17 a tlp:Item ;
+    rdfs:label "Related changes" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b765 ;
+    tlp:link _:ub314bL2412C25 .
+
+_:ub314bL2417C17 a tlp:Item ;
+    rdfs:label "Upload file" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b768 ;
+    tlp:link _:ub314bL2423C25 .
+
+_:ub314bL2428C17 a tlp:Item ;
+    rdfs:label "Special pages" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b771 ;
+    tlp:link _:ub314bL2434C25 .
+
+_:ub314bL2439C17 a tlp:Item ;
+    rdfs:label "Permanent link" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b774 ;
+    tlp:link _:ub314bL2445C25 .
+
+_:ub314bL2450C17 a tlp:Item ;
+    rdfs:label "Page information" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b777 ;
+    tlp:link _:ub314bL2456C25 .
+
+_:ub314bL2461C17 a tlp:Item ;
+    rdfs:label "Wikidata item" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b780 ;
+    tlp:link _:ub314bL2467C25 .
+
+_:ub314bL2472C17 a tlp:Item ;
+    rdfs:label "Cite this page" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b783 ;
+    tlp:link _:ub314bL2478C25 .
+
+_:ub314bL247C25 a tlp:Cell ;
+    rdfs:label "Libya" ;
+    tlp:index 19 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b79 ;
+    tlp:link _:ub314bL254C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2484C9 a tlp:List ;
+    rdfs:label "In other projects" ;
+    tlp:dimension 1 ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b786 ;
+    tlp:member _:ub314bL2491C17 .
+
+_:ub314bL2491C17 a tlp:Item ;
+    rdfs:label "Wikimedia Commons" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b788 ;
+    tlp:link _:ub314bL2497C25 .
+
+_:ub314bL2503C9 a tlp:List ;
+    rdfs:label "Print/export" ;
+    tlp:dimension 1 ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b791 ;
+    tlp:member _:ub314bL2510C17,
+        _:ub314bL2521C17,
+        _:ub314bL2532C17 .
+
+_:ub314bL2510C17 a tlp:Item ;
+    rdfs:label "Create a book" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b793 ;
+    tlp:link _:ub314bL2516C25 .
+
+_:ub314bL2521C17 a tlp:Item ;
+    rdfs:label "Download as PDF" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b796 ;
+    tlp:link _:ub314bL2527C25 .
+
+_:ub314bL2532C17 a tlp:Item ;
+    rdfs:label "Printable version" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b799 ;
+    tlp:link _:ub314bL2538C25 .
+
+_:ub314bL2544C9 a tlp:List ;
+    rdfs:label "Languages" ;
+    tlp:dimension 1 ;
+    tlp:index 14 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b802 ;
+    tlp:member _:ub314bL2551C17,
+        _:ub314bL2562C17,
+        _:ub314bL2573C17,
+        _:ub314bL2584C17,
+        _:ub314bL2595C17,
+        _:ub314bL2606C17,
+        _:ub314bL2617C17,
+        _:ub314bL2628C17,
+        _:ub314bL2639C17,
+        _:ub314bL2650C17,
+        _:ub314bL2661C17,
+        _:ub314bL2672C17,
+        _:ub314bL2683C17,
+        _:ub314bL2694C17,
+        _:ub314bL2705C17,
+        _:ub314bL2716C17,
+        _:ub314bL2727C17,
+        _:ub314bL2738C17,
+        _:ub314bL2749C17,
+        _:ub314bL2760C17,
+        _:ub314bL2771C17,
+        _:ub314bL2782C17,
+        _:ub314bL2793C17,
+        _:ub314bL2804C17,
+        _:ub314bL2815C17,
+        _:ub314bL2826C17,
+        _:ub314bL2837C17,
+        _:ub314bL2848C17,
+        _:ub314bL2859C17,
+        _:ub314bL2870C17,
+        _:ub314bL2881C17,
+        _:ub314bL2892C17,
+        _:ub314bL2903C17,
+        _:ub314bL2914C17,
+        _:ub314bL2925C17,
+        _:ub314bL2936C17,
+        _:ub314bL2947C17,
+        _:ub314bL2958C17,
+        _:ub314bL2969C17,
+        _:ub314bL2980C17,
+        _:ub314bL2991C17,
+        _:ub314bL3002C17,
+        _:ub314bL3013C17 .
+
+_:ub314bL2551C17 a tlp:Item ;
+    rdfs:label "Afrikaans" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b804 ;
+    tlp:link _:ub314bL2557C25 .
+
+_:ub314bL2562C17 a tlp:Item ;
+    rdfs:label "العربية" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b807 ;
+    tlp:link _:ub314bL2568C25 .
+
+_:ub314bL2573C17 a tlp:Item ;
+    rdfs:label "Bân-lâm-gú" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b810 ;
+    tlp:link _:ub314bL2579C25 .
+
+_:ub314bL2584C17 a tlp:Item ;
+    rdfs:label "Български" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b813 ;
+    tlp:link _:ub314bL2590C25 .
+
+_:ub314bL2595C17 a tlp:Item ;
+    rdfs:label "Català" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b816 ;
+    tlp:link _:ub314bL2601C25 .
+
+_:ub314bL259C25 a tlp:Cell ;
+    rdfs:label "Netherlands" ;
+    tlp:index 20 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b83 ;
+    tlp:link _:ub314bL266C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2606C17 a tlp:Item ;
+    rdfs:label "Čeština" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b819 ;
+    tlp:link _:ub314bL2612C25 .
+
+_:ub314bL2617C17 a tlp:Item ;
+    rdfs:label "Deutsch" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b822 ;
+    tlp:link _:ub314bL2623C25 .
+
+_:ub314bL2628C17 a tlp:Item ;
+    rdfs:label "Eesti" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b825 ;
+    tlp:link _:ub314bL2634C25 .
+
+_:ub314bL2639C17 a tlp:Item ;
+    rdfs:label "Esperanto" ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b828 ;
+    tlp:link _:ub314bL2645C25 .
+
+_:ub314bL2650C17 a tlp:Item ;
+    rdfs:label "Euskara" ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b831 ;
+    tlp:link _:ub314bL2656C25 .
+
+_:ub314bL2661C17 a tlp:Item ;
+    rdfs:label "فارسی" ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b834 ;
+    tlp:link _:ub314bL2667C25 .
+
+_:ub314bL2672C17 a tlp:Item ;
+    rdfs:label "Français" ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b837 ;
+    tlp:link _:ub314bL2678C25 .
+
+_:ub314bL2683C17 a tlp:Item ;
+    rdfs:label "Gaeilge" ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b840 ;
+    tlp:link _:ub314bL2689C25 .
+
+_:ub314bL2694C17 a tlp:Item ;
+    rdfs:label "한국어" ;
+    tlp:index 14 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b843 ;
+    tlp:link _:ub314bL2700C25 .
+
+_:ub314bL2705C17 a tlp:Item ;
+    rdfs:label "हिन्दी" ;
+    tlp:index 15 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b846 ;
+    tlp:link _:ub314bL2711C25 .
+
+_:ub314bL2716C17 a tlp:Item ;
+    rdfs:label "Hrvatski" ;
+    tlp:index 16 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b849 ;
+    tlp:link _:ub314bL2722C25 .
+
+_:ub314bL271C25 a tlp:Cell ;
+    rdfs:label "Canada" ;
+    tlp:index 21 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b87 ;
+    tlp:link _:ub314bL278C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2727C17 a tlp:Item ;
+    rdfs:label "Bahasa Indonesia" ;
+    tlp:index 17 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b852 ;
+    tlp:link _:ub314bL2733C25 .
+
+_:ub314bL2738C17 a tlp:Item ;
+    rdfs:label "Italiano" ;
+    tlp:index 18 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b855 ;
+    tlp:link _:ub314bL2744C25 .
+
+_:ub314bL2749C17 a tlp:Item ;
+    rdfs:label "Кыргызча" ;
+    tlp:index 19 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b858 ;
+    tlp:link _:ub314bL2755C25 .
+
+_:ub314bL2760C17 a tlp:Item ;
+    rdfs:label "ລາວ" ;
+    tlp:index 20 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b861 ;
+    tlp:link _:ub314bL2766C25 .
+
+_:ub314bL2771C17 a tlp:Item ;
+    rdfs:label "Lietuvių" ;
+    tlp:index 21 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b864 ;
+    tlp:link _:ub314bL2777C25 .
+
+_:ub314bL2782C17 a tlp:Item ;
+    rdfs:label "മലയാളം" ;
+    tlp:index 22 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b867 ;
+    tlp:link _:ub314bL2788C25 .
+
+_:ub314bL2793C17 a tlp:Item ;
+    rdfs:label "Bahasa Melayu" ;
+    tlp:index 23 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b870 ;
+    tlp:link _:ub314bL2799C25 .
+
+_:ub314bL2804C17 a tlp:Item ;
+    rdfs:label "Монгол" ;
+    tlp:index 24 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b873 ;
+    tlp:link _:ub314bL2810C25 .
+
+_:ub314bL2815C17 a tlp:Item ;
+    rdfs:label "Nederlands" ;
+    tlp:index 25 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b876 ;
+    tlp:link _:ub314bL2821C25 .
+
+_:ub314bL2826C17 a tlp:Item ;
+    rdfs:label "日本語" ;
+    tlp:index 26 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b879 ;
+    tlp:link _:ub314bL2832C25 .
+
+_:ub314bL2837C17 a tlp:Item ;
+    rdfs:label "Oʻzbekcha/ўзбекча" ;
+    tlp:index 27 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b882 ;
+    tlp:link _:ub314bL2843C25 .
+
+_:ub314bL283C25 a tlp:Cell ;
+    rdfs:label "Norway" ;
+    tlp:index 22 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b91 ;
+    tlp:link _:ub314bL290C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2848C17 a tlp:Item ;
+    rdfs:label "Polski" ;
+    tlp:index 28 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b885 ;
+    tlp:link _:ub314bL2854C25 .
+
+_:ub314bL2859C17 a tlp:Item ;
+    rdfs:label "Português" ;
+    tlp:index 29 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b888 ;
+    tlp:link _:ub314bL2865C25 .
+
+_:ub314bL2870C17 a tlp:Item ;
+    rdfs:label "Română" ;
+    tlp:index 30 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b891 ;
+    tlp:link _:ub314bL2876C25 .
+
+_:ub314bL2881C17 a tlp:Item ;
+    rdfs:label "Русский" ;
+    tlp:index 31 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b894 ;
+    tlp:link _:ub314bL2887C25 .
+
+_:ub314bL2892C17 a tlp:Item ;
+    rdfs:label "Саха тыла" ;
+    tlp:index 32 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b897 ;
+    tlp:link _:ub314bL2898C25 .
+
+_:ub314bL2903C17 a tlp:Item ;
+    rdfs:label "Shqip" ;
+    tlp:index 33 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b900 ;
+    tlp:link _:ub314bL2909C25 .
+
+_:ub314bL2914C17 a tlp:Item ;
+    rdfs:label "Simple English" ;
+    tlp:index 34 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b903 ;
+    tlp:link _:ub314bL2920C25 .
+
+_:ub314bL2925C17 a tlp:Item ;
+    rdfs:label "Српски / srpski" ;
+    tlp:index 35 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b906 ;
+    tlp:link _:ub314bL2931C25 .
+
+_:ub314bL2936C17 a tlp:Item ;
+    rdfs:label "Srpskohrvatski / српскохрватски" ;
+    tlp:index 36 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b909 ;
+    tlp:link _:ub314bL2942C25 .
+
+_:ub314bL2947C17 a tlp:Item ;
+    rdfs:label "Suomi" ;
+    tlp:index 37 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b912 ;
+    tlp:link _:ub314bL2953C25 .
+
+_:ub314bL2958C17 a tlp:Item ;
+    rdfs:label "Svenska" ;
+    tlp:index 38 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b915 ;
+    tlp:link _:ub314bL2964C25 .
+
+_:ub314bL295C25 a tlp:Cell ;
+    rdfs:label "Laos" ;
+    tlp:index 23 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b95 ;
+    tlp:link _:ub314bL302C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL2969C17 a tlp:Item ;
+    rdfs:label "ไทย" ;
+    tlp:index 39 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b918 ;
+    tlp:link _:ub314bL2975C25 .
+
+_:ub314bL2980C17 a tlp:Item ;
+    rdfs:label "Українська" ;
+    tlp:index 40 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b921 ;
+    tlp:link _:ub314bL2986C25 .
+
+_:ub314bL2991C17 a tlp:Item ;
+    rdfs:label "ئۇيغۇرچە / Uyghurche" ;
+    tlp:index 41 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b924 ;
+    tlp:link _:ub314bL2997C25 .
+
+_:ub314bL3002C17 a tlp:Item ;
+    rdfs:label "Tiếng Việt" ;
+    tlp:index 42 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b927 ;
+    tlp:link _:ub314bL3008C25 .
+
+_:ub314bL3013C17 a tlp:Item ;
+    rdfs:label "中文" ;
+    tlp:index 43 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b930 ;
+    tlp:link _:ub314bL3019C25 .
+
+_:ub314bL307C25 a tlp:Cell ;
+    rdfs:label "UAE" ;
+    tlp:index 24 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b99 ;
+    tlp:link _:ub314bL314C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL30C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b4 ;
+    tlp:member _:ub314bL103C25,
+        _:ub314bL115C25,
+        _:ub314bL127C25,
+        _:ub314bL139C25,
+        _:ub314bL151C25,
+        _:ub314bL163C25,
+        _:ub314bL175C25,
+        _:ub314bL187C25,
+        _:ub314bL199C25,
+        _:ub314bL211C25,
+        _:ub314bL223C25,
+        _:ub314bL235C25,
+        _:ub314bL247C25,
+        _:ub314bL259C25,
+        _:ub314bL271C25,
+        _:ub314bL283C25,
+        _:ub314bL295C25,
+        _:ub314bL307C25,
+        _:ub314bL319C25,
+        _:ub314bL331C25,
+        _:ub314bL343C25,
+        _:ub314bL355C25,
+        _:ub314bL367C25,
+        _:ub314bL36C25,
+        _:ub314bL379C25,
+        _:ub314bL391C25,
+        _:ub314bL403C25,
+        _:ub314bL415C25,
+        _:ub314bL427C25,
+        _:ub314bL439C25,
+        _:ub314bL451C25,
+        _:ub314bL463C25,
+        _:ub314bL475C25,
+        _:ub314bL487C25,
+        _:ub314bL499C25,
+        _:ub314bL511C25,
+        _:ub314bL523C25,
+        _:ub314bL530C25,
+        _:ub314bL538C25,
+        _:ub314bL552C25,
+        _:ub314bL560C25,
+        _:ub314bL56C25,
+        _:ub314bL580C25,
+        _:ub314bL588C25,
+        _:ub314bL64C25,
+        _:ub314bL71C25,
+        _:ub314bL79C25,
+        _:ub314bL91C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub314bL319C25 a tlp:Cell ;
+    rdfs:label "Denmark" ;
+    tlp:index 25 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b103 ;
+    tlp:link _:ub314bL326C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL331C25 a tlp:Cell ;
+    rdfs:label "Finland" ;
+    tlp:index 26 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b107 ;
+    tlp:link _:ub314bL338C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL343C25 a tlp:Cell ;
+    rdfs:label "Hong Kong" ;
+    tlp:index 27 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b111 ;
+    tlp:link _:ub314bL350C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL355C25 a tlp:Cell ;
+    rdfs:label "Saudi Arabia" ;
+    tlp:index 28 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b115 ;
+    tlp:link _:ub314bL362C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL367C25 a tlp:Cell ;
+    rdfs:label "Switzerland" ;
+    tlp:index 29 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b119 ;
+    tlp:link _:ub314bL374C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL36C25 a tlp:Cell ;
+    rdfs:label "Thai people at a cremation ceremony Wat Chedi Luang in Chiang Mai" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b7 ;
+    tlp:link _:ub314bL43C33,
+        _:ub314bL47C33,
+        _:ub314bL51C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL379C25 a tlp:Cell ;
+    rdfs:label "China" ;
+    tlp:index 30 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b123 ;
+    tlp:link _:ub314bL386C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL391C25 a tlp:Cell ;
+    rdfs:label "New Zealand" ;
+    tlp:index 31 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b127 ;
+    tlp:link _:ub314bL398C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL403C25 a tlp:Cell ;
+    rdfs:label "Italy" ;
+    tlp:index 32 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b131 ;
+    tlp:link _:ub314bL410C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL415C25 a tlp:Cell ;
+    rdfs:label "Brunei" ;
+    tlp:index 33 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b135 ;
+    tlp:link _:ub314bL422C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL427C25 a tlp:Cell ;
+    rdfs:label "Belgium" ;
+    tlp:index 34 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b139 ;
+    tlp:link _:ub314bL434C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL439C25 a tlp:Cell ;
+    rdfs:label "Austria" ;
+    tlp:index 35 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b143 ;
+    tlp:link _:ub314bL446C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL451C25 a tlp:Cell ;
+    rdfs:label "India" ;
+    tlp:index 36 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b147 ;
+    tlp:link _:ub314bL458C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL463C25 a tlp:Cell ;
+    rdfs:label "South Africa" ;
+    tlp:index 37 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b151 ;
+    tlp:link _:ub314bL470C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL475C25 a tlp:Cell ;
+    rdfs:label "Qatar" ;
+    tlp:index 38 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b155 ;
+    tlp:link _:ub314bL482C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL487C25 a tlp:Cell ;
+    rdfs:label "Bahrain" ;
+    tlp:index 39 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b159 ;
+    tlp:link _:ub314bL494C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL499C25 a tlp:Cell ;
+    rdfs:label "Kuwait" ;
+    tlp:index 40 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b163 ;
+    tlp:link _:ub314bL506C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL511C25 a tlp:Cell ;
+    rdfs:label "Egypt" ;
+    tlp:index 41 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b167 ;
+    tlp:link _:ub314bL518C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL523C25 a tlp:Cell ;
+    rdfs:label "Rest of the world" ;
+    tlp:index 42 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b171 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL530C25 a tlp:Cell ;
+    rdfs:label "Languages" ;
+    tlp:index 43 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b175 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL538C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+(Central Thai)""" ;
+    tlp:index 44 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b179 ;
+    tlp:link _:ub314bL547C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL552C25 a tlp:Cell ;
+    rdfs:label "Religion" ;
+    tlp:index 45 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b183 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL560C25 a tlp:Cell ;
+    rdfs:label "Predominantly Theravada Buddhism and Tai folk religion" ;
+    tlp:index 46 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b187 ;
+    tlp:link _:ub314bL567C33,
+        _:ub314bL571C33,
+        _:ub314bL575C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL56C25 a tlp:Cell ;
+    rdfs:label "Total population" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b11 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL580C25 a tlp:Cell ;
+    rdfs:label "Related ethnic groups" ;
+    tlp:index 47 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b191 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL588C25 a tlp:Cell ;
+    rdfs:label """Other Tai peoples\r
+(e.g. Lao people, Shan people, Dai people, Ahom people)\r
+Thai Chinese, Malaysian Siamese""" ;
+    tlp:index 48 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b195 ;
+    tlp:link _:ub314bL599C33,
+        _:ub314bL603C33,
+        _:ub314bL607C33,
+        _:ub314bL611C33,
+        _:ub314bL615C33,
+        _:ub314bL619C33,
+        _:ub314bL623C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL629C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b199 ;
+    tlp:member _:ub314bL635C25,
+        _:ub314bL655C25,
+        _:ub314bL663C25,
+        _:ub314bL670C25,
+        _:ub314bL678C25,
+        _:ub314bL690C25,
+        _:ub314bL696C25,
+        _:ub314bL702C25,
+        _:ub314bL708C25,
+        _:ub314bL714C25,
+        _:ub314bL720C25,
+        _:ub314bL726C25,
+        _:ub314bL732C25,
+        _:ub314bL738C25,
+        _:ub314bL744C25,
+        _:ub314bL750C25,
+        _:ub314bL756C25,
+        _:ub314bL762C25,
+        _:ub314bL768C25,
+        _:ub314bL774C25,
+        _:ub314bL780C25,
+        _:ub314bL786C25,
+        _:ub314bL792C25,
+        _:ub314bL798C25,
+        _:ub314bL804C25,
+        _:ub314bL810C25,
+        _:ub314bL816C25,
+        _:ub314bL822C25,
+        _:ub314bL828C25,
+        _:ub314bL834C25,
+        _:ub314bL840C25,
+        _:ub314bL846C25,
+        _:ub314bL852C25,
+        _:ub314bL858C25,
+        _:ub314bL864C25,
+        _:ub314bL870C25,
+        _:ub314bL876C25,
+        _:ub314bL882C25,
+        _:ub314bL888C25,
+        _:ub314bL894C25,
+        _:ub314bL900C25,
+        _:ub314bL906C25,
+        _:ub314bL912C25,
+        _:ub314bL920C25,
+        _:ub314bL934C25,
+        _:ub314bL942C25,
+        _:ub314bL962C25,
+        _:ub314bL970C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub314bL635C25 a tlp:Cell ;
+    rdfs:label "Thai people at a cremation ceremony Wat Chedi Luang in Chiang Mai" ;
+    tlp:index 1 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b202 ;
+    tlp:link _:ub314bL642C33,
+        _:ub314bL646C33,
+        _:ub314bL650C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL64C25 a tlp:Cell ;
+    rdfs:label "c. 52–59 million" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b15 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL655C25 a tlp:Cell ;
+    rdfs:label "Total population" ;
+    tlp:index 2 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b206 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL663C25 a tlp:Cell ;
+    rdfs:label "c. 52–59 million" ;
+    tlp:index 3 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b210 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL670C25 a tlp:Cell ;
+    rdfs:label "Regions with significant populations" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b214 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL678C25 a tlp:Cell ;
+    rdfs:label "Thailand c. 51–57.8 million" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b218 ;
+    tlp:link _:ub314bL685C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL690C25 a tlp:Cell ;
+    rdfs:label "c. 1.1 million" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b222 .
+
+_:ub314bL696C25 a tlp:Cell ;
+    rdfs:label "319,794 (2017)" ;
+    tlp:index 7 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b226 .
+
+_:ub314bL702C25 a tlp:Cell ;
+    rdfs:label "185,389 (2018)" ;
+    tlp:index 8 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b230 .
+
+_:ub314bL708C25 a tlp:Cell ;
+    rdfs:label "79,040 (2018)" ;
+    tlp:index 9 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b234 .
+
+_:ub314bL714C25 a tlp:Cell ;
+    rdfs:label "64,922 (2018)" ;
+    tlp:index 10 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b238 .
+
+_:ub314bL71C25 a tlp:Cell ;
+    rdfs:label "Regions with significant populations" ;
+    tlp:index 4 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b19 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL720C25 a tlp:Cell ;
+    rdfs:label "58,820 (2017)" ;
+    tlp:index 11 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b242 .
+
+_:ub314bL726C25 a tlp:Cell ;
+    rdfs:label "51,000–70,000 (2012)" ;
+    tlp:index 12 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b246 .
+
+_:ub314bL732C25 a tlp:Cell ;
+    rdfs:label "50,179 (2017)" ;
+    tlp:index 13 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b250 .
+
+_:ub314bL738C25 a tlp:Cell ;
+    rdfs:label "47,700 (2012)" ;
+    tlp:index 14 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b254 .
+
+_:ub314bL744C25 a tlp:Cell ;
+    rdfs:label "45,000 (2018)" ;
+    tlp:index 15 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b258 .
+
+_:ub314bL750C25 a tlp:Cell ;
+    rdfs:label "43,556 (2019)" ;
+    tlp:index 16 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b262 .
+
+_:ub314bL756C25 a tlp:Cell ;
+    rdfs:label "30,000 (2012)" ;
+    tlp:index 17 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b266 .
+
+_:ub314bL762C25 a tlp:Cell ;
+    rdfs:label "28,000 (2011)" ;
+    tlp:index 18 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b270 .
+
+_:ub314bL768C25 a tlp:Cell ;
+    rdfs:label "24,600 (2011)" ;
+    tlp:index 19 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b274 .
+
+_:ub314bL774C25 a tlp:Cell ;
+    rdfs:label "20,106 (2017)" ;
+    tlp:index 20 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b278 .
+
+_:ub314bL780C25 a tlp:Cell ;
+    rdfs:label "19,010 (2016)" ;
+    tlp:index 21 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b282 .
+
+_:ub314bL786C25 a tlp:Cell ;
+    rdfs:label "18,324 (2016)" ;
+    tlp:index 22 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b286 .
+
+_:ub314bL792C25 a tlp:Cell ;
+    rdfs:label "15,497 (2015)" ;
+    tlp:index 23 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b290 .
+
+_:ub314bL798C25 a tlp:Cell ;
+    rdfs:label "14,232 (2012)" ;
+    tlp:index 24 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b294 .
+
+_:ub314bL79C25 a tlp:Cell ;
+    rdfs:label "Thailand c. 51–57.8 million" ;
+    tlp:index 5 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b23 ;
+    tlp:link _:ub314bL86C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL804C25 a tlp:Cell ;
+    rdfs:label "12,524 (2018)" ;
+    tlp:index 25 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b298 .
+
+_:ub314bL810C25 a tlp:Cell ;
+    rdfs:label "11,553" ;
+    tlp:index 26 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b302 .
+
+_:ub314bL816C25 a tlp:Cell ;
+    rdfs:label "11,493 (2016)" ;
+    tlp:index 27 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b306 .
+
+_:ub314bL822C25 a tlp:Cell ;
+    rdfs:label "11,240 (2012)" ;
+    tlp:index 28 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b310 .
+
+_:ub314bL828C25 a tlp:Cell ;
+    rdfs:label "9,058 (2015)" ;
+    tlp:index 29 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b314 .
+
+_:ub314bL834C25 a tlp:Cell ;
+    rdfs:label "8,618 (2012)" ;
+    tlp:index 30 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b318 .
+
+_:ub314bL840C25 a tlp:Cell ;
+    rdfs:label "8,500 (2012)" ;
+    tlp:index 31 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b322 .
+
+_:ub314bL846C25 a tlp:Cell ;
+    rdfs:label "5,766 (2016)" ;
+    tlp:index 32 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b326 .
+
+_:ub314bL852C25 a tlp:Cell ;
+    rdfs:label "5,466 (2012)" ;
+    tlp:index 33 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b330 .
+
+_:ub314bL858C25 a tlp:Cell ;
+    rdfs:label "3,811 (2012)" ;
+    tlp:index 34 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b334 .
+
+_:ub314bL864C25 a tlp:Cell ;
+    rdfs:label "3,773 (2012)" ;
+    tlp:index 35 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b338 .
+
+_:ub314bL870C25 a tlp:Cell ;
+    rdfs:label "3,715 (2012)" ;
+    tlp:index 36 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b342 .
+
+_:ub314bL876C25 a tlp:Cell ;
+    rdfs:label "3,500 (2012)" ;
+    tlp:index 37 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b346 .
+
+_:ub314bL882C25 a tlp:Cell ;
+    rdfs:label "2,500 (2012)" ;
+    tlp:index 38 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b350 .
+
+_:ub314bL888C25 a tlp:Cell ;
+    rdfs:label "2,424 (2012)" ;
+    tlp:index 39 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b354 .
+
+_:ub314bL894C25 a tlp:Cell ;
+    rdfs:label "2,378 (2012)" ;
+    tlp:index 40 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b358 .
+
+_:ub314bL900C25 a tlp:Cell ;
+    rdfs:label "2,331 (2012)" ;
+    tlp:index 41 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b362 .
+
+_:ub314bL906C25 a tlp:Cell ;
+    rdfs:label "c. 47,000" ;
+    tlp:index 42 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b366 .
+
+_:ub314bL912C25 a tlp:Cell ;
+    rdfs:label "Languages" ;
+    tlp:index 43 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b370 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL91C25 a tlp:Cell ;
+    rdfs:label "Thai diaspora" ;
+    tlp:index 6 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b27 ;
+    tlp:link _:ub314bL98C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub314bL920C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+(Central Thai)""" ;
+    tlp:index 44 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b374 ;
+    tlp:link _:ub314bL929C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL934C25 a tlp:Cell ;
+    rdfs:label "Religion" ;
+    tlp:index 45 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b378 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL942C25 a tlp:Cell ;
+    rdfs:label "Predominantly Theravada Buddhism and Tai folk religion" ;
+    tlp:index 46 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b382 ;
+    tlp:link _:ub314bL949C33,
+        _:ub314bL953C33,
+        _:ub314bL957C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub314bL962C25 a tlp:Cell ;
+    rdfs:label "Related ethnic groups" ;
+    tlp:index 47 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b386 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub314bL970C25 a tlp:Cell ;
+    rdfs:label """Other Tai peoples\r
+(e.g. Lao people, Shan people, Dai people, Ahom people)\r
+Thai Chinese, Malaysian Siamese""" ;
+    tlp:index 48 ;
+    tlp:indexList _:f4e322cbea6be4e3b80efb4c400619fd7b390 ;
+    tlp:link _:ub314bL1001C33,
+        _:ub314bL1005C33,
+        _:ub314bL981C33,
+        _:ub314bL985C33,
+        _:ub314bL989C33,
+        _:ub314bL993C33,
+        _:ub314bL997C33 ;
+    tlp:style tlp:GrpSpan .
+

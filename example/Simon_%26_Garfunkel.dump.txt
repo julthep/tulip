@@ -1,0 +1,1263 @@
+[] Type: Page
+│  Label: Simon & Garfunkel
+└─ Number of Member: 18
+    [0] Type: Table
+    │   Label: Simon & Garfunkel
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 3
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [0, 0, 0] Type: Cell
+            │         Label: Simon & Garfunkel
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 1] Type: Cell
+            │         Label: Art Garfunkel (left) and Paul Simon
+performing in Dublin, 1982
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/SimonandGarfunkel.jpg/283px-SimonandGarfunkel.jpg': 'http://en.wikipedia.org/wiki/File:SimonandGarfunkel.jpg', 'text:Dublin': 'http://en.wikipedia.org/wiki/Dublin'}
+            [0, 0, 2] Type: Cell
+            │         Label: Background information
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 3] Type: Cell
+            │         Label: Also known as
+            └──────── Style: Emphasize
+            [0, 0, 4] Type: Cell
+            │         Label: Origin
+            └──────── Style: Emphasize
+            [0, 0, 5] Type: Cell
+            │         Label: Genres
+            └──────── Style: Emphasize
+            [0, 0, 6] Type: Cell
+            │         Label: Years active
+            └──────── Style: Emphasize
+            [0, 0, 7] Type: Cell
+            │         Label: Labels
+            └──────── Style: Emphasize
+            [0, 0, 8] Type: Cell
+            │         Label: Website
+            └──────── Style: Emphasize
+            [0, 0, 9] Type: Cell
+            │         Label: 
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 10] Type: Cell
+            │          Label: Past members
+            └───────── Style: Emphasize
+        [0, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [0, 1, 0] Type: Cell
+            │         Label: Simon & Garfunkel
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 1] Type: Cell
+            │         Label: Art Garfunkel (left) and Paul Simon
+performing in Dublin, 1982
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/SimonandGarfunkel.jpg/283px-SimonandGarfunkel.jpg': 'http://en.wikipedia.org/wiki/File:SimonandGarfunkel.jpg', 'text:Dublin': 'http://en.wikipedia.org/wiki/Dublin'}
+            [0, 1, 2] Type: Cell
+            │         Label: Background information
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 3] Type: Cell
+            └──────── Label: Tom & Jerry
+            [0, 1, 4] Type: Cell
+            │         Label: Kew Gardens Hills, Queens, New York City, U.S.
+            └──────── Link: {'text:Kew Gardens Hills': 'http://en.wikipedia.org/wiki/Kew_Gardens_Hills,_Queens', 'text:Queens': 'http://en.wikipedia.org/wiki/Queens', 'text:New York City': 'http://en.wikipedia.org/wiki/New_York_City'}
+            [0, 1, 5] Type: Cell
+            │         Label: Folk rock
+            └──────── Link: {'text:Folk rock': 'http://en.wikipedia.org/wiki/Folk_rock'}
+            [0, 1, 6] Type: Cell
+            └──────── Label: 1956–1964, 1965–1970
+Reunions:
+1972, 1975–1977, 1981–1984, 1990, 1993, 2003–2005, 2007–2010
+            [0, 1, 7] Type: Cell
+            │         Label: Columbia
+            └──────── Link: {'text:Columbia': 'http://en.wikipedia.org/wiki/Columbia_Records'}
+            [0, 1, 8] Type: Cell
+            │         Label: simonandgarfunkel.com
+            └──────── Link: {'text:simonandgarfunkel.com': 'http://simonandgarfunkel.com'}
+            [0, 1, 9] Type: Cell
+            │         Label: 
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 10] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 2
+                [0, 1, 10, 0] Type: Item
+                └──────────── Label: Paul Simon
+                [0, 1, 10, 1] Type: Item
+                └──────────── Label: Art Garfunkel
+    [1] Type: List
+    │   Label: Contents
+    │   Dimension: 2
+    └── Number of Member: 7
+        [1, 0] Type: Item, List
+        │      Label: History
+        │      Link: {'text:History': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#History'}
+        └───── Number of Member: 8
+            [1, 0, 0] Type: Item
+            │         Label: Early years (1953–56)
+            └──────── Link: {'text:Early years (1953–56)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Early_years_(1953–56)'}
+            [1, 0, 1] Type: Item
+            │         Label: From Tom & Jerry and early recordings (1957–64)
+            └──────── Link: {'text:From Tom & Jerry and early recordings (1957–64)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#From_Tom_&_Jerry_and_early_recordings_(1957–64)'}
+            [1, 0, 2] Type: Item
+            │         Label: Simon in England (1964–65)
+            └──────── Link: {'text:Simon in England (1964–65)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Simon_in_England_(1964–65)'}
+            [1, 0, 3] Type: Item
+            │         Label: Mainstream breakthrough and success (1965–66)
+            └──────── Link: {'text:Mainstream breakthrough and success (1965–66)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Mainstream_breakthrough_and_success_(1965–66)'}
+            [1, 0, 4] Type: Item
+            │         Label: Studio time and low profile (1967–68)
+            └──────── Link: {'text:Studio time and low profile (1967–68)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Studio_time_and_low_profile_(1967–68)'}
+            [1, 0, 5] Type: Item
+            │         Label: Growing apart and final album (1969–70)
+            └──────── Link: {'text:Growing apart and final album (1969–70)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Growing_apart_and_final_album_(1969–70)'}
+            [1, 0, 6] Type: Item
+            │         Label: Breakup, rifts, and reunions (1971–1990)
+            └──────── Link: {'text:Breakup, rifts, and reunions (1971–1990)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Breakup,_rifts,_and_reunions_(1971–1990)'}
+            [1, 0, 7] Type: Item
+            │         Label: Awards and final tour (1990–present)
+            └──────── Link: {'text:Awards and final tour (1990–present)': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Awards_and_final_tour_(1990–present)'}
+        [1, 1] Type: Item
+        │      Label: Musical style and legacy
+        └───── Link: {'text:Musical style and legacy': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Musical_style_and_legacy'}
+        [1, 2] Type: Item
+        │      Label: Awards
+        └───── Link: {'text:Awards': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Awards'}
+        [1, 3] Type: Item, List
+        │      Label: Discography
+        │      Link: {'text:Discography': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Discography'}
+        └───── Number of Member: 4
+            [1, 3, 0] Type: Item
+            │         Label: Studio albums
+            └──────── Link: {'text:Studio albums': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Studio_albums'}
+            [1, 3, 1] Type: Item
+            │         Label: Live albums
+            └──────── Link: {'text:Live albums': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Live_albums'}
+            [1, 3, 2] Type: Item
+            │         Label: Soundtracks
+            └──────── Link: {'text:Soundtracks': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Soundtracks'}
+            [1, 3, 3] Type: Item
+            │         Label: Compilation albums
+            └──────── Link: {'text:Compilation albums': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Compilation_albums'}
+        [1, 4] Type: Item
+        │      Label: References
+        └───── Link: {'text:References': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#References'}
+        [1, 5] Type: Item
+        │      Label: Sources
+        └───── Link: {'text:Sources': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#Sources'}
+        [1, 6] Type: Item
+        │      Label: External links
+        └───── Link: {'text:External links': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#External_links'}
+    [2] Type: Table
+    │   Label: 
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 4
+        [2, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 18
+            [2, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [2, 0, 1] Type: Cell
+            │         Label: 1969
+            │         Style: LineSpan
+            └──────── Link: {'text:1969': 'http://en.wikipedia.org/wiki/11th_Annual_Grammy_Awards'}
+            [2, 0, 2] Type: Cell
+            │         Label: 1969
+            │         Style: LineSpan
+            └──────── Link: {'text:1969': 'http://en.wikipedia.org/wiki/11th_Annual_Grammy_Awards'}
+            [2, 0, 3] Type: Cell
+            │         Label: 1969
+            │         Style: LineSpan
+            └──────── Link: {'text:1969': 'http://en.wikipedia.org/wiki/11th_Annual_Grammy_Awards'}
+            [2, 0, 4] Type: Cell
+            │         Label: 1969
+            │         Style: LineSpan
+            └──────── Link: {'text:1969': 'http://en.wikipedia.org/wiki/11th_Annual_Grammy_Awards'}
+            [2, 0, 5] Type: Cell
+            │         Label: 1971
+            │         Style: LineSpan
+            └──────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 6] Type: Cell
+            │         Label: 1971
+            │         Style: LineSpan
+            └──────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 7] Type: Cell
+            │         Label: 1971
+            │         Style: LineSpan
+            └──────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 8] Type: Cell
+            │         Label: 1971
+            │         Style: LineSpan
+            └──────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 9] Type: Cell
+            │         Label: 1971
+            │         Style: LineSpan
+            └──────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 10] Type: Cell
+            │          Label: 1971
+            │          Style: LineSpan
+            └───────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 11] Type: Cell
+            │          Label: 1971
+            │          Style: LineSpan
+            └───────── Link: {'text:1971': 'http://en.wikipedia.org/wiki/13th_Annual_Grammy_Awards'}
+            [2, 0, 12] Type: Cell
+            │          Label: 1976
+            └───────── Link: {'text:1976': 'http://en.wikipedia.org/wiki/18th_Annual_Grammy_Awards'}
+            [2, 0, 13] Type: Cell
+            │          Label: 1998
+            └───────── Link: {'text:1998': 'http://en.wikipedia.org/wiki/40th_Grammy_Awards'}
+            [2, 0, 14] Type: Cell
+            │          Label: 1999
+            │          Style: LineSpan
+            └───────── Link: {'text:1999': 'http://en.wikipedia.org/wiki/41st_Grammy_Awards'}
+            [2, 0, 15] Type: Cell
+            │          Label: 1999
+            │          Style: LineSpan
+            └───────── Link: {'text:1999': 'http://en.wikipedia.org/wiki/41st_Grammy_Awards'}
+            [2, 0, 16] Type: Cell
+            │          Label: 2003
+            └───────── Link: {'text:2003': 'http://en.wikipedia.org/wiki/45th_Grammy_Awards'}
+            [2, 0, 17] Type: Cell
+            │          Label: 2004
+            └───────── Link: {'text:2004': 'http://en.wikipedia.org/wiki/46th_Grammy_Awards'}
+        [2, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 18
+            [2, 1, 0] Type: Cell
+            │         Label: Nominee / work
+            └──────── Style: Emphasize
+            [2, 1, 1] Type: Cell
+            │         Label: Bookends
+            └──────── Link: {'text:Bookends': 'http://en.wikipedia.org/wiki/Bookends_(album)'}
+            [2, 1, 2] Type: Cell
+            │         Label: "Mrs. Robinson"
+            │         Style: LineSpan
+            └──────── Link: {'text:Mrs. Robinson': 'http://en.wikipedia.org/wiki/Mrs._Robinson'}
+            [2, 1, 3] Type: Cell
+            │         Label: "Mrs. Robinson"
+            │         Style: LineSpan
+            └──────── Link: {'text:Mrs. Robinson': 'http://en.wikipedia.org/wiki/Mrs._Robinson'}
+            [2, 1, 4] Type: Cell
+            │         Label: The Graduate
+            └──────── Link: {'text:The Graduate': 'http://en.wikipedia.org/wiki/The_Graduate_(soundtrack)'}
+            [2, 1, 5] Type: Cell
+            │         Label: Bridge over Troubled Water
+            └──────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water'}
+            [2, 1, 6] Type: Cell
+            │         Label: "Bridge over Troubled Water"
+            │         Style: LineSpan
+            └──────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)'}
+            [2, 1, 7] Type: Cell
+            │         Label: "Bridge over Troubled Water"
+            │         Style: LineSpan
+            └──────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)'}
+            [2, 1, 8] Type: Cell
+            │         Label: "Bridge over Troubled Water"
+            │         Style: LineSpan
+            └──────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)'}
+            [2, 1, 9] Type: Cell
+            │         Label: "Bridge over Troubled Water"
+            │         Style: LineSpan
+            └──────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)'}
+            [2, 1, 10] Type: Cell
+            │          Label: "Bridge over Troubled Water"
+            │          Style: LineSpan
+            └───────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)'}
+            [2, 1, 11] Type: Cell
+            │          Label: "Bridge over Troubled Water"
+            │          Style: LineSpan
+            └───────── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)'}
+            [2, 1, 12] Type: Cell
+            │          Label: "My Little Town"
+            └───────── Link: {'text:My Little Town': 'http://en.wikipedia.org/wiki/My_Little_Town'}
+            [2, 1, 13] Type: Cell
+            └───────── Label: "Bridge over Troubled Water"
+            [2, 1, 14] Type: Cell
+            │          Label: "Mrs. Robinson"
+            └───────── Link: {'text:Mrs. Robinson': 'http://en.wikipedia.org/wiki/Mrs._Robinson'}
+            [2, 1, 15] Type: Cell
+            │          Label: Parsley, Sage, Rosemary and Thyme
+            └───────── Link: {'text:Parsley, Sage, Rosemary and Thyme': 'http://en.wikipedia.org/wiki/Parsley,_Sage,_Rosemary_and_Thyme'}
+            [2, 1, 16] Type: Cell
+            └───────── Label: Simon & Garfunkel
+            [2, 1, 17] Type: Cell
+            │          Label: "The Sound of Silence"
+            └───────── Link: {'text:The Sound of Silence': 'http://en.wikipedia.org/wiki/The_Sound_of_Silence'}
+        [2, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 18
+            [2, 2, 0] Type: Cell
+            │         Label: Award
+            └──────── Style: Emphasize
+            [2, 2, 1] Type: Cell
+            │         Label: Album of the Year
+            └──────── Link: {'text:Album of the Year': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year'}
+            [2, 2, 2] Type: Cell
+            │         Label: Record of the Year
+            └──────── Link: {'text:Record of the Year': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Record_of_the_Year'}
+            [2, 2, 3] Type: Cell
+            │         Label: Best Contemporary Pop Performance – Vocal Duo or Group
+            └──────── Link: {'text:Best Contemporary Pop Performance – Vocal Duo or Group': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals'}
+            [2, 2, 4] Type: Cell
+            │         Label: Best Original Score Written for a Motion Picture or a Television Special
+            └──────── Link: {'text:Best Original Score Written for a Motion Picture or a Television Special': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Score_Soundtrack_for_Visual_Media'}
+            [2, 2, 5] Type: Cell
+            │         Label: Album of the Year
+            └──────── Link: {'text:Album of the Year': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year'}
+            [2, 2, 6] Type: Cell
+            └──────── Label: Record of the Year
+            [2, 2, 7] Type: Cell
+            │         Label: Song of the Year
+            └──────── Link: {'text:Song of the Year': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Song_of_the_Year'}
+            [2, 2, 8] Type: Cell
+            │         Label: Best Contemporary Song
+            └──────── Link: {'text:Best Contemporary Song': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Contemporary_Song'}
+            [2, 2, 9] Type: Cell
+            │         Label: Best Instrumental Arrangement Accompanying Vocalist(s)
+            └──────── Link: {'text:Best Instrumental Arrangement Accompanying Vocalist(s)': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals'}
+            [2, 2, 10] Type: Cell
+            │          Label: Best Engineered Recording
+            └───────── Link: {'text:Best Engineered Recording': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Engineered_Album,_Non-Classical'}
+            [2, 2, 11] Type: Cell
+            │          Label: Best Pop Performance by a Duo or Group with Vocals
+            └───────── Link: {'text:Best Pop Performance by a Duo or Group with Vocals': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals'}
+            [2, 2, 12] Type: Cell
+            │          Label: Best Pop Performance by a Duo or Group with Vocals
+            └───────── Link: {'text:Best Pop Performance by a Duo or Group with Vocals': 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals'}
+            [2, 2, 13] Type: Cell
+            │          Label: Grammy Hall of Fame Award
+            └───────── Link: {'text:Grammy Hall of Fame Award': 'http://en.wikipedia.org/wiki/Grammy_Hall_of_Fame'}
+            [2, 2, 14] Type: Cell
+            │          Label: Grammy Hall of Fame Award
+            └───────── Link: {'text:Grammy Hall of Fame Award': 'http://en.wikipedia.org/wiki/Grammy_Hall_of_Fame'}
+            [2, 2, 15] Type: Cell
+            │          Label: Grammy Hall of Fame Award
+            └───────── Link: {'text:Grammy Hall of Fame Award': 'http://en.wikipedia.org/wiki/Grammy_Hall_of_Fame'}
+            [2, 2, 16] Type: Cell
+            │          Label: Grammy Lifetime Achievement Award
+            └───────── Link: {'text:Grammy Lifetime Achievement Award': 'http://en.wikipedia.org/wiki/Grammy_Lifetime_Achievement_Award'}
+            [2, 2, 17] Type: Cell
+            │          Label: Grammy Hall of Fame Award
+            └───────── Link: {'text:Grammy Hall of Fame Award': 'http://en.wikipedia.org/wiki/Grammy_Hall_of_Fame'}
+        [2, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 18
+            [2, 3, 0] Type: Cell
+            │         Label: Result
+            └──────── Style: Emphasize
+            [2, 3, 1] Type: Cell
+            └──────── Label: Nominated
+            [2, 3, 2] Type: Cell
+            └──────── Label: Won
+            [2, 3, 3] Type: Cell
+            └──────── Label: Won
+            [2, 3, 4] Type: Cell
+            └──────── Label: Won
+            [2, 3, 5] Type: Cell
+            └──────── Label: Won
+            [2, 3, 6] Type: Cell
+            └──────── Label: Won
+            [2, 3, 7] Type: Cell
+            └──────── Label: Won
+            [2, 3, 8] Type: Cell
+            └──────── Label: Won
+            [2, 3, 9] Type: Cell
+            └──────── Label: Won
+            [2, 3, 10] Type: Cell
+            └───────── Label: Won
+            [2, 3, 11] Type: Cell
+            └───────── Label: Nominated
+            [2, 3, 12] Type: Cell
+            └───────── Label: Nominated
+            [2, 3, 13] Type: Cell
+            └───────── Label: Won
+            [2, 3, 14] Type: Cell
+            └───────── Label: Won
+            [2, 3, 15] Type: Cell
+            └───────── Label: Won
+            [2, 3, 16] Type: Cell
+            └───────── Label: Won
+            [2, 3, 17] Type: Cell
+            └───────── Label: Won
+    [3] Type: List
+    │   Label: Awards
+    │   Dimension: 1
+    └── Number of Member: 2
+        [3, 0] Type: Item
+        │      Label: Brit Awards (1977) – International Album (for Bridge over Troubled Water)
+        └───── Link: {'text:Brit Awards': 'http://en.wikipedia.org/wiki/Brit_Awards', 'text:International Album': 'http://en.wikipedia.org/wiki/Brit_Award_for_International_Album'}
+        [3, 1] Type: Item
+        │      Label: Rock and Roll Hall of Fame (1990) – Inductee
+        └───── Link: {'text:Rock and Roll Hall of Fame': 'http://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame', 'text:1990': 'http://en.wikipedia.org/wiki/List_of_Rock_and_Roll_Hall_of_Fame_inductees'}
+    [4] Type: List
+    │   Label: Studio albums
+    │   Dimension: 1
+    └── Number of Member: 5
+        [4, 0] Type: Item
+        │      Label: Wednesday Morning, 3 A.M. (1964)
+        └───── Link: {'text:Wednesday Morning, 3 A.M.': 'http://en.wikipedia.org/wiki/Wednesday_Morning,_3_A.M.'}
+        [4, 1] Type: Item
+        │      Label: Sounds of Silence (1966)
+        └───── Link: {'text:Sounds of Silence': 'http://en.wikipedia.org/wiki/Sounds_of_Silence'}
+        [4, 2] Type: Item
+        │      Label: Parsley, Sage, Rosemary and Thyme (1966)
+        └───── Link: {'text:Parsley, Sage, Rosemary and Thyme': 'http://en.wikipedia.org/wiki/Parsley,_Sage,_Rosemary_and_Thyme'}
+        [4, 3] Type: Item
+        │      Label: Bookends (1968)
+        └───── Link: {'text:Bookends': 'http://en.wikipedia.org/wiki/Bookends_(album)'}
+        [4, 4] Type: Item
+        │      Label: Bridge over Troubled Water (1970)
+        └───── Link: {'text:Bridge over Troubled Water': 'http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water'}
+    [5] Type: List
+    │   Label: Live albums
+    │   Dimension: 1
+    └── Number of Member: 4
+        [5, 0] Type: Item
+        │      Label: The Concert in Central Park (1981)
+        └───── Link: {'text:The Concert in Central Park': 'http://en.wikipedia.org/wiki/The_Concert_in_Central_Park'}
+        [5, 1] Type: Item
+        │      Label: Live from New York City, 1967 (2002)
+        └───── Link: {'text:Live from New York City, 1967': 'http://en.wikipedia.org/wiki/Live_from_New_York_City,_1967'}
+        [5, 2] Type: Item
+        │      Label: Old Friends: Live on Stage (2004)
+        └───── Link: {'text:Old Friends: Live on Stage': 'http://en.wikipedia.org/wiki/Old_Friends:_Live_on_Stage'}
+        [5, 3] Type: Item
+        │      Label: Live 1969 (2008)
+        └───── Link: {'text:Live 1969': 'http://en.wikipedia.org/wiki/Live_1969'}
+    [6] Type: List
+    │   Label: Soundtracks
+    │   Dimension: 1
+    └── Number of Member: 1
+        [6, 0] Type: Item
+        │      Label: The Graduate (1968, with Dave Grusin)
+        └───── Link: {'text:The Graduate': 'http://en.wikipedia.org/wiki/The_Graduate_(soundtrack)', 'text:Dave Grusin': 'http://en.wikipedia.org/wiki/Dave_Grusin'}
+    [7] Type: List
+    │   Label: Compilation albums
+    │   Dimension: 1
+    └── Number of Member: 1
+        [7, 0] Type: Item
+        │      Label: Simon and Garfunkel's Greatest Hits (1972)
+        └───── Link: {"text:Simon and Garfunkel's Greatest Hits": 'http://en.wikipedia.org/wiki/Simon_and_Garfunkel%27s_Greatest_Hits'}
+    [8] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 124
+        [8, 0] Type: Item
+        │      Label: Richie Unterberger. "Simon & Garfunkel – All Music Guide". AllMusic. Retrieved September 22, 2014.
+        └───── Link: {'text:"Simon & Garfunkel – All Music Guide"': 'http://www.allmusic.com/artist/simon-garfunkel-mn0000038936/biography', 'text:AllMusic': 'http://en.wikipedia.org/wiki/AllMusic'}
+        [8, 1] Type: Item
+        │      Label: "Simon & Garfunkel, Bookends". Allmusic. Retrieved August 22, 2015.
+        └───── Link: {'text:"Simon & Garfunkel, Bookends"': 'http://www.allmusic.com/album/bookends-mw0000043634/awards'}
+        [8, 2] Type: Item
+        │      Label: "Episodes: Paul Simon". American Masters. PBS. Retrieved December 6, 2009.
+        └───── Link: {'text:"Episodes: Paul Simon"': 'https://www.pbs.org/wnet/americanmasters/episodes/paul-simon/about-paul-simon/705/', 'text:PBS': 'http://en.wikipedia.org/wiki/PBS'}
+        [8, 3] Type: Item
+        │      Label: Rebecca Raber (September 19, 2011). "Hive Five: Big Concerts With Big Draws". MTV. Archived from the original on September 24, 2011. Retrieved April 3, 2015.
+        └───── Link: {'text:"Hive Five: Big Concerts With Big Draws"': 'http://read.mtvhive.com/2011/09/19/hive-five-big-concerts-with-big-draws/', 'text:Archived': 'https://web.archive.org/web/20110924181131/http://read.mtvhive.com/2011/09/19/hive-five-big-concerts-with-big-draws/'}
+        [8, 4] Type: Item
+        │      Label: "The BRITs 1977 | The BRIT Awards 2012". Brits.co.uk. October 18, 1977. Retrieved July 16, 2012.
+        └───── Link: {'text:"The BRITs 1977 | The BRIT Awards 2012"': 'http://www.brits.co.uk/history/shows/1977'}
+        [8, 5] Type: Item
+        │      Label: "500 Greatest Albums of All Time: Simon and Garfunkel, 'Bridge over Troubled Water'". Rolling Stone. Wenner Media. Retrieved July 25, 2012.
+        └───── Link: {'text:"500 Greatest Albums of All Time: Simon and Garfunkel, \'Bridge over Troubled Water\'"': 'https://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/simon-and-garfunkel-bridge-over-troubled-water-19691231'}
+        [8, 6] Type: Item
+        │      Label: "The singer with Art". The Shuttle. December 1, 2012. Retrieved February 26, 2018.
+        └───── Link: {'text:"The singer with Art"': 'http://www.kidderminstershuttle.co.uk/news/10081485.The_singer_with_Art/', 'text:The Shuttle': 'http://en.wikipedia.org/wiki/The_Shuttle'}
+        [8, 7] Type: Item
+        │      Label: Claudia Gryvatz Copquin (2007). The Neighborhoods of Queens. Yale University Press. p. 119.
+        └───── Link: {'text:The Neighborhoods of Queens': 'https://books.google.com/books?id=b5UiKlrlAwEC&pg=PA119#v=onepage&q&f=false'}
+        [8, 8] Type: Item
+        │      Label: David Browne (2012). Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Bittersweet Story Of 1970. Da Capo Press. p. 31.
+        └───── Link: {'text:Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Bittersweet Story Of 1970': 'https://books.google.com/books?id=n1-dDFQj3gwC&pg=PT41'}
+        [8, 9] Type: Item
+        │      Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. pp. 16–18.
+        └───── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT27'}
+        [8, 10] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 19.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT30'}
+        [8, 11] Type: Item
+        │       Label: Timothy White (2009). Long Ago And Far Away: James Taylor – His Life And Music. Omnibus Press. p. 189.
+        └────── Link: {'text:Long Ago And Far Away: James Taylor – His Life And Music': 'https://books.google.com/books?id=hfMwjQAO3eQC&pg=PT189#v=onepage&q&f=false'}
+        [8, 12] Type: Item
+        │       Label: Serpick, Evan (2001). The Rolling Stone Encyclopedia of Rock & Roll. New York: Simon & Schuster, 1136 pp. First edition, 2001.
+        └────── Link: {'text:Simon & Schuster': 'http://en.wikipedia.org/wiki/Simon_%26_Schuster'}
+        [8, 13] Type: Item
+        │       Label: Richard Harrington (May 18, 2007). "Paul Simon, The Sound Of America". The Washington Post. Retrieved September 20, 2014.
+        └────── Link: {'text:"Paul Simon, The Sound Of America"': 'https://www.washingtonpost.com/wp-dyn/content/article/2007/05/17/AR2007051700717.html', 'text:The Washington Post': 'http://en.wikipedia.org/wiki/The_Washington_Post'}
+        [8, 14] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 18. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:18': 'https://archive.org/details/paulsimonlife0000elio/page/18', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 15] Type: Item
+        │       Label: David Browne (2012). Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Bittersweet Story Of 1970. Da Capo Press. p. 32.
+        └────── Link: {'text:Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Bittersweet Story Of 1970': 'https://books.google.com/books?id=n1-dDFQj3gwC&pg=PT42'}
+        [8, 16] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 21. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:21': 'https://archive.org/details/paulsimonlife0000elio/page/21', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 17] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 20.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT31'}
+        [8, 18] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 22. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:22': 'https://archive.org/details/paulsimonlife0000elio/page/22', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 19] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 23. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:23': 'https://archive.org/details/paulsimonlife0000elio/page/23', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 20] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 24. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:24': 'https://archive.org/details/paulsimonlife0000elio/page/24', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 21] Type: Item
+        │       Label: Dee Jay Jamboree. "Tom & Jerry meet Tico & The Triumphs Early Simon & Garfunkel". rockabilly.nl.
+        └────── Link: {'text:"Tom & Jerry meet Tico & The Triumphs Early Simon & Garfunkel"': 'http://www.rockabilly.nl/artists/simongarfunkel.htm'}
+        [8, 22] Type: Item
+        │       Label: Sharon Davis (January 6, 2012). Every Chart Topper Tells a Story: The Seventies. Random House. p. 13.
+        └────── Link: {'text:Every Chart Topper Tells a Story: The Seventies': 'https://books.google.com/books?id=Z2IBSoKMsgQC&pg=PA1930'}
+        [8, 23] Type: Item
+        │       Label: Bertrand, Donald (May 26, 2002). "For boro, such a trail Jewish heritage map to be light & serious". NY Daily News. Retrieved August 17, 2016.
+        └────── Link: {'text:"For boro, such a trail Jewish heritage map to be light & serious"': 'http://www.nydailynews.com/archives/boroughs/boro-trail-jewish-heritage-map-light-serious-article-1.489603'}
+        [8, 24] Type: Item
+        │       Label: "Art Garfunkel Biography". artgarfunkel.com.
+        └────── Link: {'text:"Art Garfunkel Biography"': 'http://www.artgarfunkel.com/bio.html'}
+        [8, 25] Type: Item
+        │       Label: Columbia University (2004). "C250 Celebrates Columbians Ahead of Their Time: Arthur Ira Garfunkel".
+        └────── Link: {'text:"C250 Celebrates Columbians Ahead of Their Time: Arthur Ira Garfunkel"': 'http://c250.columbia.edu/c250_celebrates/remarkable_columbians/art_garfunkel.html'}
+        [8, 26] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 22.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT33'}
+        [8, 27] Type: Item
+        │       Label: Sharon Davis (January 6, 2012). Every Chart Topper Tells a Story: The Seventies. Random House. p. 14.
+        └────── Link: {'text:Every Chart Topper Tells a Story: The Seventies': 'https://books.google.com/books?id=Z2IBSoKMsgQC&pg=PA1931'}
+        [8, 28] Type: Item
+        │       Label: James Bennighof (2007). The Words and Music of Paul Simon. Greenwood Publishing Group. p. 1.
+        └────── Link: {'text:The Words and Music of Paul Simon': 'https://books.google.com/books?id=ShBhKL-9SLIC&pg=PA1'}
+        [8, 29] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 26. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:26': 'https://archive.org/details/paulsimonlife0000elio/page/26', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 30] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 32. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:32': 'https://archive.org/details/paulsimonlife0000elio/page/32', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 31] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 39. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:39': 'https://archive.org/details/paulsimonlife0000elio/page/39', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 32] Type: Item
+        │       Label: Michael Hall (January 6, 2014). "The Greatest Music Producer You've Never Heard of Is..." Texas Monthly. Retrieved May 17, 2019.
+        └────── Link: {'text:"The Greatest Music Producer You\'ve Never Heard of Is..."': 'https://www.texasmonthly.com/the-culture/the-greatest-music-producer-youve-never-heard-of-is/'}
+        [8, 33] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. pp. 39–40. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:39': 'https://archive.org/details/paulsimonlife0000elio/page/39', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 34] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 42. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:42': 'https://archive.org/details/paulsimonlife0000elio/page/42', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 35] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 43. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:43': 'https://archive.org/details/paulsimonlife0000elio/page/43', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 36] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 45. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:45': 'https://archive.org/details/paulsimonlife0000elio/page/n54', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 37] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 53. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:53': 'https://archive.org/details/paulsimonlife0000elio/page/n62', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 38] Type: Item
+        │       Label: Colin Harper (April 2, 2012). Dazzling Stranger: Bert Jansch and the British Folk and Blues Revival. A&C Black. pp. 105–106.
+        └────── Link: {'text:Dazzling Stranger: Bert Jansch and the British Folk and Blues Revival': 'https://books.google.com/books?id=1N87hqo7XlcC&pg=RA2-PT105'}
+        [8, 39] Type: Item
+        │       Label: Timothy White (October 28, 2009). Long Ago And Far Away: James Taylor – His Life And Music. Omnibus Press. p. 193.
+        └────── Link: {'text:Long Ago And Far Away: James Taylor – His Life And Music': 'https://books.google.com/books?id=hfMwjQAO3eQC&pg=PT193'}
+        [8, 40] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 48. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:48': 'https://archive.org/details/paulsimonlife0000elio/page/n57', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 41] Type: Item
+        │       Label: Jim Abbott (November 11, 2014). Jackson C. Frank: The Clear, Hard Light of Genius. Ba Da Bing Records. p. 72.
+        └────── Link: {'text:Jackson C. Frank: The Clear, Hard Light of Genius': 'https://books.google.com/books?id=hngcBQAAQBAJ&pg=PA72'}
+        [8, 42] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 54. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:54': 'https://archive.org/details/paulsimonlife0000elio/page/n63', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 43] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 55. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:55': 'https://archive.org/details/paulsimonlife0000elio/page/n64', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 44] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 56. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:56': 'https://archive.org/details/paulsimonlife0000elio/page/n65', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 45] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 57. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:57': 'https://archive.org/details/paulsimonlife0000elio/page/n66', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 46] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 59. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:59': 'https://archive.org/details/paulsimonlife0000elio/page/n68', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 47] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 37. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:37': 'https://archive.org/details/paulsimonlife0000elio/page/n46', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 48] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 64. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:64': 'https://archive.org/details/paulsimonlife0000elio/page/n73', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 49] Type: Item
+        │       Label: Roland Ellis (November 30, 2015). "Tom Wilson: The Mid-Wife of the Folk Rock Movement". Gaslight Records. Retrieved May 17, 2019.
+        └────── Link: {'text:"Tom Wilson: The Mid-Wife of the Folk Rock Movement"': 'https://gaslightrecords.com/articles/tom-wilson-the-mid-wife-of-the-folk-rock-movement'}
+        [8, 50] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 65. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:65': 'https://archive.org/details/paulsimonlife0000elio/page/n74', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 51] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 66. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:66': 'https://archive.org/details/paulsimonlife0000elio/page/n75', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 52] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 67. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:67': 'https://archive.org/details/paulsimonlife0000elio/page/n76', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 53] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 69. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:69': 'https://archive.org/details/paulsimonlife0000elio/page/n78', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 54] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 70. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:70': 'https://archive.org/details/paulsimonlife0000elio/page/n79', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 55] Type: Item
+        │       Label: Dimery, Robert (ed.) (2005). 1001 Albums You Must Hear Before You Die. Milan: Universe Publishing, p. 94. First edition, 2005.
+        └────── Link: {'text:1001 Albums You Must Hear Before You Die': 'http://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die', 'text:Milan': 'http://en.wikipedia.org/wiki/Milan', 'text:Universe Publishing': 'http://en.wikipedia.org/wiki/Universe_Publishing'}
+        [8, 56] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 57.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT68'}
+        [8, 57] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 73. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:73': 'https://archive.org/details/paulsimonlife0000elio/page/n82', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 58] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 72. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:72': 'https://archive.org/details/paulsimonlife0000elio/page/n81', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 59] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 89. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:89': 'https://archive.org/details/paulsimonlife0000elio/page/n98', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 60] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 58.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT69'}
+        [8, 61] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 61.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT71'}
+        [8, 62] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 60.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT70'}
+        [8, 63] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 62.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT72'}
+        [8, 64] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 63.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT73'}
+        [8, 65] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 88. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:88': 'https://archive.org/details/paulsimonlife0000elio/page/n97', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 66] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 90. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:90': 'https://archive.org/details/paulsimonlife0000elio/page/n99', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 67] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 70.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT80'}
+        [8, 68] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 64.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT74'}
+        [8, 69] Type: Item
+        │       Label: Simon & Garfunkel interviewed on the Pop Chronicles (1969)
+        └────── Link: {'text:Simon & Garfunkel': 'https://digital.library.unt.edu/explore/partners/UNTML/browse/?start=45&fq=untl_collection%3AJGPC', 'text:Pop Chronicles': 'http://en.wikipedia.org/wiki/Pop_Chronicles'}
+        [8, 70] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 97. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:97': 'https://archive.org/details/paulsimonlife0000elio/page/n114', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 71] Type: Item
+        │       Label: Bookends (2001 Remaster) (liner notes). Simon & Garfunkel. US: Columbia Records. 2001. CK 66003.CS1 maint: others (link)
+        └────── Link: {'text:Columbia Records': 'http://en.wikipedia.org/wiki/Columbia_Records', 'text:link': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_others'}
+        [8, 72] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 66.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT76'}
+        [8, 73] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 85. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:85': 'https://archive.org/details/paulsimonlife0000elio/page/n94', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 74] Type: Item
+        │       Label: Pete Fornatale (October 30, 2007). Simon and Garfunkel's Bookends. Rodale. p. 81.
+        └────── Link: {"text:Simon and Garfunkel's Bookends": 'https://books.google.com/books?id=3xrGR7hYesYC&pg=PT91'}
+        [8, 75] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. pp. 93–94. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:93': 'https://archive.org/details/paulsimonlife0000elio/page/n110', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 76] Type: Item
+        │       Label: Gross, Mike (April 13, 1968). "All-Stereo LP Swing Boon to Industry: Columbia's Davis". Billboard. New York City: Nielsen Business Media, Inc. 80 (15): 8. ISSN 0006-2510. Retrieved January 14, 2014.
+        └────── Link: {'text:"All-Stereo LP Swing Boon to Industry: Columbia\'s Davis"': 'https://books.google.com/books?id=rQoEAAAAMBAJ&dq=All-Stereo+LP+Swing+Boon+to+Industry:+Columbia%E2%80%99s+Davis&source=gbs_navlinks_s', 'text:Billboard': 'http://en.wikipedia.org/wiki/Billboard_(magazine)', 'text:New York City': 'http://en.wikipedia.org/wiki/New_York_City', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0006-2510': 'http://www.worldcat.org/issn/0006-2510'}
+        [8, 77] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 96. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:96': 'https://archive.org/details/paulsimonlife0000elio/page/n113', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 78] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 94. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:94': 'https://archive.org/details/paulsimonlife0000elio/page/n111', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 79] Type: Item
+        │       Label: David Browne (2012). Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Bittersweet Story Of 1970. Da Capo Press. p. 27.
+        └────── Link: {'text:Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Bittersweet Story Of 1970': 'https://books.google.com/books?id=n1-dDFQj3gwC&pg=PT317'}
+        [8, 80] Type: Item
+        │       Label: Roswitha Ebel (2004). Paul Simon: seine Musik, sein Leben [Paul Simon: His Music, His Life] (in German). epubli. pp. 52–53. ISBN 978-3-937729-00-8.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-3-937729-00-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-3-937729-00-8'}
+        [8, 81] Type: Item
+        │       Label: Hayward, Anthony (October 5, 2011). "John Calley: Film producer who made 'Catch-22' and successfully headed three major studios". Obituaries. The Independent. Retrieved August 13, 2012.
+        └────── Link: {'text:"John Calley: Film producer who made \'Catch-22\' and successfully headed three major studios"': 'https://www.independent.co.uk/news/obituaries/john-calley-film-producer-who-made-lsquocatch22rsquo-and-successfully-headed-three-major-studios-2365494.html'}
+        [8, 82] Type: Item
+        │       Label: Patrick Humphries (1982). Bookends: The Simon and Garfunkel Story. Proteus Books. p. 65. ISBN 978-0-86276-063-2.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-86276-063-2': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-86276-063-2'}
+        [8, 83] Type: Item
+        │       Label: Roswitha Ebel (2004). Paul Simon: seine Musik, sein Leben [Paul Simon: His Music, His Life] (in German). epubli. pp. 64, 673. ISBN 978-3-937729-00-8.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-3-937729-00-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-3-937729-00-8'}
+        [8, 84] Type: Item
+        │       Label: "Paul Simon and Garfunkel – Bridge over troubled waters tour :". Paul-simon.info. Retrieved July 16, 2012.
+        └────── Link: {'text:"Paul Simon and Garfunkel – Bridge over troubled waters tour\xa0:"': 'http://www.paul-simon.info/PHP/listconcerts.php?tour=18'}
+        [8, 85] Type: Item
+        │       Label: Roswitha Ebel (2004). Paul Simon: seine Musik, sein Leben [Paul Simon: His Music, His Life] (in German). epubli. p. 65. ISBN 978-3-937729-00-8.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-3-937729-00-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-3-937729-00-8'}
+        [8, 86] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 107. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:107': 'https://archive.org/details/paulsimonlife0000elio/page/n124', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 87] Type: Item
+        │       Label: Roswitha Ebel (2004). Paul Simon: seine Musik, sein Leben [Paul Simon: His Music, His Life] (in German). epubli. pp. 63–64. ISBN 978-3-937729-00-8.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-3-937729-00-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-3-937729-00-8'}
+        [8, 88] Type: Item
+        │       Label: "Bridge over Troubled Water – Simon & Garfunkel : Awards". Allmusic. Rovi Corporation. Retrieved July 16, 2012.
+        └────── Link: {'text:"Bridge over Troubled Water – Simon & Garfunkel\xa0: Awards"': 'http://www.allmusic.com/album/bridge-over-troubled-water-mw0000191730/awards'}
+        [8, 89] Type: Item
+        │       Label: "The Official Charts Company – Album chart for 19/11/2011". Official Charts Company. Retrieved February 4, 2012.
+        └────── Link: {'text:"The Official Charts Company – Album chart for 19/11/2011"': 'https://www.officialcharts.com/archive/official-albums-chart/', 'text:Official Charts Company': 'http://en.wikipedia.org/wiki/Official_Charts_Company'}
+        [8, 90] Type: Item
+        │       Label: Roswitha Ebel (2004). Paul Simon: seine Musik, sein Leben [Paul Simon: His Music, His Life] (in German). epubli. p. 68. ISBN 978-3-937729-00-8.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-3-937729-00-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-3-937729-00-8'}
+        [8, 91] Type: Item
+        └────── Label: R. Serge Denisoff: Inside Mtv, Transaction Publishers, 1988, p. 117
+        [8, 92] Type: Item
+        │       Label: "BPI Highest Retail Sales" (PDF). British Phonographic Industry. Retrieved December 26, 2009.
+        └────── Link: {'text:"BPI Highest Retail Sales"': 'http://www.bpi.co.uk/assets/files/top%2040%20albums.pdf'}
+        [8, 93] Type: Item
+        │       Label: "Simon and Garfunkel heading to NZ". The New Zealand Herald. April 2, 2009. Retrieved April 18, 2009.
+        └────── Link: {'text:"Simon and Garfunkel heading to NZ"': 'http://www.nzherald.co.nz/music/news/article.cfm?c_id=264&objectid=10564668'}
+        [8, 94] Type: Item
+        │       Label: Charlesworth 1997, p. 49.
+        └────── Link: {'text:Charlesworth 1997': 'http://en.wikipedia.org/wiki/Simon_%26_Garfunkel#CITEREFCharlesworth1997'}
+        [8, 95] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 103. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:103': 'https://archive.org/details/paulsimonlife0000elio/page/n120', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 96] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 112. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:112': 'https://archive.org/details/paulsimonlife0000elio/page/n129', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 97] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 111. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:111': 'https://archive.org/details/paulsimonlife0000elio/page/n128', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 98] Type: Item
+        │       Label: Elysa Gardner (September 14, 2003). "Simon & Garfunkel, again". USA Today. Gannett Company. Retrieved September 22, 2014.
+        └────── Link: {'text:"Simon & Garfunkel, again"': 'http://usatoday30.usatoday.com/life/music/news/2003-09-14-sg-tour_x.htm', 'text:USA Today': 'http://en.wikipedia.org/wiki/USA_Today', 'text:Gannett Company': 'http://en.wikipedia.org/wiki/Gannett_Company'}
+        [8, 99] Type: Item
+        │       Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 114. ISBN 978-0-470-43363-8.
+        └────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:114': 'https://archive.org/details/paulsimonlife0000elio/page/n131', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 100] Type: Item
+        │        Label: Stephen Holden (March 18, 1982). "Class Reunion: It Looks Like a Lasting Thing". Rolling Stone. New York City: Wenner Media LLC (365): 26–28. ISSN 0035-791X.
+        └─────── Link: {'text:Rolling Stone': 'http://en.wikipedia.org/wiki/Rolling_Stone_(magazine)', 'text:New York City': 'http://en.wikipedia.org/wiki/New_York_City', 'text:Wenner Media': 'http://en.wikipedia.org/wiki/Jann_Wenner', 'text:LLC': 'http://en.wikipedia.org/wiki/Limited_liability_company', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0035-791X': 'http://www.worldcat.org/issn/0035-791X'}
+        [8, 101] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 139. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:139': 'https://archive.org/details/paulsimonlife0000elio/page/n156', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 102] Type: Item
+        │        Label: "SNL Transcripts: Paul Simon: 10/18/75". snltranscripts.jt.org. Retrieved January 24, 2018.
+        └─────── Link: {'text:"SNL Transcripts: Paul Simon: 10/18/75"': 'http://snltranscripts.jt.org/75/75b.phtml'}
+        [8, 103] Type: Item
+        └─────── Label: "Reunion At Carnegie". Lakeland Ledger. May 3, 1978. p. 2.
+        [8, 104] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 171. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:171': 'https://archive.org/details/paulsimonlife0000elio/page/n188', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 105] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 172. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:172': 'https://archive.org/details/paulsimonlife0000elio/page/n189', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 106] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 173. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:173': 'https://archive.org/details/paulsimonlife0000elio/page/n190', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 107] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 177. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:177': 'https://archive.org/details/paulsimonlife0000elio/page/n194', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 108] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 178. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:178': 'https://archive.org/details/paulsimonlife0000elio/page/n195', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 109] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 180. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:180': 'https://archive.org/details/paulsimonlife0000elio/page/n197', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 110] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 192. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:192': 'https://archive.org/details/paulsimonlife0000elio/page/n217', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 111] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 204. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:204': 'https://archive.org/details/paulsimonlife0000elio/page/n229', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 112] Type: Item
+        │        Label: Andy Greene (February 19, 2014). "Art Garfunkel Is Ecstatic: 'My Voice Is 96 Percent Back'". Rolling Stone. New York City: Wenner Media LLC. ISSN 0035-791X. Retrieved September 21, 2014.
+        └─────── Link: {'text:"Art Garfunkel Is Ecstatic: \'My Voice Is 96 Percent Back\'"': 'https://www.rollingstone.com/music/news/art-garfunkel-is-ecstatic-my-voice-is-96-percent-back-20140219', 'text:Rolling Stone': 'http://en.wikipedia.org/wiki/Rolling_Stone_(magazine)', 'text:New York City': 'http://en.wikipedia.org/wiki/New_York_City', 'text:Wenner Media': 'http://en.wikipedia.org/wiki/Jann_Wenner', 'text:LLC': 'http://en.wikipedia.org/wiki/Limited_liability_company', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0035-791X': 'http://www.worldcat.org/issn/0035-791X'}
+        [8, 113] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 211. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:211': 'https://archive.org/details/paulsimonlife0000elio/page/n236', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 114] Type: Item
+        │        Label: Alan Duke (March 19, 2009). "Simon and Garfunkel reuniting for tour". CNN. Retrieved September 22, 2014.
+        └─────── Link: {'text:"Simon and Garfunkel reuniting for tour"': 'http://www.cnn.com/2009/SHOWBIZ/Music/03/19/simon.garfunkel.reunion.tour/index.html?iref=24hours', 'text:CNN': 'http://en.wikipedia.org/wiki/CNN'}
+        [8, 115] Type: Item
+        │        Label: Steve Knopper (September 2, 2004). "Simon and Garfunkel Take Rome". Rolling Stone. New York City: Wenner Media LLC (956): 57. ISSN 0035-791X.
+        └─────── Link: {'text:Rolling Stone': 'http://en.wikipedia.org/wiki/Rolling_Stone_(magazine)', 'text:New York City': 'http://en.wikipedia.org/wiki/New_York_City', 'text:Wenner Media': 'http://en.wikipedia.org/wiki/Jann_Wenner', 'text:LLC': 'http://en.wikipedia.org/wiki/Limited_liability_company', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0035-791X': 'http://www.worldcat.org/issn/0035-791X'}
+        [8, 116] Type: Item
+        │        Label: Greene, David (June 3, 2016). "Paul Simon On 'Stranger To Stranger' And Why You Can Call Him Al (Again)". Morning Edition. NPR. Retrieved June 6, 2016.
+        └─────── Link: {'text:"Paul Simon On \'Stranger To Stranger\' And Why You Can Call Him Al (Again)"': 'https://www.npr.org/templates/transcript/transcript.php?storyId=479619178', 'text:Morning Edition': 'http://en.wikipedia.org/wiki/Morning_Edition', 'text:NPR': 'http://en.wikipedia.org/wiki/NPR'}
+        [8, 117] Type: Item
+        │        Label: "Simon (Without Garfunkel) Says Goodbye". Next Avenue. February 16, 2018. Retrieved March 10, 2018.
+        └─────── Link: {'text:"Simon (Without Garfunkel) Says Goodbye"': 'https://www.nextavenue.org/simon-without-garfunkel-says-goodbye/'}
+        [8, 118] Type: Item
+        │        Label: "The Top 25 Rock & Roll Albums of the '60s". Rolling Stone. New York City: Wenner Media LLC (585): 76. August 23, 1990. ISSN 0035-791X.
+        └─────── Link: {'text:Rolling Stone': 'http://en.wikipedia.org/wiki/Rolling_Stone_(magazine)', 'text:New York City': 'http://en.wikipedia.org/wiki/New_York_City', 'text:Wenner Media': 'http://en.wikipedia.org/wiki/Jann_Wenner', 'text:LLC': 'http://en.wikipedia.org/wiki/Limited_liability_company', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0035-791X': 'http://www.worldcat.org/issn/0035-791X'}
+        [8, 119] Type: Item
+        │        Label: Schmidt, Arthur (1968), Bookends, Rolling Stone, retrieved August 22, 2015
+        └─────── Link: {'text:Bookends': 'https://www.rollingstone.com/music/albumreviews/bookends-19680525'}
+        [8, 120] Type: Item
+        │        Label: Marc Eliot (2010). Paul Simon: A Life. John Wiley & Sons. p. 45, 46. ISBN 978-0-470-43363-8.
+        └─────── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:45': 'https://archive.org/details/paulsimonlife0000elio/page/n54', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [8, 121] Type: Item
+        │        Label: "Simon & Garfunkel: Bridge Over Troubled Water". Pitchfork. Retrieved June 5, 2019.
+        └─────── Link: {'text:"Simon & Garfunkel: Bridge Over Troubled Water"': 'https://pitchfork.com/reviews/albums/15197-bridge-over-troubled-water/'}
+        [8, 122] Type: Item
+        │        Label: "Simon & Garfunkel: Live 1969". Pitchfork. Retrieved June 5, 2019.
+        └─────── Link: {'text:"Simon & Garfunkel: Live 1969"': 'https://pitchfork.com/reviews/albums/11325-live-1969/'}
+        [8, 123] Type: Item
+        │        Label: "Simon & Garfunkel Awards and Nominations". Sony Music Entertainment. Retrieved March 3, 2014.
+        └─────── Link: {'text:"Simon & Garfunkel Awards and Nominations"': 'http://www.simonandgarfunkel.com/us/awards'}
+    [9] Type: List
+    │   Label: Sources
+    │   Dimension: 1
+    └── Number of Member: 8
+        [9, 0] Type: Item
+        │      Label: Bennighof, James (2007). The Words and Music of Paul Simon. Greenwood Publishing Group. ISBN 978-0-275-99163-0.
+        └───── Link: {'text:The Words and Music of Paul Simon': 'https://books.google.com/books?id=ShBhKL-9SLIC', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-275-99163-0': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-275-99163-0'}
+        [9, 1] Type: Item
+        │      Label: Browne, David (2012). Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Lost Story Of 1970. Da Capo Press. ISBN 978-0-306-82072-4.
+        └───── Link: {'text:Fire and Rain: The Beatles, Simon and Garfunkel, James Taylor, CSNY, and the Lost Story Of 1970': 'https://archive.org/details/firerainbeatless00brow', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-306-82072-4': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-306-82072-4'}
+        [9, 2] Type: Item
+        │      Label: Charlesworth, Chris (1997). "Bridge Over Troubled Water". The Complete Guide to the Music of Paul Simon and Simon & Garfunkel. Omnibus Press. ISBN 978-0-7119-5597-4.
+        └───── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-7119-5597-4': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-7119-5597-4'}
+        [9, 3] Type: Item
+        │      Label: Ebel, Roswitha (2004). Paul Simon: seine Musik, sein Leben [Paul Simon: His Music, His Life] (in German). epubli. ISBN 978-3-937729-00-8.
+        └───── Link: {'text:Paul Simon: seine Musik, sein Leben': 'https://books.google.com/?id=5tGr0Ufh_0EC', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-3-937729-00-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-3-937729-00-8'}
+        [9, 4] Type: Item
+        │      Label: Eliot, Marc (2010). Paul Simon: A Life. John Wiley and Sons. ISBN 978-0-470-43363-8.
+        └───── Link: {'text:Paul Simon: A Life': 'https://archive.org/details/paulsimonlife0000elio', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-470-43363-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-470-43363-8'}
+        [9, 5] Type: Item
+        │      Label: Fornatale, Pete (2007). Simon and Garfunkel's Bookends. Rodale. ISBN 978-1-59486-427-8.
+        └───── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-59486-427-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-59486-427-8'}
+        [9, 6] Type: Item
+        │      Label: Humphries, Patrick (1982). Bookends: The Simon and Garfunkel Story. Proteus Books. ISBN 978-0-86276-063-2.
+        └───── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-86276-063-2': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-86276-063-2'}
+        [9, 7] Type: Item
+        │      Label: Kingston, Victoria (2000). Simon & Garfunkel: The Biography. Fromm International. ISBN 978-0-88064-246-0.
+        └───── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-88064-246-0': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-88064-246-0'}
+    [10] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [10, 0] Type: Item
+        │       Label: Media from Wikimedia Commons
+        └────── Link: {'text:Media': 'https://commons.wikimedia.org/wiki/Category:Simon_and_Garfunkel'}
+        [10, 1] Type: Item
+        │       Label: Quotations from Wikiquote
+        └────── Link: {'text:Quotations': 'https://en.wikiquote.org/wiki/Special:Search/Simon_%26_Garfunkel'}
+        [10, 2] Type: Item
+        │       Label: Data from Wikidata
+        └────── Link: {'text:Data': 'https://www.wikidata.org/wiki/Q484918'}
+    [11] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 2
+        [11, 0] Type: Item
+        │       Label: Official website
+        └────── Link: {'text:Official website': 'https://www.simonandgarfunkel.com/', 'image:http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png': 'https://www.wikidata.org/wiki/Q484918#P856'}
+        [11, 1] Type: Item
+        │       Label: Simon & Garfunkel interviewed on the Pop Chronicles (1969)
+        └────── Link: {'text:Simon & Garfunkel': 'https://digital.library.unt.edu/explore/partners/UNTML/browse/?start=35&fq=untl_collection%3AJGPC', 'text:Pop Chronicles': 'http://en.wikipedia.org/wiki/Pop_Chronicles'}
+    [12] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 22
+        [12, 0] Type: Item
+        │       Label: Simon & Garfunkel
+        └────── Link: {'text:Simon & Garfunkel': 'http://en.wikipedia.org/wiki/Category:Simon_%26_Garfunkel'}
+        [12, 1] Type: Item
+        │       Label: American musical duos
+        └────── Link: {'text:American musical duos': 'http://en.wikipedia.org/wiki/Category:American_musical_duos'}
+        [12, 2] Type: Item
+        │       Label: American folk rock groups
+        └────── Link: {'text:American folk rock groups': 'http://en.wikipedia.org/wiki/Category:American_folk_rock_groups'}
+        [12, 3] Type: Item
+        │       Label: Brit Award winners
+        └────── Link: {'text:Brit Award winners': 'http://en.wikipedia.org/wiki/Category:Brit_Award_winners'}
+        [12, 4] Type: Item
+        │       Label: Columbia Records artists
+        └────── Link: {'text:Columbia Records artists': 'http://en.wikipedia.org/wiki/Category:Columbia_Records_artists'}
+        [12, 5] Type: Item
+        │       Label: Grammy Award winners
+        └────── Link: {'text:Grammy Award winners': 'http://en.wikipedia.org/wiki/Category:Grammy_Award_winners'}
+        [12, 6] Type: Item
+        │       Label: Grammy Lifetime Achievement Award winners
+        └────── Link: {'text:Grammy Lifetime Achievement Award winners': 'http://en.wikipedia.org/wiki/Category:Grammy_Lifetime_Achievement_Award_winners'}
+        [12, 7] Type: Item
+        │       Label: Jewish musical groups
+        └────── Link: {'text:Jewish musical groups': 'http://en.wikipedia.org/wiki/Category:Jewish_musical_groups'}
+        [12, 8] Type: Item
+        │       Label: People from Forest Hills, Queens
+        └────── Link: {'text:People from Forest Hills, Queens': 'http://en.wikipedia.org/wiki/Category:People_from_Forest_Hills,_Queens'}
+        [12, 9] Type: Item
+        │       Label: Musical groups from Queens, New York
+        └────── Link: {'text:Musical groups from Queens, New York': 'http://en.wikipedia.org/wiki/Category:Musical_groups_from_Queens,_New_York'}
+        [12, 10] Type: Item
+        │        Label: Musical groups reestablished in 2003
+        └─────── Link: {'text:Musical groups reestablished in 2003': 'http://en.wikipedia.org/wiki/Category:Musical_groups_reestablished_in_2003'}
+        [12, 11] Type: Item
+        │        Label: Musical groups established in 1957
+        └─────── Link: {'text:Musical groups established in 1957': 'http://en.wikipedia.org/wiki/Category:Musical_groups_established_in_1957'}
+        [12, 12] Type: Item
+        │        Label: Musical groups disestablished in 1964
+        └─────── Link: {'text:Musical groups disestablished in 1964': 'http://en.wikipedia.org/wiki/Category:Musical_groups_disestablished_in_1964'}
+        [12, 13] Type: Item
+        │        Label: Musical groups reestablished in 1965
+        └─────── Link: {'text:Musical groups reestablished in 1965': 'http://en.wikipedia.org/wiki/Category:Musical_groups_reestablished_in_1965'}
+        [12, 14] Type: Item
+        │        Label: Musical groups reestablished in 1981
+        └─────── Link: {'text:Musical groups reestablished in 1981': 'http://en.wikipedia.org/wiki/Category:Musical_groups_reestablished_in_1981'}
+        [12, 15] Type: Item
+        │        Label: Musical groups disestablished in 1983
+        └─────── Link: {'text:Musical groups disestablished in 1983': 'http://en.wikipedia.org/wiki/Category:Musical_groups_disestablished_in_1983'}
+        [12, 16] Type: Item
+        │        Label: Musical groups reestablished in 1993
+        └─────── Link: {'text:Musical groups reestablished in 1993': 'http://en.wikipedia.org/wiki/Category:Musical_groups_reestablished_in_1993'}
+        [12, 17] Type: Item
+        │        Label: Musical groups disestablished in 1993
+        └─────── Link: {'text:Musical groups disestablished in 1993': 'http://en.wikipedia.org/wiki/Category:Musical_groups_disestablished_in_1993'}
+        [12, 18] Type: Item
+        │        Label: Musical groups disestablished in 1970
+        └─────── Link: {'text:Musical groups disestablished in 1970': 'http://en.wikipedia.org/wiki/Category:Musical_groups_disestablished_in_1970'}
+        [12, 19] Type: Item
+        │        Label: Rock music duos
+        └─────── Link: {'text:Rock music duos': 'http://en.wikipedia.org/wiki/Category:Rock_music_duos'}
+        [12, 20] Type: Item
+        │        Label: Male musical duos
+        └─────── Link: {'text:Male musical duos': 'http://en.wikipedia.org/wiki/Category:Male_musical_duos'}
+        [12, 21] Type: Item
+        │        Label: Pop-folk music groups
+        └─────── Link: {'text:Pop-folk music groups': 'http://en.wikipedia.org/wiki/Category:Pop-folk_music_groups'}
+    [13] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 29
+        [13, 0] Type: Item
+        │       Label: CS1 maint: others
+        └────── Link: {'text:CS1 maint: others': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_others'}
+        [13, 1] Type: Item
+        │       Label: CS1 German-language sources (de)
+        └────── Link: {'text:CS1 German-language sources (de)': 'http://en.wikipedia.org/wiki/Category:CS1_German-language_sources_(de)'}
+        [13, 2] Type: Item
+        │       Label: Articles with short description
+        └────── Link: {'text:Articles with short description': 'http://en.wikipedia.org/wiki/Category:Articles_with_short_description'}
+        [13, 3] Type: Item
+        │       Label: Use mdy dates from April 2017
+        └────── Link: {'text:Use mdy dates from April 2017': 'http://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_April_2017'}
+        [13, 4] Type: Item
+        │       Label: Articles with hCards
+        └────── Link: {'text:Articles with hCards': 'http://en.wikipedia.org/wiki/Category:Articles_with_hCards'}
+        [13, 5] Type: Item
+        │       Label: Wikipedia articles needing clarification from July 2018
+        └────── Link: {'text:Wikipedia articles needing clarification from July 2018': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2018'}
+        [13, 6] Type: Item
+        │       Label: All articles with unsourced statements
+        └────── Link: {'text:All articles with unsourced statements': 'http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements'}
+        [13, 7] Type: Item
+        │       Label: Articles with unsourced statements from July 2018
+        └────── Link: {'text:Articles with unsourced statements from July 2018': 'http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_July_2018'}
+        [13, 8] Type: Item
+        │       Label: Articles to be expanded from July 2018
+        └────── Link: {'text:Articles to be expanded from July 2018': 'http://en.wikipedia.org/wiki/Category:Articles_to_be_expanded_from_July_2018'}
+        [13, 9] Type: Item
+        │       Label: All articles to be expanded
+        └────── Link: {'text:All articles to be expanded': 'http://en.wikipedia.org/wiki/Category:All_articles_to_be_expanded'}
+        [13, 10] Type: Item
+        │        Label: Articles using small message boxes
+        └─────── Link: {'text:Articles using small message boxes': 'http://en.wikipedia.org/wiki/Category:Articles_using_small_message_boxes'}
+        [13, 11] Type: Item
+        │        Label: Articles prone to spam from April 2012
+        └─────── Link: {'text:Articles prone to spam from April 2012': 'http://en.wikipedia.org/wiki/Category:Articles_prone_to_spam_from_April_2012'}
+        [13, 12] Type: Item
+        │        Label: Wikipedia articles with BIBSYS identifiers
+        └─────── Link: {'text:Wikipedia articles with BIBSYS identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers'}
+        [13, 13] Type: Item
+        │        Label: Wikipedia articles with BNE identifiers
+        └─────── Link: {'text:Wikipedia articles with BNE identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_BNE_identifiers'}
+        [13, 14] Type: Item
+        │        Label: Wikipedia articles with BNF identifiers
+        └─────── Link: {'text:Wikipedia articles with BNF identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_BNF_identifiers'}
+        [13, 15] Type: Item
+        │        Label: Wikipedia articles with GND identifiers
+        └─────── Link: {'text:Wikipedia articles with GND identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_GND_identifiers'}
+        [13, 16] Type: Item
+        │        Label: Wikipedia articles with ISNI identifiers
+        └─────── Link: {'text:Wikipedia articles with ISNI identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_ISNI_identifiers'}
+        [13, 17] Type: Item
+        │        Label: Wikipedia articles with LCCN identifiers
+        └─────── Link: {'text:Wikipedia articles with LCCN identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_LCCN_identifiers'}
+        [13, 18] Type: Item
+        │        Label: Wikipedia articles with MusicBrainz identifiers
+        └─────── Link: {'text:Wikipedia articles with MusicBrainz identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers'}
+        [13, 19] Type: Item
+        │        Label: Wikipedia articles with NDL identifiers
+        └─────── Link: {'text:Wikipedia articles with NDL identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NDL_identifiers'}
+        [13, 20] Type: Item
+        │        Label: Wikipedia articles with NKC identifiers
+        └─────── Link: {'text:Wikipedia articles with NKC identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NKC_identifiers'}
+        [13, 21] Type: Item
+        │        Label: Wikipedia articles with NLA identifiers
+        └─────── Link: {'text:Wikipedia articles with NLA identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NLA_identifiers'}
+        [13, 22] Type: Item
+        │        Label: Wikipedia articles with NLI identifiers
+        └─────── Link: {'text:Wikipedia articles with NLI identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NLI_identifiers'}
+        [13, 23] Type: Item
+        │        Label: Wikipedia articles with SELIBR identifiers
+        └─────── Link: {'text:Wikipedia articles with SELIBR identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers'}
+        [13, 24] Type: Item
+        │        Label: Wikipedia articles with SUDOC identifiers
+        └─────── Link: {'text:Wikipedia articles with SUDOC identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers'}
+        [13, 25] Type: Item
+        │        Label: Wikipedia articles with Trove identifiers
+        └─────── Link: {'text:Wikipedia articles with Trove identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_Trove_identifiers'}
+        [13, 26] Type: Item
+        │        Label: Wikipedia articles with VIAF identifiers
+        └─────── Link: {'text:Wikipedia articles with VIAF identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_VIAF_identifiers'}
+        [13, 27] Type: Item
+        │        Label: Wikipedia articles with WorldCat identifiers
+        └─────── Link: {'text:Wikipedia articles with WorldCat identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers'}
+        [13, 28] Type: Item
+        │        Label: Good articles
+        └─────── Link: {'text:Good articles': 'http://en.wikipedia.org/wiki/Category:Good_articles'}
+    [14] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [14, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Simon_%26_Garfunkel'}
+        [14, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Simon_%26_Garfunkel'}
+        [14, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [14, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [14, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Simon_%26_Garfunkel&oldid=947041512'}
+        [14, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Simon_%26_Garfunkel&action=info'}
+        [14, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q484918'}
+        [14, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Simon_%26_Garfunkel&id=947041512&wpFormIdentifier=titleform'}
+    [15] Type: List
+    │    Label: In other projects
+    │    Dimension: 1
+    └─── Number of Member: 2
+        [15, 0] Type: Item
+        │       Label: Wikimedia Commons
+        └────── Link: {'text:Wikimedia Commons': 'https://commons.wikimedia.org/wiki/Category:Simon_and_Garfunkel'}
+        [15, 1] Type: Item
+        │       Label: Wikiquote
+        └────── Link: {'text:Wikiquote': 'https://en.wikiquote.org/wiki/Simon_%26_Garfunkel'}
+    [16] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [16, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Simon+%26+Garfunkel'}
+        [16, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Simon+%26+Garfunkel&action=show-download-screen'}
+        [16, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Simon_%26_Garfunkel&printable=yes'}
+    [17] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 59
+        [17, 0] Type: Item
+        │       Label: Afrikaans
+        └────── Link: {'text:Afrikaans': 'https://af.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 1] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A%D9%85%D9%88%D9%86_%D9%88%D8%BA%D8%A7%D8%B1%D9%81%D9%86%D9%83%D9%84'}
+        [17, 2] Type: Item
+        │       Label: Aragonés
+        └────── Link: {'text:Aragonés': 'https://an.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 3] Type: Item
+        │       Label: Asturianu
+        └────── Link: {'text:Asturianu': 'https://ast.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 4] Type: Item
+        │       Label: تۆرکجه
+        └────── Link: {'text:تۆرکجه': 'https://azb.wikipedia.org/wiki/%D8%B3%D8%A7%DB%8C%D9%85%D9%88%D9%86_%D9%88_%D9%82%D8%A7%D8%B1%D9%81%D8%A7%D9%86%DA%A9%D9%84'}
+        [17, 5] Type: Item
+        │       Label: Беларуская (тарашкевіца)‎
+        └────── Link: {'text:Беларуская (тарашкевіца)\u200e': 'https://be-x-old.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 6] Type: Item
+        │       Label: Български
+        └────── Link: {'text:Български': 'https://bg.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B9%D0%BC%D1%8A%D0%BD_%D0%B8_%D0%93%D0%B0%D1%80%D1%84%D1%8A%D0%BD%D0%BA%D1%8A%D0%BB'}
+        [17, 7] Type: Item
+        │       Label: Català
+        └────── Link: {'text:Català': 'https://ca.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 8] Type: Item
+        │       Label: Čeština
+        └────── Link: {'text:Čeština': 'https://cs.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 9] Type: Item
+        │       Label: Dansk
+        └────── Link: {'text:Dansk': 'https://da.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 10] Type: Item
+        │        Label: Deutsch
+        └─────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 11] Type: Item
+        │        Label: Eesti
+        └─────── Link: {'text:Eesti': 'https://et.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 12] Type: Item
+        │        Label: Ελληνικά
+        └─────── Link: {'text:Ελληνικά': 'https://el.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 13] Type: Item
+        │        Label: Español
+        └─────── Link: {'text:Español': 'https://es.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 14] Type: Item
+        │        Label: Esperanto
+        └─────── Link: {'text:Esperanto': 'https://eo.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 15] Type: Item
+        │        Label: Euskara
+        └─────── Link: {'text:Euskara': 'https://eu.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 16] Type: Item
+        │        Label: فارسی
+        └─────── Link: {'text:فارسی': 'https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%DB%8C%D9%85%D9%88%D9%86_%D9%88_%DA%AF%D8%A7%D8%B1%D9%81%D8%A7%D9%86%DA%A9%D9%84'}
+        [17, 17] Type: Item
+        │        Label: Français
+        └─────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 18] Type: Item
+        │        Label: Galego
+        └─────── Link: {'text:Galego': 'https://gl.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 19] Type: Item
+        │        Label: 한국어
+        └─────── Link: {'text:한국어': 'https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%EB%A8%BC_%26_%EA%B0%80%ED%8E%91%ED%81%B4'}
+        [17, 20] Type: Item
+        │        Label: Հայերեն
+        └─────── Link: {'text:Հայերեն': 'https://hy.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 21] Type: Item
+        │        Label: Hrvatski
+        └─────── Link: {'text:Hrvatski': 'https://hr.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 22] Type: Item
+        │        Label: Ido
+        └─────── Link: {'text:Ido': 'https://io.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 23] Type: Item
+        │        Label: Bahasa Indonesia
+        └─────── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 24] Type: Item
+        │        Label: Íslenska
+        └─────── Link: {'text:Íslenska': 'https://is.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 25] Type: Item
+        │        Label: Italiano
+        └─────── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 26] Type: Item
+        │        Label: עברית
+        └─────── Link: {'text:עברית': 'https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%9E%D7%95%D7%9F_%D7%95%D7%92%D7%A8%D7%A4%D7%95%D7%A0%D7%A7%D7%9C'}
+        [17, 27] Type: Item
+        │        Label: ქართული
+        └─────── Link: {'text:ქართული': 'https://ka.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 28] Type: Item
+        │        Label: Latina
+        └─────── Link: {'text:Latina': 'https://la.wikipedia.org/wiki/Simon_et_Garfunkel'}
+        [17, 29] Type: Item
+        │        Label: Lietuvių
+        └─────── Link: {'text:Lietuvių': 'https://lt.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 30] Type: Item
+        │        Label: Magyar
+        └─────── Link: {'text:Magyar': 'https://hu.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 31] Type: Item
+        │        Label: Malagasy
+        └─────── Link: {'text:Malagasy': 'https://mg.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 32] Type: Item
+        │        Label: Nederlands
+        └─────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 33] Type: Item
+        │        Label: 日本語
+        └─────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%26%E3%82%AC%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%AB'}
+        [17, 34] Type: Item
+        │        Label: Norsk bokmål
+        └─────── Link: {'text:Norsk bokmål': 'https://no.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 35] Type: Item
+        │        Label: Norsk nynorsk
+        └─────── Link: {'text:Norsk nynorsk': 'https://nn.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 36] Type: Item
+        │        Label: Oʻzbekcha/ўзбекча
+        └─────── Link: {'text:Oʻzbekcha/ўзбекча': 'https://uz.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 37] Type: Item
+        │        Label: Piemontèis
+        └─────── Link: {'text:Piemontèis': 'https://pms.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 38] Type: Item
+        │        Label: Polski
+        └─────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 39] Type: Item
+        │        Label: Português
+        └─────── Link: {'text:Português': 'https://pt.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 40] Type: Item
+        │        Label: Română
+        └─────── Link: {'text:Română': 'https://ro.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 41] Type: Item
+        │        Label: Русский
+        └─────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 42] Type: Item
+        │        Label: Sardu
+        └─────── Link: {'text:Sardu': 'https://sc.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 43] Type: Item
+        │        Label: Scots
+        └─────── Link: {'text:Scots': 'https://sco.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 44] Type: Item
+        │        Label: Sicilianu
+        └─────── Link: {'text:Sicilianu': 'https://scn.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 45] Type: Item
+        │        Label: Simple English
+        └─────── Link: {'text:Simple English': 'https://simple.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 46] Type: Item
+        │        Label: Slovenčina
+        └─────── Link: {'text:Slovenčina': 'https://sk.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 47] Type: Item
+        │        Label: Slovenščina
+        └─────── Link: {'text:Slovenščina': 'https://sl.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 48] Type: Item
+        │        Label: Српски / srpski
+        └─────── Link: {'text:Српски / srpski': 'https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D1%98%D0%BC%D0%BE%D0%BD_%D0%B8_%D0%93%D0%B0%D1%80%D1%84%D0%B0%D0%BD%D0%BA%D0%B5%D0%BB'}
+        [17, 49] Type: Item
+        │        Label: Srpskohrvatski / српскохрватски
+        └─────── Link: {'text:Srpskohrvatski / српскохрватски': 'https://sh.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 50] Type: Item
+        │        Label: Suomi
+        └─────── Link: {'text:Suomi': 'https://fi.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 51] Type: Item
+        │        Label: Svenska
+        └─────── Link: {'text:Svenska': 'https://sv.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 52] Type: Item
+        │        Label: ไทย
+        └─────── Link: {'text:ไทย': 'https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%8B%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A5'}
+        [17, 53] Type: Item
+        │        Label: Türkçe
+        └─────── Link: {'text:Türkçe': 'https://tr.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 54] Type: Item
+        │        Label: Українська
+        └─────── Link: {'text:Українська': 'https://uk.wikipedia.org/wiki/Simon_and_Garfunkel'}
+        [17, 55] Type: Item
+        │        Label: Tiếng Việt
+        └─────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 56] Type: Item
+        │        Label: Winaray
+        └─────── Link: {'text:Winaray': 'https://war.wikipedia.org/wiki/Simon_%26_Garfunkel'}
+        [17, 57] Type: Item
+        │        Label: 粵語
+        └─────── Link: {'text:粵語': 'https://zh-yue.wikipedia.org/wiki/%E8%A5%BF%E8%92%99%E5%92%8C%E5%8A%A0%E8%8A%AC%E5%85%8B%E7%88%BE'}
+        [17, 58] Type: Item
+        │        Label: 中文
+        └─────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E8%B3%BD%E9%96%80%E8%88%87%E8%91%9B%E8%8A%AC%E6%9F%AF'}

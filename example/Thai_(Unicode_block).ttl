@@ -1,0 +1,3556 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://tlpedia.org/resource/Thai_(Unicode_block)> a tlp:Page ;
+    rdfs:label "Thai (Unicode block)" ;
+    tlp:element _:ub320bL1016C17,
+        _:ub320bL1022C25,
+        _:ub320bL1036C25,
+        _:ub320bL1042C25,
+        _:ub320bL1048C25,
+        _:ub320bL1054C25,
+        _:ub320bL1060C25,
+        _:ub320bL1066C25,
+        _:ub320bL106C25,
+        _:ub320bL1072C25,
+        _:ub320bL1078C25,
+        _:ub320bL1084C25,
+        _:ub320bL1090C25,
+        _:ub320bL1107C17,
+        _:ub320bL1113C25,
+        _:ub320bL1127C25,
+        _:ub320bL1133C25,
+        _:ub320bL1139C25,
+        _:ub320bL113C25,
+        _:ub320bL1145C25,
+        _:ub320bL1151C25,
+        _:ub320bL1157C25,
+        _:ub320bL1163C25,
+        _:ub320bL1169C25,
+        _:ub320bL1175C25,
+        _:ub320bL1181C25,
+        _:ub320bL1198C17,
+        _:ub320bL1204C25,
+        _:ub320bL120C25,
+        _:ub320bL1218C25,
+        _:ub320bL1224C25,
+        _:ub320bL1230C25,
+        _:ub320bL1236C25,
+        _:ub320bL1242C25,
+        _:ub320bL1248C25,
+        _:ub320bL1254C25,
+        _:ub320bL1260C25,
+        _:ub320bL1266C25,
+        _:ub320bL1272C25,
+        _:ub320bL127C25,
+        _:ub320bL1289C17,
+        _:ub320bL1295C25,
+        _:ub320bL1309C25,
+        _:ub320bL1315C25,
+        _:ub320bL1321C25,
+        _:ub320bL1327C25,
+        _:ub320bL1333C25,
+        _:ub320bL1339C25,
+        _:ub320bL1345C25,
+        _:ub320bL1351C25,
+        _:ub320bL1357C25,
+        _:ub320bL1363C25,
+        _:ub320bL1380C17,
+        _:ub320bL1386C25,
+        _:ub320bL1400C25,
+        _:ub320bL1406C25,
+        _:ub320bL140C17,
+        _:ub320bL1412C25,
+        _:ub320bL1418C25,
+        _:ub320bL1424C25,
+        _:ub320bL1430C25,
+        _:ub320bL1436C25,
+        _:ub320bL1442C25,
+        _:ub320bL1448C25,
+        _:ub320bL1454C25,
+        _:ub320bL146C25,
+        _:ub320bL1471C17,
+        _:ub320bL1477C25,
+        _:ub320bL1491C25,
+        _:ub320bL1497C25,
+        _:ub320bL1503C25,
+        _:ub320bL1509C25,
+        _:ub320bL1515C25,
+        _:ub320bL1521C25,
+        _:ub320bL1527C25,
+        _:ub320bL1533C25,
+        _:ub320bL1539C25,
+        _:ub320bL1545C25,
+        _:ub320bL154C25,
+        _:ub320bL1562C17,
+        _:ub320bL1568C25,
+        _:ub320bL1582C25,
+        _:ub320bL1588C25,
+        _:ub320bL1594C25,
+        _:ub320bL1600C25,
+        _:ub320bL1606C25,
+        _:ub320bL1612C25,
+        _:ub320bL1618C25,
+        _:ub320bL1624C25,
+        _:ub320bL162C25,
+        _:ub320bL1630C25,
+        _:ub320bL1636C25,
+        _:ub320bL1653C17,
+        _:ub320bL1659C25,
+        _:ub320bL1673C25,
+        _:ub320bL1679C25,
+        _:ub320bL1685C25,
+        _:ub320bL1691C25,
+        _:ub320bL1697C25,
+        _:ub320bL1703C25,
+        _:ub320bL1709C25,
+        _:ub320bL1715C25,
+        _:ub320bL1721C25,
+        _:ub320bL1727C25,
+        _:ub320bL173C25,
+        _:ub320bL1744C17,
+        _:ub320bL1750C25,
+        _:ub320bL1764C25,
+        _:ub320bL1770C25,
+        _:ub320bL1776C25,
+        _:ub320bL1782C25,
+        _:ub320bL1788C25,
+        _:ub320bL1794C25,
+        _:ub320bL1800C25,
+        _:ub320bL1806C25,
+        _:ub320bL1812C25,
+        _:ub320bL1818C25,
+        _:ub320bL1836C9,
+        _:ub320bL1845C17,
+        _:ub320bL1851C25,
+        _:ub320bL1863C25,
+        _:ub320bL1870C25,
+        _:ub320bL1877C25,
+        _:ub320bL1884C25,
+        _:ub320bL1891C25,
+        _:ub320bL1899C17,
+        _:ub320bL1905C25,
+        _:ub320bL190C25,
+        _:ub320bL1912C25,
+        _:ub320bL1919C25,
+        _:ub320bL1926C25,
+        _:ub320bL1933C25,
+        _:ub320bL1940C25,
+        _:ub320bL1948C17,
+        _:ub320bL1954C25,
+        _:ub320bL1961C25,
+        _:ub320bL1968C25,
+        _:ub320bL1975C25,
+        _:ub320bL1982C25,
+        _:ub320bL1989C25,
+        _:ub320bL1997C17,
+        _:ub320bL19C9,
+        _:ub320bL2003C25,
+        _:ub320bL2015C25,
+        _:ub320bL2021C25,
+        _:ub320bL2032C25,
+        _:ub320bL2043C25,
+        _:ub320bL2049C25,
+        _:ub320bL2057C17,
+        _:ub320bL2063C25,
+        _:ub320bL2075C25,
+        _:ub320bL2081C25,
+        _:ub320bL2087C25,
+        _:ub320bL2093C25,
+        _:ub320bL2104C25,
+        _:ub320bL2112C17,
+        _:ub320bL2118C25,
+        _:ub320bL2125C25,
+        _:ub320bL2131C25,
+        _:ub320bL2137C25,
+        _:ub320bL213C25,
+        _:ub320bL2143C25,
+        _:ub320bL2149C25,
+        _:ub320bL2158C9,
+        _:ub320bL2166C17,
+        _:ub320bL2173C9,
+        _:ub320bL2181C17,
+        _:ub320bL2192C17,
+        _:ub320bL219C25,
+        _:ub320bL2203C17,
+        _:ub320bL2215C9,
+        _:ub320bL2222C17,
+        _:ub320bL2233C17,
+        _:ub320bL2245C9,
+        _:ub320bL2252C17,
+        _:ub320bL225C25,
+        _:ub320bL2263C17,
+        _:ub320bL2274C17,
+        _:ub320bL2285C17,
+        _:ub320bL2296C17,
+        _:ub320bL2307C17,
+        _:ub320bL2318C17,
+        _:ub320bL231C25,
+        _:ub320bL2329C17,
+        _:ub320bL2341C9,
+        _:ub320bL2348C17,
+        _:ub320bL2359C17,
+        _:ub320bL2370C17,
+        _:ub320bL2382C9,
+        _:ub320bL2389C17,
+        _:ub320bL239C25,
+        _:ub320bL2400C17,
+        _:ub320bL2411C17,
+        _:ub320bL2422C17,
+        _:ub320bL2433C17,
+        _:ub320bL2444C17,
+        _:ub320bL2455C17,
+        _:ub320bL246C25,
+        _:ub320bL252C25,
+        _:ub320bL258C25,
+        _:ub320bL265C25,
+        _:ub320bL279C9,
+        _:ub320bL288C17,
+        _:ub320bL28C17,
+        _:ub320bL294C25,
+        _:ub320bL308C25,
+        _:ub320bL314C25,
+        _:ub320bL320C25,
+        _:ub320bL326C25,
+        _:ub320bL332C25,
+        _:ub320bL338C25,
+        _:ub320bL344C25,
+        _:ub320bL34C25,
+        _:ub320bL350C25,
+        _:ub320bL356C25,
+        _:ub320bL362C25,
+        _:ub320bL379C17,
+        _:ub320bL385C25,
+        _:ub320bL399C25,
+        _:ub320bL405C25,
+        _:ub320bL411C25,
+        _:ub320bL417C25,
+        _:ub320bL423C25,
+        _:ub320bL429C25,
+        _:ub320bL42C25,
+        _:ub320bL435C25,
+        _:ub320bL441C25,
+        _:ub320bL447C25,
+        _:ub320bL453C25,
+        _:ub320bL470C17,
+        _:ub320bL476C25,
+        _:ub320bL490C25,
+        _:ub320bL496C25,
+        _:ub320bL49C25,
+        _:ub320bL502C25,
+        _:ub320bL508C25,
+        _:ub320bL514C25,
+        _:ub320bL520C25,
+        _:ub320bL526C25,
+        _:ub320bL532C25,
+        _:ub320bL538C25,
+        _:ub320bL544C25,
+        _:ub320bL561C17,
+        _:ub320bL567C25,
+        _:ub320bL56C25,
+        _:ub320bL581C25,
+        _:ub320bL587C25,
+        _:ub320bL593C25,
+        _:ub320bL599C25,
+        _:ub320bL605C25,
+        _:ub320bL611C25,
+        _:ub320bL617C25,
+        _:ub320bL623C25,
+        _:ub320bL629C25,
+        _:ub320bL635C25,
+        _:ub320bL63C25,
+        _:ub320bL652C17,
+        _:ub320bL658C25,
+        _:ub320bL672C25,
+        _:ub320bL678C25,
+        _:ub320bL684C25,
+        _:ub320bL690C25,
+        _:ub320bL696C25,
+        _:ub320bL702C25,
+        _:ub320bL708C25,
+        _:ub320bL70C25,
+        _:ub320bL714C25,
+        _:ub320bL720C25,
+        _:ub320bL726C25,
+        _:ub320bL743C17,
+        _:ub320bL749C25,
+        _:ub320bL763C25,
+        _:ub320bL769C25,
+        _:ub320bL775C25,
+        _:ub320bL77C25,
+        _:ub320bL781C25,
+        _:ub320bL787C25,
+        _:ub320bL793C25,
+        _:ub320bL799C25,
+        _:ub320bL805C25,
+        _:ub320bL811C25,
+        _:ub320bL817C25,
+        _:ub320bL834C17,
+        _:ub320bL840C25,
+        _:ub320bL84C25,
+        _:ub320bL854C25,
+        _:ub320bL860C25,
+        _:ub320bL866C25,
+        _:ub320bL872C25,
+        _:ub320bL878C25,
+        _:ub320bL884C25,
+        _:ub320bL890C25,
+        _:ub320bL896C25,
+        _:ub320bL902C25,
+        _:ub320bL908C25,
+        _:ub320bL91C25,
+        _:ub320bL925C17,
+        _:ub320bL931C25,
+        _:ub320bL945C25,
+        _:ub320bL951C25,
+        _:ub320bL957C25,
+        _:ub320bL963C25,
+        _:ub320bL969C25,
+        _:ub320bL975C25,
+        _:ub320bL981C25,
+        _:ub320bL987C25,
+        _:ub320bL993C25,
+        _:ub320bL999C25,
+        _:ub320bL99C25 ;
+    tlp:indexList ( 0 ) ;
+    tlp:member _:ub320bL1836C9,
+        _:ub320bL19C9,
+        _:ub320bL2158C9,
+        _:ub320bL2173C9,
+        _:ub320bL2215C9,
+        _:ub320bL2245C9,
+        _:ub320bL2341C9,
+        _:ub320bL2382C9,
+        _:ub320bL279C9 ;
+    owl:sameAs <http://dbpedia.org/resource/Thai_(Unicode_block)> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Thai_(Unicode_block)?oldid=> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Thai_(Unicode_block)> ;
+    foaf:name "Thai (Unicode block)" .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb10 rdf:first 0 ;
+    rdf:rest () .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb100 rdf:first 9 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1000 rdf:first 5 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1002 rdf:first 3 ;
+    rdf:rest ( 3 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1006 rdf:first 3 ;
+    rdf:rest ( 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1009 rdf:first 3 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1013 rdf:first 3 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1017 rdf:first 3 ;
+    rdf:rest ( 4 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb102 rdf:first 1 ;
+    rdf:rest ( 2 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1021 rdf:first 3 ;
+    rdf:rest ( 4 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1025 rdf:first 3 ;
+    rdf:rest ( 4 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1029 rdf:first 3 ;
+    rdf:rest ( 4 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1033 rdf:first 3 ;
+    rdf:rest ( 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1036 rdf:first 3 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1040 rdf:first 3 ;
+    rdf:rest ( 5 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1044 rdf:first 3 ;
+    rdf:rest ( 5 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1048 rdf:first 3 ;
+    rdf:rest ( 5 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1052 rdf:first 3 ;
+    rdf:rest ( 5 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1056 rdf:first 3 ;
+    rdf:rest ( 5 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb106 rdf:first 1 ;
+    rdf:rest ( 2 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1060 rdf:first 3 ;
+    rdf:rest ( 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1063 rdf:first 3 ;
+    rdf:rest ( 6 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1067 rdf:first 3 ;
+    rdf:rest ( 6 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1071 rdf:first 3 ;
+    rdf:rest ( 6 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1075 rdf:first 3 ;
+    rdf:rest ( 6 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1079 rdf:first 3 ;
+    rdf:rest ( 6 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1083 rdf:first 3 ;
+    rdf:rest ( 6 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1087 rdf:first 4 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1089 rdf:first 4 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1092 rdf:first 5 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1094 rdf:first 5 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1097 rdf:first 5 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb11 rdf:first 1 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb110 rdf:first 1 ;
+    rdf:rest ( 2 12 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1100 rdf:first 5 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1103 rdf:first 6 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1105 rdf:first 6 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1108 rdf:first 6 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1111 rdf:first 7 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1113 rdf:first 7 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1116 rdf:first 7 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1119 rdf:first 7 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1122 rdf:first 7 ;
+    rdf:rest ( 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1125 rdf:first 7 ;
+    rdf:rest ( 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1128 rdf:first 7 ;
+    rdf:rest ( 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1131 rdf:first 7 ;
+    rdf:rest ( 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1134 rdf:first 7 ;
+    rdf:rest ( 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1137 rdf:first 8 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1139 rdf:first 8 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb114 rdf:first 1 ;
+    rdf:rest ( 2 13 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1142 rdf:first 8 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1145 rdf:first 8 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1148 rdf:first 9 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1150 rdf:first 9 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1153 rdf:first 9 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1156 rdf:first 9 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1159 rdf:first 9 ;
+    rdf:rest ( 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1162 rdf:first 9 ;
+    rdf:rest ( 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1165 rdf:first 9 ;
+    rdf:rest ( 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb1168 rdf:first 9 ;
+    rdf:rest ( 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb118 rdf:first 1 ;
+    rdf:rest ( 2 14 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb122 rdf:first 2 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb124 rdf:first 2 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb127 rdf:first 2 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb131 rdf:first 2 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb135 rdf:first 2 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb139 rdf:first 2 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb143 rdf:first 2 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb147 rdf:first 2 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb15 rdf:first 1 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb151 rdf:first 2 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb155 rdf:first 2 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb159 rdf:first 2 ;
+    rdf:rest ( 1 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb163 rdf:first 2 ;
+    rdf:rest ( 1 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb167 rdf:first 2 ;
+    rdf:rest ( 1 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb171 rdf:first 2 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb174 rdf:first 2 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb178 rdf:first 2 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb182 rdf:first 2 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb186 rdf:first 2 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb19 rdf:first 1 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb190 rdf:first 2 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb194 rdf:first 2 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb198 rdf:first 2 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb2 rdf:first 1 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb202 rdf:first 2 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb206 rdf:first 2 ;
+    rdf:rest ( 2 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb210 rdf:first 2 ;
+    rdf:rest ( 2 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb214 rdf:first 2 ;
+    rdf:rest ( 2 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb218 rdf:first 2 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb221 rdf:first 2 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb225 rdf:first 2 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb229 rdf:first 2 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb23 rdf:first 1 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb233 rdf:first 2 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb237 rdf:first 2 ;
+    rdf:rest ( 3 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb241 rdf:first 2 ;
+    rdf:rest ( 3 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb245 rdf:first 2 ;
+    rdf:rest ( 3 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb249 rdf:first 2 ;
+    rdf:rest ( 3 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb253 rdf:first 2 ;
+    rdf:rest ( 3 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb257 rdf:first 2 ;
+    rdf:rest ( 3 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb261 rdf:first 2 ;
+    rdf:rest ( 3 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb265 rdf:first 2 ;
+    rdf:rest ( 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb268 rdf:first 2 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb27 rdf:first 1 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb272 rdf:first 2 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb276 rdf:first 2 ;
+    rdf:rest ( 4 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb280 rdf:first 2 ;
+    rdf:rest ( 4 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb284 rdf:first 2 ;
+    rdf:rest ( 4 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb288 rdf:first 2 ;
+    rdf:rest ( 4 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb292 rdf:first 2 ;
+    rdf:rest ( 4 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb296 rdf:first 2 ;
+    rdf:rest ( 4 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb300 rdf:first 2 ;
+    rdf:rest ( 4 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb304 rdf:first 2 ;
+    rdf:rest ( 4 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb308 rdf:first 2 ;
+    rdf:rest ( 4 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb31 rdf:first 1 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb312 rdf:first 2 ;
+    rdf:rest ( 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb315 rdf:first 2 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb319 rdf:first 2 ;
+    rdf:rest ( 5 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb323 rdf:first 2 ;
+    rdf:rest ( 5 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb327 rdf:first 2 ;
+    rdf:rest ( 5 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb331 rdf:first 2 ;
+    rdf:rest ( 5 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb335 rdf:first 2 ;
+    rdf:rest ( 5 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb339 rdf:first 2 ;
+    rdf:rest ( 5 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb343 rdf:first 2 ;
+    rdf:rest ( 5 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb347 rdf:first 2 ;
+    rdf:rest ( 5 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb35 rdf:first 1 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb351 rdf:first 2 ;
+    rdf:rest ( 5 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb355 rdf:first 2 ;
+    rdf:rest ( 5 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb359 rdf:first 2 ;
+    rdf:rest ( 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb362 rdf:first 2 ;
+    rdf:rest ( 6 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb366 rdf:first 2 ;
+    rdf:rest ( 6 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb370 rdf:first 2 ;
+    rdf:rest ( 6 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb374 rdf:first 2 ;
+    rdf:rest ( 6 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb378 rdf:first 2 ;
+    rdf:rest ( 6 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb382 rdf:first 2 ;
+    rdf:rest ( 6 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb386 rdf:first 2 ;
+    rdf:rest ( 6 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb39 rdf:first 1 ;
+    rdf:rest ( 1 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb390 rdf:first 2 ;
+    rdf:rest ( 6 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb394 rdf:first 2 ;
+    rdf:rest ( 6 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb398 rdf:first 2 ;
+    rdf:rest ( 6 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb4 rdf:first 1 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb402 rdf:first 2 ;
+    rdf:rest ( 6 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb406 rdf:first 2 ;
+    rdf:rest ( 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb409 rdf:first 2 ;
+    rdf:rest ( 7 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb413 rdf:first 2 ;
+    rdf:rest ( 7 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb417 rdf:first 2 ;
+    rdf:rest ( 7 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb421 rdf:first 2 ;
+    rdf:rest ( 7 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb425 rdf:first 2 ;
+    rdf:rest ( 7 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb429 rdf:first 2 ;
+    rdf:rest ( 7 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb43 rdf:first 1 ;
+    rdf:rest ( 1 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb433 rdf:first 2 ;
+    rdf:rest ( 7 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb437 rdf:first 2 ;
+    rdf:rest ( 7 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb441 rdf:first 2 ;
+    rdf:rest ( 7 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb445 rdf:first 2 ;
+    rdf:rest ( 7 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb449 rdf:first 2 ;
+    rdf:rest ( 7 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb453 rdf:first 2 ;
+    rdf:rest ( 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb456 rdf:first 2 ;
+    rdf:rest ( 8 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb460 rdf:first 2 ;
+    rdf:rest ( 8 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb464 rdf:first 2 ;
+    rdf:rest ( 8 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb468 rdf:first 2 ;
+    rdf:rest ( 8 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb47 rdf:first 1 ;
+    rdf:rest ( 1 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb472 rdf:first 2 ;
+    rdf:rest ( 8 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb476 rdf:first 2 ;
+    rdf:rest ( 8 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb480 rdf:first 2 ;
+    rdf:rest ( 8 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb484 rdf:first 2 ;
+    rdf:rest ( 8 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb488 rdf:first 2 ;
+    rdf:rest ( 8 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb492 rdf:first 2 ;
+    rdf:rest ( 8 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb496 rdf:first 2 ;
+    rdf:rest ( 8 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb500 rdf:first 2 ;
+    rdf:rest ( 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb503 rdf:first 2 ;
+    rdf:rest ( 9 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb507 rdf:first 2 ;
+    rdf:rest ( 9 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb51 rdf:first 1 ;
+    rdf:rest ( 1 12 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb511 rdf:first 2 ;
+    rdf:rest ( 9 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb515 rdf:first 2 ;
+    rdf:rest ( 9 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb519 rdf:first 2 ;
+    rdf:rest ( 9 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb523 rdf:first 2 ;
+    rdf:rest ( 9 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb527 rdf:first 2 ;
+    rdf:rest ( 9 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb531 rdf:first 2 ;
+    rdf:rest ( 9 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb535 rdf:first 2 ;
+    rdf:rest ( 9 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb539 rdf:first 2 ;
+    rdf:rest ( 9 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb543 rdf:first 2 ;
+    rdf:rest ( 9 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb547 rdf:first 2 ;
+    rdf:rest ( 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb55 rdf:first 1 ;
+    rdf:rest ( 1 13 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb550 rdf:first 2 ;
+    rdf:rest ( 10 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb554 rdf:first 2 ;
+    rdf:rest ( 10 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb558 rdf:first 2 ;
+    rdf:rest ( 10 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb562 rdf:first 2 ;
+    rdf:rest ( 10 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb566 rdf:first 2 ;
+    rdf:rest ( 10 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb570 rdf:first 2 ;
+    rdf:rest ( 10 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb574 rdf:first 2 ;
+    rdf:rest ( 10 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb578 rdf:first 2 ;
+    rdf:rest ( 10 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb582 rdf:first 2 ;
+    rdf:rest ( 10 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb586 rdf:first 2 ;
+    rdf:rest ( 10 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb59 rdf:first 1 ;
+    rdf:rest ( 1 14 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb590 rdf:first 2 ;
+    rdf:rest ( 10 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb594 rdf:first 2 ;
+    rdf:rest ( 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb597 rdf:first 2 ;
+    rdf:rest ( 11 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb601 rdf:first 2 ;
+    rdf:rest ( 11 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb605 rdf:first 2 ;
+    rdf:rest ( 11 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb609 rdf:first 2 ;
+    rdf:rest ( 11 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb613 rdf:first 2 ;
+    rdf:rest ( 11 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb617 rdf:first 2 ;
+    rdf:rest ( 11 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb621 rdf:first 2 ;
+    rdf:rest ( 11 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb625 rdf:first 2 ;
+    rdf:rest ( 11 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb629 rdf:first 2 ;
+    rdf:rest ( 11 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb63 rdf:first 1 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb633 rdf:first 2 ;
+    rdf:rest ( 11 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb637 rdf:first 2 ;
+    rdf:rest ( 11 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb641 rdf:first 2 ;
+    rdf:rest ( 12 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb644 rdf:first 2 ;
+    rdf:rest ( 12 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb648 rdf:first 2 ;
+    rdf:rest ( 12 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb652 rdf:first 2 ;
+    rdf:rest ( 12 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb656 rdf:first 2 ;
+    rdf:rest ( 12 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb66 rdf:first 1 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb660 rdf:first 2 ;
+    rdf:rest ( 12 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb664 rdf:first 2 ;
+    rdf:rest ( 12 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb668 rdf:first 2 ;
+    rdf:rest ( 12 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb672 rdf:first 2 ;
+    rdf:rest ( 12 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb676 rdf:first 2 ;
+    rdf:rest ( 12 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb680 rdf:first 2 ;
+    rdf:rest ( 12 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb684 rdf:first 2 ;
+    rdf:rest ( 12 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb688 rdf:first 2 ;
+    rdf:rest ( 13 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb691 rdf:first 2 ;
+    rdf:rest ( 13 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb695 rdf:first 2 ;
+    rdf:rest ( 13 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb699 rdf:first 2 ;
+    rdf:rest ( 13 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb7 rdf:first 1 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb70 rdf:first 1 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb703 rdf:first 2 ;
+    rdf:rest ( 13 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb707 rdf:first 2 ;
+    rdf:rest ( 13 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb711 rdf:first 2 ;
+    rdf:rest ( 13 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb715 rdf:first 2 ;
+    rdf:rest ( 13 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb719 rdf:first 2 ;
+    rdf:rest ( 13 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb723 rdf:first 2 ;
+    rdf:rest ( 13 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb727 rdf:first 2 ;
+    rdf:rest ( 13 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb731 rdf:first 2 ;
+    rdf:rest ( 13 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb735 rdf:first 2 ;
+    rdf:rest ( 14 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb738 rdf:first 2 ;
+    rdf:rest ( 14 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb74 rdf:first 1 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb742 rdf:first 2 ;
+    rdf:rest ( 14 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb746 rdf:first 2 ;
+    rdf:rest ( 14 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb750 rdf:first 2 ;
+    rdf:rest ( 14 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb754 rdf:first 2 ;
+    rdf:rest ( 14 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb758 rdf:first 2 ;
+    rdf:rest ( 14 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb762 rdf:first 2 ;
+    rdf:rest ( 14 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb766 rdf:first 2 ;
+    rdf:rest ( 14 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb770 rdf:first 2 ;
+    rdf:rest ( 14 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb774 rdf:first 2 ;
+    rdf:rest ( 14 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb778 rdf:first 2 ;
+    rdf:rest ( 14 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb78 rdf:first 1 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb782 rdf:first 2 ;
+    rdf:rest ( 15 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb785 rdf:first 2 ;
+    rdf:rest ( 15 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb789 rdf:first 2 ;
+    rdf:rest ( 15 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb793 rdf:first 2 ;
+    rdf:rest ( 15 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb797 rdf:first 2 ;
+    rdf:rest ( 15 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb801 rdf:first 2 ;
+    rdf:rest ( 15 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb805 rdf:first 2 ;
+    rdf:rest ( 15 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb809 rdf:first 2 ;
+    rdf:rest ( 15 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb813 rdf:first 2 ;
+    rdf:rest ( 15 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb817 rdf:first 2 ;
+    rdf:rest ( 15 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb82 rdf:first 1 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb821 rdf:first 2 ;
+    rdf:rest ( 15 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb825 rdf:first 2 ;
+    rdf:rest ( 15 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb829 rdf:first 2 ;
+    rdf:rest ( 16 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb832 rdf:first 2 ;
+    rdf:rest ( 16 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb836 rdf:first 2 ;
+    rdf:rest ( 16 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb840 rdf:first 2 ;
+    rdf:rest ( 16 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb844 rdf:first 2 ;
+    rdf:rest ( 16 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb848 rdf:first 2 ;
+    rdf:rest ( 16 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb852 rdf:first 2 ;
+    rdf:rest ( 16 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb856 rdf:first 2 ;
+    rdf:rest ( 16 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb86 rdf:first 1 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb860 rdf:first 2 ;
+    rdf:rest ( 16 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb864 rdf:first 2 ;
+    rdf:rest ( 16 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb868 rdf:first 2 ;
+    rdf:rest ( 16 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb872 rdf:first 2 ;
+    rdf:rest ( 16 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb876 rdf:first 2 ;
+    rdf:rest ( 17 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb879 rdf:first 2 ;
+    rdf:rest ( 17 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb883 rdf:first 2 ;
+    rdf:rest ( 17 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb887 rdf:first 2 ;
+    rdf:rest ( 17 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb891 rdf:first 2 ;
+    rdf:rest ( 17 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb895 rdf:first 2 ;
+    rdf:rest ( 17 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb899 rdf:first 2 ;
+    rdf:rest ( 17 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb90 rdf:first 1 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb903 rdf:first 2 ;
+    rdf:rest ( 17 7 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb907 rdf:first 2 ;
+    rdf:rest ( 17 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb911 rdf:first 2 ;
+    rdf:rest ( 17 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb915 rdf:first 2 ;
+    rdf:rest ( 17 10 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb919 rdf:first 2 ;
+    rdf:rest ( 17 11 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb923 rdf:first 3 ;
+    rdf:rest ( 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb925 rdf:first 3 ;
+    rdf:rest ( 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb928 rdf:first 3 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb932 rdf:first 3 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb936 rdf:first 3 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb94 rdf:first 1 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb940 rdf:first 3 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb944 rdf:first 3 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb948 rdf:first 3 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb952 rdf:first 3 ;
+    rdf:rest ( 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb955 rdf:first 3 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb959 rdf:first 3 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb963 rdf:first 3 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb967 rdf:first 3 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb971 rdf:first 3 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb975 rdf:first 3 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb979 rdf:first 3 ;
+    rdf:rest ( 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb98 rdf:first 1 ;
+    rdf:rest ( 2 9 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb982 rdf:first 3 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb986 rdf:first 3 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb990 rdf:first 3 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb994 rdf:first 3 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:fc6a7435f8b784066bd43f0575bc4501eb998 rdf:first 3 ;
+    rdf:rest ( 3 5 0 ) .
+
+_:ub320bL1010C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1031C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1101C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1122C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1192C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1213C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1283C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1304C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL134C33 tlp:text "ISO 10646" ;
+    tlp:url wikipedia:Universal_Coded_Character_Set .
+
+_:ub320bL1374C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1395C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1465C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1486C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1556C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1577C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1647C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1668C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL168C33 tlp:text "BMP" ;
+    tlp:url wikipedia:Basic_Multilingual_Plane .
+
+_:ub320bL1738C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1759C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL181C33 tlp:text "Thai" ;
+    tlp:url wikipedia:Thai_script .
+
+_:ub320bL1829C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL1858C33 tlp:text "Version" ;
+    tlp:url <http://en.wikipedia.org/wiki/Unicode#Versions> .
+
+_:ub320bL185C33 tlp:text "Common" ;
+    tlp:url <http://en.wikipedia.org/wiki/Script_(Unicode)#Special_script_property_values> .
+
+_:ub320bL200C33 tlp:text "Thai" ;
+    tlp:url wikipedia:Thai_alphabet .
+
+_:ub320bL2010C33 tlp:text "UTC" ;
+    tlp:url wikipedia:Unicode_Consortium .
+
+_:ub320bL2027C33 tlp:text "UTC/1991-048B" ;
+    tlp:url <https://www.unicode.org/L2/L1991-UTC/UTC46-draft.txt> .
+
+_:ub320bL2038C33 tlp:text "UTC/1992-xxx" ;
+    tlp:url <https://www.unicode.org/L2/L1992-UTC/UTC52-draft.txt> .
+
+_:ub320bL204C33 tlp:text "Northern Thai" ;
+    tlp:url <http://en.wikipedia.org/wiki/Northern_Thai_language#Script> .
+
+_:ub320bL2070C33 tlp:text "L2" ;
+    tlp:url wikipedia:International_Committee_for_Information_Technology_Standards .
+
+_:ub320bL208C33 tlp:text "Pali" ;
+    tlp:url <http://en.wikipedia.org/wiki/Pali#Writing> .
+
+_:ub320bL2099C33 tlp:text "L2/02-017" ;
+    tlp:url <https://www.unicode.org/L2/L2002/02017-whistler.pdf> .
+
+_:ub320bL2187C25 tlp:text "\"Unicode 1.0.1 Addendum\"" ;
+    tlp:url <https://www.unicode.org/versions/Unicode1.0.0/Notice.pdf> .
+
+_:ub320bL2198C25 tlp:text "\"Unicode character database\"" ;
+    tlp:url <https://www.unicode.org> .
+
+_:ub320bL2209C25 tlp:text "\"Enumerated Versions of The Unicode Standard\"" ;
+    tlp:url <https://www.unicode.org/versions/enumeratedversions.html> .
+
+_:ub320bL2228C25 tlp:text "Unicode blocks" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Unicode_blocks> .
+
+_:ub320bL2239C25 tlp:text "Encodings of Thai" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Encodings_of_Thai> .
+
+_:ub320bL2258C25 tlp:text "What links here" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/Thai_(Unicode_block)> .
+
+_:ub320bL2269C25 tlp:text "Related changes" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Thai_(Unicode_block)> .
+
+_:ub320bL2280C25 tlp:text "Upload file" ;
+    tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard> .
+
+_:ub320bL2291C25 tlp:text "Special pages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages> .
+
+_:ub320bL2302C25 tlp:text "Permanent link" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_(Unicode_block)&oldid=939735570> .
+
+_:ub320bL2313C25 tlp:text "Page information" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_(Unicode_block)&action=info> .
+
+_:ub320bL2324C25 tlp:text "Wikidata item" ;
+    tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q1354367> .
+
+_:ub320bL2335C25 tlp:text "Cite this page" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Thai_%28Unicode_block%29&id=939735570> .
+
+_:ub320bL2354C25 tlp:text "Create a book" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Thai+%28Unicode+block%29> .
+
+_:ub320bL2365C25 tlp:text "Download as PDF" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Thai+%28Unicode+block%29&action=show-download-screen> .
+
+_:ub320bL2376C25 tlp:text "Printable version" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_(Unicode_block)&printable=yes> .
+
+_:ub320bL2395C25 tlp:text "বাংলা" ;
+    tlp:url <https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8B%E0%A6%A1%E0%A7%87_%E0%A6%A5%E0%A6%BE%E0%A6%87_%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BF> .
+
+_:ub320bL2406C25 tlp:text "Deutsch" ;
+    tlp:url <https://de.wikipedia.org/wiki/Unicodeblock_Thail%C3%A4ndisch> .
+
+_:ub320bL2417C25 tlp:text "Français" ;
+    tlp:url <https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode/U0E00> .
+
+_:ub320bL2428C25 tlp:text "Bahasa Indonesia" ;
+    tlp:url <https://id.wikipedia.org/wiki/Thai_(blok_Unicode)> .
+
+_:ub320bL2439C25 tlp:text "Italiano" ;
+    tlp:url <https://it.wikipedia.org/wiki/Thai_(Unicode)> .
+
+_:ub320bL2450C25 tlp:text "Русский" ;
+    tlp:url <https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_(%D0%B1%D0%BB%D0%BE%D0%BA_%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4%D0%B0)> .
+
+_:ub320bL2461C25 tlp:text "ไทย" ;
+    tlp:url <https://th.wikipedia.org/wiki/Thai_(%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%A2%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B9%82%E0%B8%84%E0%B8%94)> .
+
+_:ub320bL272C33 tlp:text "ISO 10646" ;
+    tlp:url wikipedia:Universal_Coded_Character_Set .
+
+_:ub320bL303C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL373C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL394C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL464C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL485C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL555C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL576C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL646C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL667C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL737C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL758C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL828C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL849C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL919C33 tlp:text "^" ;
+    tlp:url <http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey> .
+
+_:ub320bL940C33 tlp:text "Official Unicode Consortium code chart" ;
+    tlp:url <https://www.unicode.org/charts/PDF/U0E00.pdf> .
+
+_:ub320bL1016C17 a tlp:Column ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb500 ;
+    tlp:member _:ub320bL1022C25,
+        _:ub320bL1036C25,
+        _:ub320bL1042C25,
+        _:ub320bL1048C25,
+        _:ub320bL1054C25,
+        _:ub320bL1060C25,
+        _:ub320bL1066C25,
+        _:ub320bL1072C25,
+        _:ub320bL1078C25,
+        _:ub320bL1084C25,
+        _:ub320bL1090C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1022C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb503 ;
+    tlp:link _:ub320bL1031C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1036C25 a tlp:Cell ;
+    rdfs:label "7" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb507 .
+
+_:ub320bL1042C25 a tlp:Cell ;
+    rdfs:label "ง" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb511 .
+
+_:ub320bL1048C25 a tlp:Cell ;
+    rdfs:label "ท" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb515 .
+
+_:ub320bL1054C25 a tlp:Cell ;
+    rdfs:label "ว" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb519 .
+
+_:ub320bL1060C25 a tlp:Cell ;
+    rdfs:label "ื" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb523 .
+
+_:ub320bL1066C25 a tlp:Cell ;
+    rdfs:label "็" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb527 .
+
+_:ub320bL106C25 a tlp:Cell ;
+    rdfs:label "1.0.0" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb47 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL1072C25 a tlp:Cell ;
+    rdfs:label "๗" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb531 .
+
+_:ub320bL1078C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb535 .
+
+_:ub320bL1084C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb539 .
+
+_:ub320bL1090C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb543 ;
+    tlp:link _:ub320bL1101C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1107C17 a tlp:Column ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb547 ;
+    tlp:member _:ub320bL1113C25,
+        _:ub320bL1127C25,
+        _:ub320bL1133C25,
+        _:ub320bL1139C25,
+        _:ub320bL1145C25,
+        _:ub320bL1151C25,
+        _:ub320bL1157C25,
+        _:ub320bL1163C25,
+        _:ub320bL1169C25,
+        _:ub320bL1175C25,
+        _:ub320bL1181C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1113C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb550 ;
+    tlp:link _:ub320bL1122C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1127C25 a tlp:Cell ;
+    rdfs:label "8" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb554 .
+
+_:ub320bL1133C25 a tlp:Cell ;
+    rdfs:label "จ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb558 .
+
+_:ub320bL1139C25 a tlp:Cell ;
+    rdfs:label "ธ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb562 .
+
+_:ub320bL113C25 a tlp:Cell ;
+    rdfs:label "1.0.1" ;
+    tlp:index 12 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb51 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL1145C25 a tlp:Cell ;
+    rdfs:label "ศ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb566 .
+
+_:ub320bL1151C25 a tlp:Cell ;
+    rdfs:label "ุ" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb570 .
+
+_:ub320bL1157C25 a tlp:Cell ;
+    rdfs:label "่" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb574 .
+
+_:ub320bL1163C25 a tlp:Cell ;
+    rdfs:label "๘" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb578 .
+
+_:ub320bL1169C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb582 .
+
+_:ub320bL1175C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb586 .
+
+_:ub320bL1181C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb590 ;
+    tlp:link _:ub320bL1192C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1198C17 a tlp:Column ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb594 ;
+    tlp:member _:ub320bL1204C25,
+        _:ub320bL1218C25,
+        _:ub320bL1224C25,
+        _:ub320bL1230C25,
+        _:ub320bL1236C25,
+        _:ub320bL1242C25,
+        _:ub320bL1248C25,
+        _:ub320bL1254C25,
+        _:ub320bL1260C25,
+        _:ub320bL1266C25,
+        _:ub320bL1272C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1204C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb597 ;
+    tlp:link _:ub320bL1213C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL120C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 13 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb55 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1218C25 a tlp:Cell ;
+    rdfs:label "9" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb601 .
+
+_:ub320bL1224C25 a tlp:Cell ;
+    rdfs:label "ฉ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb605 .
+
+_:ub320bL1230C25 a tlp:Cell ;
+    rdfs:label "น" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb609 .
+
+_:ub320bL1236C25 a tlp:Cell ;
+    rdfs:label "ษ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb613 .
+
+_:ub320bL1242C25 a tlp:Cell ;
+    rdfs:label "ู" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb617 .
+
+_:ub320bL1248C25 a tlp:Cell ;
+    rdfs:label "้" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb621 .
+
+_:ub320bL1254C25 a tlp:Cell ;
+    rdfs:label "๙" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb625 .
+
+_:ub320bL1260C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb629 .
+
+_:ub320bL1266C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb633 .
+
+_:ub320bL1272C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb637 ;
+    tlp:link _:ub320bL1283C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL127C25 a tlp:Cell ;
+    rdfs:label "Note: Five characters were removed from the Thai block in version 1.0.1 during the process of unifying with ISO 10646." ;
+    tlp:index 14 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb59 ;
+    tlp:link _:ub320bL134C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1289C17 a tlp:Column ;
+    tlp:index 12 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb641 ;
+    tlp:member _:ub320bL1295C25,
+        _:ub320bL1309C25,
+        _:ub320bL1315C25,
+        _:ub320bL1321C25,
+        _:ub320bL1327C25,
+        _:ub320bL1333C25,
+        _:ub320bL1339C25,
+        _:ub320bL1345C25,
+        _:ub320bL1351C25,
+        _:ub320bL1357C25,
+        _:ub320bL1363C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1295C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb644 ;
+    tlp:link _:ub320bL1304C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1309C25 a tlp:Cell ;
+    rdfs:label "A" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb648 .
+
+_:ub320bL1315C25 a tlp:Cell ;
+    rdfs:label "ช" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb652 .
+
+_:ub320bL1321C25 a tlp:Cell ;
+    rdfs:label "บ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb656 .
+
+_:ub320bL1327C25 a tlp:Cell ;
+    rdfs:label "ส" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb660 .
+
+_:ub320bL1333C25 a tlp:Cell ;
+    rdfs:label "ฺ" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb664 .
+
+_:ub320bL1339C25 a tlp:Cell ;
+    rdfs:label "๊" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb668 .
+
+_:ub320bL1345C25 a tlp:Cell ;
+    rdfs:label "๚" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb672 .
+
+_:ub320bL1351C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb676 .
+
+_:ub320bL1357C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb680 .
+
+_:ub320bL1363C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb684 ;
+    tlp:link _:ub320bL1374C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1380C17 a tlp:Column ;
+    tlp:index 13 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb688 ;
+    tlp:member _:ub320bL1386C25,
+        _:ub320bL1400C25,
+        _:ub320bL1406C25,
+        _:ub320bL1412C25,
+        _:ub320bL1418C25,
+        _:ub320bL1424C25,
+        _:ub320bL1430C25,
+        _:ub320bL1436C25,
+        _:ub320bL1442C25,
+        _:ub320bL1448C25,
+        _:ub320bL1454C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1386C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb691 ;
+    tlp:link _:ub320bL1395C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1400C25 a tlp:Cell ;
+    rdfs:label "B" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb695 .
+
+_:ub320bL1406C25 a tlp:Cell ;
+    rdfs:label "ซ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb699 .
+
+_:ub320bL140C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb63 ;
+    tlp:member _:ub320bL146C25,
+        _:ub320bL154C25,
+        _:ub320bL162C25,
+        _:ub320bL173C25,
+        _:ub320bL190C25,
+        _:ub320bL213C25,
+        _:ub320bL219C25,
+        _:ub320bL225C25,
+        _:ub320bL231C25,
+        _:ub320bL239C25,
+        _:ub320bL246C25,
+        _:ub320bL252C25,
+        _:ub320bL258C25,
+        _:ub320bL265C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1412C25 a tlp:Cell ;
+    rdfs:label "ป" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb703 .
+
+_:ub320bL1418C25 a tlp:Cell ;
+    rdfs:label "ห" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb707 .
+
+_:ub320bL1424C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb711 .
+
+_:ub320bL1430C25 a tlp:Cell ;
+    rdfs:label "๋" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb715 .
+
+_:ub320bL1436C25 a tlp:Cell ;
+    rdfs:label "๛" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb719 .
+
+_:ub320bL1442C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb723 .
+
+_:ub320bL1448C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb727 .
+
+_:ub320bL1454C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb731 ;
+    tlp:link _:ub320bL1465C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL146C25 a tlp:Cell ;
+    rdfs:label "Thai" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb66 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub320bL1471C17 a tlp:Column ;
+    tlp:index 14 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb735 ;
+    tlp:member _:ub320bL1477C25,
+        _:ub320bL1491C25,
+        _:ub320bL1497C25,
+        _:ub320bL1503C25,
+        _:ub320bL1509C25,
+        _:ub320bL1515C25,
+        _:ub320bL1521C25,
+        _:ub320bL1527C25,
+        _:ub320bL1533C25,
+        _:ub320bL1539C25,
+        _:ub320bL1545C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1477C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb738 ;
+    tlp:link _:ub320bL1486C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1491C25 a tlp:Cell ;
+    rdfs:label "C" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb742 .
+
+_:ub320bL1497C25 a tlp:Cell ;
+    rdfs:label "ฌ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb746 .
+
+_:ub320bL1503C25 a tlp:Cell ;
+    rdfs:label "ผ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb750 .
+
+_:ub320bL1509C25 a tlp:Cell ;
+    rdfs:label "ฬ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb754 .
+
+_:ub320bL1515C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb758 .
+
+_:ub320bL1521C25 a tlp:Cell ;
+    rdfs:label "์" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb762 .
+
+_:ub320bL1527C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb766 .
+
+_:ub320bL1533C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb770 .
+
+_:ub320bL1539C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb774 .
+
+_:ub320bL1545C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb778 ;
+    tlp:link _:ub320bL1556C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL154C25 a tlp:Cell ;
+    rdfs:label """U+0E00..U+0E7F\r
+(128 code points)""" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb70 .
+
+_:ub320bL1562C17 a tlp:Column ;
+    tlp:index 15 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb782 ;
+    tlp:member _:ub320bL1568C25,
+        _:ub320bL1582C25,
+        _:ub320bL1588C25,
+        _:ub320bL1594C25,
+        _:ub320bL1600C25,
+        _:ub320bL1606C25,
+        _:ub320bL1612C25,
+        _:ub320bL1618C25,
+        _:ub320bL1624C25,
+        _:ub320bL1630C25,
+        _:ub320bL1636C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1568C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb785 ;
+    tlp:link _:ub320bL1577C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1582C25 a tlp:Cell ;
+    rdfs:label "D" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb789 .
+
+_:ub320bL1588C25 a tlp:Cell ;
+    rdfs:label "ญ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb793 .
+
+_:ub320bL1594C25 a tlp:Cell ;
+    rdfs:label "ฝ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb797 .
+
+_:ub320bL1600C25 a tlp:Cell ;
+    rdfs:label "อ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb801 .
+
+_:ub320bL1606C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb805 .
+
+_:ub320bL1612C25 a tlp:Cell ;
+    rdfs:label "ํ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb809 .
+
+_:ub320bL1618C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb813 .
+
+_:ub320bL1624C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb817 .
+
+_:ub320bL162C25 a tlp:Cell ;
+    rdfs:label "BMP" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb74 ;
+    tlp:link _:ub320bL168C33 .
+
+_:ub320bL1630C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb821 .
+
+_:ub320bL1636C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb825 ;
+    tlp:link _:ub320bL1647C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1653C17 a tlp:Column ;
+    tlp:index 16 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb829 ;
+    tlp:member _:ub320bL1659C25,
+        _:ub320bL1673C25,
+        _:ub320bL1679C25,
+        _:ub320bL1685C25,
+        _:ub320bL1691C25,
+        _:ub320bL1697C25,
+        _:ub320bL1703C25,
+        _:ub320bL1709C25,
+        _:ub320bL1715C25,
+        _:ub320bL1721C25,
+        _:ub320bL1727C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1659C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb832 ;
+    tlp:link _:ub320bL1668C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1673C25 a tlp:Cell ;
+    rdfs:label "E" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb836 .
+
+_:ub320bL1679C25 a tlp:Cell ;
+    rdfs:label "ฎ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb840 .
+
+_:ub320bL1685C25 a tlp:Cell ;
+    rdfs:label "พ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb844 .
+
+_:ub320bL1691C25 a tlp:Cell ;
+    rdfs:label "ฮ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb848 .
+
+_:ub320bL1697C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb852 .
+
+_:ub320bL1703C25 a tlp:Cell ;
+    rdfs:label "๎" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb856 .
+
+_:ub320bL1709C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb860 .
+
+_:ub320bL1715C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb864 .
+
+_:ub320bL1721C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb868 .
+
+_:ub320bL1727C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb872 ;
+    tlp:link _:ub320bL1738C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL173C25 a tlp:Cell ;
+    rdfs:label """Thai (86 char.)\r
+Common (1 char.)""" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb78 ;
+    tlp:link _:ub320bL181C33,
+        _:ub320bL185C33 .
+
+_:ub320bL1744C17 a tlp:Column ;
+    tlp:index 17 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb876 ;
+    tlp:member _:ub320bL1750C25,
+        _:ub320bL1764C25,
+        _:ub320bL1770C25,
+        _:ub320bL1776C25,
+        _:ub320bL1782C25,
+        _:ub320bL1788C25,
+        _:ub320bL1794C25,
+        _:ub320bL1800C25,
+        _:ub320bL1806C25,
+        _:ub320bL1812C25,
+        _:ub320bL1818C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1750C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb879 ;
+    tlp:link _:ub320bL1759C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1764C25 a tlp:Cell ;
+    rdfs:label "F" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb883 .
+
+_:ub320bL1770C25 a tlp:Cell ;
+    rdfs:label "ฏ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb887 .
+
+_:ub320bL1776C25 a tlp:Cell ;
+    rdfs:label "ฟ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb891 .
+
+_:ub320bL1782C25 a tlp:Cell ;
+    rdfs:label "ฯ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb895 .
+
+_:ub320bL1788C25 a tlp:Cell ;
+    rdfs:label "฿" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb899 .
+
+_:ub320bL1794C25 a tlp:Cell ;
+    rdfs:label "๏" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb903 .
+
+_:ub320bL1800C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb907 .
+
+_:ub320bL1806C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb911 .
+
+_:ub320bL1812C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb915 .
+
+_:ub320bL1818C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb919 ;
+    tlp:link _:ub320bL1829C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1836C9 a tlp:Table ;
+    rdfs:label "History" ;
+    tlp:dimension 2 ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb923 ;
+    tlp:member _:ub320bL1845C17,
+        _:ub320bL1899C17,
+        _:ub320bL1948C17,
+        _:ub320bL1997C17,
+        _:ub320bL2057C17,
+        _:ub320bL2112C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub320bL1845C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb925 ;
+    tlp:member _:ub320bL1851C25,
+        _:ub320bL1863C25,
+        _:ub320bL1870C25,
+        _:ub320bL1877C25,
+        _:ub320bL1884C25,
+        _:ub320bL1891C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1851C25 a tlp:Cell ;
+    rdfs:label "Version" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb928 ;
+    tlp:link _:ub320bL1858C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL1863C25 a tlp:Cell ;
+    rdfs:label "1.0.0" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb932 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1870C25 a tlp:Cell ;
+    rdfs:label "1.0.0" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb936 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1877C25 a tlp:Cell ;
+    rdfs:label "1.0.0" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb940 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1884C25 a tlp:Cell ;
+    rdfs:label "1.0.0" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb944 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1891C25 a tlp:Cell ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb948 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1899C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb952 ;
+    tlp:member _:ub320bL1905C25,
+        _:ub320bL1912C25,
+        _:ub320bL1919C25,
+        _:ub320bL1926C25,
+        _:ub320bL1933C25,
+        _:ub320bL1940C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1905C25 a tlp:Cell ;
+    rdfs:label "Final code points" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb955 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL190C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Northern Thai\r
+Pali""" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb82 ;
+    tlp:link _:ub320bL200C33,
+        _:ub320bL204C33,
+        _:ub320bL208C33 .
+
+_:ub320bL1912C25 a tlp:Cell ;
+    rdfs:label "U+0E01..0E3A, 0E3F..0E5B" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb959 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1919C25 a tlp:Cell ;
+    rdfs:label "U+0E01..0E3A, 0E3F..0E5B" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb963 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1926C25 a tlp:Cell ;
+    rdfs:label "U+0E01..0E3A, 0E3F..0E5B" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb967 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1933C25 a tlp:Cell ;
+    rdfs:label "U+0E01..0E3A, 0E3F..0E5B" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb971 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1940C25 a tlp:Cell ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb975 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1948C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb979 ;
+    tlp:member _:ub320bL1954C25,
+        _:ub320bL1961C25,
+        _:ub320bL1968C25,
+        _:ub320bL1975C25,
+        _:ub320bL1982C25,
+        _:ub320bL1989C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL1954C25 a tlp:Cell ;
+    rdfs:label "Count" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb982 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL1961C25 a tlp:Cell ;
+    rdfs:label "87" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb986 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1968C25 a tlp:Cell ;
+    rdfs:label "87" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb990 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1975C25 a tlp:Cell ;
+    rdfs:label "87" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb994 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1982C25 a tlp:Cell ;
+    rdfs:label "87" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb998 ;
+    tlp:style tlp:LineSpan .
+
+_:ub320bL1989C25 a tlp:Cell ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1002 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL1997C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1006 ;
+    tlp:member _:ub320bL2003C25,
+        _:ub320bL2015C25,
+        _:ub320bL2021C25,
+        _:ub320bL2032C25,
+        _:ub320bL2043C25,
+        _:ub320bL2049C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL19C9 a tlp:Table ;
+    rdfs:label "Thai (Unicode block)" ;
+    tlp:dimension 2 ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb2 ;
+    tlp:member _:ub320bL140C17,
+        _:ub320bL28C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub320bL2003C25 a tlp:Cell ;
+    rdfs:label "UTC ID" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1009 ;
+    tlp:link _:ub320bL2010C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL2015C25 a tlp:Cell ;
+    rdfs:label "UTC/1991-058" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1013 .
+
+_:ub320bL2021C25 a tlp:Cell ;
+    rdfs:label "UTC/1991-048B" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1017 ;
+    tlp:link _:ub320bL2027C33 .
+
+_:ub320bL2032C25 a tlp:Cell ;
+    rdfs:label "UTC/1992-xxx" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1021 ;
+    tlp:link _:ub320bL2038C33 .
+
+_:ub320bL2043C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1025 .
+
+_:ub320bL2049C25 a tlp:Cell ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1029 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL2057C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1033 ;
+    tlp:member _:ub320bL2063C25,
+        _:ub320bL2075C25,
+        _:ub320bL2081C25,
+        _:ub320bL2087C25,
+        _:ub320bL2093C25,
+        _:ub320bL2104C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL2063C25 a tlp:Cell ;
+    rdfs:label "L2 ID" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1036 ;
+    tlp:link _:ub320bL2070C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL2075C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1040 .
+
+_:ub320bL2081C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1044 .
+
+_:ub320bL2087C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1048 .
+
+_:ub320bL2093C25 a tlp:Cell ;
+    rdfs:label "L2/02-017" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1052 ;
+    tlp:link _:ub320bL2099C33 .
+
+_:ub320bL2104C25 a tlp:Cell ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1056 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL2112C17 a tlp:Column ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1060 ;
+    tlp:member _:ub320bL2118C25,
+        _:ub320bL2125C25,
+        _:ub320bL2131C25,
+        _:ub320bL2137C25,
+        _:ub320bL2143C25,
+        _:ub320bL2149C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL2118C25 a tlp:Cell ;
+    rdfs:label "Document" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1063 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL2125C25 a tlp:Cell ;
+    rdfs:label "Whistler, Ken, Thai, Lao" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1067 .
+
+_:ub320bL2131C25 a tlp:Cell ;
+    rdfs:label "Whistler, Ken (1991-03-27), \"Thai, Lao\", Draft Minutes from the UTC meeting #46 day 2, 3/27 at Apple" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1071 .
+
+_:ub320bL2137C25 a tlp:Cell ;
+    rdfs:label "Freytag, Asmus (1992-05-12), \"B. Indic SC\", Unconfirmed minutes for UTC Meeting #52, May 8, 1992 at Xerox" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1075 .
+
+_:ub320bL213C25 a tlp:Cell ;
+    rdfs:label "87 code points" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb86 .
+
+_:ub320bL2143C25 a tlp:Cell ;
+    rdfs:label "Whistler, Ken (2002-01-14), Character Properties for avagrahas, etc." ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1079 .
+
+_:ub320bL2149C25 a tlp:Cell ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1083 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL2158C9 a tlp:List ;
+    rdfs:label "History" ;
+    tlp:dimension 1 ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1087 ;
+    tlp:member _:ub320bL2166C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL2166C17 a tlp:Item ;
+    rdfs:label "Proposed code points and characters names may differ from final code points and names" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1089 .
+
+_:ub320bL2173C9 a tlp:List ;
+    rdfs:label "References" ;
+    tlp:dimension 1 ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1092 ;
+    tlp:member _:ub320bL2181C17,
+        _:ub320bL2192C17,
+        _:ub320bL2203C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL2181C17 a tlp:Item ;
+    rdfs:label "\"Unicode 1.0.1 Addendum\" (PDF). The Unicode Standard. 1992-11-03. Retrieved 2016-07-09." ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1094 ;
+    tlp:link _:ub320bL2187C25 .
+
+_:ub320bL2192C17 a tlp:Item ;
+    rdfs:label "\"Unicode character database\". The Unicode Standard. Retrieved 2016-07-09." ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1097 ;
+    tlp:link _:ub320bL2198C25 .
+
+_:ub320bL219C25 a tlp:Cell ;
+    rdfs:label "41 reserved code points" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb90 .
+
+_:ub320bL2203C17 a tlp:Item ;
+    rdfs:label "\"Enumerated Versions of The Unicode Standard\". The Unicode Standard. Retrieved 2016-07-09." ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1100 ;
+    tlp:link _:ub320bL2209C25 .
+
+_:ub320bL2215C9 a tlp:List ;
+    rdfs:label "References" ;
+    tlp:dimension 1 ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1103 ;
+    tlp:member _:ub320bL2222C17,
+        _:ub320bL2233C17 .
+
+_:ub320bL2222C17 a tlp:Item ;
+    rdfs:label "Unicode blocks" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1105 ;
+    tlp:link _:ub320bL2228C25 .
+
+_:ub320bL2233C17 a tlp:Item ;
+    rdfs:label "Encodings of Thai" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1108 ;
+    tlp:link _:ub320bL2239C25 .
+
+_:ub320bL2245C9 a tlp:List ;
+    rdfs:label "Tools" ;
+    tlp:dimension 1 ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1111 ;
+    tlp:member _:ub320bL2252C17,
+        _:ub320bL2263C17,
+        _:ub320bL2274C17,
+        _:ub320bL2285C17,
+        _:ub320bL2296C17,
+        _:ub320bL2307C17,
+        _:ub320bL2318C17,
+        _:ub320bL2329C17 .
+
+_:ub320bL2252C17 a tlp:Item ;
+    rdfs:label "What links here" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1113 ;
+    tlp:link _:ub320bL2258C25 .
+
+_:ub320bL225C25 a tlp:Cell ;
+    rdfs:label "Thai Industrial Standard 620-2529 and 620-2533" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb94 .
+
+_:ub320bL2263C17 a tlp:Item ;
+    rdfs:label "Related changes" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1116 ;
+    tlp:link _:ub320bL2269C25 .
+
+_:ub320bL2274C17 a tlp:Item ;
+    rdfs:label "Upload file" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1119 ;
+    tlp:link _:ub320bL2280C25 .
+
+_:ub320bL2285C17 a tlp:Item ;
+    rdfs:label "Special pages" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1122 ;
+    tlp:link _:ub320bL2291C25 .
+
+_:ub320bL2296C17 a tlp:Item ;
+    rdfs:label "Permanent link" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1125 ;
+    tlp:link _:ub320bL2302C25 .
+
+_:ub320bL2307C17 a tlp:Item ;
+    rdfs:label "Page information" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1128 ;
+    tlp:link _:ub320bL2313C25 .
+
+_:ub320bL2318C17 a tlp:Item ;
+    rdfs:label "Wikidata item" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1131 ;
+    tlp:link _:ub320bL2324C25 .
+
+_:ub320bL231C25 a tlp:Cell ;
+    rdfs:label "Unicode version history" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb98 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub320bL2329C17 a tlp:Item ;
+    rdfs:label "Cite this page" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1134 ;
+    tlp:link _:ub320bL2335C25 .
+
+_:ub320bL2341C9 a tlp:List ;
+    rdfs:label "Print/export" ;
+    tlp:dimension 1 ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1137 ;
+    tlp:member _:ub320bL2348C17,
+        _:ub320bL2359C17,
+        _:ub320bL2370C17 .
+
+_:ub320bL2348C17 a tlp:Item ;
+    rdfs:label "Create a book" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1139 ;
+    tlp:link _:ub320bL2354C25 .
+
+_:ub320bL2359C17 a tlp:Item ;
+    rdfs:label "Download as PDF" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1142 ;
+    tlp:link _:ub320bL2365C25 .
+
+_:ub320bL2370C17 a tlp:Item ;
+    rdfs:label "Printable version" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1145 ;
+    tlp:link _:ub320bL2376C25 .
+
+_:ub320bL2382C9 a tlp:List ;
+    rdfs:label "Languages" ;
+    tlp:dimension 1 ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1148 ;
+    tlp:member _:ub320bL2389C17,
+        _:ub320bL2400C17,
+        _:ub320bL2411C17,
+        _:ub320bL2422C17,
+        _:ub320bL2433C17,
+        _:ub320bL2444C17,
+        _:ub320bL2455C17 .
+
+_:ub320bL2389C17 a tlp:Item ;
+    rdfs:label "বাংলা" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1150 ;
+    tlp:link _:ub320bL2395C25 .
+
+_:ub320bL239C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb102 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL2400C17 a tlp:Item ;
+    rdfs:label "Deutsch" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1153 ;
+    tlp:link _:ub320bL2406C25 .
+
+_:ub320bL2411C17 a tlp:Item ;
+    rdfs:label "Français" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1156 ;
+    tlp:link _:ub320bL2417C25 .
+
+_:ub320bL2422C17 a tlp:Item ;
+    rdfs:label "Bahasa Indonesia" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1159 ;
+    tlp:link _:ub320bL2428C25 .
+
+_:ub320bL2433C17 a tlp:Item ;
+    rdfs:label "Italiano" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1162 ;
+    tlp:link _:ub320bL2439C25 .
+
+_:ub320bL2444C17 a tlp:Item ;
+    rdfs:label "Русский" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1165 ;
+    tlp:link _:ub320bL2450C25 .
+
+_:ub320bL2455C17 a tlp:Item ;
+    rdfs:label "ไทย" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb1168 ;
+    tlp:link _:ub320bL2461C25 .
+
+_:ub320bL246C25 a tlp:Cell ;
+    rdfs:label "92 (+92)" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb106 .
+
+_:ub320bL252C25 a tlp:Cell ;
+    rdfs:label "87 (-5)" ;
+    tlp:index 12 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb110 .
+
+_:ub320bL258C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 13 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb114 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL265C25 a tlp:Cell ;
+    rdfs:label "Note: Five characters were removed from the Thai block in version 1.0.1 during the process of unifying with ISO 10646." ;
+    tlp:index 14 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb118 ;
+    tlp:link _:ub320bL272C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL279C9 a tlp:Table ;
+    rdfs:label "Block" ;
+    tlp:dimension 2 ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb122 ;
+    tlp:member _:ub320bL1016C17,
+        _:ub320bL1107C17,
+        _:ub320bL1198C17,
+        _:ub320bL1289C17,
+        _:ub320bL1380C17,
+        _:ub320bL1471C17,
+        _:ub320bL1562C17,
+        _:ub320bL1653C17,
+        _:ub320bL1744C17,
+        _:ub320bL288C17,
+        _:ub320bL379C17,
+        _:ub320bL470C17,
+        _:ub320bL561C17,
+        _:ub320bL652C17,
+        _:ub320bL743C17,
+        _:ub320bL834C17,
+        _:ub320bL925C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub320bL288C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb124 ;
+    tlp:member _:ub320bL294C25,
+        _:ub320bL308C25,
+        _:ub320bL314C25,
+        _:ub320bL320C25,
+        _:ub320bL326C25,
+        _:ub320bL332C25,
+        _:ub320bL338C25,
+        _:ub320bL344C25,
+        _:ub320bL350C25,
+        _:ub320bL356C25,
+        _:ub320bL362C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL28C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb4 ;
+    tlp:member _:ub320bL106C25,
+        _:ub320bL113C25,
+        _:ub320bL120C25,
+        _:ub320bL127C25,
+        _:ub320bL34C25,
+        _:ub320bL42C25,
+        _:ub320bL49C25,
+        _:ub320bL56C25,
+        _:ub320bL63C25,
+        _:ub320bL70C25,
+        _:ub320bL77C25,
+        _:ub320bL84C25,
+        _:ub320bL91C25,
+        _:ub320bL99C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL294C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb127 ;
+    tlp:link _:ub320bL303C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL308C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb131 .
+
+_:ub320bL314C25 a tlp:Cell ;
+    rdfs:label "U+0E0x" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb135 .
+
+_:ub320bL320C25 a tlp:Cell ;
+    rdfs:label "U+0E1x" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb139 .
+
+_:ub320bL326C25 a tlp:Cell ;
+    rdfs:label "U+0E2x" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb143 .
+
+_:ub320bL332C25 a tlp:Cell ;
+    rdfs:label "U+0E3x" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb147 .
+
+_:ub320bL338C25 a tlp:Cell ;
+    rdfs:label "U+0E4x" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb151 .
+
+_:ub320bL344C25 a tlp:Cell ;
+    rdfs:label "U+0E5x" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb155 .
+
+_:ub320bL34C25 a tlp:Cell ;
+    rdfs:label "Thai" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb7 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub320bL350C25 a tlp:Cell ;
+    rdfs:label "U+0E6x" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb159 .
+
+_:ub320bL356C25 a tlp:Cell ;
+    rdfs:label "U+0E7x" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb163 .
+
+_:ub320bL362C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb167 ;
+    tlp:link _:ub320bL373C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL379C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb171 ;
+    tlp:member _:ub320bL385C25,
+        _:ub320bL399C25,
+        _:ub320bL405C25,
+        _:ub320bL411C25,
+        _:ub320bL417C25,
+        _:ub320bL423C25,
+        _:ub320bL429C25,
+        _:ub320bL435C25,
+        _:ub320bL441C25,
+        _:ub320bL447C25,
+        _:ub320bL453C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL385C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb174 ;
+    tlp:link _:ub320bL394C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL399C25 a tlp:Cell ;
+    rdfs:label "0" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb178 .
+
+_:ub320bL405C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb182 .
+
+_:ub320bL411C25 a tlp:Cell ;
+    rdfs:label "ฐ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb186 .
+
+_:ub320bL417C25 a tlp:Cell ;
+    rdfs:label "ภ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb190 .
+
+_:ub320bL423C25 a tlp:Cell ;
+    rdfs:label "ะ" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb194 .
+
+_:ub320bL429C25 a tlp:Cell ;
+    rdfs:label "เ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb198 .
+
+_:ub320bL42C25 a tlp:Cell ;
+    rdfs:label "Range" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb11 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL435C25 a tlp:Cell ;
+    rdfs:label "๐" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb202 .
+
+_:ub320bL441C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb206 .
+
+_:ub320bL447C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb210 .
+
+_:ub320bL453C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb214 ;
+    tlp:link _:ub320bL464C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL470C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb218 ;
+    tlp:member _:ub320bL476C25,
+        _:ub320bL490C25,
+        _:ub320bL496C25,
+        _:ub320bL502C25,
+        _:ub320bL508C25,
+        _:ub320bL514C25,
+        _:ub320bL520C25,
+        _:ub320bL526C25,
+        _:ub320bL532C25,
+        _:ub320bL538C25,
+        _:ub320bL544C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL476C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb221 ;
+    tlp:link _:ub320bL485C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL490C25 a tlp:Cell ;
+    rdfs:label "1" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb225 .
+
+_:ub320bL496C25 a tlp:Cell ;
+    rdfs:label "ก" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb229 .
+
+_:ub320bL49C25 a tlp:Cell ;
+    rdfs:label "Plane" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb15 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL502C25 a tlp:Cell ;
+    rdfs:label "ฑ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb233 .
+
+_:ub320bL508C25 a tlp:Cell ;
+    rdfs:label "ม" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb237 .
+
+_:ub320bL514C25 a tlp:Cell ;
+    rdfs:label "ั" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb241 .
+
+_:ub320bL520C25 a tlp:Cell ;
+    rdfs:label "แ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb245 .
+
+_:ub320bL526C25 a tlp:Cell ;
+    rdfs:label "๑" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb249 .
+
+_:ub320bL532C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb253 .
+
+_:ub320bL538C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb257 .
+
+_:ub320bL544C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb261 ;
+    tlp:link _:ub320bL555C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL561C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb265 ;
+    tlp:member _:ub320bL567C25,
+        _:ub320bL581C25,
+        _:ub320bL587C25,
+        _:ub320bL593C25,
+        _:ub320bL599C25,
+        _:ub320bL605C25,
+        _:ub320bL611C25,
+        _:ub320bL617C25,
+        _:ub320bL623C25,
+        _:ub320bL629C25,
+        _:ub320bL635C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL567C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb268 ;
+    tlp:link _:ub320bL576C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL56C25 a tlp:Cell ;
+    rdfs:label "Scripts" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb19 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL581C25 a tlp:Cell ;
+    rdfs:label "2" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb272 .
+
+_:ub320bL587C25 a tlp:Cell ;
+    rdfs:label "ข" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb276 .
+
+_:ub320bL593C25 a tlp:Cell ;
+    rdfs:label "ฒ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb280 .
+
+_:ub320bL599C25 a tlp:Cell ;
+    rdfs:label "ย" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb284 .
+
+_:ub320bL605C25 a tlp:Cell ;
+    rdfs:label "า" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb288 .
+
+_:ub320bL611C25 a tlp:Cell ;
+    rdfs:label "โ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb292 .
+
+_:ub320bL617C25 a tlp:Cell ;
+    rdfs:label "๒" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb296 .
+
+_:ub320bL623C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb300 .
+
+_:ub320bL629C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb304 .
+
+_:ub320bL635C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb308 ;
+    tlp:link _:ub320bL646C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL63C25 a tlp:Cell ;
+    rdfs:label "Major alphabets" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb23 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL652C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb312 ;
+    tlp:member _:ub320bL658C25,
+        _:ub320bL672C25,
+        _:ub320bL678C25,
+        _:ub320bL684C25,
+        _:ub320bL690C25,
+        _:ub320bL696C25,
+        _:ub320bL702C25,
+        _:ub320bL708C25,
+        _:ub320bL714C25,
+        _:ub320bL720C25,
+        _:ub320bL726C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL658C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb315 ;
+    tlp:link _:ub320bL667C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL672C25 a tlp:Cell ;
+    rdfs:label "3" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb319 .
+
+_:ub320bL678C25 a tlp:Cell ;
+    rdfs:label "ฃ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb323 .
+
+_:ub320bL684C25 a tlp:Cell ;
+    rdfs:label "ณ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb327 .
+
+_:ub320bL690C25 a tlp:Cell ;
+    rdfs:label "ร" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb331 .
+
+_:ub320bL696C25 a tlp:Cell ;
+    rdfs:label "ำ" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb335 .
+
+_:ub320bL702C25 a tlp:Cell ;
+    rdfs:label "ใ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb339 .
+
+_:ub320bL708C25 a tlp:Cell ;
+    rdfs:label "๓" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb343 .
+
+_:ub320bL70C25 a tlp:Cell ;
+    rdfs:label "Assigned" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb27 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL714C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb347 .
+
+_:ub320bL720C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb351 .
+
+_:ub320bL726C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb355 ;
+    tlp:link _:ub320bL737C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL743C17 a tlp:Column ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb359 ;
+    tlp:member _:ub320bL749C25,
+        _:ub320bL763C25,
+        _:ub320bL769C25,
+        _:ub320bL775C25,
+        _:ub320bL781C25,
+        _:ub320bL787C25,
+        _:ub320bL793C25,
+        _:ub320bL799C25,
+        _:ub320bL805C25,
+        _:ub320bL811C25,
+        _:ub320bL817C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL749C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb362 ;
+    tlp:link _:ub320bL758C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL763C25 a tlp:Cell ;
+    rdfs:label "4" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb366 .
+
+_:ub320bL769C25 a tlp:Cell ;
+    rdfs:label "ค" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb370 .
+
+_:ub320bL775C25 a tlp:Cell ;
+    rdfs:label "ด" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb374 .
+
+_:ub320bL77C25 a tlp:Cell ;
+    rdfs:label "Unused" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb31 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL781C25 a tlp:Cell ;
+    rdfs:label "ฤ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb378 .
+
+_:ub320bL787C25 a tlp:Cell ;
+    rdfs:label "ิ" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb382 .
+
+_:ub320bL793C25 a tlp:Cell ;
+    rdfs:label "ไ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb386 .
+
+_:ub320bL799C25 a tlp:Cell ;
+    rdfs:label "๔" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb390 .
+
+_:ub320bL805C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb394 .
+
+_:ub320bL811C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb398 .
+
+_:ub320bL817C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb402 ;
+    tlp:link _:ub320bL828C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL834C17 a tlp:Column ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb406 ;
+    tlp:member _:ub320bL840C25,
+        _:ub320bL854C25,
+        _:ub320bL860C25,
+        _:ub320bL866C25,
+        _:ub320bL872C25,
+        _:ub320bL878C25,
+        _:ub320bL884C25,
+        _:ub320bL890C25,
+        _:ub320bL896C25,
+        _:ub320bL902C25,
+        _:ub320bL908C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL840C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb409 ;
+    tlp:link _:ub320bL849C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL84C25 a tlp:Cell ;
+    rdfs:label "Source standards" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb35 ;
+    tlp:style tlp:Emphasize .
+
+_:ub320bL854C25 a tlp:Cell ;
+    rdfs:label "5" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb413 .
+
+_:ub320bL860C25 a tlp:Cell ;
+    rdfs:label "ฅ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb417 .
+
+_:ub320bL866C25 a tlp:Cell ;
+    rdfs:label "ต" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb421 .
+
+_:ub320bL872C25 a tlp:Cell ;
+    rdfs:label "ล" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb425 .
+
+_:ub320bL878C25 a tlp:Cell ;
+    rdfs:label "ี" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb429 .
+
+_:ub320bL884C25 a tlp:Cell ;
+    rdfs:label "ๅ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb433 .
+
+_:ub320bL890C25 a tlp:Cell ;
+    rdfs:label "๕" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb437 .
+
+_:ub320bL896C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb441 .
+
+_:ub320bL902C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb445 .
+
+_:ub320bL908C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb449 ;
+    tlp:link _:ub320bL919C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL91C25 a tlp:Cell ;
+    rdfs:label "Unicode version history" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb39 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub320bL925C17 a tlp:Column ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb453 ;
+    tlp:member _:ub320bL931C25,
+        _:ub320bL945C25,
+        _:ub320bL951C25,
+        _:ub320bL957C25,
+        _:ub320bL963C25,
+        _:ub320bL969C25,
+        _:ub320bL975C25,
+        _:ub320bL981C25,
+        _:ub320bL987C25,
+        _:ub320bL993C25,
+        _:ub320bL999C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub320bL931C25 a tlp:Cell ;
+    rdfs:label """Thai\r
+Official Unicode Consortium code chart (PDF)""" ;
+    tlp:index 1 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb456 ;
+    tlp:link _:ub320bL940C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL945C25 a tlp:Cell ;
+    rdfs:label "6" ;
+    tlp:index 2 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb460 .
+
+_:ub320bL951C25 a tlp:Cell ;
+    rdfs:label "ฆ" ;
+    tlp:index 3 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb464 .
+
+_:ub320bL957C25 a tlp:Cell ;
+    rdfs:label "ถ" ;
+    tlp:index 4 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb468 .
+
+_:ub320bL963C25 a tlp:Cell ;
+    rdfs:label "ฦ" ;
+    tlp:index 5 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb472 .
+
+_:ub320bL969C25 a tlp:Cell ;
+    rdfs:label "ึ" ;
+    tlp:index 6 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb476 .
+
+_:ub320bL975C25 a tlp:Cell ;
+    rdfs:label "ๆ" ;
+    tlp:index 7 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb480 .
+
+_:ub320bL981C25 a tlp:Cell ;
+    rdfs:label "๖" ;
+    tlp:index 8 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb484 .
+
+_:ub320bL987C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 9 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb488 .
+
+_:ub320bL993C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb492 .
+
+_:ub320bL999C25 a tlp:Cell ;
+    rdfs:label """Notes\r
+1.^ As of Unicode version 13.0\r
+2.^ Grey areas indicate non-assigned code points""" ;
+    tlp:index 11 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb496 ;
+    tlp:link _:ub320bL1010C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub320bL99C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 10 ;
+    tlp:indexList _:fc6a7435f8b784066bd43f0575bc4501eb43 ;
+    tlp:style tlp:GrpSpan .
+

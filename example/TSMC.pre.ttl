@@ -1,0 +1,3186 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+
+<http://tlpedia.org/resource/TSMC>
+    owl:sameAs <http://dbpedia.org/resource/TSMC> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/TSMC?oldid=> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/TSMC> ;
+    foaf:name "TSMC" ;
+    tlp:indexList ( 0 ) ;
+    rdfs:label "TSMC" ;
+    rdf:type tlp:Page ;
+    tlp:member
+        [
+            tlp:index 1 ;
+            tlp:indexList ( 1 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label "Taiwan Semiconductor Manufacturing Company Limited (TSMC)" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
+            tlp:dimension 3 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 1 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png> ;
+                                    tlp:url <http://en.wikipedia.org/wiki/File:Tsmc.svg>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Native name" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Type" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Type" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Traded as" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Traded as" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ticker_symbol>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "ISIN" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "ISIN" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/International_Securities_Identification_Number>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 1 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Industry" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 1 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Founded" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 1 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Founder" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 1 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Headquarters" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 1 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Area served" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 1 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Key people" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 1 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Brands" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 1 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Production output" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 1 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Services" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 1 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Revenue" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 1 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Operating income" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Operating income" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 1 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Net income" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Net income" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Net_income>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 1 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Total assets" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Total assets" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Asset>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 1 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Total equity" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Total equity" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Equity_(finance)>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 1 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Number of employees" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 1 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Subsidiaries" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Subsidiaries" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Subsidiary>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 1 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 1 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 1 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Chinese name" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 1 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Traditional Chinese" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Traditional Chinese" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Traditional_Chinese_characters>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 1 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 1 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 1 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 1 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Website" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 1 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Footnotes / references" ;
+                            tlp:style tlp:GrpSpan
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 1 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png> ;
+                                    tlp:url <http://en.wikipedia.org/wiki/File:Tsmc.svg>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "臺灣積體電路製造股份有限公司"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Public" ;
+                            tlp:link
+                                [
+                                    tlp:text "Public" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Public_company>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 4 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "TWSE: 2330"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 1 2 4 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "NYSE: TSM"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "US8740391003" ;
+                            tlp:link
+                                [
+                                    tlp:text "US8740391003" ;
+                                    tlp:url <https://tools.wmflabs.org/isin/?language=en&isin=US8740391003>
+                                ] ,
+                                [
+                                    tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png> ;
+                                    tlp:url <https://www.wikidata.org/wiki/Q713418?uselang=en#P946>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 2 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Semiconductors" ;
+                            tlp:link
+                                [
+                                    tlp:text "Semiconductors" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Semiconductor>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 2 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Industrial Technology Research Institute, Hsinchu, Taiwan
+(1987; 33 years ago (1987))""" ;
+                            tlp:link
+                                [
+                                    tlp:text "Industrial Technology Research Institute" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute>
+                                ] ,
+                                [
+                                    tlp:text "Hsinchu" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Hsinchu>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 2 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Morris Chang" ;
+                            tlp:link
+                                [
+                                    tlp:text "Morris Chang" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Morris_Chang>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 2 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Hsinchu Science and Industrial Park, Taiwan" ;
+                            tlp:link
+                                [
+                                    tlp:text "Hsinchu Science and Industrial Park" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Hsinchu_Science_and_Industrial_Park>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 2 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Worldwide"
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 2 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 11 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "Mark Liu (Chairman)"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 1 2 11 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "C.C. Wei (CEO and Vice Chairman)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 2 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "CyberShuttle prototyping service, Open Innovation Platform, eFoundry online services"
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 2 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 13 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "10,745.000 12-inch equivalent wafers (2018)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 2 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Manufacture of Integrated circuits and related services" ;
+                            tlp:link
+                                [
+                                    tlp:text "Integrated circuits" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Integrated_circuit>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 2 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 15 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "TWD$1031,473.557 billion (US$35.000 billion) (2018)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 2 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 16 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "NT$383,623.524 billion (US$12.712 billion) (2018)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 2 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 17 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "NT$351,184.406 billion (US$11.638 billion) (2018)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 2 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 18 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "NT$1,991.861 billion (US$67.023 billion) (2018)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 2 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 19 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "NT$1,552.759 billion (US$52.248 billion) (2018)"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 2 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "48,752 (2018)"
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 2 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            rdf:type tlp:List ;
+                            tlp:member
+                                [
+                                    tlp:index 1 ;
+                                    tlp:indexList ( 1 2 21 1 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "WaferTech"
+                                ] ,
+                                [
+                                    tlp:index 2 ;
+                                    tlp:indexList ( 1 2 21 2 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "TSMC PRC"
+                                ] ,
+                                [
+                                    tlp:index 3 ;
+                                    tlp:indexList ( 1 2 21 3 0 ) ;
+                                    rdf:type tlp:Item ;
+                                    rdfs:label "SSMC"
+                                ]
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 2 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 2 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 2 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Chinese name" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 2 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "台灣積體電路製造公司"
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 2 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 2 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 2 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 2 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "www.tsmc.com" ;
+                            tlp:link
+                                [
+                                    tlp:text "www.tsmc.com" ;
+                                    tlp:url <http://www.tsmc.com>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 2 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Footnotes / references" ;
+                            tlp:style tlp:GrpSpan
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 2 ;
+            tlp:indexList ( 2 0 ) ;
+            tlp:dimension 2 ;
+            rdfs:label "Contents" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 2 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Overview" ;
+                    tlp:link
+                        [
+                            tlp:text "Overview" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#Overview>
+                        ] ;
+                    rdf:type tlp:List ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 2 1 1 0 ) ;
+                            rdf:type tlp:Item ;
+                            rdfs:label "GlobalFoundries vs. TSMC et al" ;
+                            tlp:link
+                                [
+                                    tlp:text "GlobalFoundries vs. TSMC et al" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/TSMC#GlobalFoundries_vs._TSMC_et_al>
+                                ]
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 2 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Production capabilities" ;
+                    tlp:link
+                        [
+                            tlp:text "Production capabilities" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#Production_capabilities>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 2 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Facilities" ;
+                    tlp:link
+                        [
+                            tlp:text "Facilities" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#Facilities>
+                        ] ;
+                    rdf:type tlp:List ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 2 3 1 0 ) ;
+                            rdf:type tlp:Item ;
+                            rdfs:label "WaferTech subsidiary" ;
+                            tlp:link
+                                [
+                                    tlp:text "WaferTech subsidiary" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/TSMC#WaferTech_subsidiary>
+                                ]
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 2 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Sales and market trends" ;
+                    tlp:link
+                        [
+                            tlp:text "Sales and market trends" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#Sales_and_market_trends>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 2 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "See also" ;
+                    tlp:link
+                        [
+                            tlp:text "See also" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#See_also>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 2 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "References" ;
+                    tlp:link
+                        [
+                            tlp:text "References" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#References>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 2 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "External links" ;
+                    tlp:link
+                        [
+                            tlp:text "External links" ;
+                            tlp:url <http://en.wikipedia.org/wiki/TSMC#External_links>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 3 ;
+            tlp:indexList ( 3 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Production capabilities" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 3 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "0.13 μm (options: general-purpose (G), low-power (LP), high-performance low-voltage (LV))."
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 3 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "90 nm (based upon 80GC from Q4/2006),"
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 3 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "65 nm (options: general-purpose (GP), low-power (LP), ultra-low power (ULP), LPG)."
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 3 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "55 nm (options: general-purpose (GP), low-power (LP))."
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 3 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "40 nm (options: general-purpose (GP), low-power (LP), ultra-low power (ULP))."
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 3 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "28 nm (options: high-performance (HP), high-performance mobile (HPM), high-performance computing (HPC), high-performance low-power(HPL), low-power (LP), high-performance computing Plus (HPC+), ultra-low power (ULP)) with HKMG."
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 3 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "22 nm (options: ultra-low power (ULP), ultra-low leakage (ULL))"
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 3 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "20 nm"
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 3 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "16 nm (options: FinFET (FF), FinFET Plus (FF+), FinFET Compact (FFC))"
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 3 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "12 nm (options: FinFET Compact (FFC), FinFET NVIDIA (FFN)), enhanced version of 16 nm process." ;
+                    tlp:link
+                        [
+                            tlp:text "NVIDIA" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Nvidia>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 3 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "10 nm (options: FinFET (FF))"
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 3 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "7 nm (options: FinFET (FF), FinFET Plus (FF+), FinFET Pro (FFP), high-performance computing (HPC))"
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 3 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "6 nm (options: FinFET (FF)), risk production starting in Q1 2020, enhanced version of 7 nm process."
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 3 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "5 nm (options: FinFET (FF)), risk production started in Q2 2019, mass production targets in Q2 2020."
+                ]
+        ] ,
+        [
+            tlp:index 4 ;
+            tlp:indexList ( 4 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Facilities" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 4 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Three 300 mm (12 inch) "GIGAFABs" in operation in Taiwan: Fab 12 (Hsinchu), 14 (Tainan), 15 (Taichung)"""
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 4 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Four 200 mm (8 inch) wafer fabs in full operation in Taiwan: Fab 3, 5, 8 (Hsinchu) , 6 (Tainan)" ;
+                    tlp:link
+                        [
+                            tlp:text "wafer" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Wafer_(electronics)>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 4 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "TSMC China Company Limited, 200 mm (8 inch): Fab 10 (Shanghai)"
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 4 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "TSMC Nanjing Company Limited, 300 mm (12 inch): Fab 16 (Nanjing)"
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 4 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "WaferTech L.L.C., TSMC's wholly owned US subsidiary, a 200 mm (8 inch) fab: Fab 11 (Camas, Washington)" ;
+                    tlp:link
+                        [
+                            tlp:text "Camas, Washington" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Camas,_Washington>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 4 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "SSMC (Systems on Silicon Manufacturing Co.), a joint venture with NXP Semiconductors in Singapore, 200 mm (8 inch), where production started at the end of 2002" ;
+                    tlp:link
+                        [
+                            tlp:text "SSMC" ;
+                            tlp:url <http://en.wikipedia.org/wiki/SSMC>
+                        ] ,
+                        [
+                            tlp:text "joint venture" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Joint_venture>
+                        ] ,
+                        [
+                            tlp:text "NXP Semiconductors" ;
+                            tlp:url <http://en.wikipedia.org/wiki/NXP_Semiconductors>
+                        ] ,
+                        [
+                            tlp:text "Singapore" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Singapore>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 4 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "One 150 mm (6 inch) wafer fab in full operation in Taiwan: Fab 2 (Hsinchu)"
+                ]
+        ] ,
+        [
+            tlp:index 5 ;
+            tlp:indexList ( 5 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Facilities" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 5 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Fab 18,  300 mm (12 inch) (Tainan), phase 1 equipment installation completed in March 2019"
+                ]
+        ] ,
+        [
+            tlp:index 6 ;
+            tlp:indexList ( 6 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label "Yearly revenues in million NT$" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
+            tlp:dimension 2 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 6 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1997" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "43,927"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2007" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "322,631"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 6 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2017" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 6 1 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "977,477"
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 6 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1998" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "50,422"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2008" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "333,158"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 6 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2018" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 6 2 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1,031,474"
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 6 3 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 3 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "1999" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 3 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "73,067"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 3 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2009" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 3 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "295,742"
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 6 4 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 4 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2000" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 4 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "166,189"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 4 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2010" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 4 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "419,538"
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 6 5 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 5 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2001" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 5 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "125,881"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 5 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2011" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 5 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "427,081"
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 6 6 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 6 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2002" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 6 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "162,301"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 6 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2012" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 6 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "506,754"
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 6 7 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 7 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2003" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 7 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "202,997"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 7 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2013" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 7 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "597,024"
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 6 8 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 8 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2004" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 8 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "257,213"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 8 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2014" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 8 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "762,806"
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 6 9 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 9 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2005" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 9 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "266,565"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 9 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2015" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 9 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "843,497"
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 6 10 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 6 10 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2006" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 6 10 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "317,407"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 6 10 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2016" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 6 10 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "947,938"
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 7 ;
+            tlp:indexList ( 7 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label "Quarterly revenues in million NT$" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
+            tlp:dimension 2 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 7 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 7 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Year" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 7 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2012" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 7 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2013" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 7 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2014" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 7 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2015" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 7 1 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2016" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 7 1 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2017" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 7 1 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2018" ;
+                            tlp:style tlp:Emphasize
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 7 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 7 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Q1" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 7 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "105,615"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 7 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "132,755"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 7 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "148,215"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 7 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "222,034"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 7 2 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "203,495"
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 7 2 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "233,914"
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 7 2 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "248,079"
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 7 3 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 7 3 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Q2" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 7 3 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "128,186"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 7 3 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "155,886"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 7 3 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "183,020"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 7 3 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "205,440"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 7 3 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "221,810"
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 7 3 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "213,855"
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 7 3 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "233,276"
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 7 4 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 7 4 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Q3" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 7 4 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "141,499"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 7 4 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "162,577"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 7 4 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "209,050"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 7 4 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "212,505"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 7 4 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "260,406"
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 7 4 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "252,107"
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 7 4 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "260,348"
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 7 5 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 7 5 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Q4" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 7 5 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "131,445"
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 7 5 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "145,806"
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 7 5 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "222,520"
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 7 5 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "203,518"
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 7 5 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "262,227"
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 7 5 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "277,570"
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 7 5 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "289,771"
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 8 ;
+            tlp:indexList ( 8 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "See also" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 8 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "5 nanometer" ;
+                    tlp:link
+                        [
+                            tlp:text "5 nanometer" ;
+                            tlp:url <http://en.wikipedia.org/wiki/5_nanometer>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 8 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "List of companies in Taiwan" ;
+                    tlp:link
+                        [
+                            tlp:text "List of companies in Taiwan" ;
+                            tlp:url <http://en.wikipedia.org/wiki/List_of_companies_in_Taiwan>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 8 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "List of semiconductor fabrication plants" ;
+                    tlp:link
+                        [
+                            tlp:text "List of semiconductor fabrication plants" ;
+                            tlp:url <http://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 8 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Moore's law" ;
+                    tlp:link
+                        [
+                            tlp:text "Moore's law" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Moore%27s_law>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 8 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Pure-play semiconductor foundry" ;
+                    tlp:link
+                        [
+                            tlp:text "Pure-play semiconductor foundry" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Pure-play_semiconductor_foundry>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 8 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Quantum tunnelling" ;
+                    tlp:link
+                        [
+                            tlp:text "Quantum tunnelling" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Quantum_tunnelling>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 8 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Semiconductor device fabrication" ;
+                    tlp:link
+                        [
+                            tlp:text "Semiconductor device fabrication" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Semiconductor_device_fabrication>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 8 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "United Microelectronics Corporation" ;
+                    tlp:link
+                        [
+                            tlp:text "United Microelectronics Corporation" ;
+                            tlp:url <http://en.wikipedia.org/wiki/United_Microelectronics_Corporation>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 8 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Very-large-scale integration" ;
+                    tlp:link
+                        [
+                            tlp:text "Very-large-scale integration" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Very-large-scale_integration>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 8 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "North South divide in Taiwan § Attractiveness" ;
+                    tlp:link
+                        [
+                            tlp:text "North South divide in Taiwan § Attractiveness" ;
+                            tlp:url <http://en.wikipedia.org/wiki/North%E2%80%93South_divide_in_Taiwan#Attractiveness>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 9 ;
+            tlp:indexList ( 9 0 ) ;
+            tlp:style tlp:Enumerate ;
+            tlp:dimension 1 ;
+            rdfs:label "References" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 9 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC 2018 Annual Report Website". www.tsmc.com.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC 2018 Annual Report Website"""" ;
+                            tlp:url <https://www.tsmc.com/download/ir/annualReports/2018/english/index.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 9 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". TSMC. Retrieved 19 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <http://www.tsmc.com>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 9 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Advanced Technology Key to Strong Foundry Revenue per Wafer". IC Insights. 12 October 2018. Retrieved 14 July 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Advanced Technology Key to Strong Foundry Revenue per Wafer"""" ;
+                            tlp:url <http://www.icinsights.com/news/bulletins/advanced-technology-key-to-strong-foundry-revenue-per-wafer/>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 9 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor: My Top Semiconductor Pick For 2020", Seeking Alpha""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor: My Top Semiconductor Pick For 2020"""" ;
+                            tlp:url <https://seekingalpha.com/article/4316247-taiwan-semiconductor-top-semiconductor-pick-for-2020>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 9 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That's Good News for Chip Stocks.", Barron's""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That's Good News for Chip Stocks."""" ;
+                            tlp:url <https://www.barrons.com/articles/taiwan-semiconductor-tsmc-capex-budget-semiconductor-equipment-chip-stocks-51579192516>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 9 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"About TSC: Company Profile". Taiwan Semiconductor. Taiwan Semiconductor was established in 1979 and remains under the direction of its founder and CEO, Arthur Wang. The company has grown from its beginnings as a local manufacturer, to a global enterprise with 2,000 employees. Taiwan Semiconductor is publicly traded on the Stock Exchange Corporation of Taiwan. Recognized for more than 40 years for its core competence in discrete Power Rectifiers, Taiwan Semiconductor has expanded its product portfolio to include Trench Schottkys,  MOSFETs, Power Transistors, LED Driver ICs, Analog ICs and ESD Protection Devices, and now provides a complete solution from one source.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"About TSC: Company Profile"""" ;
+                            tlp:url <https://www.taiwansemi.com/en/about>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 9 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Co Ltd - Company Profile and News". Bloomberg.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Co Ltd - Company Profile and News"""" ;
+                            tlp:url <https://www.bloomberg.com/profile/company/5425:TT>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 9 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Company Profile". TSMC. Retrieved 20 December 2010.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Company Profile"""" ;
+                            tlp:url <http://www.tsmc.com/english/aboutTSMC/company_profile.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 9 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"D&R Foundry Corner". Design & Reuse. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"D&R Foundry Corner"""" ;
+                            tlp:url <http://www.design-reuse.com/foundry/technology/?prov=20>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 9 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Corporate Executives". TSMC. Retrieved 20 June 2018.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Corporate Executives"""" ;
+                            tlp:url <http://www.tsmc.com/english/aboutTSMC/executives.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 9 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Abrams, Randy (25 November 2013), Asia Semiconductor Sector (Sector Review), Asia Pacific Equity Research, Credit Suisse, pp. 1, 3"
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 9 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Morris Chang on Altera and Intel". SemiWiki. 25 April 2013. Retrieved 23 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Morris Chang on Altera and Intel"""" ;
+                            tlp:url <http://www.semiwiki.com/forum/content/2272-morris-chang-altera-intel.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 9 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Intel Outsourcing Some Atom Manufacturing to TSMC". The Oregonian. 2 March 2009.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Intel Outsourcing Some Atom Manufacturing to TSMC"""" ;
+                            tlp:url <http://www.oregonlive.com/business/index.ssf/2009/03/intel_outsourcing_some_atom_ma.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 9 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"STMicroelectronics envisage la création de deux usines de puces avec l'aide des Etats français et italien". Ousine Nouvelle. 9 October 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"STMicroelectronics envisage la création de deux usines de puces avec l'aide des Etats français et italien"""" ;
+                            tlp:url <https://www.usinenouvelle.com/article/stmicroelectronics-envisage-la-creation-de-deux-usines-de-puces-avec-l-aide-des-etats-francais-et-italien.N597638>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 9 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Lisa Wang (21 December 2010). "TSMC plans to increase research spending". Taipei Times. Retrieved 20 December 2010.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC plans to increase research spending"""" ;
+                            tlp:url <http://www.taipeitimes.com/News/biz/archives/2010/12/21/2003491466>
+                        ]
+                ] ,
+                [
+                    tlp:index 16 ;
+                    tlp:indexList ( 9 16 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC to expand capacity by 30% in 2011". China Knowledge. 8 December 2010. Retrieved 20 December 2010.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC to expand capacity by 30% in 2011"""" ;
+                            tlp:url <http://www.chinaknowledge.com/Newswires/News_Detail.aspx?type=1&cat=CMP&NewsID=%2039307>
+                        ]
+                ] ,
+                [
+                    tlp:index 17 ;
+                    tlp:indexList ( 9 17 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Board of Directors Meeting Resolutions". TSMC. 13 May 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Board of Directors Meeting Resolutions"""" ;
+                            tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=8541&language=E>
+                        ]
+                ] ,
+                [
+                    tlp:index 18 ;
+                    tlp:indexList ( 9 18 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC forecasts 22 percent Q2 growth". Taipei Times. 18 April 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC forecasts 22 percent Q2 growth"""" ;
+                            tlp:url <http://www.taipeitimes.com/News/biz/archives/2014/04/18/2003588265>
+                        ]
+                ] ,
+                [
+                    tlp:index 19 ;
+                    tlp:indexList ( 9 19 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Board of Directors Meeting Resolutions". TSMC. 12 August 2014. Retrieved 16 August 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Board of Directors Meeting Resolutions"""" ;
+                            tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsArchivesAction.do?action=detail&newsid=8701&language=E>
+                        ]
+                ] ,
+                [
+                    tlp:index 20 ;
+                    tlp:indexList ( 9 20 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Kicks Off A6 Processor Trial Production with Apple". Chinese Economic News Service. 12 August 2011. Archived from the original on 27 September 2011. Retrieved 13 September 2011.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Kicks Off A6 Processor Trial Production with Apple"""" ;
+                            tlp:url <https://web.archive.org/web/20110927000244/http://cens.com/cens/html/en/news/news_inner_37282.html>
+                        ] ,
+                        [
+                            tlp:text "the original" ;
+                            tlp:url <http://cens.com/cens/html/en/news/news_inner_37282.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 21 ;
+                    tlp:indexList ( 9 21 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Beginning Production Of Apple's New A6 Processor". Techcrunch. 12 August 2011. Retrieved 13 September 2011.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Beginning Production Of Apple's New A6 Processor"""" ;
+                            tlp:url <https://techcrunch.com/2011/08/12/tsmc-beginning-production-of-apples-new-a6-processor/>
+                        ]
+                ] ,
+                [
+                    tlp:index 22 ;
+                    tlp:indexList ( 9 22 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Apple begins receiving shipments of A-series processors from TSMC - report". AppleInsider. 10 July 2014. Retrieved 2 November 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Apple begins receiving shipments of A-series processors from TSMC - report"""" ;
+                            tlp:url <http://appleinsider.com/articles/14/07/10/apple-begins-receiving-shipments-of-a-series-processors-from-tsmc---report>
+                        ]
+                ] ,
+                [
+                    tlp:index 23 ;
+                    tlp:indexList ( 9 23 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC to Snatch All of Apple's A8 chip Orders?". TechNews. 17 February 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC to Snatch All of Apple's A8 chip Orders?"""" ;
+                            tlp:url <http://technews.co/2014/02/17/tsmc-to-snatch-all-of-apples-a8-chip-orders/>
+                        ]
+                ] ,
+                [
+                    tlp:index 24 ;
+                    tlp:indexList ( 9 24 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Apple driving move to 64-bit mobile processors, TSMC says". CNET. 17 April 2014. Retrieved 23 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Apple driving move to 64-bit mobile processors, TSMC says"""" ;
+                            tlp:url <https://www.cnet.com/news/apple-driving-move-to-64-bit-mobile-processors-says-tsmc/>
+                        ]
+                ] ,
+                [
+                    tlp:index 25 ;
+                    tlp:indexList ( 9 25 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Apple chips to be 20% of TSMC sales". Taipei Times. 15 April 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Apple chips to be 20% of TSMC sales"""" ;
+                            tlp:url <http://www.taipeitimes.com/News/biz/archives/2014/04/15/2003588037>
+                        ]
+                ] ,
+                [
+                    tlp:index 26 ;
+                    tlp:indexList ( 9 26 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Market capitalization of TSMC reaches a historic high: CEO". AsiaOne Business. 21 December 2010. Retrieved 20 December 2010.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Market capitalization of TSMC reaches a historic high: CEO"""" ;
+                            tlp:url <http://business.asiaone.com/Business/News/Story/A1Story20101221-253866.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 27 ;
+                    tlp:indexList ( 9 27 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"FT 500 2013". Financial Times. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"FT 500 2013"""" ;
+                            tlp:url <https://www.ft.com/intl/indepth/ft500>
+                        ]
+                ] ,
+                [
+                    tlp:index 28 ;
+                    tlp:indexList ( 9 28 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSM". Yahoo! Finance. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSM"""" ;
+                            tlp:url <https://finance.yahoo.com/q?s=tsm&ql=1>
+                        ]
+                ] ,
+                [
+                    tlp:index 29 ;
+                    tlp:indexList ( 9 29 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Culpan, Tim (22 March 2017). "Chipzilla Got Toppled". Bloomberg Gadfly. Retrieved 22 March 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Chipzilla Got Toppled"""" ;
+                            tlp:url <https://www.bloomberg.com/gadfly/articles/2017-03-22/chipzilla-intel-toppled-by-taiwan-s-supplier-to-the-stars>
+                        ]
+                ] ,
+                [
+                    tlp:index 30 ;
+                    tlp:indexList ( 9 30 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """eric.millington (26 August 2019). "GLOBALFOUNDRIES Files Patent Infringement Lawsuits Against TSMC In the U.S. and Germany". GLOBALFOUNDRIES. Retrieved 28 August 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"GLOBALFOUNDRIES Files Patent Infringement Lawsuits Against TSMC In the U.S. and Germany"""" ;
+                            tlp:url <https://www.globalfoundries.com/news-events/press-releases/globalfoundries-files-patent-infringement-lawsuits-against-tsmc-us-and>
+                        ]
+                ] ,
+                [
+                    tlp:index 31 ;
+                    tlp:indexList ( 9 31 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Media Fact Sheet" (PDF). GlobalFoundries. 25 August 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Media Fact Sheet"""" ;
+                            tlp:url <https://www.globalfoundries.com/sites/default/files/media_fact_sheet.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 32 ;
+                    tlp:indexList ( 9 32 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Will Vigorously Defend its Proprietary Technology in Response to GlobalFoundries Complaints". www.tsmc.com. Retrieved 28 August 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Will Vigorously Defend its Proprietary Technology in Response to GlobalFoundries Complaints"""" ;
+                            tlp:url <https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THPGSTTHTH>
+                        ]
+                ] ,
+                [
+                    tlp:index 33 ;
+                    tlp:indexList ( 9 33 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Files Complaints Against GlobalFoundries in U.S., Germany and Singapore for Infringement of 25 Patents to Affirm its Technology Leadership and to Protect Its Customers and Consumers Worldwide". www.tsmc.com. Retrieved 2 October 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Files Complaints Against GlobalFoundries in U.S., Germany and Singapore for Infringement of 25 Patents to Affirm its Technology Leadership and to Protect Its Customers and Consumers Worldwide"""" ;
+                            tlp:url <https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=THGOSTTHTH>
+                        ]
+                ] ,
+                [
+                    tlp:index 34 ;
+                    tlp:indexList ( 9 34 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC and GLOBALFOUNDRIES Announce Resolution of Global Disputes Through Broad Global Patent Cross-License". www.tsmc.com. Retrieved 29 October 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC and GLOBALFOUNDRIES Announce Resolution of Global Disputes Through Broad Global Patent Cross-License"""" ;
+                            tlp:url <https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THHKHIPGTH>
+                        ]
+                ] ,
+                [
+                    tlp:index 35 ;
+                    tlp:indexList ( 9 35 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """eric.millington (28 October 2019). "GLOBALFOUNDRIES and TSMC Announce Resolution of Global Disputes Through Broad Global Patent Cross-License". GLOBALFOUNDRIES. Retrieved 30 October 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"GLOBALFOUNDRIES and TSMC Announce Resolution of Global Disputes Through Broad Global Patent Cross-License"""" ;
+                            tlp:url <https://www.globalfoundries.com/news-events/press-releases/globalfoundries-and-tsmc-announce-resolution-global-disputes-through>
+                        ]
+                ] ,
+                [
+                    tlp:index 36 ;
+                    tlp:indexList ( 9 36 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """McGregor, Jim. "Globalfoundries Files Suit Against TSMC – The Outcome Could Have Broad Consequences". Forbes.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Globalfoundries Files Suit Against TSMC – The Outcome Could Have Broad Consequences"""" ;
+                            tlp:url <https://www.forbes.com/sites/tiriasresearch/2019/09/11/globalfoundries-files-suit-against-tsmc--the-outcome-could-have-broad-consequences/>
+                        ]
+                ] ,
+                [
+                    tlp:index 37 ;
+                    tlp:indexList ( 9 37 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC counter-sues US chip rival GlobalFoundries for patent infringement" – via mobile.reuters.com.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC counter-sues US chip rival GlobalFoundries for patent infringement"""" ;
+                            tlp:url <https://www.reuters.com/article/db-tsmc-globalfoundries-lawsuit-test-idUSKBN1WG3B5>
+                        ]
+                ] ,
+                [
+                    tlp:index 38 ;
+                    tlp:indexList ( 9 38 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC accuses GlobalFoundries of infringing 25 patents for node processes | ZDNet". www.zdnet.com.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC accuses GlobalFoundries of infringing 25 patents for node processes | ZDNet"""" ;
+                            tlp:url <https://www.zdnet.com/google-amp/article/tsmc-accuses-globalfoundries-of-infringing-25-patents-for-node-processes/>
+                        ]
+                ] ,
+                [
+                    tlp:index 39 ;
+                    tlp:indexList ( 9 39 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/40nm.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 40 ;
+                    tlp:indexList ( 9 40 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"SemiWiki.com - TSMC Unleashes Aggressive 28nm Strategy!". Retrieved 16 January 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"SemiWiki.com - TSMC Unleashes Aggressive 28nm Strategy!"""" ;
+                            tlp:url <https://www.semiwiki.com/forum/content/4530-tsmc-unleashes-aggressive-28nm-strategy.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 41 ;
+                    tlp:indexList ( 9 41 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/22nm.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 42 ;
+                    tlp:indexList ( 9 42 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/20nm.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 43 ;
+                    tlp:indexList ( 9 43 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/16nm.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 44 ;
+                    tlp:indexList ( 9 44 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Report: TSMC to relabel process as 12nm". eeNews Analog. 29 November 2016. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Report: TSMC to relabel process as 12nm"""" ;
+                            tlp:url <https://www.eenewsanalog.com/news/report-tsmc-relabel-process-12nm>
+                        ]
+                ] ,
+                [
+                    tlp:index 45 ;
+                    tlp:indexList ( 9 45 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/10nm.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 46 ;
+                    tlp:indexList ( 9 46 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/7nm.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 47 ;
+                    tlp:indexList ( 9 47 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited" (PDF). Retrieved 16 April 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <https://www.tsmc.com/uploadfile/pr/newspdf/THWQWQTHTH/NEWS_FILE_EN.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 48 ;
+                    tlp:indexList ( 9 48 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Taiwan Semiconductor Manufacturing Company Limited". Retrieved 16 January 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Taiwan Semiconductor Manufacturing Company Limited"""" ;
+                            tlp:url <http://www.tsmc.com/english/dedicatedFoundry/technology/advanced_12inch_technology.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 49 ;
+                    tlp:indexList ( 9 49 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Fab Locations". TSMC. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Fab Locations"""" ;
+                            tlp:url <http://www.tsmc.com/english/dedicatedFoundry/manufacturing/locations.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 50 ;
+                    tlp:indexList ( 9 50 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Business Contacts". TSMC. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Business Contacts"""" ;
+                            tlp:url <http://www.tsmc.com/english/aboutTSMC/business_contacts.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 51 ;
+                    tlp:indexList ( 9 51 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"UPDATE 1-TSMC says plans $9.4 bln Taiwan plant". Reuters. 16 July 2010. Retrieved 16 July 2010.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"UPDATE 1-TSMC says plans $9.4 bln Taiwan plant"""" ;
+                            tlp:url <https://www.reuters.com/article/idUSTOE66F03G20100716>
+                        ]
+                ] ,
+                [
+                    tlp:index 52 ;
+                    tlp:indexList ( 9 52 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Analyst Warns Of Semiconductor Monopoly". Information Week. 21 July 2010. Retrieved 22 July 2010.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Analyst Warns Of Semiconductor Monopoly"""" ;
+                            tlp:url <http://www.informationweek.com/news/smb/hardware_software/showArticle.jhtml?articleID=226100063&subSection=Processors>
+                        ]
+                ] ,
+                [
+                    tlp:index 53 ;
+                    tlp:indexList ( 9 53 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC increases 28nm output". fudzilla. 7 December 2012. Retrieved 19 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC increases 28nm output"""" ;
+                            tlp:url <http://fudzilla.com/home/item/29751-tsmc-increases-28nm-output>
+                        ]
+                ] ,
+                [
+                    tlp:index 54 ;
+                    tlp:indexList ( 9 54 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Acquires PSC Land for New Fab Construction". Taiwan Economic News. 13 January 2011. Archived from the original on 24 July 2011. Retrieved 13 January 2011.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Acquires PSC Land for New Fab Construction"""" ;
+                            tlp:url <https://web.archive.org/web/20110724033015/http://news.cens.com/cens/html/en/news/news_inner_35080.html>
+                        ] ,
+                        [
+                            tlp:text "the original" ;
+                            tlp:url <http://news.cens.com/cens/html/en/news/news_inner_35080.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 55 ;
+                    tlp:indexList ( 9 55 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Company News; Chip maker is buying out three WaferTech partners". The New York Times. 15 December 2000. Retrieved 22 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Company News; Chip maker is buying out three WaferTech partners"""" ;
+                            tlp:url <https://query.nytimes.com/gst/fullpage.html?res=9804EFDB163EF936A25751C1A9669C8B63&n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fM%2fMergers%2c%20Acquisitions%20and%20Divestitures>
+                        ]
+                ] ,
+                [
+                    tlp:index 56 ;
+                    tlp:indexList ( 9 56 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC". DigiTimes Finance. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC"""" ;
+                            tlp:url <http://www.digitimes.com/finance/company.asp?cid=32>
+                        ]
+                ] ,
+                [
+                    tlp:index 57 ;
+                    tlp:indexList ( 9 57 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Quarterly Results". TSMC.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Quarterly Results"""" ;
+                            tlp:url <http://www.tsmc.com/english/investorRelations/quarterly_results.htm>
+                        ]
+                ] ,
+                [
+                    tlp:index 58 ;
+                    tlp:indexList ( 9 58 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Mobile chips are driving strong demand for TSMC's manufacturing services". Morningstar. 9 May 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Mobile chips are driving strong demand for TSMC's manufacturing services"""" ;
+                            tlp:url <http://analysisreport.morningstar.com/stock/research?t=TSM&culture=en-US&cur=USD&productcode=MLE>
+                        ]
+                ] ,
+                [
+                    tlp:index 59 ;
+                    tlp:indexList ( 9 59 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Smartphones, 28nm Tech Drive TSMC 1Q Revenue". EE Times. 17 April 2014. Retrieved 23 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Smartphones, 28nm Tech Drive TSMC 1Q Revenue"""" ;
+                            tlp:url <http://www.eetimes.com/document.asp?doc_id=1321989>
+                        ]
+                ] ,
+                [
+                    tlp:index 60 ;
+                    tlp:indexList ( 9 60 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Qualcomm pending to add SMIC to 28nm vendor list". SimmTester.com. 14 March 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Qualcomm pending to add SMIC to 28nm vendor list"""" ;
+                            tlp:url <http://www.ddrtester.com/page/news/shownews.asp?num=16016>
+                        ]
+                ] ,
+                [
+                    tlp:index 61 ;
+                    tlp:indexList ( 9 61 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Qualcomm Snapdragon 800 Processor First to Use TSMC's 28HPM Advanced Process Technology". TSMC. 25 February 2013. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Qualcomm Snapdragon 800 Processor First to Use TSMC's 28HPM Advanced Process Technology"""" ;
+                            tlp:url <http://www.prnewswire.com/news-releases/qualcomm-snapdragon-800-processor-first-to-use-tsmcs-28hpm-advanced-process-technology-192959191.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 62 ;
+                    tlp:indexList ( 9 62 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC banking on 28nm shipments". Taipei Times. 6 June 2013. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC banking on 28nm shipments"""" ;
+                            tlp:url <http://www.taipeitimes.com/News/biz/archives/2013/06/06/2003564057>
+                        ]
+                ] ,
+                [
+                    tlp:index 63 ;
+                    tlp:indexList ( 9 63 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"MediaTek adding more 28nm chip orders at TSMC, UMC due to production defects at Globalfoundries". DigiTimes. 6 May 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"MediaTek adding more 28nm chip orders at TSMC, UMC due to production defects at Globalfoundries"""" ;
+                            tlp:url <http://www.digitimes.com/news/a20140506PD212.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 64 ;
+                    tlp:indexList ( 9 64 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Updates 1Q'14 Guidance". Taipei Times. 1 March 2014. Retrieved 18 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Updates 1Q'14 Guidance"""" ;
+                            tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=8381&language=E>
+                        ]
+                ] ,
+                [
+                    tlp:index 65 ;
+                    tlp:indexList ( 9 65 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC Reports Second Quarter EPS of NT$2.30". TSMC. 16 July 2014. Retrieved 16 August 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC Reports Second Quarter EPS of NT$2.30"""" ;
+                            tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsArchivesAction.do?action=detail&newsid=8661&language=E>
+                        ]
+                ] ,
+                [
+                    tlp:index 66 ;
+                    tlp:indexList ( 9 66 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC extends 28nm production lead time to 16 weeks". DigiTimes. 9 May 2014. Retrieved 17 May 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC extends 28nm production lead time to 16 weeks"""" ;
+                            tlp:url <http://www.digitimes.com/news/a20140509PD207.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 67 ;
+                    tlp:indexList ( 9 67 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC 4Q14 production capacity almost fully booked". DigiTimes. 14 August 2014. Retrieved 16 August 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC 4Q14 production capacity almost fully booked"""" ;
+                            tlp:url <http://www.digitimes.com/news/a20140814PD214.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 68 ;
+                    tlp:indexList ( 9 68 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"TSMC revenue shrinks as clients adjust inventories". Taipei Times. 11 December 2014. Retrieved 6 January 2015.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"TSMC revenue shrinks as clients adjust inventories"""" ;
+                            tlp:url <http://www.taipeitimes.com/News/biz/archives/2014/12/11/2003606440>
+                        ]
+                ] ,
+                [
+                    tlp:index 69 ;
+                    tlp:indexList ( 9 69 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"ARM Partnered With TSMC For 10nm FinFET Processors". GSM Insider. Archived from the original on 13 October 2014. Retrieved 8 October 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"ARM Partnered With TSMC For 10nm FinFET Processors"""" ;
+                            tlp:url <https://web.archive.org/web/20141013181149/http://gsminsider.com/2014/10/arm-partnered-tsmc-10nm-finfet-processors/>
+                        ] ,
+                        [
+                            tlp:text "the original" ;
+                            tlp:url <http://gsminsider.com/2014/10/arm-partnered-tsmc-10nm-finfet-processors/>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 10 ;
+            tlp:indexList ( 10 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "External links" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 10 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Official website" ;
+                    tlp:link
+                        [
+                            tlp:text "Official website" ;
+                            tlp:url <http://www.tsmc.com>
+                        ] ,
+                        [
+                            tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png> ;
+                            tlp:url <https://www.wikidata.org/wiki/Q713418#P856>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 11 ;
+            tlp:indexList ( 11 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "External links" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 11 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Taiwanese companies established in 1987" ;
+                    tlp:link
+                        [
+                            tlp:text "Taiwanese companies established in 1987" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Taiwanese_companies_established_in_1987>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 11 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Manufacturing companies based in Hsinchu" ;
+                    tlp:link
+                        [
+                            tlp:text "Manufacturing companies based in Hsinchu" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Manufacturing_companies_based_in_Hsinchu>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 11 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Companies listed on the New York Stock Exchange" ;
+                    tlp:link
+                        [
+                            tlp:text "Companies listed on the New York Stock Exchange" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 11 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Companies listed on the Taiwan Stock Exchange" ;
+                    tlp:link
+                        [
+                            tlp:text "Companies listed on the Taiwan Stock Exchange" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Taiwan_Stock_Exchange>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 11 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Electronics companies of Taiwan" ;
+                    tlp:link
+                        [
+                            tlp:text "Electronics companies of Taiwan" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Electronics_companies_of_Taiwan>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 11 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Semiconductor companies of Taiwan" ;
+                    tlp:link
+                        [
+                            tlp:text "Semiconductor companies of Taiwan" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Semiconductor_companies_of_Taiwan>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 11 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Foundry semiconductor companies" ;
+                    tlp:link
+                        [
+                            tlp:text "Foundry semiconductor companies" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Foundry_semiconductor_companies>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 11 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Private equity portfolio companies" ;
+                    tlp:link
+                        [
+                            tlp:text "Private equity portfolio companies" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Private_equity_portfolio_companies>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 11 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Taiwanese brands" ;
+                    tlp:link
+                        [
+                            tlp:text "Taiwanese brands" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Taiwanese_brands>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 11 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Technology companies of Taiwan" ;
+                    tlp:link
+                        [
+                            tlp:text "Technology companies of Taiwan" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Technology_companies_of_Taiwan>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 12 ;
+            tlp:indexList ( 12 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "External links" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 12 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "EngvarB from August 2016" ;
+                    tlp:link
+                        [
+                            tlp:text "EngvarB from August 2016" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:EngvarB_from_August_2016>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 12 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Use dmy dates from August 2016" ;
+                    tlp:link
+                        [
+                            tlp:text "Use dmy dates from August 2016" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2016>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 12 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Pages using deprecated image syntax" ;
+                    tlp:link
+                        [
+                            tlp:text "Pages using deprecated image syntax" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 12 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles containing Chinese-language text" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles containing Chinese-language text" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 12 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles containing traditional Chinese-language text" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles containing traditional Chinese-language text" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_traditional_Chinese-language_text>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 12 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All articles with unsourced statements" ;
+                    tlp:link
+                        [
+                            tlp:text "All articles with unsourced statements" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 12 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles with unsourced statements from May 2014" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles with unsourced statements from May 2014" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_May_2014>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 12 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Commons category link from Wikidata" ;
+                    tlp:link
+                        [
+                            tlp:text "Commons category link from Wikidata" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 13 ;
+            tlp:indexList ( 13 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Tools" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 13 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "What links here" ;
+                    tlp:link
+                        [
+                            tlp:text "What links here" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 13 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Related changes" ;
+                    tlp:link
+                        [
+                            tlp:text "Related changes" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 13 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Upload file" ;
+                    tlp:link
+                        [
+                            tlp:text "Upload file" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 13 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Special pages" ;
+                    tlp:link
+                        [
+                            tlp:text "Special pages" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 13 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Permanent link" ;
+                    tlp:link
+                        [
+                            tlp:text "Permanent link" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=TSMC&oldid=946609630>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 13 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Page information" ;
+                    tlp:link
+                        [
+                            tlp:text "Page information" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=TSMC&action=info>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 13 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikidata item" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikidata item" ;
+                            tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q713418>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 13 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Cite this page" ;
+                    tlp:link
+                        [
+                            tlp:text "Cite this page" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=TSMC&id=946609630&wpFormIdentifier=titleform>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 14 ;
+            tlp:indexList ( 14 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "In other projects" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 14 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikimedia Commons" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikimedia Commons" ;
+                            tlp:url <https://commons.wikimedia.org/wiki/Category:TSMC>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 15 ;
+            tlp:indexList ( 15 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Print/export" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 15 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Create a book" ;
+                    tlp:link
+                        [
+                            tlp:text "Create a book" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 15 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Download as PDF" ;
+                    tlp:link
+                        [
+                            tlp:text "Download as PDF" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=TSMC&action=show-download-screen>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 15 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Printable version" ;
+                    tlp:link
+                        [
+                            tlp:text "Printable version" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=TSMC&printable=yes>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 16 ;
+            tlp:indexList ( 16 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Languages" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 16 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "العربية" ;
+                    tlp:link
+                        [
+                            tlp:text "العربية" ;
+                            tlp:url <https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9_%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86_%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A3%D8%B4%D8%A8%D8%A7%D9%87_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 16 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "تۆرکجه" ;
+                    tlp:link
+                        [
+                            tlp:text "تۆرکجه" ;
+                            tlp:url <https://azb.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 16 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bân-lâm-gú" ;
+                    tlp:link
+                        [
+                            tlp:text "Bân-lâm-gú" ;
+                            tlp:url <https://zh-min-nan.wikipedia.org/wiki/T%C3%A2i-o%C3%A2n_Chek-th%C3%A9_Ti%C4%81n-l%C5%8D%CD%98_Ch%C3%A8-ch%C5%8D>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 16 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Català" ;
+                    tlp:link
+                        [
+                            tlp:text "Català" ;
+                            tlp:url <https://ca.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 16 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Čeština" ;
+                    tlp:link
+                        [
+                            tlp:text "Čeština" ;
+                            tlp:url <https://cs.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 16 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Deutsch" ;
+                    tlp:link
+                        [
+                            tlp:text "Deutsch" ;
+                            tlp:url <https://de.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 16 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Español" ;
+                    tlp:link
+                        [
+                            tlp:text "Español" ;
+                            tlp:url <https://es.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 16 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "فارسی" ;
+                    tlp:link
+                        [
+                            tlp:text "فارسی" ;
+                            tlp:url <https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 16 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Français" ;
+                    tlp:link
+                        [
+                            tlp:text "Français" ;
+                            tlp:url <https://fr.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 16 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "한국어" ;
+                    tlp:link
+                        [
+                            tlp:text "한국어" ;
+                            tlp:url <https://ko.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 16 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bahasa Indonesia" ;
+                    tlp:link
+                        [
+                            tlp:text "Bahasa Indonesia" ;
+                            tlp:url <https://id.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 16 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Italiano" ;
+                    tlp:link
+                        [
+                            tlp:text "Italiano" ;
+                            tlp:url <https://it.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 16 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "עברית" ;
+                    tlp:link
+                        [
+                            tlp:text "עברית" ;
+                            tlp:url <https://he.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 16 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bahasa Melayu" ;
+                    tlp:link
+                        [
+                            tlp:text "Bahasa Melayu" ;
+                            tlp:url <https://ms.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 16 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "မြန်မာဘာသာ" ;
+                    tlp:link
+                        [
+                            tlp:text "မြန်မာဘာသာ" ;
+                            tlp:url <https://my.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 16 ;
+                    tlp:indexList ( 16 16 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Nederlands" ;
+                    tlp:link
+                        [
+                            tlp:text "Nederlands" ;
+                            tlp:url <https://nl.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 17 ;
+                    tlp:indexList ( 16 17 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "日本語" ;
+                    tlp:link
+                        [
+                            tlp:text "日本語" ;
+                            tlp:url <https://ja.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 18 ;
+                    tlp:indexList ( 16 18 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Polski" ;
+                    tlp:link
+                        [
+                            tlp:text "Polski" ;
+                            tlp:url <https://pl.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 19 ;
+                    tlp:indexList ( 16 19 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Русский" ;
+                    tlp:link
+                        [
+                            tlp:text "Русский" ;
+                            tlp:url <https://ru.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 20 ;
+                    tlp:indexList ( 16 20 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Slovenčina" ;
+                    tlp:link
+                        [
+                            tlp:text "Slovenčina" ;
+                            tlp:url <https://sk.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 21 ;
+                    tlp:indexList ( 16 21 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Svenska" ;
+                    tlp:link
+                        [
+                            tlp:text "Svenska" ;
+                            tlp:url <https://sv.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company_Limited>
+                        ]
+                ] ,
+                [
+                    tlp:index 22 ;
+                    tlp:indexList ( 16 22 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Türkçe" ;
+                    tlp:link
+                        [
+                            tlp:text "Türkçe" ;
+                            tlp:url <https://tr.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 23 ;
+                    tlp:indexList ( 16 23 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Українська" ;
+                    tlp:link
+                        [
+                            tlp:text "Українська" ;
+                            tlp:url <https://uk.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 24 ;
+                    tlp:indexList ( 16 24 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Tiếng Việt" ;
+                    tlp:link
+                        [
+                            tlp:text "Tiếng Việt" ;
+                            tlp:url <https://vi.wikipedia.org/wiki/TSMC>
+                        ]
+                ] ,
+                [
+                    tlp:index 25 ;
+                    tlp:indexList ( 16 25 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "吴语" ;
+                    tlp:link
+                        [
+                            tlp:text "吴语" ;
+                            tlp:url <https://wuu.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E7%A7%AF%E4%BD%93%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0>
+                        ]
+                ] ,
+                [
+                    tlp:index 26 ;
+                    tlp:indexList ( 16 26 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "中文" ;
+                    tlp:link
+                        [
+                            tlp:text "中文" ;
+                            tlp:url <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+                        ]
+                ]
+        ]
+.

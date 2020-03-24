@@ -8,7 +8,7 @@
     └── Number of Member: 5
         [0, 0] Type: Column
         │      Style: Enumerate
-        └───── Number of Member: 70
+        └───── Number of Member: 71
             [0, 0, 0] Type: Cell
             │         Label: Language
             └──────── Style: Emphasize
@@ -200,25 +200,28 @@
             │          Label: Axum
             └───────── Link: {'text:Axum': 'http://en.wikipedia.org/wiki/Axum_(programming_language)'}
             [0, 0, 64] Type: Cell
+            │          Label: TypeScript
+            └───────── Link: {'text:TypeScript': 'http://en.wikipedia.org/wiki/TypeScript'}
+            [0, 0, 65] Type: Cell
             │          Label: Umple
             └───────── Link: {'text:Umple': 'http://en.wikipedia.org/wiki/Umple'}
-            [0, 0, 65] Type: Cell
+            [0, 0, 66] Type: Cell
             │          Label: TOM (object-oriented programming language)
             └───────── Link: {'text:TOM (object-oriented programming language)': 'http://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language)'}
-            [0, 0, 66] Type: Cell
+            [0, 0, 67] Type: Cell
             │          Label: Telescript
             └───────── Link: {'text:Telescript': 'http://en.wikipedia.org/wiki/Telescript_(programming_language)'}
-            [0, 0, 67] Type: Cell
+            [0, 0, 68] Type: Cell
             │          Label: Fantom
             └───────── Link: {'text:Fantom': 'http://en.wikipedia.org/wiki/Fantom_(programming_language)'}
-            [0, 0, 68] Type: Cell
+            [0, 0, 69] Type: Cell
             │          Label: nesC
             └───────── Link: {'text:nesC': 'http://en.wikipedia.org/wiki/NesC'}
-            [0, 0, 69] Type: Cell
+            [0, 0, 70] Type: Cell
             └───────── Label: HolyC
         [0, 1] Type: Column
         │      Style: Enumerate
-        └───── Number of Member: 70
+        └───── Number of Member: 71
             [0, 1, 0] Type: Cell
             │         Label: Year started
             └──────── Style: Emphasize
@@ -349,20 +352,22 @@
             [0, 1, 63] Type: Cell
             └───────── Label: 2009
             [0, 1, 64] Type: Cell
-            └───────── Label: 2008
+            └───────── Label: 2012
             [0, 1, 65] Type: Cell
-            └───────── Label: 1990s
+            └───────── Label: 2008
             [0, 1, 66] Type: Cell
-            └───────── Label: 1990
+            └───────── Label: 1990s
             [0, 1, 67] Type: Cell
-            └───────── Label: 2005
+            └───────── Label: 1990
             [0, 1, 68] Type: Cell
-            └───────── Label: 
+            └───────── Label: 2005
             [0, 1, 69] Type: Cell
+            └───────── Label: 
+            [0, 1, 70] Type: Cell
             └───────── Label: 2005
         [0, 2] Type: Column
         │      Style: Enumerate
-        └───── Number of Member: 70
+        └───── Number of Member: 71
             [0, 2, 0] Type: Cell
             │         Label: Created by (at)
             └──────── Style: Emphasize
@@ -533,23 +538,26 @@
             │          Label: Microsoft
             └───────── Link: {'text:Microsoft': 'http://en.wikipedia.org/wiki/Microsoft'}
             [0, 2, 64] Type: Cell
+            │          Label: Microsoft
+            └───────── Link: {'text:Microsoft': 'http://en.wikipedia.org/wiki/Microsoft'}
+            [0, 2, 65] Type: Cell
             │          Label: University of Ottawa
             └───────── Link: {'text:University of Ottawa': 'http://en.wikipedia.org/wiki/University_of_Ottawa'}
-            [0, 2, 65] Type: Cell
-            └───────── Label: ?
             [0, 2, 66] Type: Cell
+            └───────── Label: ?
+            [0, 2, 67] Type: Cell
             │          Label: Marc Porat
             └───────── Link: {'text:Marc Porat': 'http://en.wikipedia.org/wiki/Marc_Porat'}
-            [0, 2, 67] Type: Cell
-            └───────── Label: Brian Frank and Andy Frank
             [0, 2, 68] Type: Cell
-            └───────── Label: 
+            └───────── Label: Brian Frank and Andy Frank
             [0, 2, 69] Type: Cell
+            └───────── Label: 
+            [0, 2, 70] Type: Cell
             │          Label: Terry A. Davis
             └───────── Link: {'text:Terry A. Davis': 'http://en.wikipedia.org/wiki/Terry_A._Davis'}
         [0, 3] Type: Column
         │      Style: Enumerate
-        └───── Number of Member: 70
+        └───── Number of Member: 71
             [0, 3, 0] Type: Cell
             │         Label: Comments
             └──────── Style: Emphasize
@@ -700,21 +708,23 @@
             [0, 3, 63] Type: Cell
             └───────── Label: A domain specific concurrent programming language, based on the Actor model.
             [0, 3, 64] Type: Cell
-            └───────── Label: A language for both object-oriented programming and modeling with class diagrams and state diagrams.
+            └───────── Label: Superset of JavaScript.
             [0, 3, 65] Type: Cell
-            └───────── Label: An object-oriented programming language that built on the lessons learned from Objective-C.
+            └───────── Label: A language for both object-oriented programming and modeling with class diagrams and state diagrams.
             [0, 3, 66] Type: Cell
-            └───────── Label: An object-oriented programming language.
+            └───────── Label: An object-oriented programming language that built on the lessons learned from Objective-C.
             [0, 3, 67] Type: Cell
-            └───────── Label: An object-oriented, functional, actor concurrent with a null-able aware type system emphasizing pragmatism in building enterprise systems running on top of the JVM or the CLR or JavaScript.
+            └───────── Label: An object-oriented programming language.
             [0, 3, 68] Type: Cell
-            └───────── Label: nesC (pronounced "NES-see") is an extension to the C programming language designed to embody the structuring concepts and execution model of TinyOS. TinyOS is an event-driven operating system designed for sensor network nodes that have very limited resources.
+            └───────── Label: An object-oriented, functional, actor concurrent with a null-able aware type system emphasizing pragmatism in building enterprise systems running on top of the JVM or the CLR or JavaScript.
             [0, 3, 69] Type: Cell
+            └───────── Label: nesC (pronounced "NES-see") is an extension to the C programming language designed to embody the structuring concepts and execution model of TinyOS. TinyOS is an event-driven operating system designed for sensor network nodes that have very limited resources.
+            [0, 3, 70] Type: Cell
             │          Label: A dialect of C for Terry's own operating system TempleOS. Most notable changes are the argument passing, variable type naming (U8 instead of unsigned char, I32 instead of int and so on), code structure ("There is no main() function.  Any code outside of functions gets executed upon start-up, in order "), switch statement structure and substitution of some parts of the preprocessor like the removal of #define and the use of '$' as the escape character.
             └───────── Link: {'text:TempleOS': 'http://en.wikipedia.org/wiki/TempleOS'}
         [0, 4] Type: Column
         │      Style: Enumerate
-        └───── Number of Member: 70
+        └───── Number of Member: 71
             [0, 4, 0] Type: Cell
             │         Label: References
             └──────── Style: Emphasize
@@ -856,6 +866,8 @@
             └───────── Label: 
             [0, 4, 69] Type: Cell
             └───────── Label: 
+            [0, 4, 70] Type: Cell
+            └───────── Label: 
     [1] Type: List
     │   Label: References
     │   Style: Enumerate
@@ -890,7 +902,7 @@
         └───── Link: {'text:https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md': 'https://github.com/apple/swift-evolution/blob/master/proposals/0038-swiftpm-c-language-targets.md'}
         [1, 9] Type: Item
         │      Label: "Project Fortress: Wiki: Home — Project Kenai". Archived from the original on 2013-01-12. Retrieved 2015-05-11.
-        └───── Link: {'text:"Project Fortress: Wiki: Home — Project Kenai"': 'https://archive.is/20130112202316/http://java.net/projects/projectfortress/pages/Home', 'text:the original': 'https://java.net/projects/projectfortress/pages/Home'}
+        └───── Link: {'text:"Project Fortress: Wiki: Home — Project Kenai"': 'https://archive.today/20130112202316/http://java.net/projects/projectfortress/pages/Home', 'text:the original': 'https://java.net/projects/projectfortress/pages/Home'}
         [1, 10] Type: Item
         │       Label: http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf
         └────── Link: {'text:http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf': 'http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf'}
@@ -904,8 +916,8 @@
         │       Label: GitHub - tinyos/nesc: Master nesc repository., TinyOS, 2019-03-05, retrieved 2019-03-17
         └────── Link: {'text:GitHub - tinyos/nesc: Master nesc repository.': 'https://github.com/tinyos/nesc'}
         [1, 14] Type: Item
-        │       Label: "The Temple Operating System". web.archive.org. 2017-03-25. Retrieved 2019-04-16.
-        └────── Link: {'text:"The Temple Operating System"': 'https://web.archive.org/web/20170325000321/http://www.templeos.org/Wb/Doc/HolyC.html'}
+        │       Label: "The Temple Operating System". 2017-03-25. Archived from the original on 2017-03-25. Retrieved 2019-04-16.
+        └────── Link: {'text:"The Temple Operating System"': 'https://web.archive.org/web/20170325000321/http://www.templeos.org/Wb/Doc/HolyC.html', 'text:the original': 'http://www.templeos.org/Wb/Doc/HolyC.html'}
     [2] Type: List
     │   Label: References
     │   Dimension: 1
@@ -965,7 +977,7 @@
         └───── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
         [4, 4] Type: Item
         │      Label: Permanent link
-        └───── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=943310346'}
+        └───── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&oldid=946832980'}
         [4, 5] Type: Item
         │      Label: Page information
         └───── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=List_of_C-family_programming_languages&action=info'}
@@ -974,7 +986,7 @@
         └───── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q6565327'}
         [4, 7] Type: Item
         │      Label: Cite this page
-        └───── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=943310346'}
+        └───── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_C-family_programming_languages&id=946832980&wpFormIdentifier=titleform'}
     [5] Type: List
     │   Label: Print/export
     │   Dimension: 1

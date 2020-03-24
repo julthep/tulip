@@ -4220,7 +4220,7 @@ Z-M Weapons,
         └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q5156014'}
         [37, 7] Type: Item
         │       Label: Cite this page
-        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Comparison_of_the_AK-47_and_M16&id=935993898'}
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Comparison_of_the_AK-47_and_M16&id=935993898&wpFormIdentifier=titleform'}
     [38] Type: List
     │    Label: Print/export
     │    Dimension: 1

@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:Simulated_reality_in_fiction
-    owl:sameAs dbpedia:Simulated_reality_in_fiction ;
+<http://tlpedia.org/resource/Simulated_reality_in_fiction>
+    owl:sameAs <http://dbpedia.org/resource/Simulated_reality_in_fiction> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Simulated_reality_in_fiction?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:Simulated_reality_in_fiction ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Simulated_reality_in_fiction> ;
     foaf:name "Simulated reality in fiction" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "Simulated reality in fiction" ;
@@ -8016,7 +8016,7 @@ tlpedia:Simulated_reality_in_fiction
                     tlp:link
                         [
                             tlp:text "Cite this page" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Simulated_reality_in_fiction&id=942740114>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Simulated_reality_in_fiction&id=942740114&wpFormIdentifier=titleform>
                         ]
                 ]
         ] ,

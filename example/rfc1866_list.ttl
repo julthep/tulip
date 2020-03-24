@@ -12,116 +12,116 @@
 
 tlpedia:HTML_list_examples_on_Page_28_of_RFC_1866 a tlp:Page ;
     rdfs:label "HTML list examples on Page 28 of RFC 1866" ;
-    tlp:element _:ub85bL19C9,
-        _:ub85bL26C17,
-        _:ub85bL32C17,
-        _:ub85bL40C17,
-        _:ub85bL47C9,
-        _:ub85bL55C17,
-        _:ub85bL61C17,
-        _:ub85bL71C25,
-        _:ub85bL77C25,
-        _:ub85bL84C17 ;
+    tlp:element _:ub346bL19C9,
+        _:ub346bL26C17,
+        _:ub346bL32C17,
+        _:ub346bL40C17,
+        _:ub346bL47C9,
+        _:ub346bL55C17,
+        _:ub346bL61C17,
+        _:ub346bL71C25,
+        _:ub346bL77C25,
+        _:ub346bL84C17 ;
     tlp:indexList ( 0 ) ;
-    tlp:member _:ub85bL19C9,
-        _:ub85bL47C9 ;
+    tlp:member _:ub346bL19C9,
+        _:ub346bL47C9 ;
     owl:sameAs dbpedia:HTML_list_examples_on_Page_28_of_RFC_1866 ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/HTML_list_examples_on_Page_28_of_RFC_1866?oldid=> ;
     foaf:isPrimaryTopicOf wikipedia:HTML_list_examples_on_Page_28_of_RFC_1866 ;
     foaf:name "HTML list examples on Page 28 of RFC 1866" .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b10 rdf:first 1 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b10 rdf:first 1 ;
     rdf:rest ( 3 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b13 rdf:first 2 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b13 rdf:first 2 ;
     rdf:rest ( 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b15 rdf:first 2 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b15 rdf:first 2 ;
     rdf:rest ( 1 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b18 rdf:first 2 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b18 rdf:first 2 ;
     rdf:rest ( 2 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b2 rdf:first 1 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b2 rdf:first 1 ;
     rdf:rest ( 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b21 rdf:first 2 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b21 rdf:first 2 ;
     rdf:rest ( 2 1 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b25 rdf:first 2 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b25 rdf:first 2 ;
     rdf:rest ( 2 2 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b29 rdf:first 2 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b29 rdf:first 2 ;
     rdf:rest ( 3 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b4 rdf:first 1 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b4 rdf:first 1 ;
     rdf:rest ( 1 0 ) .
 
-_:fd397dd07c8cb456ebd8b6d3e0e222b45b7 rdf:first 1 ;
+_:f0019d93cdd18492aa85d2272f0b505f9b7 rdf:first 1 ;
     rdf:rest ( 2 0 ) .
 
-_:ub85bL19C9 a tlp:List ;
+_:ub346bL19C9 a tlp:List ;
     rdfs:label "5.6.1. Unordered List: UL, LI" ;
     tlp:dimension 1 ;
     tlp:index 1 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b2 ;
-    tlp:member _:ub85bL26C17,
-        _:ub85bL32C17,
-        _:ub85bL40C17 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b2 ;
+    tlp:member _:ub346bL26C17,
+        _:ub346bL32C17,
+        _:ub346bL40C17 .
 
-_:ub85bL26C17 a tlp:Item ;
+_:ub346bL26C17 a tlp:Item ;
     rdfs:label "First list item" ;
     tlp:index 1 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b4 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b4 .
 
-_:ub85bL32C17 a tlp:Item ;
+_:ub346bL32C17 a tlp:Item ;
     rdfs:label """Second list item\r
 second paragraph of second item""" ;
     tlp:index 2 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b7 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b7 .
 
-_:ub85bL40C17 a tlp:Item ;
+_:ub346bL40C17 a tlp:Item ;
     rdfs:label "Third list item" ;
     tlp:index 3 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b10 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b10 .
 
-_:ub85bL47C9 a tlp:List ;
+_:ub346bL47C9 a tlp:List ;
     rdfs:label "5.6.2. Ordered List: OL" ;
     tlp:dimension 2 ;
     tlp:index 2 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b13 ;
-    tlp:member _:ub85bL55C17,
-        _:ub85bL61C17,
-        _:ub85bL84C17 ;
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b13 ;
+    tlp:member _:ub346bL55C17,
+        _:ub346bL61C17,
+        _:ub346bL84C17 ;
     tlp:style tlp:Enumerate .
 
-_:ub85bL55C17 a tlp:Item ;
+_:ub346bL55C17 a tlp:Item ;
     rdfs:label "Click the Web button to open URI window." ;
     tlp:index 1 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b15 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b15 .
 
-_:ub85bL61C17 a tlp:Item,
+_:ub346bL61C17 a tlp:Item,
         tlp:List ;
     rdfs:label """Enter the URI number in the text field of the Open URI\r
 window. The Web document you specified is displayed.""" ;
     tlp:index 2 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b18 ;
-    tlp:member _:ub85bL71C25,
-        _:ub85bL77C25 ;
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b18 ;
+    tlp:member _:ub346bL71C25,
+        _:ub346bL77C25 ;
     tlp:style tlp:Enumerate .
 
-_:ub85bL71C25 a tlp:Item ;
+_:ub346bL71C25 a tlp:Item ;
     rdfs:label "substep 1" ;
     tlp:index 1 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b21 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b21 .
 
-_:ub85bL77C25 a tlp:Item ;
+_:ub346bL77C25 a tlp:Item ;
     rdfs:label "substep 2" ;
     tlp:index 2 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b25 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b25 .
 
-_:ub85bL84C17 a tlp:Item ;
+_:ub346bL84C17 a tlp:Item ;
     rdfs:label "Click highlighted text to move from one link to another." ;
     tlp:index 3 ;
-    tlp:indexList _:fd397dd07c8cb456ebd8b6d3e0e222b45b29 .
+    tlp:indexList _:f0019d93cdd18492aa85d2272f0b505f9b29 .
 

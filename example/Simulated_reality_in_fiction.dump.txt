@@ -2224,7 +2224,7 @@
         └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q7521305'}
         [11, 7] Type: Item
         │       Label: Cite this page
-        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Simulated_reality_in_fiction&id=942740114'}
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Simulated_reality_in_fiction&id=942740114&wpFormIdentifier=titleform'}
     [12] Type: List
     │    Label: Print/export
     │    Dimension: 1

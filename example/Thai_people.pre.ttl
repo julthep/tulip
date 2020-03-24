@@ -1,0 +1,3019 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+
+<http://tlpedia.org/resource/Thai_people>
+    owl:sameAs <http://dbpedia.org/resource/Thai_people> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Thai_people?oldid=> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Thai_people> ;
+    foaf:name "Thai people" ;
+    tlp:indexList ( 0 ) ;
+    rdfs:label "Thai people" ;
+    rdf:type tlp:Page ;
+    tlp:member
+        [
+            tlp:index 1 ;
+            tlp:indexList ( 1 0 ) ;
+            rdf:type tlp:Table ;
+            rdfs:label """Thai
+ไทยสยาม""" ;
+            tlp:style tlp:Enumerate ;
+            tlp:style tlp:ColMajor ;
+            tlp:dimension 2 ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 1 1 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 1 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thai people at a cremation ceremony Wat Chedi Luang in Chiang Mai" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chan_Kusalo_cremation_15.jpg/250px-Chan_Kusalo_cremation_15.jpg> ;
+                                    tlp:url <http://en.wikipedia.org/wiki/File:Chan_Kusalo_cremation_15.jpg>
+                                ] ,
+                                [
+                                    tlp:text "Wat Chedi Luang" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Wat_Chedi_Luang>
+                                ] ,
+                                [
+                                    tlp:text "Chiang Mai" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Chiang_Mai>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 1 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Total population" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 1 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "c. 52–59 million" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 1 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Regions with significant populations" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 1 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thailand c. 51–57.8 million" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Thailand" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thailand>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 1 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thai diaspora" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Thai diaspora" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thai_diaspora>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 1 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "United States" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "United States" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/United_States>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 1 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "South Korea" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "South Korea" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/South_Korea>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 1 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Australia" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Australia" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Australia>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 1 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Taiwan" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Taiwan" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Taiwan>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 1 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Germany" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Germany" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Germany>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 1 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Malaysia" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Malaysia" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Malaysia>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 1 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Japan" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Japan" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Japan>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 1 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Singapore" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Singapore" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Singapore>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 1 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "United Kingdom" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "United Kingdom" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/United_Kingdom>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 1 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Sweden" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Sweden" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Sweden>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 1 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "France" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "France" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/France>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 1 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Israel" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Israel" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Israel>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 1 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Libya" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Libya" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Libya>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 1 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Netherlands" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Netherlands" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Netherlands>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 1 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Canada" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Canada" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Canada>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 1 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Norway" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Norway" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Norway>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 1 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Laos" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Laos" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Laos>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 1 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "UAE" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "UAE" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/United_Arab_Emirates>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 1 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Denmark" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Denmark" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Denmark>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 1 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Finland" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Finland" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Finland>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 1 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Hong Kong" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Hong Kong" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Hong_Kong>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 1 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Saudi Arabia" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Saudi Arabia" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Saudi_Arabia>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 1 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Switzerland" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Switzerland" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Switzerland>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 1 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "China" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "China" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/China>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 1 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "New Zealand" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "New Zealand" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/New_Zealand>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 1 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Italy" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Italy" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Italy>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 1 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Brunei" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Brunei" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Brunei>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 1 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Belgium" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Belgium" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Belgium>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 1 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Austria" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Austria" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Austria>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 1 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "India" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "India" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/India>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 1 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "South Africa" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "South Africa" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/South_Africa>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 1 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Qatar" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Qatar" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Qatar>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 1 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Bahrain" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Bahrain" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Bahrain>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 1 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Kuwait" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Kuwait" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Kuwait>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 1 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Egypt" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:link
+                                [
+                                    tlp:text "Egypt" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Egypt>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 1 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Rest of the world" ;
+                            tlp:style tlp:Emphasize
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 1 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Languages" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 1 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Thai
+(Central Thai)""" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Thai" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thai_language>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 1 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Religion" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 1 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Predominantly Theravada Buddhism and Tai folk religion" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Theravada" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Theravada>
+                                ] ,
+                                [
+                                    tlp:text "Buddhism" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Buddhism>
+                                ] ,
+                                [
+                                    tlp:text "Tai folk religion" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Tai_folk_religion>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 1 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Related ethnic groups" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 1 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Other Tai peoples
+(e.g. Lao people, Shan people, Dai people, Ahom people)
+Thai Chinese, Malaysian Siamese""" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Tai peoples" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Tai_peoples>
+                                ] ,
+                                [
+                                    tlp:text "Lao people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lao_people>
+                                ] ,
+                                [
+                                    tlp:text "Shan people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Shan_people>
+                                ] ,
+                                [
+                                    tlp:text "Dai people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Dai_people>
+                                ] ,
+                                [
+                                    tlp:text "Ahom people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ahom_people>
+                                ] ,
+                                [
+                                    tlp:text "Thai Chinese" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thai_Chinese>
+                                ] ,
+                                [
+                                    tlp:text "Malaysian Siamese" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Malaysian_Siamese>
+                                ]
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 1 2 0 ) ;
+                    rdf:type tlp:Column ;
+                    tlp:style tlp:Enumerate ;
+                    tlp:member
+                        [
+                            tlp:index 1 ;
+                            tlp:indexList ( 1 2 1 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thai people at a cremation ceremony Wat Chedi Luang in Chiang Mai" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chan_Kusalo_cremation_15.jpg/250px-Chan_Kusalo_cremation_15.jpg> ;
+                                    tlp:url <http://en.wikipedia.org/wiki/File:Chan_Kusalo_cremation_15.jpg>
+                                ] ,
+                                [
+                                    tlp:text "Wat Chedi Luang" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Wat_Chedi_Luang>
+                                ] ,
+                                [
+                                    tlp:text "Chiang Mai" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Chiang_Mai>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 2 ;
+                            tlp:indexList ( 1 2 2 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Total population" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 3 ;
+                            tlp:indexList ( 1 2 3 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "c. 52–59 million" ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 4 ;
+                            tlp:indexList ( 1 2 4 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Regions with significant populations" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 5 ;
+                            tlp:indexList ( 1 2 5 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Thailand c. 51–57.8 million" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Thailand" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thailand>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 6 ;
+                            tlp:indexList ( 1 2 6 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "c. 1.1 million"
+                        ] ,
+                        [
+                            tlp:index 7 ;
+                            tlp:indexList ( 1 2 7 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "319,794 (2017)"
+                        ] ,
+                        [
+                            tlp:index 8 ;
+                            tlp:indexList ( 1 2 8 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "185,389 (2018)"
+                        ] ,
+                        [
+                            tlp:index 9 ;
+                            tlp:indexList ( 1 2 9 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "79,040 (2018)"
+                        ] ,
+                        [
+                            tlp:index 10 ;
+                            tlp:indexList ( 1 2 10 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "64,922 (2018)"
+                        ] ,
+                        [
+                            tlp:index 11 ;
+                            tlp:indexList ( 1 2 11 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "58,820 (2017)"
+                        ] ,
+                        [
+                            tlp:index 12 ;
+                            tlp:indexList ( 1 2 12 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "51,000–70,000 (2012)"
+                        ] ,
+                        [
+                            tlp:index 13 ;
+                            tlp:indexList ( 1 2 13 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "50,179 (2017)"
+                        ] ,
+                        [
+                            tlp:index 14 ;
+                            tlp:indexList ( 1 2 14 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "47,700 (2012)"
+                        ] ,
+                        [
+                            tlp:index 15 ;
+                            tlp:indexList ( 1 2 15 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "45,000 (2018)"
+                        ] ,
+                        [
+                            tlp:index 16 ;
+                            tlp:indexList ( 1 2 16 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "43,556 (2019)"
+                        ] ,
+                        [
+                            tlp:index 17 ;
+                            tlp:indexList ( 1 2 17 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "30,000 (2012)"
+                        ] ,
+                        [
+                            tlp:index 18 ;
+                            tlp:indexList ( 1 2 18 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "28,000 (2011)"
+                        ] ,
+                        [
+                            tlp:index 19 ;
+                            tlp:indexList ( 1 2 19 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "24,600 (2011)"
+                        ] ,
+                        [
+                            tlp:index 20 ;
+                            tlp:indexList ( 1 2 20 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "20,106 (2017)"
+                        ] ,
+                        [
+                            tlp:index 21 ;
+                            tlp:indexList ( 1 2 21 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "19,010 (2016)"
+                        ] ,
+                        [
+                            tlp:index 22 ;
+                            tlp:indexList ( 1 2 22 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "18,324 (2016)"
+                        ] ,
+                        [
+                            tlp:index 23 ;
+                            tlp:indexList ( 1 2 23 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "15,497 (2015)"
+                        ] ,
+                        [
+                            tlp:index 24 ;
+                            tlp:indexList ( 1 2 24 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "14,232 (2012)"
+                        ] ,
+                        [
+                            tlp:index 25 ;
+                            tlp:indexList ( 1 2 25 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "12,524 (2018)"
+                        ] ,
+                        [
+                            tlp:index 26 ;
+                            tlp:indexList ( 1 2 26 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "11,553"
+                        ] ,
+                        [
+                            tlp:index 27 ;
+                            tlp:indexList ( 1 2 27 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "11,493 (2016)"
+                        ] ,
+                        [
+                            tlp:index 28 ;
+                            tlp:indexList ( 1 2 28 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "11,240 (2012)"
+                        ] ,
+                        [
+                            tlp:index 29 ;
+                            tlp:indexList ( 1 2 29 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "9,058 (2015)"
+                        ] ,
+                        [
+                            tlp:index 30 ;
+                            tlp:indexList ( 1 2 30 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "8,618 (2012)"
+                        ] ,
+                        [
+                            tlp:index 31 ;
+                            tlp:indexList ( 1 2 31 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "8,500 (2012)"
+                        ] ,
+                        [
+                            tlp:index 32 ;
+                            tlp:indexList ( 1 2 32 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "5,766 (2016)"
+                        ] ,
+                        [
+                            tlp:index 33 ;
+                            tlp:indexList ( 1 2 33 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "5,466 (2012)"
+                        ] ,
+                        [
+                            tlp:index 34 ;
+                            tlp:indexList ( 1 2 34 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "3,811 (2012)"
+                        ] ,
+                        [
+                            tlp:index 35 ;
+                            tlp:indexList ( 1 2 35 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "3,773 (2012)"
+                        ] ,
+                        [
+                            tlp:index 36 ;
+                            tlp:indexList ( 1 2 36 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "3,715 (2012)"
+                        ] ,
+                        [
+                            tlp:index 37 ;
+                            tlp:indexList ( 1 2 37 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "3,500 (2012)"
+                        ] ,
+                        [
+                            tlp:index 38 ;
+                            tlp:indexList ( 1 2 38 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2,500 (2012)"
+                        ] ,
+                        [
+                            tlp:index 39 ;
+                            tlp:indexList ( 1 2 39 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2,424 (2012)"
+                        ] ,
+                        [
+                            tlp:index 40 ;
+                            tlp:indexList ( 1 2 40 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2,378 (2012)"
+                        ] ,
+                        [
+                            tlp:index 41 ;
+                            tlp:indexList ( 1 2 41 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "2,331 (2012)"
+                        ] ,
+                        [
+                            tlp:index 42 ;
+                            tlp:indexList ( 1 2 42 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "c. 47,000"
+                        ] ,
+                        [
+                            tlp:index 43 ;
+                            tlp:indexList ( 1 2 43 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Languages" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 44 ;
+                            tlp:indexList ( 1 2 44 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Thai
+(Central Thai)""" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Thai" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thai_language>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 45 ;
+                            tlp:indexList ( 1 2 45 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Religion" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 46 ;
+                            tlp:indexList ( 1 2 46 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Predominantly Theravada Buddhism and Tai folk religion" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Theravada" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Theravada>
+                                ] ,
+                                [
+                                    tlp:text "Buddhism" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Buddhism>
+                                ] ,
+                                [
+                                    tlp:text "Tai folk religion" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Tai_folk_religion>
+                                ]
+                        ] ,
+                        [
+                            tlp:index 47 ;
+                            tlp:indexList ( 1 2 47 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label "Related ethnic groups" ;
+                            tlp:style tlp:Emphasize ;
+                            tlp:style tlp:GrpSpan
+                        ] ,
+                        [
+                            tlp:index 48 ;
+                            tlp:indexList ( 1 2 48 0 ) ;
+                            rdf:type tlp:Cell ;
+                            rdfs:label """Other Tai peoples
+(e.g. Lao people, Shan people, Dai people, Ahom people)
+Thai Chinese, Malaysian Siamese""" ;
+                            tlp:style tlp:GrpSpan ;
+                            tlp:link
+                                [
+                                    tlp:text "Tai peoples" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Tai_peoples>
+                                ] ,
+                                [
+                                    tlp:text "Lao people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Lao_people>
+                                ] ,
+                                [
+                                    tlp:text "Shan people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Shan_people>
+                                ] ,
+                                [
+                                    tlp:text "Dai people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Dai_people>
+                                ] ,
+                                [
+                                    tlp:text "Ahom people" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Ahom_people>
+                                ] ,
+                                [
+                                    tlp:text "Thai Chinese" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Thai_Chinese>
+                                ] ,
+                                [
+                                    tlp:text "Malaysian Siamese" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/Malaysian_Siamese>
+                                ]
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 2 ;
+            tlp:indexList ( 2 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Contents" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 2 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Etymology" ;
+                    tlp:link
+                        [
+                            tlp:text "Etymology" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Etymology>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 2 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "History" ;
+                    tlp:link
+                        [
+                            tlp:text "History" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#History>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 2 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Geography and demographics" ;
+                    tlp:link
+                        [
+                            tlp:text "Geography and demographics" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Geography_and_demographics>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 2 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Culture and society" ;
+                    tlp:link
+                        [
+                            tlp:text "Culture and society" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Culture_and_society>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 2 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Religion" ;
+                    tlp:link
+                        [
+                            tlp:text "Religion" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Religion>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 2 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Craniometry" ;
+                    tlp:link
+                        [
+                            tlp:text "Craniometry" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Craniometry>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 2 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "See also" ;
+                    tlp:link
+                        [
+                            tlp:text "See also" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#See_also>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 2 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Notes" ;
+                    tlp:link
+                        [
+                            tlp:text "Notes" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Notes>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 2 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "References" ;
+                    tlp:link
+                        [
+                            tlp:text "References" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#References>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 2 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bibliography" ;
+                    tlp:link
+                        [
+                            tlp:text "Bibliography" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#Bibliography>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 2 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "External links" ;
+                    tlp:link
+                        [
+                            tlp:text "External links" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_people#External_links>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 3 ;
+            tlp:indexList ( 3 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "See also" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 3 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Ethnic groups in Thailand" ;
+                    tlp:link
+                        [
+                            tlp:text "Ethnic groups in Thailand" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Ethnic_groups_in_Thailand>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 3 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "List of Thai actresses" ;
+                    tlp:link
+                        [
+                            tlp:text "List of Thai actresses" ;
+                            tlp:url <http://en.wikipedia.org/wiki/List_of_Thai_actresses>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 3 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "List of Thai actors" ;
+                    tlp:link
+                        [
+                            tlp:text "List of Thai actors" ;
+                            tlp:url <http://en.wikipedia.org/wiki/List_of_Thai_actors>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 3 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "List of Thai people" ;
+                    tlp:link
+                        [
+                            tlp:text "List of Thai people" ;
+                            tlp:url <http://en.wikipedia.org/wiki/List_of_Thai_people>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 3 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Overseas Thai" ;
+                    tlp:link
+                        [
+                            tlp:text "Overseas Thai" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Overseas_Thai>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 3 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Peopling of Thailand" ;
+                    tlp:link
+                        [
+                            tlp:text "Peopling of Thailand" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Peopling_of_Thailand>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 3 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thai American" ;
+                    tlp:link
+                        [
+                            tlp:text "Thai American" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_American>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 3 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thai British" ;
+                    tlp:link
+                        [
+                            tlp:text "Thai British" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_community_in_the_United_Kingdom>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 3 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thai culture" ;
+                    tlp:link
+                        [
+                            tlp:text "Thai culture" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_culture>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 3 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thai folklore" ;
+                    tlp:link
+                        [
+                            tlp:text "Thai folklore" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_folklore>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 3 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thais in Hong Kong" ;
+                    tlp:link
+                        [
+                            tlp:text "Thais in Hong Kong" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thais_in_Hong_Kong>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 3 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thai marriage" ;
+                    tlp:link
+                        [
+                            tlp:text "Thai marriage" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thai_marriage>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 3 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thailand" ;
+                    tlp:link
+                        [
+                            tlp:text "Thailand" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Thailand>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 4 ;
+            tlp:indexList ( 4 0 ) ;
+            tlp:style tlp:Enumerate ;
+            tlp:dimension 1 ;
+            rdfs:label "Notes" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 4 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "The total figure is merely an estimation; sum of all the referenced populations below."
+                ]
+        ] ,
+        [
+            tlp:index 5 ;
+            tlp:indexList ( 5 0 ) ;
+            tlp:style tlp:Enumerate ;
+            tlp:dimension 1 ;
+            rdfs:label "Notes" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 5 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thai people make up approximately 75–85% population of the country (68 million) if including the Southern Thai and, more controversially, the Northern Thai and Isan people, all of which include significant populations of non Tai-Kadai ethnic groups" ;
+                    tlp:link
+                        [
+                            tlp:text "Southern Thai" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Southern_Thailand>
+                        ] ,
+                        [
+                            tlp:text "Northern Thai" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Northern_Thai_people>
+                        ] ,
+                        [
+                            tlp:text "Isan people" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Isan_people>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 6 ;
+            tlp:indexList ( 6 0 ) ;
+            tlp:style tlp:Enumerate ;
+            tlp:dimension 1 ;
+            rdfs:label "References" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 6 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """McCargo, D.; Hongladarom, K. (2004). "Contesting Isan‐ness: Discourses of politics and identity in Northeast Thailand" (PDF). Asian Ethnicity. 5 (2): 219. doi:10.1080/1463136042000221898.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Contesting Isan‐ness: Discourses of politics and identity in Northeast Thailand"""" ;
+                            tlp:url <http://thaipolitics.leeds.ac.uk/files/2014/05/mccargo-and-krisadawan-2004.pdf>
+                        ] ,
+                        [
+                            tlp:text "doi" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Digital_object_identifier>
+                        ] ,
+                        [
+                            tlp:text "10.1080/1463136042000221898" ;
+                            tlp:url <https://doi.org/10.1080%2F1463136042000221898>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 6 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "David Levinson (1998), Ethnic Groups Worldwide: A Ready Reference Handbook, Oryx Pres, p. 287, ISBN 978-1-57356-019-1" ;
+                    tlp:link
+                        [
+                            tlp:text "Ethnic Groups Worldwide: A Ready Reference Handbook" ;
+                            tlp:url <https://archive.org/details/ethnicgroupsworl00levi/page/287>
+                        ] ,
+                        [
+                            tlp:text "287" ;
+                            tlp:url <https://archive.org/details/ethnicgroupsworl00levi/page/287>
+                        ] ,
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-1-57356-019-1" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-57356-019-1>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 6 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Paul, Lewis M.; Simons, Gary F.; Fennig, Charles D. (2013), Ethnologue: Languages of the World, SIL International, ISBN 978-1-55671-216-6" ;
+                    tlp:link
+                        [
+                            tlp:text "Ethnologue: Languages of the World" ;
+                            tlp:url <http://www.ethnologue.com>
+                        ] ,
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-1-55671-216-6" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-55671-216-6>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 6 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS". factfinder.census.gov. Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS"""" ;
+                            tlp:url <https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_B02018>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 6 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"출입국·외국인정책 내부용 통계월보 (2018년 7월호)" (PDF). gov.kr (in Korean). Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"출입국·외국인정책 내부용 통계월보 (2018년 7월호)"""" ;
+                            tlp:url <http://gzone.kr/cmmn/FileDown.do?atchFileId=226381&fileSn=67807>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 6 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Estimated resident population, Country of birth, Age and sex - as at 30 June 1996 to 2018". stat.data.abs.gov.au. Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Estimated resident population, Country of birth, Age and sex - as at 30 June 1996 to 2018"""" ;
+                            tlp:url <http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ERP_COB>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 6 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"108.02Foreign Residents by Nationality (03/25/2019)". immigration.gov.tw (in Chinese). Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"108.02Foreign Residents by Nationality (03/25/2019)"""" ;
+                            tlp:url <https://www.immigration.gov.tw/5475/5478/141478/141380/170070/>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 6 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Bevölkerung, Familien, Lebensformen (Ausländische Bevölkerung in Deutschland 2017)" (PDF). Destatis (in German). Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Bevölkerung, Familien, Lebensformen (Ausländische Bevölkerung in Deutschland 2017)"""" ;
+                            tlp:url <https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-bevoelkerung.pdf?__blob=publicationFile&v=6>
+                        ] ,
+                        [
+                            tlp:text "Destatis" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Federal_Statistical_Office_of_Germany>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 6 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"รายงานจำนวนประมาณการคนไทยในต่างประเทศ 2012" (PDF). consular.go.th (in Thai). March 5, 2012.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"รายงานจำนวนประมาณการคนไทยในต่างประเทศ 2012"""" ;
+                            tlp:url <http://www.consular.go.th/main/contents/files/services-20120630-141533-674689.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 6 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Nop Nai Samrong (8 January 2014). "SIAMESE MALAYSIANS: They are part of our society". New Straits Times. Archived from the original on 8 January 2014. Retrieved 10 January 2014.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"SIAMESE MALAYSIANS: They are part of our society"""" ;
+                            tlp:url <https://web.archive.org/web/20140108111857/http://www.nst.com.my/opinion/letters-to-the-editor/siamese-malaysians-they-are-part-of-our-society-1.457322>
+                        ] ,
+                        [
+                            tlp:text "New Straits Times" ;
+                            tlp:url <http://en.wikipedia.org/wiki/New_Straits_Times>
+                        ] ,
+                        [
+                            tlp:text "the original" ;
+                            tlp:url <http://www.nst.com.my/opinion/letters-to-the-editor/siamese-malaysians-they-are-part-of-our-society-1.457322>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 6 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"平成２９年末現在における在留外国人数について（確定値）" (PDF). Ministry of Justice (Japan) (in Japanese). Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"平成２９年末現在における在留外国人数について（確定値）"""" ;
+                            tlp:url <http://www.moj.go.jp/content/001256897.pdf>
+                        ] ,
+                        [
+                            tlp:text "Ministry of Justice (Japan)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Ministry_of_Justice_(Japan)>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 6 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Population of the United Kingdom by Country of Birth and Nationality (July 2017 to June 2018)". ons.gov.uk. 29 November 2018. Retrieved 2 May 2019.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Population of the United Kingdom by Country of Birth and Nationality (July 2017 to June 2018)"""" ;
+                            tlp:url <https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/populationoftheunitedkingdombycountryofbirthandnationality>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 6 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Foreign-born persons – Population by country of birth, age and sex. Year 2000 - 2018". Statistics Sweden. 2019-02-21. Retrieved 25 February 2020.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Foreign-born persons – Population by country of birth, age and sex. Year 2000 - 2018"""" ;
+                            tlp:url <http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101E/FodelselandArK/table/tableViewLayout1/>
+                        ] ,
+                        [
+                            tlp:text "Statistics Sweden" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Statistics_Sweden>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 6 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Bevolking; generatie, geslacht, leeftijd en herkomstgroepering". statline.cbs.nl (in Dutch). July 18, 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Bevolking; generatie, geslacht, leeftijd en herkomstgroepering"""" ;
+                            tlp:url <http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=37325&D1=0&D2=a&D3=0&D4=0&D5=a&D6=l&HDR=G2,G3&STB=G1,G5,T,G4&VW=T>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 6 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Data tables, 2016 Census". Statistics Canada. 16 January 2018. Retrieved 5 July 2018.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Data tables, 2016 Census"""" ;
+                            tlp:url <http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=110528&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=120&VID=0>
+                        ] ,
+                        [
+                            tlp:text "Statistics Canada" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Statistics_Canada>
+                        ]
+                ] ,
+                [
+                    tlp:index 16 ;
+                    tlp:indexList ( 6 16 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Befolkningen etter innvandringskategori og landbakgrunn (Innvandrere og Norskfødte med innvandrerforeldre)". ssb.no (in Norwegian). 3 March 2016. Retrieved February 21, 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Befolkningen etter innvandringskategori og landbakgrunn (Innvandrere og Norskfødte med innvandrerforeldre)"""" ;
+                            tlp:url <https://ssb.no/befolkning/statistikker/innvbef/aar/2016-03-03?fane=tabell&sort=nummer&tabell=258401>
+                        ]
+                ] ,
+                [
+                    tlp:index 17 ;
+                    tlp:indexList ( 6 17 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Table P4.8 Overseas Migrant Population 10 Years Old and Over by Country of Origin and Province of Current Residence" (PDF). lsb.gov.la. Retrieved February 14, 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Table P4.8 Overseas Migrant Population 10 Years Old and Over by Country of Origin and Province of Current Residence"""" ;
+                            tlp:url <http://lsb.gov.la/PDF/PHC-ENG-FNAL-WEB.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 18 ;
+                    tlp:indexList ( 6 18 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"FOLK2 Folketal 1. januar efter køn, alder, herkomst, oprindelsesland og statsborgerskab (1980–2018)". statistikbanken.dk (in Danish). Retrieved 4 March 2018.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"FOLK2 Folketal 1. januar efter køn, alder, herkomst, oprindelsesland og statsborgerskab (1980–2018)"""" ;
+                            tlp:url <https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=FOLK2>
+                        ]
+                ] ,
+                [
+                    tlp:index 19 ;
+                    tlp:indexList ( 6 19 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"United Nations Population Division | Department of Economic and Social Affairs". un.org. Retrieved 2018-06-29.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"United Nations Population Division | Department of Economic and Social Affairs"""" ;
+                            tlp:url <http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml>
+                        ]
+                ] ,
+                [
+                    tlp:index 20 ;
+                    tlp:indexList ( 6 20 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"2016 Population By-census: Summary Results 2016年中期人口統計：簡要報告 (by nationality)" (PDF). bycensus2016.gov.hk. Retrieved 26 December 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"2016 Population By-census: Summary Results 2016年中期人口統計：簡要報告 (by nationality)"""" ;
+                            tlp:url <http://www.bycensus2016.gov.hk/data/16bc-summary-results.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 21 ;
+                    tlp:indexList ( 6 21 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Ständige ausländische Wohnbevölkerung nach Staatsangehörigkeit". bfs.admin.ch (in German). August 26, 2016.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Ständige ausländische Wohnbevölkerung nach Staatsangehörigkeit"""" ;
+                            tlp:url <https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/auslaendische-bevoelkerung.assetdetail.104539.html>
+                        ]
+                ] ,
+                [
+                    tlp:index 22 ;
+                    tlp:indexList ( 6 22 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Cittadini Stranieri. Popolazione residente per sesso e cittadinanza al 31 dicembre 2016". Istat (in Italian). Retrieved July 14, 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Cittadini Stranieri. Popolazione residente per sesso e cittadinanza al 31 dicembre 2016"""" ;
+                            tlp:url <http://demo.istat.it/str2016/index.html>
+                        ] ,
+                        [
+                            tlp:text "Istat" ;
+                            tlp:url <http://en.wikipedia.org/wiki/National_Institute_of_Statistics_(Italy)>
+                        ]
+                ] ,
+                [
+                    tlp:index 23 ;
+                    tlp:indexList ( 6 23 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Trends in International Migrant Stock: Migrants by Destination and Origin" (XLSX). United Nations. 1 December 2015. Retrieved 14 July 2016.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Trends in International Migrant Stock: Migrants by Destination and Origin"""" ;
+                            tlp:url <https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByOriginAndDestination_2015.xlsx>
+                        ]
+                ] ,
+                [
+                    tlp:index 24 ;
+                    tlp:indexList ( 6 24 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Cheesman, P. (1988). Lao textiles: ancient symbols-living art. Bangkok, Thailand: White Lotus Co., Thailand."
+                ] ,
+                [
+                    tlp:index 25 ;
+                    tlp:indexList ( 6 25 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Fox, M. (1997). A history of Laos. Cambridge, U.K.: Cambridge University Press."
+                ] ,
+                [
+                    tlp:index 26 ;
+                    tlp:indexList ( 6 26 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Fox, M. (2008). Historical Dictionary of Laos (3rd ed.). Lanham: Scarecrow Press."
+                ] ,
+                [
+                    tlp:index 27 ;
+                    tlp:indexList ( 6 27 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Goodden, C. (1999). Around Lan-na: a guide to Thailand's northern border region from Chiang Mai to Nan. Halesworth, Suffolk: Jungle Books."
+                ] ,
+                [
+                    tlp:index 28 ;
+                    tlp:indexList ( 6 28 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Gehan Wijeyewardene (1990). Ethnic Groups across National Boundaries in Mainland Southeast Asia. Singapore: Institute of Southeast Asian Studies. p. 48. ISBN 978-981-3035-57-7. The word 'Thai' is today generally used for citizens of the Kingdom of Thailand, and more specifically for the 'Siamese'." ;
+                    tlp:link
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-981-3035-57-7" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-981-3035-57-7>
+                        ]
+                ] ,
+                [
+                    tlp:index 29 ;
+                    tlp:indexList ( 6 29 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Barbara A. West (2009), Encyclopedia of the Peoples of Asia and Oceania, Facts on File, p. 794, ISBN 978-1-4381-1913-7" ;
+                    tlp:link
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-1-4381-1913-7" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-4381-1913-7>
+                        ]
+                ] ,
+                [
+                    tlp:index 30 ;
+                    tlp:indexList ( 6 30 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Antonio L. Rappa; Lionel Wee (2006), Language Policy and Modernity in Southeast Asia: Malaysia, the Philippines, Singapore, and Thailand, Springer, pp. 114–115"
+                ] ,
+                [
+                    tlp:index 31 ;
+                    tlp:indexList ( 6 31 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Ferlus, Michel (2009). Formation of Ethnonyms in Southeast Asia. 42nd International Conference on Sino-Tibetan Languages and Linguistics, Nov 2009, Chiang Mai, Thailand. 2009, p.3." ;
+                    tlp:link
+                        [
+                            tlp:text "Ferlus, Michel (2009). Formation of Ethnonyms in Southeast Asia" ;
+                            tlp:url <https://hal.inria.fr/halshs-01182596/document>
+                        ]
+                ] ,
+                [
+                    tlp:index 32 ;
+                    tlp:indexList ( 6 32 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Pain, Frédéric (2008). An Introduction to Thai Ethnonymy: Examples from Shan and Northern Thai. Journal of the American Oriental Society Vol. 128, No. 4 (Oct. - Dec., 2008), p.646." ;
+                    tlp:link
+                        [
+                            tlp:text "Pain, Frédéric (2008). An Introduction to Thai Ethnonymy: Examples from Shan and Northern Thai" ;
+                            tlp:url <https://www.jstor.org/stable/25608449?seq=6#page_scan_tab_contents>
+                        ]
+                ] ,
+                [
+                    tlp:index 33 ;
+                    tlp:indexList ( 6 33 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Luo, Wei; Hartmann, John; Li, Jinfang; Sysamouth, Vinya (December 2000). "GIS Mapping and Analysis of Tai Linguistic and Settlement Patterns in Southern China" (PDF). Geographic Information Sciences. 6 (2): 129–136. Retrieved May 28, 2013. Abstract. By integrating linguistic information and physical geographic features in a GIS environment, this paper maps the spatial variation of terms connected with wet-rice farming of Tai minority groups in southern China and shows that the primary candidate of origin for proto-Tai is in the region of Guangxi-Guizhou, not Yunnan or the middle Yangtze River region as others have proposed....""" ;
+                    tlp:link
+                        [
+                            tlp:text """"GIS Mapping and Analysis of Tai Linguistic and Settlement Patterns in Southern China"""" ;
+                            tlp:url <http://www.niu.edu/landform/papers/JGIS_Tai_Origin.pdf>
+                        ] ,
+                        [
+                            tlp:text "GIS" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Geographic_information_system>
+                        ]
+                ] ,
+                [
+                    tlp:index 34 ;
+                    tlp:indexList ( 6 34 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Du Yuting; Chen Lufan (1989). "Did Kublai Khan's Conquest of the Dali Kingdom Give Rise to the Mass Migration of the Thai People to the South?" (PDF). Journal of the Siam Society. JSS Vol. 77.1c (digital). image 7 of p. 39. Retrieved March 17, 2013. The Thai people in the north as well as in the south did not in any sense "migrate en masse to the south" after Kublai Khan's conquest of the Dali Kingdom.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Did Kublai Khan's Conquest of the Dali Kingdom Give Rise to the Mass Migration of the Thai People to the South?"""" ;
+                            tlp:url <http://www.siamese-heritage.org/jsspdf/1981/JSS_077_1c_DuYutingChenLufan_KublaiKhanConquestAndThaiMigration.pdf>
+                        ] ,
+                        [
+                            tlp:text "Journal of the Siam Society" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Journal_of_the_Siam_Society>
+                        ] ,
+                        [
+                            tlp:text "Kublai Khan" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Kublai_Khan>
+                        ] ,
+                        [
+                            tlp:text "Dali Kingdom" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Dali_Kingdom>
+                        ]
+                ] ,
+                [
+                    tlp:index 35 ;
+                    tlp:indexList ( 6 35 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Pittayaporn, Pittayawat (2014). Layers of Chinese Loanwords in Proto-Southwestern Tai as Evidence for the Dating of the Spread of Southwestern Tai. MANUSYA: Journal of Humanities, Special Issue No 20: 47-64." ;
+                    tlp:link
+                        [
+                            tlp:text "Pittayaporn, Pittayawat (2014). Layers of Chinese Loanwords in Proto-Southwestern Tai as Evidence for the Dating of the Spread of Southwestern Tai" ;
+                            tlp:url <http://www.manusya.journals.chula.ac.th/files/essay/Pittayawat%2047-68.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 36 ;
+                    tlp:indexList ( 6 36 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Charles F. Keyes (1997), "Cultural Diversity and National Identity in Thailand", Government policies and ethnic relations in Asia and the Pacific, MIT Press, p. 203"""
+                ] ,
+                [
+                    tlp:index 37 ;
+                    tlp:indexList ( 6 37 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Ayodhya-Ayutthaya – SEAArch – The Southeast Asian Archaeology Newsblog". Southeastasianarchaeology.com. 2008-05-05. Retrieved 12 December 2017.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Ayodhya-Ayutthaya – SEAArch – The Southeast Asian Archaeology Newsblog"""" ;
+                            tlp:url <http://www.southeastasianarchaeology.com/2008/05/05/ayodhya-ayutthaya/>
+                        ]
+                ] ,
+                [
+                    tlp:index 38 ;
+                    tlp:indexList ( 6 38 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thak Chaloemtiarana. Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand. CHINESE SOUTHERN DIASPORA STUDIES, VOLUME SEVEN, 2014–15, p. 186." ;
+                    tlp:link
+                        [
+                            tlp:text "Thak Chaloemtiarana. Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand" ;
+                            tlp:url <https://chl-old.anu.edu.au/publications/csds/csds2014/csds2014_15.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 39 ;
+                    tlp:indexList ( 6 39 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Baker, Chris; Phongpaichit, Pasuk. A History of Thailand. Cambridge University Press (2009), p. 206. ISBN 978-1-107-39373-8." ;
+                    tlp:link
+                        [
+                            tlp:text "Baker, Chris; Phongpaichit, Pasuk. A History of Thailand" ;
+                            tlp:url <https://books.google.co.th/books?id=JT1dAAAAQBAJ&lpg=PP1&pg=PA206#v=onepage&q&f=false>
+                        ] ,
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-1-107-39373-8" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-107-39373-8>
+                        ]
+                ] ,
+                [
+                    tlp:index 40 ;
+                    tlp:indexList ( 6 40 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Thak Chaloemtiarana (2007), Thailand: The Politics of Despotic Paternalism, Ithaca, NY: Cornell Southeast Asia Program, pp. 245–246, ISBN 978-0-87727-742-2" ;
+                    tlp:link
+                        [
+                            tlp:text "Thailand: The Politics of Despotic Paternalism" ;
+                            tlp:url <https://books.google.co.th/books?id=6f0CMvP203wC&lpg=PP1&pg=PA246#v=onepage&q&f=false>
+                        ] ,
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-0-87727-742-2" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-0-87727-742-2>
+                        ]
+                ] ,
+                [
+                    tlp:index 41 ;
+                    tlp:indexList ( 6 41 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Richter, Frank-Jürgen (1999). Business Networks in Asia: Promises, Doubts, and Perspectives. Praeger. p. 193. ISBN 978-1-56720-302-8." ;
+                    tlp:link
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-1-56720-302-8" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-1-56720-302-8>
+                        ]
+                ] ,
+                [
+                    tlp:index 42 ;
+                    tlp:indexList ( 6 42 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Yeung, Henry Dr. "Economic Globalization, Crisis and the Emergence of Chinese Business Communities in Southeast Asia" (PDF). National University of Singapore.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Economic Globalization, Crisis and the Emergence of Chinese Business Communities in Southeast Asia"""" ;
+                            tlp:url <http://courses.nus.edu.sg/course/geoywc/publication/Int%27l%20Sociology.pdf>
+                        ]
+                ] ,
+                [
+                    tlp:index 43 ;
+                    tlp:indexList ( 6 43 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Theraphan Luangthongkum (2007), "The Position of Non-Thai Languages in Thailand", Language, Nation and Development in Southeast Asia, ISEAS Publishing, p. 191, ISBN 9789812304827""" ;
+                    tlp:link
+                        [
+                            tlp:text "Theraphan Luangthongkum" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Theraphan_Luangthongkum>
+                        ] ,
+                        [
+                            tlp:text """"The Position of Non-Thai Languages in Thailand"""" ;
+                            tlp:url <https://books.google.com/?id=ImjVqAVxO74C&lpg=PA181&dq=the%20position%20of%20non%20thai%20languages%20in%20thailand&pg=PA191#v=onepage&q&f=false>
+                        ] ,
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "9789812304827" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/9789812304827>
+                        ]
+                ] ,
+                [
+                    tlp:index 44 ;
+                    tlp:indexList ( 6 44 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Streckfuss, David (1993). "The mixed colonial legacy in Siam: Origins of Thai racialist thought, 1890–1910". Autonomous Histories, Particular Truths: Essays in the Honor of John R. W. Smail. Madison, WI: Centre for Southeast Asian Studies. pp. 123–153."""
+                ] ,
+                [
+                    tlp:index 45 ;
+                    tlp:indexList ( 6 45 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Iijima, Akiko (2018). "The invention of "Isan" history". Journal of the Siam Society. 106: 171–200.""" ;
+                    tlp:link
+                        [
+                            tlp:text """"The invention of "Isan" history"""" ;
+                            tlp:url <https://so06.tci-thaijo.org/index.php/pub_jss/article/view/157699>
+                        ]
+                ] ,
+                [
+                    tlp:index 46 ;
+                    tlp:indexList ( 6 46 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Tejapira, Kasian (2003), "De-Othering Jek Communists: Rewriting Thai History from the Viewpoint of the Ethno-Ideological Order", Southeast Asia Over Three Generations: Essays Presented to Benedict R. O'G. Anderson, Ithaca, NY: Cornell Southeast Asia Program, p. 247"""
+                ] ,
+                [
+                    tlp:index 47 ;
+                    tlp:indexList ( 6 47 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Thanet Aphornsuvan (1998), "Slavery and Modernity: Freedom in the Making of Modern Siam", Asian Freedoms: The Idea of Freedom in East and Southeast Asia, Cambridge University Press, p. 181"""
+                ] ,
+                [
+                    tlp:index 48 ;
+                    tlp:indexList ( 6 48 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Chris Baker; Pasuk Phongpaichit (2009), A History of Thailand (Second ed.), Cambridge University Press, pp. 172–175"
+                ] ,
+                [
+                    tlp:index 49 ;
+                    tlp:indexList ( 6 49 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"CIA – The World Factbook". Cia.gov. Retrieved 2012-08-29. 95.9% of 67,497,151 (July 2013 est.)""" ;
+                    tlp:link
+                        [
+                            tlp:text """"CIA – The World Factbook"""" ;
+                            tlp:url <https://www.cia.gov/library/publications/the-world-factbook/geos/th.html#People>
+                        ]
+                ] ,
+                [
+                    tlp:index 50 ;
+                    tlp:indexList ( 6 50 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Strate, Shane, author. The lost territories : Thailand's history of national humiliation. ISBN 978-0-8248-6971-7. OCLC 986596797.CS1 maint: multiple names: authors list (link)" ;
+                    tlp:link
+                        [
+                            tlp:text "ISBN" ;
+                            tlp:url <http://en.wikipedia.org/wiki/International_Standard_Book_Number>
+                        ] ,
+                        [
+                            tlp:text "978-0-8248-6971-7" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:BookSources/978-0-8248-6971-7>
+                        ] ,
+                        [
+                            tlp:text "OCLC" ;
+                            tlp:url <http://en.wikipedia.org/wiki/OCLC>
+                        ] ,
+                        [
+                            tlp:text "986596797" ;
+                            tlp:url <http://www.worldcat.org/oclc/986596797>
+                        ] ,
+                        [
+                            tlp:text "link" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list>
+                        ]
+                ] ,
+                [
+                    tlp:index 51 ;
+                    tlp:indexList ( 6 51 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Breazeale, Kennon. (1975). The integration of the Lao States into the Thai Kingdom. Bodleian Library, Oxford University. OCLC 223634347." ;
+                    tlp:link
+                        [
+                            tlp:text "OCLC" ;
+                            tlp:url <http://en.wikipedia.org/wiki/OCLC>
+                        ] ,
+                        [
+                            tlp:text "223634347" ;
+                            tlp:url <http://www.worldcat.org/oclc/223634347>
+                        ]
+                ] ,
+                [
+                    tlp:index 52 ;
+                    tlp:indexList ( 6 52 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Patit Paban Mishra (2010), The History of Thailand, Greenwood, p. 11"
+                ] ,
+                [
+                    tlp:index 53 ;
+                    tlp:indexList ( 6 53 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "S.N. Desai (1980), Hinduism in Thai Life, Bombay: Popular Prakashan Private"
+                ] ,
+                [
+                    tlp:index 54 ;
+                    tlp:indexList ( 6 54 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """Pattana Kitiarsa (2011), "The Horror of the Modern: Violation, Violence and Rampaging Urban Youths in Contemporary Thai Ghost Films", Engaging the Spirit World: Popular Beliefs and Practices in Modern Southeast Asia, Berghahn Books, pp. 200–220"""
+                ] ,
+                [
+                    tlp:index 55 ;
+                    tlp:indexList ( 6 55 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Patit Paban Mishra (2010), The History of Thailand, Greenwood, pp. 11–12"
+                ] ,
+                [
+                    tlp:index 56 ;
+                    tlp:indexList ( 6 56 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Desai (1980), Hinduism in Thai Life, p. 63"
+                ] ,
+                [
+                    tlp:index 57 ;
+                    tlp:indexList ( 6 57 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Desai (1980), Hinduism in Thai Life, p. 26"
+                ] ,
+                [
+                    tlp:index 58 ;
+                    tlp:indexList ( 6 58 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Kate Crosby (2014), Theravada Buddhism: Continuity, Diversity, and Identity, Chichester (West Sussex): Wiley Blackwell, p. 277"
+                ] ,
+                [
+                    tlp:index 59 ;
+                    tlp:indexList ( 6 59 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Timothy D. Hoare (2004), Thailand: A Global Studies Handbook, Santa Barbara CA: ABC-CLIO, p. 144"
+                ] ,
+                [
+                    tlp:index 60 ;
+                    tlp:indexList ( 6 60 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Justin Thomas McDaniel (2011), The Lovelorn Ghost and the Magical Monk: Practicing Buddhism in Modern Thailand, New York: Columbia University Press"
+                ] ,
+                [
+                    tlp:index 61 ;
+                    tlp:indexList ( 6 61 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Rooppakhun, Supakit et al. (2010). Craniometric Study of Thai Skull Based on Three-Dimensional Computed Tomography (CT) Data. Journal of the Medical Association of Thailand, 93(1). Pages 91 & 96. Retrieved January 25, 2018, from link." ;
+                    tlp:link
+                        [
+                            tlp:text "link." ;
+                            tlp:url <http://www.thaiscience.info/Journals/Article/JMAT/10749105.pdf>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 7 ;
+            tlp:indexList ( 7 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Bibliography" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 7 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Girsling, John L.S., Thailand: Society and Politics (Cornell University Press, 1981)."
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 7 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Terwiel, B.J., A History of Modern Thailand (Univ. of Queensland Press, 1984)."
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 7 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wyatt, D.K., Thailand: A Short History (Yale University Press, 1986)."
+                ]
+        ] ,
+        [
+            tlp:index 8 ;
+            tlp:indexList ( 8 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "External links" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 8 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "US Library of Congress Country Studies, Thailand, The Thai and Other Tai-Speaking Peoples" ;
+                    tlp:link
+                        [
+                            tlp:text "US Library of Congress Country Studies, Thailand, The Thai and Other Tai-Speaking Peoples" ;
+                            tlp:url <http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+th0053)>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 9 ;
+            tlp:indexList ( 9 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "External links" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 9 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Tai peoples" ;
+                    tlp:link
+                        [
+                            tlp:text "Tai peoples" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Tai_peoples>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 9 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Ethnic groups in Thailand" ;
+                    tlp:link
+                        [
+                            tlp:text "Ethnic groups in Thailand" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Ethnic_groups_in_Thailand>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 10 ;
+            tlp:indexList ( 10 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "External links" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 10 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Korean-language sources (ko)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Korean-language sources (ko)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Korean-language_sources_(ko)>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 10 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Chinese-language sources (zh)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Chinese-language sources (zh)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Chinese-language_sources_(zh)>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 10 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 German-language sources (de)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 German-language sources (de)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_German-language_sources_(de)>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 10 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Thai-language sources (th)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Thai-language sources (th)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 10 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Japanese-language sources (ja)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Japanese-language sources (ja)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Japanese-language_sources_(ja)>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 10 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Dutch-language sources (nl)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Dutch-language sources (nl)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Dutch-language_sources_(nl)>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 10 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Norwegian-language sources (no)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Norwegian-language sources (no)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Norwegian-language_sources_(no)>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 10 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Danish-language sources (da)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Danish-language sources (da)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Danish-language_sources_(da)>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 10 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 Italian-language sources (it)" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 Italian-language sources (it)" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_Italian-language_sources_(it)>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 10 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1: long volume value" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1: long volume value" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1:_long_volume_value>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 10 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "CS1 maint: multiple names: authors list" ;
+                    tlp:link
+                        [
+                            tlp:text "CS1 maint: multiple names: authors list" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 10 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles with short description" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles with short description" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_short_description>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 10 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Pages using deprecated image syntax" ;
+                    tlp:link
+                        [
+                            tlp:text "Pages using deprecated image syntax" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 10 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label """"Related ethnic groups" needing confirmation""" ;
+                    tlp:link
+                        [
+                            tlp:text """"Related ethnic groups" needing confirmation""" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:%22Related_ethnic_groups%22_needing_confirmation>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 10 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles using infobox ethnic group with image parameters" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles using infobox ethnic group with image parameters" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_using_infobox_ethnic_group_with_image_parameters>
+                        ]
+                ] ,
+                [
+                    tlp:index 16 ;
+                    tlp:indexList ( 10 16 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles containing Thai-language text" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles containing Thai-language text" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text>
+                        ]
+                ] ,
+                [
+                    tlp:index 17 ;
+                    tlp:indexList ( 10 17 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "All articles with specifically marked weasel-worded phrases" ;
+                    tlp:link
+                        [
+                            tlp:text "All articles with specifically marked weasel-worded phrases" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases>
+                        ]
+                ] ,
+                [
+                    tlp:index 18 ;
+                    tlp:indexList ( 10 18 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles with specifically marked weasel-worded phrases from June 2018" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles with specifically marked weasel-worded phrases from June 2018" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2018>
+                        ]
+                ] ,
+                [
+                    tlp:index 19 ;
+                    tlp:indexList ( 10 19 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Articles containing Chinese-language text" ;
+                    tlp:link
+                        [
+                            tlp:text "Articles containing Chinese-language text" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text>
+                        ]
+                ] ,
+                [
+                    tlp:index 20 ;
+                    tlp:indexList ( 10 20 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Commons category link is on Wikidata" ;
+                    tlp:link
+                        [
+                            tlp:text "Commons category link is on Wikidata" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata>
+                        ]
+                ] ,
+                [
+                    tlp:index 21 ;
+                    tlp:indexList ( 10 21 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Commons category link is on Wikidata using P373" ;
+                    tlp:link
+                        [
+                            tlp:text "Commons category link is on Wikidata using P373" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373>
+                        ]
+                ] ,
+                [
+                    tlp:index 22 ;
+                    tlp:indexList ( 10 22 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikipedia articles with BNF identifiers" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikipedia articles with BNF identifiers" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_BNF_identifiers>
+                        ]
+                ] ,
+                [
+                    tlp:index 23 ;
+                    tlp:indexList ( 10 23 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikipedia articles with LCCN identifiers" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikipedia articles with LCCN identifiers" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_LCCN_identifiers>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 11 ;
+            tlp:indexList ( 11 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Tools" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 11 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "What links here" ;
+                    tlp:link
+                        [
+                            tlp:text "What links here" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/Thai_people>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 11 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Related changes" ;
+                    tlp:link
+                        [
+                            tlp:text "Related changes" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Thai_people>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 11 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Upload file" ;
+                    tlp:link
+                        [
+                            tlp:text "Upload file" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 11 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Special pages" ;
+                    tlp:link
+                        [
+                            tlp:text "Special pages" ;
+                            tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 11 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Permanent link" ;
+                    tlp:link
+                        [
+                            tlp:text "Permanent link" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_people&oldid=945015079>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 11 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Page information" ;
+                    tlp:link
+                        [
+                            tlp:text "Page information" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_people&action=info>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 11 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikidata item" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikidata item" ;
+                            tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q472834>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 11 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Cite this page" ;
+                    tlp:link
+                        [
+                            tlp:text "Cite this page" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Thai_people&id=945015079&wpFormIdentifier=titleform>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 12 ;
+            tlp:indexList ( 12 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "In other projects" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 12 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Wikimedia Commons" ;
+                    tlp:link
+                        [
+                            tlp:text "Wikimedia Commons" ;
+                            tlp:url <https://commons.wikimedia.org/wiki/Category:People_of_Thailand>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 13 ;
+            tlp:indexList ( 13 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Print/export" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 13 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Create a book" ;
+                    tlp:link
+                        [
+                            tlp:text "Create a book" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Thai+people>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 13 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Download as PDF" ;
+                    tlp:link
+                        [
+                            tlp:text "Download as PDF" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Thai+people&action=show-download-screen>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 13 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Printable version" ;
+                    tlp:link
+                        [
+                            tlp:text "Printable version" ;
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Thai_people&printable=yes>
+                        ]
+                ]
+        ] ,
+        [
+            tlp:index 14 ;
+            tlp:indexList ( 14 0 ) ;
+            tlp:dimension 1 ;
+            rdfs:label "Languages" ;
+            rdf:type tlp:List ;
+            tlp:member
+                [
+                    tlp:index 1 ;
+                    tlp:indexList ( 14 1 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Afrikaans" ;
+                    tlp:link
+                        [
+                            tlp:text "Afrikaans" ;
+                            tlp:url <https://af.wikipedia.org/wiki/Thai_(volk)>
+                        ]
+                ] ,
+                [
+                    tlp:index 2 ;
+                    tlp:indexList ( 14 2 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "العربية" ;
+                    tlp:link
+                        [
+                            tlp:text "العربية" ;
+                            tlp:url <https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%8A%D9%88%D9%86>
+                        ]
+                ] ,
+                [
+                    tlp:index 3 ;
+                    tlp:indexList ( 14 3 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bân-lâm-gú" ;
+                    tlp:link
+                        [
+                            tlp:text "Bân-lâm-gú" ;
+                            tlp:url <https://zh-min-nan.wikipedia.org/wiki/Th%C3%A0i-cho%CC%8Dk>
+                        ]
+                ] ,
+                [
+                    tlp:index 4 ;
+                    tlp:indexList ( 14 4 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Български" ;
+                    tlp:link
+                        [
+                            tlp:text "Български" ;
+                            tlp:url <https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8>
+                        ]
+                ] ,
+                [
+                    tlp:index 5 ;
+                    tlp:indexList ( 14 5 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Català" ;
+                    tlp:link
+                        [
+                            tlp:text "Català" ;
+                            tlp:url <https://ca.wikipedia.org/wiki/Tailandesos>
+                        ]
+                ] ,
+                [
+                    tlp:index 6 ;
+                    tlp:indexList ( 14 6 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Čeština" ;
+                    tlp:link
+                        [
+                            tlp:text "Čeština" ;
+                            tlp:url <https://cs.wikipedia.org/wiki/Thajci>
+                        ]
+                ] ,
+                [
+                    tlp:index 7 ;
+                    tlp:indexList ( 14 7 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Deutsch" ;
+                    tlp:link
+                        [
+                            tlp:text "Deutsch" ;
+                            tlp:url <https://de.wikipedia.org/wiki/Thai_(Volk)>
+                        ]
+                ] ,
+                [
+                    tlp:index 8 ;
+                    tlp:indexList ( 14 8 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Eesti" ;
+                    tlp:link
+                        [
+                            tlp:text "Eesti" ;
+                            tlp:url <https://et.wikipedia.org/wiki/Tailased>
+                        ]
+                ] ,
+                [
+                    tlp:index 9 ;
+                    tlp:indexList ( 14 9 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Esperanto" ;
+                    tlp:link
+                        [
+                            tlp:text "Esperanto" ;
+                            tlp:url <https://eo.wikipedia.org/wiki/Tajoj>
+                        ]
+                ] ,
+                [
+                    tlp:index 10 ;
+                    tlp:indexList ( 14 10 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Euskara" ;
+                    tlp:link
+                        [
+                            tlp:text "Euskara" ;
+                            tlp:url <https://eu.wikipedia.org/wiki/Thailandiar>
+                        ]
+                ] ,
+                [
+                    tlp:index 11 ;
+                    tlp:indexList ( 14 11 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "فارسی" ;
+                    tlp:link
+                        [
+                            tlp:text "فارسی" ;
+                            tlp:url <https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%AF%D9%85_%D8%AA%D8%A7%DB%8C%D9%84%D9%86%D8%AF>
+                        ]
+                ] ,
+                [
+                    tlp:index 12 ;
+                    tlp:indexList ( 14 12 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Français" ;
+                    tlp:link
+                        [
+                            tlp:text "Français" ;
+                            tlp:url <https://fr.wikipedia.org/wiki/Tha%C3%AF_(peuple)>
+                        ]
+                ] ,
+                [
+                    tlp:index 13 ;
+                    tlp:indexList ( 14 13 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Gaeilge" ;
+                    tlp:link
+                        [
+                            tlp:text "Gaeilge" ;
+                            tlp:url <https://ga.wikipedia.org/wiki/T%C3%A9alannaigh>
+                        ]
+                ] ,
+                [
+                    tlp:index 14 ;
+                    tlp:indexList ( 14 14 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "한국어" ;
+                    tlp:link
+                        [
+                            tlp:text "한국어" ;
+                            tlp:url <https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EC%9D%B8>
+                        ]
+                ] ,
+                [
+                    tlp:index 15 ;
+                    tlp:indexList ( 14 15 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "हिन्दी" ;
+                    tlp:link
+                        [
+                            tlp:text "हिन्दी" ;
+                            tlp:url <https://hi.wikipedia.org/wiki/%E0%A4%A5%E0%A4%BE%E0%A4%88_%E0%A4%B2%E0%A5%8B%E0%A4%97>
+                        ]
+                ] ,
+                [
+                    tlp:index 16 ;
+                    tlp:indexList ( 14 16 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Hrvatski" ;
+                    tlp:link
+                        [
+                            tlp:text "Hrvatski" ;
+                            tlp:url <https://hr.wikipedia.org/wiki/Thai>
+                        ]
+                ] ,
+                [
+                    tlp:index 17 ;
+                    tlp:indexList ( 14 17 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bahasa Indonesia" ;
+                    tlp:link
+                        [
+                            tlp:text "Bahasa Indonesia" ;
+                            tlp:url <https://id.wikipedia.org/wiki/Suku_Thai>
+                        ]
+                ] ,
+                [
+                    tlp:index 18 ;
+                    tlp:indexList ( 14 18 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Italiano" ;
+                    tlp:link
+                        [
+                            tlp:text "Italiano" ;
+                            tlp:url <https://it.wikipedia.org/wiki/Thai>
+                        ]
+                ] ,
+                [
+                    tlp:index 19 ;
+                    tlp:indexList ( 14 19 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Кыргызча" ;
+                    tlp:link
+                        [
+                            tlp:text "Кыргызча" ;
+                            tlp:url <https://ky.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B0%D1%80>
+                        ]
+                ] ,
+                [
+                    tlp:index 20 ;
+                    tlp:indexList ( 14 20 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "ລາວ" ;
+                    tlp:link
+                        [
+                            tlp:text "ລາວ" ;
+                            tlp:url <https://lo.wikipedia.org/wiki/%E0%BB%84%E0%BA%97%E0%BA%AA%E0%BA%B0%E0%BA%AB%E0%BA%8D%E0%BA%B2%E0%BA%A1>
+                        ]
+                ] ,
+                [
+                    tlp:index 21 ;
+                    tlp:indexList ( 14 21 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Lietuvių" ;
+                    tlp:link
+                        [
+                            tlp:text "Lietuvių" ;
+                            tlp:url <https://lt.wikipedia.org/wiki/Tajai>
+                        ]
+                ] ,
+                [
+                    tlp:index 22 ;
+                    tlp:indexList ( 14 22 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "മലയാളം" ;
+                    tlp:link
+                        [
+                            tlp:text "മലയാളം" ;
+                            tlp:url <https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B4%BE%E0%B4%AF%E0%B5%8D_%E0%B4%9C%E0%B4%A8%E0%B4%A4>
+                        ]
+                ] ,
+                [
+                    tlp:index 23 ;
+                    tlp:indexList ( 14 23 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Bahasa Melayu" ;
+                    tlp:link
+                        [
+                            tlp:text "Bahasa Melayu" ;
+                            tlp:url <https://ms.wikipedia.org/wiki/Orang_Thai>
+                        ]
+                ] ,
+                [
+                    tlp:index 24 ;
+                    tlp:indexList ( 14 24 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Монгол" ;
+                    tlp:link
+                        [
+                            tlp:text "Монгол" ;
+                            tlp:url <https://mn.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9_%D2%AF%D0%BD%D0%B4%D1%8D%D1%81%D1%82%D1%8D%D0%BD>
+                        ]
+                ] ,
+                [
+                    tlp:index 25 ;
+                    tlp:indexList ( 14 25 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Nederlands" ;
+                    tlp:link
+                        [
+                            tlp:text "Nederlands" ;
+                            tlp:url <https://nl.wikipedia.org/wiki/Thai_(volk)>
+                        ]
+                ] ,
+                [
+                    tlp:index 26 ;
+                    tlp:indexList ( 14 26 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "日本語" ;
+                    tlp:link
+                        [
+                            tlp:text "日本語" ;
+                            tlp:url <https://ja.wikipedia.org/wiki/%E5%B0%8F%E3%82%BF%E3%82%A4%E6%97%8F>
+                        ]
+                ] ,
+                [
+                    tlp:index 27 ;
+                    tlp:indexList ( 14 27 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Oʻzbekcha/ўзбекча" ;
+                    tlp:link
+                        [
+                            tlp:text "Oʻzbekcha/ўзбекча" ;
+                            tlp:url <https://uz.wikipedia.org/wiki/Tailar>
+                        ]
+                ] ,
+                [
+                    tlp:index 28 ;
+                    tlp:indexList ( 14 28 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Polski" ;
+                    tlp:link
+                        [
+                            tlp:text "Polski" ;
+                            tlp:url <https://pl.wikipedia.org/wiki/Tajowie>
+                        ]
+                ] ,
+                [
+                    tlp:index 29 ;
+                    tlp:indexList ( 14 29 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Português" ;
+                    tlp:link
+                        [
+                            tlp:text "Português" ;
+                            tlp:url <https://pt.wikipedia.org/wiki/Tai_(grupo_%C3%A9tnico)>
+                        ]
+                ] ,
+                [
+                    tlp:index 30 ;
+                    tlp:indexList ( 14 30 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Română" ;
+                    tlp:link
+                        [
+                            tlp:text "Română" ;
+                            tlp:url <https://ro.wikipedia.org/wiki/Thailandezi>
+                        ]
+                ] ,
+                [
+                    tlp:index 31 ;
+                    tlp:indexList ( 14 31 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Русский" ;
+                    tlp:link
+                        [
+                            tlp:text "Русский" ;
+                            tlp:url <https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%86%D1%8B>
+                        ]
+                ] ,
+                [
+                    tlp:index 32 ;
+                    tlp:indexList ( 14 32 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Саха тыла" ;
+                    tlp:link
+                        [
+                            tlp:text "Саха тыла" ;
+                            tlp:url <https://sah.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B0%D0%B9%D0%B4%D0%B0%D1%80>
+                        ]
+                ] ,
+                [
+                    tlp:index 33 ;
+                    tlp:indexList ( 14 33 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Shqip" ;
+                    tlp:link
+                        [
+                            tlp:text "Shqip" ;
+                            tlp:url <https://sq.wikipedia.org/wiki/Tai>
+                        ]
+                ] ,
+                [
+                    tlp:index 34 ;
+                    tlp:indexList ( 14 34 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Simple English" ;
+                    tlp:link
+                        [
+                            tlp:text "Simple English" ;
+                            tlp:url <https://simple.wikipedia.org/wiki/Thai_people>
+                        ]
+                ] ,
+                [
+                    tlp:index 35 ;
+                    tlp:indexList ( 14 35 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Српски / srpski" ;
+                    tlp:link
+                        [
+                            tlp:text "Српски / srpski" ;
+                            tlp:url <https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)>
+                        ]
+                ] ,
+                [
+                    tlp:index 36 ;
+                    tlp:indexList ( 14 36 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Srpskohrvatski / српскохрватски" ;
+                    tlp:link
+                        [
+                            tlp:text "Srpskohrvatski / српскохрватски" ;
+                            tlp:url <https://sh.wikipedia.org/wiki/Tajlan%C4%91ani>
+                        ]
+                ] ,
+                [
+                    tlp:index 37 ;
+                    tlp:indexList ( 14 37 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Suomi" ;
+                    tlp:link
+                        [
+                            tlp:text "Suomi" ;
+                            tlp:url <https://fi.wikipedia.org/wiki/Thait>
+                        ]
+                ] ,
+                [
+                    tlp:index 38 ;
+                    tlp:indexList ( 14 38 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Svenska" ;
+                    tlp:link
+                        [
+                            tlp:text "Svenska" ;
+                            tlp:url <https://sv.wikipedia.org/wiki/Thai_(etnisk_grupp)>
+                        ]
+                ] ,
+                [
+                    tlp:index 39 ;
+                    tlp:indexList ( 14 39 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "ไทย" ;
+                    tlp:link
+                        [
+                            tlp:text "ไทย" ;
+                            tlp:url <https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1>
+                        ]
+                ] ,
+                [
+                    tlp:index 40 ;
+                    tlp:indexList ( 14 40 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Українська" ;
+                    tlp:link
+                        [
+                            tlp:text "Українська" ;
+                            tlp:url <https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%86%D1%96>
+                        ]
+                ] ,
+                [
+                    tlp:index 41 ;
+                    tlp:indexList ( 14 41 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "ئۇيغۇرچە / Uyghurche" ;
+                    tlp:link
+                        [
+                            tlp:text "ئۇيغۇرچە / Uyghurche" ;
+                            tlp:url <https://ug.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%84%D9%89%D9%82%D9%84%D8%A7%D8%B1>
+                        ]
+                ] ,
+                [
+                    tlp:index 42 ;
+                    tlp:indexList ( 14 42 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "Tiếng Việt" ;
+                    tlp:link
+                        [
+                            tlp:text "Tiếng Việt" ;
+                            tlp:url <https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Th%C3%A1i_(Th%C3%A1i_Lan)>
+                        ]
+                ] ,
+                [
+                    tlp:index 43 ;
+                    tlp:indexList ( 14 43 0 ) ;
+                    rdf:type tlp:Item ;
+                    rdfs:label "中文" ;
+                    tlp:link
+                        [
+                            tlp:text "中文" ;
+                            tlp:url <https://zh.wikipedia.org/wiki/%E6%B3%B0%E6%97%8F>
+                        ]
+                ]
+        ]
+.

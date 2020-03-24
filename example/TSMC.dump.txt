@@ -1,0 +1,1047 @@
+[] Type: Page
+│  Label: TSMC
+└─ Number of Member: 16
+    [0] Type: Table
+    │   Label: Taiwan Semiconductor Manufacturing Company Limited (TSMC)
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 3
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 35
+            [0, 0, 0] Type: Cell
+            │         Label: 
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png': 'http://en.wikipedia.org/wiki/File:Tsmc.svg'}
+            [0, 0, 1] Type: Cell
+            │         Label: Native name
+            └──────── Style: Emphasize
+            [0, 0, 2] Type: Cell
+            │         Label: Type
+            │         Style: Emphasize
+            └──────── Link: {'text:Type': 'http://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country'}
+            [0, 0, 3] Type: Cell
+            │         Label: Traded as
+            │         Style: Emphasize
+            └──────── Link: {'text:Traded\xa0as': 'http://en.wikipedia.org/wiki/Ticker_symbol'}
+            [0, 0, 4] Type: Cell
+            │         Label: ISIN
+            │         Style: Emphasize
+            └──────── Link: {'text:ISIN': 'http://en.wikipedia.org/wiki/International_Securities_Identification_Number'}
+            [0, 0, 5] Type: Cell
+            │         Label: Industry
+            └──────── Style: Emphasize
+            [0, 0, 6] Type: Cell
+            │         Label: Founded
+            └──────── Style: Emphasize
+            [0, 0, 7] Type: Cell
+            │         Label: Founder
+            └──────── Style: Emphasize
+            [0, 0, 8] Type: Cell
+            │         Label: Headquarters
+            └──────── Style: Emphasize
+            [0, 0, 9] Type: Cell
+            │         Label: Area served
+            └──────── Style: Emphasize
+            [0, 0, 10] Type: Cell
+            │          Label: Key people
+            └───────── Style: Emphasize
+            [0, 0, 11] Type: Cell
+            │          Label: Brands
+            └───────── Style: Emphasize
+            [0, 0, 12] Type: Cell
+            │          Label: Production output
+            └───────── Style: Emphasize
+            [0, 0, 13] Type: Cell
+            │          Label: Services
+            └───────── Style: Emphasize
+            [0, 0, 14] Type: Cell
+            │          Label: Revenue
+            └───────── Style: Emphasize
+            [0, 0, 15] Type: Cell
+            │          Label: Operating income
+            │          Style: Emphasize
+            └───────── Link: {'text:Operating income': 'http://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes'}
+            [0, 0, 16] Type: Cell
+            │          Label: Net income
+            │          Style: Emphasize
+            └───────── Link: {'text:Net income': 'http://en.wikipedia.org/wiki/Net_income'}
+            [0, 0, 17] Type: Cell
+            │          Label: Total assets
+            │          Style: Emphasize
+            └───────── Link: {'text:Total assets': 'http://en.wikipedia.org/wiki/Asset'}
+            [0, 0, 18] Type: Cell
+            │          Label: Total equity
+            │          Style: Emphasize
+            └───────── Link: {'text:Total equity': 'http://en.wikipedia.org/wiki/Equity_(finance)'}
+            [0, 0, 19] Type: Cell
+            │          Label: Number of employees
+            └───────── Style: Emphasize
+            [0, 0, 20] Type: Cell
+            │          Label: Subsidiaries
+            │          Style: Emphasize
+            └───────── Link: {'text:Subsidiaries': 'http://en.wikipedia.org/wiki/Subsidiary'}
+            [0, 0, 21] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 0, 22] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 0, 23] Type: Cell
+            │          Label: Chinese name
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 24] Type: Cell
+            │          Label: Traditional Chinese
+            │          Style: Emphasize
+            └───────── Link: {'text:Traditional\xa0Chinese': 'http://en.wikipedia.org/wiki/Traditional_Chinese_characters'}
+            [0, 0, 25] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 0, 26] Type: 
+            [0, 0, 27] Type: 
+            [0, 0, 28] Type: 
+            [0, 0, 29] Type: 
+            [0, 0, 30] Type: 
+            [0, 0, 31] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 0, 32] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 0, 33] Type: Cell
+            │          Label: Website
+            └───────── Style: Emphasize
+            [0, 0, 34] Type: Cell
+            │          Label: Footnotes / references
+            └───────── Style: GrpSpan
+        [0, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 35
+            [0, 1, 0] Type: Cell
+            │         Label: 
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png': 'http://en.wikipedia.org/wiki/File:Tsmc.svg'}
+            [0, 1, 1] Type: Cell
+            └──────── Label: 臺灣積體電路製造股份有限公司
+            [0, 1, 2] Type: Cell
+            │         Label: Public
+            └──────── Link: {'text:Public': 'http://en.wikipedia.org/wiki/Public_company'}
+            [0, 1, 3] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 2
+                [0, 1, 3, 0] Type: Item
+                └─────────── Label: TWSE: 2330
+                [0, 1, 3, 1] Type: Item
+                └─────────── Label: NYSE: TSM
+            [0, 1, 4] Type: Cell
+            │         Label: US8740391003
+            └──────── Link: {'text:US8740391003': 'https://tools.wmflabs.org/isin/?language=en&isin=US8740391003', 'image:http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png': 'https://www.wikidata.org/wiki/Q713418?uselang=en#P946'}
+            [0, 1, 5] Type: Cell
+            │         Label: Semiconductors
+            └──────── Link: {'text:Semiconductors': 'http://en.wikipedia.org/wiki/Semiconductor'}
+            [0, 1, 6] Type: Cell
+            │         Label: Industrial Technology Research Institute, Hsinchu, Taiwan
+(1987; 33 years ago (1987))
+            └──────── Link: {'text:Industrial Technology Research Institute': 'http://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute', 'text:Hsinchu': 'http://en.wikipedia.org/wiki/Hsinchu'}
+            [0, 1, 7] Type: Cell
+            │         Label: Morris Chang
+            └──────── Link: {'text:Morris Chang': 'http://en.wikipedia.org/wiki/Morris_Chang'}
+            [0, 1, 8] Type: Cell
+            │         Label: Hsinchu Science and Industrial Park, Taiwan
+            └──────── Link: {'text:Hsinchu Science and Industrial Park': 'http://en.wikipedia.org/wiki/Hsinchu_Science_and_Industrial_Park'}
+            [0, 1, 9] Type: Cell
+            └──────── Label: Worldwide
+            [0, 1, 10] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 2
+                [0, 1, 10, 0] Type: Item
+                └──────────── Label: Mark Liu (Chairman)
+                [0, 1, 10, 1] Type: Item
+                └──────────── Label: C.C. Wei (CEO and Vice Chairman)
+            [0, 1, 11] Type: Cell
+            └───────── Label: CyberShuttle prototyping service, Open Innovation Platform, eFoundry online services
+            [0, 1, 12] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [0, 1, 12, 0] Type: Item
+                └──────────── Label: 10,745.000 12-inch equivalent wafers (2018)
+            [0, 1, 13] Type: Cell
+            │          Label: Manufacture of Integrated circuits and related services
+            └───────── Link: {'text:Integrated circuits': 'http://en.wikipedia.org/wiki/Integrated_circuit'}
+            [0, 1, 14] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [0, 1, 14, 0] Type: Item
+                └──────────── Label: TWD$1031,473.557 billion (US$35.000 billion) (2018)
+            [0, 1, 15] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [0, 1, 15, 0] Type: Item
+                └──────────── Label: NT$383,623.524 billion (US$12.712 billion) (2018)
+            [0, 1, 16] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [0, 1, 16, 0] Type: Item
+                └──────────── Label: NT$351,184.406 billion (US$11.638 billion) (2018)
+            [0, 1, 17] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [0, 1, 17, 0] Type: Item
+                └──────────── Label: NT$1,991.861 billion (US$67.023 billion) (2018)
+            [0, 1, 18] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 1
+                [0, 1, 18, 0] Type: Item
+                └──────────── Label: NT$1,552.759 billion (US$52.248 billion) (2018)
+            [0, 1, 19] Type: Cell
+            └───────── Label: 48,752 (2018)
+            [0, 1, 20] Type: Cell
+            │          Label: 
+            └───────── Number of Member: 3
+                [0, 1, 20, 0] Type: Item
+                └──────────── Label: WaferTech
+                [0, 1, 20, 1] Type: Item
+                └──────────── Label: TSMC PRC
+                [0, 1, 20, 2] Type: Item
+                └──────────── Label: SSMC
+            [0, 1, 21] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 1, 22] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 1, 23] Type: Cell
+            │          Label: Chinese name
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 24] Type: Cell
+            └───────── Label: 台灣積體電路製造公司
+            [0, 1, 25] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 1, 26] Type: 
+            [0, 1, 27] Type: 
+            [0, 1, 28] Type: 
+            [0, 1, 29] Type: 
+            [0, 1, 30] Type: 
+            [0, 1, 31] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 1, 32] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 1, 33] Type: Cell
+            │          Label: www.tsmc.com
+            └───────── Link: {'text:www.tsmc.com': 'http://www.tsmc.com'}
+            [0, 1, 34] Type: Cell
+            │          Label: Footnotes / references
+            └───────── Style: GrpSpan
+    [1] Type: List
+    │   Label: Contents
+    │   Dimension: 2
+    └── Number of Member: 7
+        [1, 0] Type: Item, List
+        │      Label: Overview
+        │      Link: {'text:Overview': 'http://en.wikipedia.org/wiki/TSMC#Overview'}
+        └───── Number of Member: 1
+            [1, 0, 0] Type: Item
+            │         Label: GlobalFoundries vs. TSMC et al
+            └──────── Link: {'text:GlobalFoundries vs. TSMC et al': 'http://en.wikipedia.org/wiki/TSMC#GlobalFoundries_vs._TSMC_et_al'}
+        [1, 1] Type: Item
+        │      Label: Production capabilities
+        └───── Link: {'text:Production capabilities': 'http://en.wikipedia.org/wiki/TSMC#Production_capabilities'}
+        [1, 2] Type: Item, List
+        │      Label: Facilities
+        │      Link: {'text:Facilities': 'http://en.wikipedia.org/wiki/TSMC#Facilities'}
+        └───── Number of Member: 1
+            [1, 2, 0] Type: Item
+            │         Label: WaferTech subsidiary
+            └──────── Link: {'text:WaferTech subsidiary': 'http://en.wikipedia.org/wiki/TSMC#WaferTech_subsidiary'}
+        [1, 3] Type: Item
+        │      Label: Sales and market trends
+        └───── Link: {'text:Sales and market trends': 'http://en.wikipedia.org/wiki/TSMC#Sales_and_market_trends'}
+        [1, 4] Type: Item
+        │      Label: See also
+        └───── Link: {'text:See also': 'http://en.wikipedia.org/wiki/TSMC#See_also'}
+        [1, 5] Type: Item
+        │      Label: References
+        └───── Link: {'text:References': 'http://en.wikipedia.org/wiki/TSMC#References'}
+        [1, 6] Type: Item
+        │      Label: External links
+        └───── Link: {'text:External links': 'http://en.wikipedia.org/wiki/TSMC#External_links'}
+    [2] Type: List
+    │   Label: Production capabilities
+    │   Dimension: 1
+    └── Number of Member: 14
+        [2, 0] Type: Item
+        └───── Label: 0.13 μm (options: general-purpose (G), low-power (LP), high-performance low-voltage (LV)).
+        [2, 1] Type: Item
+        └───── Label: 90 nm (based upon 80GC from Q4/2006),
+        [2, 2] Type: Item
+        └───── Label: 65 nm (options: general-purpose (GP), low-power (LP), ultra-low power (ULP), LPG).
+        [2, 3] Type: Item
+        └───── Label: 55 nm (options: general-purpose (GP), low-power (LP)).
+        [2, 4] Type: Item
+        └───── Label: 40 nm (options: general-purpose (GP), low-power (LP), ultra-low power (ULP)).
+        [2, 5] Type: Item
+        └───── Label: 28 nm (options: high-performance (HP), high-performance mobile (HPM), high-performance computing (HPC), high-performance low-power(HPL), low-power (LP), high-performance computing Plus (HPC+), ultra-low power (ULP)) with HKMG.
+        [2, 6] Type: Item
+        └───── Label: 22 nm (options: ultra-low power (ULP), ultra-low leakage (ULL))
+        [2, 7] Type: Item
+        └───── Label: 20 nm
+        [2, 8] Type: Item
+        └───── Label: 16 nm (options: FinFET (FF), FinFET Plus (FF+), FinFET Compact (FFC))
+        [2, 9] Type: Item
+        │      Label: 12 nm (options: FinFET Compact (FFC), FinFET NVIDIA (FFN)), enhanced version of 16 nm process.
+        └───── Link: {'text:NVIDIA': 'http://en.wikipedia.org/wiki/Nvidia'}
+        [2, 10] Type: Item
+        └────── Label: 10 nm (options: FinFET (FF))
+        [2, 11] Type: Item
+        └────── Label: 7 nm (options: FinFET (FF), FinFET Plus (FF+), FinFET Pro (FFP), high-performance computing (HPC))
+        [2, 12] Type: Item
+        └────── Label: 6 nm (options: FinFET (FF)), risk production starting in Q1 2020, enhanced version of 7 nm process.
+        [2, 13] Type: Item
+        └────── Label: 5 nm (options: FinFET (FF)), risk production started in Q2 2019, mass production targets in Q2 2020.
+    [3] Type: List
+    │   Label: Facilities
+    │   Dimension: 1
+    └── Number of Member: 7
+        [3, 0] Type: Item
+        └───── Label: Three 300 mm (12 inch) "GIGAFABs" in operation in Taiwan: Fab 12 (Hsinchu), 14 (Tainan), 15 (Taichung)
+        [3, 1] Type: Item
+        │      Label: Four 200 mm (8 inch) wafer fabs in full operation in Taiwan: Fab 3, 5, 8 (Hsinchu) , 6 (Tainan)
+        └───── Link: {'text:wafer': 'http://en.wikipedia.org/wiki/Wafer_(electronics)'}
+        [3, 2] Type: Item
+        └───── Label: TSMC China Company Limited, 200 mm (8 inch): Fab 10 (Shanghai)
+        [3, 3] Type: Item
+        └───── Label: TSMC Nanjing Company Limited, 300 mm (12 inch): Fab 16 (Nanjing)
+        [3, 4] Type: Item
+        │      Label: WaferTech L.L.C., TSMC's wholly owned US subsidiary, a 200 mm (8 inch) fab: Fab 11 (Camas, Washington)
+        └───── Link: {'text:Camas, Washington': 'http://en.wikipedia.org/wiki/Camas,_Washington'}
+        [3, 5] Type: Item
+        │      Label: SSMC (Systems on Silicon Manufacturing Co.), a joint venture with NXP Semiconductors in Singapore, 200 mm (8 inch), where production started at the end of 2002
+        └───── Link: {'text:SSMC': 'http://en.wikipedia.org/wiki/SSMC', 'text:joint venture': 'http://en.wikipedia.org/wiki/Joint_venture', 'text:NXP Semiconductors': 'http://en.wikipedia.org/wiki/NXP_Semiconductors', 'text:Singapore': 'http://en.wikipedia.org/wiki/Singapore'}
+        [3, 6] Type: Item
+        └───── Label: One 150 mm (6 inch) wafer fab in full operation in Taiwan: Fab 2 (Hsinchu)
+    [4] Type: List
+    │   Label: Facilities
+    │   Dimension: 1
+    └── Number of Member: 1
+        [4, 0] Type: Item
+        └───── Label: Fab 18,  300 mm (12 inch) (Tainan), phase 1 equipment installation completed in March 2019
+    [5] Type: Table
+    │   Label: Yearly revenues in million NT$
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 10
+        [5, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 0, 0] Type: Cell
+            │         Label: 1997
+            └──────── Style: Emphasize
+            [5, 0, 1] Type: Cell
+            └──────── Label: 43,927
+            [5, 0, 2] Type: Cell
+            │         Label: 2007
+            └──────── Style: Emphasize
+            [5, 0, 3] Type: Cell
+            └──────── Label: 322,631
+            [5, 0, 4] Type: Cell
+            │         Label: 2017
+            └──────── Style: Emphasize
+            [5, 0, 5] Type: Cell
+            └──────── Label: 977,477
+        [5, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 1, 0] Type: Cell
+            │         Label: 1998
+            └──────── Style: Emphasize
+            [5, 1, 1] Type: Cell
+            └──────── Label: 50,422
+            [5, 1, 2] Type: Cell
+            │         Label: 2008
+            └──────── Style: Emphasize
+            [5, 1, 3] Type: Cell
+            └──────── Label: 333,158
+            [5, 1, 4] Type: Cell
+            │         Label: 2018
+            └──────── Style: Emphasize
+            [5, 1, 5] Type: Cell
+            └──────── Label: 1,031,474
+        [5, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 2, 0] Type: Cell
+            │         Label: 1999
+            └──────── Style: Emphasize
+            [5, 2, 1] Type: Cell
+            └──────── Label: 73,067
+            [5, 2, 2] Type: Cell
+            │         Label: 2009
+            └──────── Style: Emphasize
+            [5, 2, 3] Type: Cell
+            └──────── Label: 295,742
+            [5, 2, 4] Type: 
+            [5, 2, 5] Type: 
+        [5, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 3, 0] Type: Cell
+            │         Label: 2000
+            └──────── Style: Emphasize
+            [5, 3, 1] Type: Cell
+            └──────── Label: 166,189
+            [5, 3, 2] Type: Cell
+            │         Label: 2010
+            └──────── Style: Emphasize
+            [5, 3, 3] Type: Cell
+            └──────── Label: 419,538
+            [5, 3, 4] Type: 
+            [5, 3, 5] Type: 
+        [5, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 4, 0] Type: Cell
+            │         Label: 2001
+            └──────── Style: Emphasize
+            [5, 4, 1] Type: Cell
+            └──────── Label: 125,881
+            [5, 4, 2] Type: Cell
+            │         Label: 2011
+            └──────── Style: Emphasize
+            [5, 4, 3] Type: Cell
+            └──────── Label: 427,081
+            [5, 4, 4] Type: 
+            [5, 4, 5] Type: 
+        [5, 5] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 5, 0] Type: Cell
+            │         Label: 2002
+            └──────── Style: Emphasize
+            [5, 5, 1] Type: Cell
+            └──────── Label: 162,301
+            [5, 5, 2] Type: Cell
+            │         Label: 2012
+            └──────── Style: Emphasize
+            [5, 5, 3] Type: Cell
+            └──────── Label: 506,754
+            [5, 5, 4] Type: 
+            [5, 5, 5] Type: 
+        [5, 6] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 6, 0] Type: Cell
+            │         Label: 2003
+            └──────── Style: Emphasize
+            [5, 6, 1] Type: Cell
+            └──────── Label: 202,997
+            [5, 6, 2] Type: Cell
+            │         Label: 2013
+            └──────── Style: Emphasize
+            [5, 6, 3] Type: Cell
+            └──────── Label: 597,024
+            [5, 6, 4] Type: 
+            [5, 6, 5] Type: 
+        [5, 7] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 7, 0] Type: Cell
+            │         Label: 2004
+            └──────── Style: Emphasize
+            [5, 7, 1] Type: Cell
+            └──────── Label: 257,213
+            [5, 7, 2] Type: Cell
+            │         Label: 2014
+            └──────── Style: Emphasize
+            [5, 7, 3] Type: Cell
+            └──────── Label: 762,806
+            [5, 7, 4] Type: 
+            [5, 7, 5] Type: 
+        [5, 8] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 8, 0] Type: Cell
+            │         Label: 2005
+            └──────── Style: Emphasize
+            [5, 8, 1] Type: Cell
+            └──────── Label: 266,565
+            [5, 8, 2] Type: Cell
+            │         Label: 2015
+            └──────── Style: Emphasize
+            [5, 8, 3] Type: Cell
+            └──────── Label: 843,497
+            [5, 8, 4] Type: 
+            [5, 8, 5] Type: 
+        [5, 9] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 6
+            [5, 9, 0] Type: Cell
+            │         Label: 2006
+            └──────── Style: Emphasize
+            [5, 9, 1] Type: Cell
+            └──────── Label: 317,407
+            [5, 9, 2] Type: Cell
+            │         Label: 2016
+            └──────── Style: Emphasize
+            [5, 9, 3] Type: Cell
+            └──────── Label: 947,938
+            [5, 9, 4] Type: 
+            [5, 9, 5] Type: 
+    [6] Type: Table
+    │   Label: Quarterly revenues in million NT$
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 5
+        [6, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 8
+            [6, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [6, 0, 1] Type: Cell
+            │         Label: 2012
+            └──────── Style: Emphasize
+            [6, 0, 2] Type: Cell
+            │         Label: 2013
+            └──────── Style: Emphasize
+            [6, 0, 3] Type: Cell
+            │         Label: 2014
+            └──────── Style: Emphasize
+            [6, 0, 4] Type: Cell
+            │         Label: 2015
+            └──────── Style: Emphasize
+            [6, 0, 5] Type: Cell
+            │         Label: 2016
+            └──────── Style: Emphasize
+            [6, 0, 6] Type: Cell
+            │         Label: 2017
+            └──────── Style: Emphasize
+            [6, 0, 7] Type: Cell
+            │         Label: 2018
+            └──────── Style: Emphasize
+        [6, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 8
+            [6, 1, 0] Type: Cell
+            │         Label: Q1
+            └──────── Style: Emphasize
+            [6, 1, 1] Type: Cell
+            └──────── Label: 105,615
+            [6, 1, 2] Type: Cell
+            └──────── Label: 132,755
+            [6, 1, 3] Type: Cell
+            └──────── Label: 148,215
+            [6, 1, 4] Type: Cell
+            └──────── Label: 222,034
+            [6, 1, 5] Type: Cell
+            └──────── Label: 203,495
+            [6, 1, 6] Type: Cell
+            └──────── Label: 233,914
+            [6, 1, 7] Type: Cell
+            └──────── Label: 248,079
+        [6, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 8
+            [6, 2, 0] Type: Cell
+            │         Label: Q2
+            └──────── Style: Emphasize
+            [6, 2, 1] Type: Cell
+            └──────── Label: 128,186
+            [6, 2, 2] Type: Cell
+            └──────── Label: 155,886
+            [6, 2, 3] Type: Cell
+            └──────── Label: 183,020
+            [6, 2, 4] Type: Cell
+            └──────── Label: 205,440
+            [6, 2, 5] Type: Cell
+            └──────── Label: 221,810
+            [6, 2, 6] Type: Cell
+            └──────── Label: 213,855
+            [6, 2, 7] Type: Cell
+            └──────── Label: 233,276
+        [6, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 8
+            [6, 3, 0] Type: Cell
+            │         Label: Q3
+            └──────── Style: Emphasize
+            [6, 3, 1] Type: Cell
+            └──────── Label: 141,499
+            [6, 3, 2] Type: Cell
+            └──────── Label: 162,577
+            [6, 3, 3] Type: Cell
+            └──────── Label: 209,050
+            [6, 3, 4] Type: Cell
+            └──────── Label: 212,505
+            [6, 3, 5] Type: Cell
+            └──────── Label: 260,406
+            [6, 3, 6] Type: Cell
+            └──────── Label: 252,107
+            [6, 3, 7] Type: Cell
+            └──────── Label: 260,348
+        [6, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 8
+            [6, 4, 0] Type: Cell
+            │         Label: Q4
+            └──────── Style: Emphasize
+            [6, 4, 1] Type: Cell
+            └──────── Label: 131,445
+            [6, 4, 2] Type: Cell
+            └──────── Label: 145,806
+            [6, 4, 3] Type: Cell
+            └──────── Label: 222,520
+            [6, 4, 4] Type: Cell
+            └──────── Label: 203,518
+            [6, 4, 5] Type: Cell
+            └──────── Label: 262,227
+            [6, 4, 6] Type: Cell
+            └──────── Label: 277,570
+            [6, 4, 7] Type: Cell
+            └──────── Label: 289,771
+    [7] Type: List
+    │   Label: See also
+    │   Dimension: 1
+    └── Number of Member: 10
+        [7, 0] Type: Item
+        │      Label: 5 nanometer
+        └───── Link: {'text:5 nanometer': 'http://en.wikipedia.org/wiki/5_nanometer'}
+        [7, 1] Type: Item
+        │      Label: List of companies in Taiwan
+        └───── Link: {'text:List of companies in Taiwan': 'http://en.wikipedia.org/wiki/List_of_companies_in_Taiwan'}
+        [7, 2] Type: Item
+        │      Label: List of semiconductor fabrication plants
+        └───── Link: {'text:List of semiconductor fabrication plants': 'http://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants'}
+        [7, 3] Type: Item
+        │      Label: Moore's law
+        └───── Link: {"text:Moore's law": 'http://en.wikipedia.org/wiki/Moore%27s_law'}
+        [7, 4] Type: Item
+        │      Label: Pure-play semiconductor foundry
+        └───── Link: {'text:Pure-play semiconductor foundry': 'http://en.wikipedia.org/wiki/Pure-play_semiconductor_foundry'}
+        [7, 5] Type: Item
+        │      Label: Quantum tunnelling
+        └───── Link: {'text:Quantum tunnelling': 'http://en.wikipedia.org/wiki/Quantum_tunnelling'}
+        [7, 6] Type: Item
+        │      Label: Semiconductor device fabrication
+        └───── Link: {'text:Semiconductor device fabrication': 'http://en.wikipedia.org/wiki/Semiconductor_device_fabrication'}
+        [7, 7] Type: Item
+        │      Label: United Microelectronics Corporation
+        └───── Link: {'text:United Microelectronics Corporation': 'http://en.wikipedia.org/wiki/United_Microelectronics_Corporation'}
+        [7, 8] Type: Item
+        │      Label: Very-large-scale integration
+        └───── Link: {'text:Very-large-scale integration': 'http://en.wikipedia.org/wiki/Very-large-scale_integration'}
+        [7, 9] Type: Item
+        │      Label: North South divide in Taiwan § Attractiveness
+        └───── Link: {'text:North South divide in Taiwan § Attractiveness': 'http://en.wikipedia.org/wiki/North%E2%80%93South_divide_in_Taiwan#Attractiveness'}
+    [8] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 69
+        [8, 0] Type: Item
+        │      Label: "TSMC 2018 Annual Report Website". www.tsmc.com.
+        └───── Link: {'text:"TSMC 2018 Annual Report Website"': 'https://www.tsmc.com/download/ir/annualReports/2018/english/index.html'}
+        [8, 1] Type: Item
+        │      Label: "Taiwan Semiconductor Manufacturing Company Limited". TSMC. Retrieved 19 May 2014.
+        └───── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'http://www.tsmc.com'}
+        [8, 2] Type: Item
+        │      Label: "Advanced Technology Key to Strong Foundry Revenue per Wafer". IC Insights. 12 October 2018. Retrieved 14 July 2019.
+        └───── Link: {'text:"Advanced Technology Key to Strong Foundry Revenue per Wafer"': 'http://www.icinsights.com/news/bulletins/advanced-technology-key-to-strong-foundry-revenue-per-wafer/'}
+        [8, 3] Type: Item
+        │      Label: "Taiwan Semiconductor: My Top Semiconductor Pick For 2020", Seeking Alpha
+        └───── Link: {'text:"Taiwan Semiconductor: My Top Semiconductor Pick For 2020"': 'https://seekingalpha.com/article/4316247-taiwan-semiconductor-top-semiconductor-pick-for-2020'}
+        [8, 4] Type: Item
+        │      Label: "Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That's Good News for Chip Stocks.", Barron's
+        └───── Link: {'text:"Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That\'s Good News for Chip Stocks."': 'https://www.barrons.com/articles/taiwan-semiconductor-tsmc-capex-budget-semiconductor-equipment-chip-stocks-51579192516'}
+        [8, 5] Type: Item
+        │      Label: "About TSC: Company Profile". Taiwan Semiconductor. Taiwan Semiconductor was established in 1979 and remains under the direction of its founder and CEO, Arthur Wang. The company has grown from its beginnings as a local manufacturer, to a global enterprise with 2,000 employees. Taiwan Semiconductor is publicly traded on the Stock Exchange Corporation of Taiwan. Recognized for more than 40 years for its core competence in discrete Power Rectifiers, Taiwan Semiconductor has expanded its product portfolio to include Trench Schottkys,  MOSFETs, Power Transistors, LED Driver ICs, Analog ICs and ESD Protection Devices, and now provides a complete solution from one source.
+        └───── Link: {'text:"About TSC: Company Profile"': 'https://www.taiwansemi.com/en/about'}
+        [8, 6] Type: Item
+        │      Label: "Taiwan Semiconductor Co Ltd - Company Profile and News". Bloomberg.
+        └───── Link: {'text:"Taiwan Semiconductor Co Ltd - Company Profile and News"': 'https://www.bloomberg.com/profile/company/5425:TT'}
+        [8, 7] Type: Item
+        │      Label: "Company Profile". TSMC. Retrieved 20 December 2010.
+        └───── Link: {'text:"Company Profile"': 'http://www.tsmc.com/english/aboutTSMC/company_profile.htm'}
+        [8, 8] Type: Item
+        │      Label: "D&R Foundry Corner". Design & Reuse. Retrieved 18 May 2014.
+        └───── Link: {'text:"D&R Foundry Corner"': 'http://www.design-reuse.com/foundry/technology/?prov=20'}
+        [8, 9] Type: Item
+        │      Label: "Corporate Executives". TSMC. Retrieved 20 June 2018.
+        └───── Link: {'text:"Corporate Executives"': 'http://www.tsmc.com/english/aboutTSMC/executives.htm'}
+        [8, 10] Type: Item
+        └────── Label: Abrams, Randy (25 November 2013), Asia Semiconductor Sector (Sector Review), Asia Pacific Equity Research, Credit Suisse, pp. 1, 3
+        [8, 11] Type: Item
+        │       Label: "Morris Chang on Altera and Intel". SemiWiki. 25 April 2013. Retrieved 23 May 2014.
+        └────── Link: {'text:"Morris Chang on Altera and Intel"': 'http://www.semiwiki.com/forum/content/2272-morris-chang-altera-intel.html'}
+        [8, 12] Type: Item
+        │       Label: "Intel Outsourcing Some Atom Manufacturing to TSMC". The Oregonian. 2 March 2009.
+        └────── Link: {'text:"Intel Outsourcing Some Atom Manufacturing to TSMC"': 'http://www.oregonlive.com/business/index.ssf/2009/03/intel_outsourcing_some_atom_ma.html'}
+        [8, 13] Type: Item
+        │       Label: "STMicroelectronics envisage la création de deux usines de puces avec l'aide des Etats français et italien". Ousine Nouvelle. 9 October 2017.
+        └────── Link: {'text:"STMicroelectronics envisage la création de deux usines de puces avec l\'aide des Etats français et italien"': 'https://www.usinenouvelle.com/article/stmicroelectronics-envisage-la-creation-de-deux-usines-de-puces-avec-l-aide-des-etats-francais-et-italien.N597638'}
+        [8, 14] Type: Item
+        │       Label: Lisa Wang (21 December 2010). "TSMC plans to increase research spending". Taipei Times. Retrieved 20 December 2010.
+        └────── Link: {'text:"TSMC plans to increase research spending"': 'http://www.taipeitimes.com/News/biz/archives/2010/12/21/2003491466'}
+        [8, 15] Type: Item
+        │       Label: "TSMC to expand capacity by 30% in 2011". China Knowledge. 8 December 2010. Retrieved 20 December 2010.
+        └────── Link: {'text:"TSMC to expand capacity by 30% in 2011"': 'http://www.chinaknowledge.com/Newswires/News_Detail.aspx?type=1&cat=CMP&NewsID=%2039307'}
+        [8, 16] Type: Item
+        │       Label: "TSMC Board of Directors Meeting Resolutions". TSMC. 13 May 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSMC Board of Directors Meeting Resolutions"': 'http://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=8541&language=E'}
+        [8, 17] Type: Item
+        │       Label: "TSMC forecasts 22 percent Q2 growth". Taipei Times. 18 April 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSMC forecasts 22 percent Q2 growth"': 'http://www.taipeitimes.com/News/biz/archives/2014/04/18/2003588265'}
+        [8, 18] Type: Item
+        │       Label: "TSMC Board of Directors Meeting Resolutions". TSMC. 12 August 2014. Retrieved 16 August 2014.
+        └────── Link: {'text:"TSMC Board of Directors Meeting Resolutions"': 'http://www.tsmc.com/tsmcdotcom/PRListingNewsArchivesAction.do?action=detail&newsid=8701&language=E'}
+        [8, 19] Type: Item
+        │       Label: "TSMC Kicks Off A6 Processor Trial Production with Apple". Chinese Economic News Service. 12 August 2011. Archived from the original on 27 September 2011. Retrieved 13 September 2011.
+        └────── Link: {'text:"TSMC Kicks Off A6 Processor Trial Production with Apple"': 'https://web.archive.org/web/20110927000244/http://cens.com/cens/html/en/news/news_inner_37282.html', 'text:the original': 'http://cens.com/cens/html/en/news/news_inner_37282.html'}
+        [8, 20] Type: Item
+        │       Label: "TSMC Beginning Production Of Apple's New A6 Processor". Techcrunch. 12 August 2011. Retrieved 13 September 2011.
+        └────── Link: {'text:"TSMC Beginning Production Of Apple\'s New A6 Processor"': 'https://techcrunch.com/2011/08/12/tsmc-beginning-production-of-apples-new-a6-processor/'}
+        [8, 21] Type: Item
+        │       Label: "Apple begins receiving shipments of A-series processors from TSMC - report". AppleInsider. 10 July 2014. Retrieved 2 November 2014.
+        └────── Link: {'text:"Apple begins receiving shipments of A-series processors from TSMC - report"': 'http://appleinsider.com/articles/14/07/10/apple-begins-receiving-shipments-of-a-series-processors-from-tsmc---report'}
+        [8, 22] Type: Item
+        │       Label: "TSMC to Snatch All of Apple's A8 chip Orders?". TechNews. 17 February 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSMC to Snatch All of Apple\'s A8 chip Orders?"': 'http://technews.co/2014/02/17/tsmc-to-snatch-all-of-apples-a8-chip-orders/'}
+        [8, 23] Type: Item
+        │       Label: "Apple driving move to 64-bit mobile processors, TSMC says". CNET. 17 April 2014. Retrieved 23 May 2014.
+        └────── Link: {'text:"Apple driving move to 64-bit mobile processors, TSMC says"': 'https://www.cnet.com/news/apple-driving-move-to-64-bit-mobile-processors-says-tsmc/'}
+        [8, 24] Type: Item
+        │       Label: "Apple chips to be 20% of TSMC sales". Taipei Times. 15 April 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"Apple chips to be 20% of TSMC sales"': 'http://www.taipeitimes.com/News/biz/archives/2014/04/15/2003588037'}
+        [8, 25] Type: Item
+        │       Label: "Market capitalization of TSMC reaches a historic high: CEO". AsiaOne Business. 21 December 2010. Retrieved 20 December 2010.
+        └────── Link: {'text:"Market capitalization of TSMC reaches a historic high: CEO"': 'http://business.asiaone.com/Business/News/Story/A1Story20101221-253866.html'}
+        [8, 26] Type: Item
+        │       Label: "FT 500 2013". Financial Times. Retrieved 18 May 2014.
+        └────── Link: {'text:"FT 500 2013"': 'https://www.ft.com/intl/indepth/ft500'}
+        [8, 27] Type: Item
+        │       Label: "TSM". Yahoo! Finance. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSM"': 'https://finance.yahoo.com/q?s=tsm&ql=1'}
+        [8, 28] Type: Item
+        │       Label: Culpan, Tim (22 March 2017). "Chipzilla Got Toppled". Bloomberg Gadfly. Retrieved 22 March 2017.
+        └────── Link: {'text:"Chipzilla Got Toppled"': 'https://www.bloomberg.com/gadfly/articles/2017-03-22/chipzilla-intel-toppled-by-taiwan-s-supplier-to-the-stars'}
+        [8, 29] Type: Item
+        │       Label: eric.millington (26 August 2019). "GLOBALFOUNDRIES Files Patent Infringement Lawsuits Against TSMC In the U.S. and Germany". GLOBALFOUNDRIES. Retrieved 28 August 2019.
+        └────── Link: {'text:"GLOBALFOUNDRIES Files Patent Infringement Lawsuits Against TSMC In the U.S. and Germany"': 'https://www.globalfoundries.com/news-events/press-releases/globalfoundries-files-patent-infringement-lawsuits-against-tsmc-us-and'}
+        [8, 30] Type: Item
+        │       Label: "Media Fact Sheet" (PDF). GlobalFoundries. 25 August 2019.
+        └────── Link: {'text:"Media Fact Sheet"': 'https://www.globalfoundries.com/sites/default/files/media_fact_sheet.pdf'}
+        [8, 31] Type: Item
+        │       Label: "TSMC Will Vigorously Defend its Proprietary Technology in Response to GlobalFoundries Complaints". www.tsmc.com. Retrieved 28 August 2019.
+        └────── Link: {'text:"TSMC Will Vigorously Defend its Proprietary Technology in Response to GlobalFoundries Complaints"': 'https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THPGSTTHTH'}
+        [8, 32] Type: Item
+        │       Label: "TSMC Files Complaints Against GlobalFoundries in U.S., Germany and Singapore for Infringement of 25 Patents to Affirm its Technology Leadership and to Protect Its Customers and Consumers Worldwide". www.tsmc.com. Retrieved 2 October 2019.
+        └────── Link: {'text:"TSMC Files Complaints Against GlobalFoundries in U.S., Germany and Singapore for Infringement of 25 Patents to Affirm its Technology Leadership and to Protect Its Customers and Consumers Worldwide"': 'https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=THGOSTTHTH'}
+        [8, 33] Type: Item
+        │       Label: "TSMC and GLOBALFOUNDRIES Announce Resolution of Global Disputes Through Broad Global Patent Cross-License". www.tsmc.com. Retrieved 29 October 2019.
+        └────── Link: {'text:"TSMC and GLOBALFOUNDRIES Announce Resolution of Global Disputes Through Broad Global Patent Cross-License"': 'https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THHKHIPGTH'}
+        [8, 34] Type: Item
+        │       Label: eric.millington (28 October 2019). "GLOBALFOUNDRIES and TSMC Announce Resolution of Global Disputes Through Broad Global Patent Cross-License". GLOBALFOUNDRIES. Retrieved 30 October 2019.
+        └────── Link: {'text:"GLOBALFOUNDRIES and TSMC Announce Resolution of Global Disputes Through Broad Global Patent Cross-License"': 'https://www.globalfoundries.com/news-events/press-releases/globalfoundries-and-tsmc-announce-resolution-global-disputes-through'}
+        [8, 35] Type: Item
+        │       Label: McGregor, Jim. "Globalfoundries Files Suit Against TSMC – The Outcome Could Have Broad Consequences". Forbes.
+        └────── Link: {'text:"Globalfoundries Files Suit Against TSMC – The Outcome Could Have Broad Consequences"': 'https://www.forbes.com/sites/tiriasresearch/2019/09/11/globalfoundries-files-suit-against-tsmc--the-outcome-could-have-broad-consequences/'}
+        [8, 36] Type: Item
+        │       Label: "TSMC counter-sues US chip rival GlobalFoundries for patent infringement" – via mobile.reuters.com.
+        └────── Link: {'text:"TSMC counter-sues US chip rival GlobalFoundries for patent infringement"': 'https://www.reuters.com/article/db-tsmc-globalfoundries-lawsuit-test-idUSKBN1WG3B5'}
+        [8, 37] Type: Item
+        │       Label: "TSMC accuses GlobalFoundries of infringing 25 patents for node processes | ZDNet". www.zdnet.com.
+        └────── Link: {'text:"TSMC accuses GlobalFoundries of infringing 25 patents for node processes | ZDNet"': 'https://www.zdnet.com/google-amp/article/tsmc-accuses-globalfoundries-of-infringing-25-patents-for-node-processes/'}
+        [8, 38] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/english/dedicatedFoundry/technology/40nm.htm'}
+        [8, 39] Type: Item
+        │       Label: "SemiWiki.com - TSMC Unleashes Aggressive 28nm Strategy!". Retrieved 16 January 2017.
+        └────── Link: {'text:"SemiWiki.com - TSMC Unleashes Aggressive 28nm Strategy!"': 'https://www.semiwiki.com/forum/content/4530-tsmc-unleashes-aggressive-28nm-strategy.html'}
+        [8, 40] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/english/dedicatedFoundry/technology/22nm.htm'}
+        [8, 41] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/english/dedicatedFoundry/technology/20nm.htm'}
+        [8, 42] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/english/dedicatedFoundry/technology/16nm.htm'}
+        [8, 43] Type: Item
+        │       Label: "Report: TSMC to relabel process as 12nm". eeNews Analog. 29 November 2016. Retrieved 21 April 2019.
+        └────── Link: {'text:"Report: TSMC to relabel process as 12nm"': 'https://www.eenewsanalog.com/news/report-tsmc-relabel-process-12nm'}
+        [8, 44] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/english/dedicatedFoundry/technology/10nm.htm'}
+        [8, 45] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". www.tsmc.com. Retrieved 21 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/english/dedicatedFoundry/technology/7nm.htm'}
+        [8, 46] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited" (PDF). Retrieved 16 April 2019.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'https://www.tsmc.com/uploadfile/pr/newspdf/THWQWQTHTH/NEWS_FILE_EN.pdf'}
+        [8, 47] Type: Item
+        │       Label: "Taiwan Semiconductor Manufacturing Company Limited". Retrieved 16 January 2017.
+        └────── Link: {'text:"Taiwan Semiconductor Manufacturing Company Limited"': 'http://www.tsmc.com/english/dedicatedFoundry/technology/advanced_12inch_technology.htm'}
+        [8, 48] Type: Item
+        │       Label: "Fab Locations". TSMC. Retrieved 18 May 2014.
+        └────── Link: {'text:"Fab Locations"': 'http://www.tsmc.com/english/dedicatedFoundry/manufacturing/locations.htm'}
+        [8, 49] Type: Item
+        │       Label: "Business Contacts". TSMC. Retrieved 18 May 2014.
+        └────── Link: {'text:"Business Contacts"': 'http://www.tsmc.com/english/aboutTSMC/business_contacts.htm'}
+        [8, 50] Type: Item
+        │       Label: "UPDATE 1-TSMC says plans $9.4 bln Taiwan plant". Reuters. 16 July 2010. Retrieved 16 July 2010.
+        └────── Link: {'text:"UPDATE 1-TSMC says plans $9.4 bln Taiwan plant"': 'https://www.reuters.com/article/idUSTOE66F03G20100716'}
+        [8, 51] Type: Item
+        │       Label: "Analyst Warns Of Semiconductor Monopoly". Information Week. 21 July 2010. Retrieved 22 July 2010.
+        └────── Link: {'text:"Analyst Warns Of Semiconductor Monopoly"': 'http://www.informationweek.com/news/smb/hardware_software/showArticle.jhtml?articleID=226100063&subSection=Processors'}
+        [8, 52] Type: Item
+        │       Label: "TSMC increases 28nm output". fudzilla. 7 December 2012. Retrieved 19 May 2014.
+        └────── Link: {'text:"TSMC increases 28nm output"': 'http://fudzilla.com/home/item/29751-tsmc-increases-28nm-output'}
+        [8, 53] Type: Item
+        │       Label: "TSMC Acquires PSC Land for New Fab Construction". Taiwan Economic News. 13 January 2011. Archived from the original on 24 July 2011. Retrieved 13 January 2011.
+        └────── Link: {'text:"TSMC Acquires PSC Land for New Fab Construction"': 'https://web.archive.org/web/20110724033015/http://news.cens.com/cens/html/en/news/news_inner_35080.html', 'text:the original': 'http://news.cens.com/cens/html/en/news/news_inner_35080.html'}
+        [8, 54] Type: Item
+        │       Label: "Company News; Chip maker is buying out three WaferTech partners". The New York Times. 15 December 2000. Retrieved 22 May 2014.
+        └────── Link: {'text:"Company News; Chip maker is buying out three WaferTech partners"': 'https://query.nytimes.com/gst/fullpage.html?res=9804EFDB163EF936A25751C1A9669C8B63&n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fM%2fMergers%2c%20Acquisitions%20and%20Divestitures'}
+        [8, 55] Type: Item
+        │       Label: "TSMC". DigiTimes Finance. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSMC"': 'http://www.digitimes.com/finance/company.asp?cid=32'}
+        [8, 56] Type: Item
+        │       Label: "TSMC Quarterly Results". TSMC.
+        └────── Link: {'text:"TSMC Quarterly Results"': 'http://www.tsmc.com/english/investorRelations/quarterly_results.htm'}
+        [8, 57] Type: Item
+        │       Label: "Mobile chips are driving strong demand for TSMC's manufacturing services". Morningstar. 9 May 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"Mobile chips are driving strong demand for TSMC\'s manufacturing services"': 'http://analysisreport.morningstar.com/stock/research?t=TSM&culture=en-US&cur=USD&productcode=MLE'}
+        [8, 58] Type: Item
+        │       Label: "Smartphones, 28nm Tech Drive TSMC 1Q Revenue". EE Times. 17 April 2014. Retrieved 23 May 2014.
+        └────── Link: {'text:"Smartphones, 28nm Tech Drive TSMC 1Q Revenue"': 'http://www.eetimes.com/document.asp?doc_id=1321989'}
+        [8, 59] Type: Item
+        │       Label: "Qualcomm pending to add SMIC to 28nm vendor list". SimmTester.com. 14 March 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"Qualcomm pending to add SMIC to 28nm vendor list"': 'http://www.ddrtester.com/page/news/shownews.asp?num=16016'}
+        [8, 60] Type: Item
+        │       Label: "Qualcomm Snapdragon 800 Processor First to Use TSMC's 28HPM Advanced Process Technology". TSMC. 25 February 2013. Retrieved 18 May 2014.
+        └────── Link: {'text:"Qualcomm Snapdragon 800 Processor First to Use TSMC\'s 28HPM Advanced Process Technology"': 'http://www.prnewswire.com/news-releases/qualcomm-snapdragon-800-processor-first-to-use-tsmcs-28hpm-advanced-process-technology-192959191.html'}
+        [8, 61] Type: Item
+        │       Label: "TSMC banking on 28nm shipments". Taipei Times. 6 June 2013. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSMC banking on 28nm shipments"': 'http://www.taipeitimes.com/News/biz/archives/2013/06/06/2003564057'}
+        [8, 62] Type: Item
+        │       Label: "MediaTek adding more 28nm chip orders at TSMC, UMC due to production defects at Globalfoundries". DigiTimes. 6 May 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"MediaTek adding more 28nm chip orders at TSMC, UMC due to production defects at Globalfoundries"': 'http://www.digitimes.com/news/a20140506PD212.html'}
+        [8, 63] Type: Item
+        │       Label: "TSMC Updates 1Q'14 Guidance". Taipei Times. 1 March 2014. Retrieved 18 May 2014.
+        └────── Link: {'text:"TSMC Updates 1Q\'14 Guidance"': 'http://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=8381&language=E'}
+        [8, 64] Type: Item
+        │       Label: "TSMC Reports Second Quarter EPS of NT$2.30". TSMC. 16 July 2014. Retrieved 16 August 2014.
+        └────── Link: {'text:"TSMC Reports Second Quarter EPS of NT$2.30"': 'http://www.tsmc.com/tsmcdotcom/PRListingNewsArchivesAction.do?action=detail&newsid=8661&language=E'}
+        [8, 65] Type: Item
+        │       Label: "TSMC extends 28nm production lead time to 16 weeks". DigiTimes. 9 May 2014. Retrieved 17 May 2014.
+        └────── Link: {'text:"TSMC extends 28nm production lead time to 16 weeks"': 'http://www.digitimes.com/news/a20140509PD207.html'}
+        [8, 66] Type: Item
+        │       Label: "TSMC 4Q14 production capacity almost fully booked". DigiTimes. 14 August 2014. Retrieved 16 August 2014.
+        └────── Link: {'text:"TSMC 4Q14 production capacity almost fully booked"': 'http://www.digitimes.com/news/a20140814PD214.html'}
+        [8, 67] Type: Item
+        │       Label: "TSMC revenue shrinks as clients adjust inventories". Taipei Times. 11 December 2014. Retrieved 6 January 2015.
+        └────── Link: {'text:"TSMC revenue shrinks as clients adjust inventories"': 'http://www.taipeitimes.com/News/biz/archives/2014/12/11/2003606440'}
+        [8, 68] Type: Item
+        │       Label: "ARM Partnered With TSMC For 10nm FinFET Processors". GSM Insider. Archived from the original on 13 October 2014. Retrieved 8 October 2014.
+        └────── Link: {'text:"ARM Partnered With TSMC For 10nm FinFET Processors"': 'https://web.archive.org/web/20141013181149/http://gsminsider.com/2014/10/arm-partnered-tsmc-10nm-finfet-processors/', 'text:the original': 'http://gsminsider.com/2014/10/arm-partnered-tsmc-10nm-finfet-processors/'}
+    [9] Type: List
+    │   Label: External links
+    │   Dimension: 1
+    └── Number of Member: 1
+        [9, 0] Type: Item
+        │      Label: Official website
+        └───── Link: {'text:Official website': 'http://www.tsmc.com', 'image:http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png': 'https://www.wikidata.org/wiki/Q713418#P856'}
+    [10] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 10
+        [10, 0] Type: Item
+        │       Label: Taiwanese companies established in 1987
+        └────── Link: {'text:Taiwanese companies established in 1987': 'http://en.wikipedia.org/wiki/Category:Taiwanese_companies_established_in_1987'}
+        [10, 1] Type: Item
+        │       Label: Manufacturing companies based in Hsinchu
+        └────── Link: {'text:Manufacturing companies based in Hsinchu': 'http://en.wikipedia.org/wiki/Category:Manufacturing_companies_based_in_Hsinchu'}
+        [10, 2] Type: Item
+        │       Label: Companies listed on the New York Stock Exchange
+        └────── Link: {'text:Companies listed on the New York Stock Exchange': 'http://en.wikipedia.org/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange'}
+        [10, 3] Type: Item
+        │       Label: Companies listed on the Taiwan Stock Exchange
+        └────── Link: {'text:Companies listed on the Taiwan Stock Exchange': 'http://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Taiwan_Stock_Exchange'}
+        [10, 4] Type: Item
+        │       Label: Electronics companies of Taiwan
+        └────── Link: {'text:Electronics companies of Taiwan': 'http://en.wikipedia.org/wiki/Category:Electronics_companies_of_Taiwan'}
+        [10, 5] Type: Item
+        │       Label: Semiconductor companies of Taiwan
+        └────── Link: {'text:Semiconductor companies of Taiwan': 'http://en.wikipedia.org/wiki/Category:Semiconductor_companies_of_Taiwan'}
+        [10, 6] Type: Item
+        │       Label: Foundry semiconductor companies
+        └────── Link: {'text:Foundry semiconductor companies': 'http://en.wikipedia.org/wiki/Category:Foundry_semiconductor_companies'}
+        [10, 7] Type: Item
+        │       Label: Private equity portfolio companies
+        └────── Link: {'text:Private equity portfolio companies': 'http://en.wikipedia.org/wiki/Category:Private_equity_portfolio_companies'}
+        [10, 8] Type: Item
+        │       Label: Taiwanese brands
+        └────── Link: {'text:Taiwanese brands': 'http://en.wikipedia.org/wiki/Category:Taiwanese_brands'}
+        [10, 9] Type: Item
+        │       Label: Technology companies of Taiwan
+        └────── Link: {'text:Technology companies of Taiwan': 'http://en.wikipedia.org/wiki/Category:Technology_companies_of_Taiwan'}
+    [11] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [11, 0] Type: Item
+        │       Label: EngvarB from August 2016
+        └────── Link: {'text:EngvarB from August 2016': 'http://en.wikipedia.org/wiki/Category:EngvarB_from_August_2016'}
+        [11, 1] Type: Item
+        │       Label: Use dmy dates from August 2016
+        └────── Link: {'text:Use dmy dates from August 2016': 'http://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2016'}
+        [11, 2] Type: Item
+        │       Label: Pages using deprecated image syntax
+        └────── Link: {'text:Pages using deprecated image syntax': 'http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax'}
+        [11, 3] Type: Item
+        │       Label: Articles containing Chinese-language text
+        └────── Link: {'text:Articles containing Chinese-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text'}
+        [11, 4] Type: Item
+        │       Label: Articles containing traditional Chinese-language text
+        └────── Link: {'text:Articles containing traditional Chinese-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_traditional_Chinese-language_text'}
+        [11, 5] Type: Item
+        │       Label: All articles with unsourced statements
+        └────── Link: {'text:All articles with unsourced statements': 'http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements'}
+        [11, 6] Type: Item
+        │       Label: Articles with unsourced statements from May 2014
+        └────── Link: {'text:Articles with unsourced statements from May 2014': 'http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_May_2014'}
+        [11, 7] Type: Item
+        │       Label: Commons category link from Wikidata
+        └────── Link: {'text:Commons category link from Wikidata': 'http://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata'}
+    [12] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [12, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/TSMC'}
+        [12, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/TSMC'}
+        [12, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [12, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [12, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=TSMC&oldid=946609630'}
+        [12, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=TSMC&action=info'}
+        [12, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q713418'}
+        [12, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=TSMC&id=946609630&wpFormIdentifier=titleform'}
+    [13] Type: List
+    │    Label: In other projects
+    │    Dimension: 1
+    └─── Number of Member: 1
+        [13, 0] Type: Item
+        │       Label: Wikimedia Commons
+        └────── Link: {'text:Wikimedia Commons': 'https://commons.wikimedia.org/wiki/Category:TSMC'}
+    [14] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [14, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=TSMC'}
+        [14, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=TSMC&action=show-download-screen'}
+        [14, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=TSMC&printable=yes'}
+    [15] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 26
+        [15, 0] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9_%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86_%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A3%D8%B4%D8%A8%D8%A7%D9%87_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9'}
+        [15, 1] Type: Item
+        │       Label: تۆرکجه
+        └────── Link: {'text:تۆرکجه': 'https://azb.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C'}
+        [15, 2] Type: Item
+        │       Label: Bân-lâm-gú
+        └────── Link: {'text:Bân-lâm-gú': 'https://zh-min-nan.wikipedia.org/wiki/T%C3%A2i-o%C3%A2n_Chek-th%C3%A9_Ti%C4%81n-l%C5%8D%CD%98_Ch%C3%A8-ch%C5%8D'}
+        [15, 3] Type: Item
+        │       Label: Català
+        └────── Link: {'text:Català': 'https://ca.wikipedia.org/wiki/TSMC'}
+        [15, 4] Type: Item
+        │       Label: Čeština
+        └────── Link: {'text:Čeština': 'https://cs.wikipedia.org/wiki/TSMC'}
+        [15, 5] Type: Item
+        │       Label: Deutsch
+        └────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/TSMC'}
+        [15, 6] Type: Item
+        │       Label: Español
+        └────── Link: {'text:Español': 'https://es.wikipedia.org/wiki/TSMC'}
+        [15, 7] Type: Item
+        │       Label: فارسی
+        └────── Link: {'text:فارسی': 'https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C'}
+        [15, 8] Type: Item
+        │       Label: Français
+        └────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company'}
+        [15, 9] Type: Item
+        │       Label: 한국어
+        └────── Link: {'text:한국어': 'https://ko.wikipedia.org/wiki/TSMC'}
+        [15, 10] Type: Item
+        │        Label: Bahasa Indonesia
+        └─────── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/TSMC'}
+        [15, 11] Type: Item
+        │        Label: Italiano
+        └─────── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/TSMC'}
+        [15, 12] Type: Item
+        │        Label: עברית
+        └─────── Link: {'text:עברית': 'https://he.wikipedia.org/wiki/TSMC'}
+        [15, 13] Type: Item
+        │        Label: Bahasa Melayu
+        └─────── Link: {'text:Bahasa Melayu': 'https://ms.wikipedia.org/wiki/TSMC'}
+        [15, 14] Type: Item
+        │        Label: မြန်မာဘာသာ
+        └─────── Link: {'text:မြန်မာဘာသာ': 'https://my.wikipedia.org/wiki/TSMC'}
+        [15, 15] Type: Item
+        │        Label: Nederlands
+        └─────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/TSMC'}
+        [15, 16] Type: Item
+        │        Label: 日本語
+        └─────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/TSMC'}
+        [15, 17] Type: Item
+        │        Label: Polski
+        └─────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/TSMC'}
+        [15, 18] Type: Item
+        │        Label: Русский
+        └─────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/TSMC'}
+        [15, 19] Type: Item
+        │        Label: Slovenčina
+        └─────── Link: {'text:Slovenčina': 'https://sk.wikipedia.org/wiki/TSMC'}
+        [15, 20] Type: Item
+        │        Label: Svenska
+        └─────── Link: {'text:Svenska': 'https://sv.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company_Limited'}
+        [15, 21] Type: Item
+        │        Label: Türkçe
+        └─────── Link: {'text:Türkçe': 'https://tr.wikipedia.org/wiki/TSMC'}
+        [15, 22] Type: Item
+        │        Label: Українська
+        └─────── Link: {'text:Українська': 'https://uk.wikipedia.org/wiki/TSMC'}
+        [15, 23] Type: Item
+        │        Label: Tiếng Việt
+        └─────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/TSMC'}
+        [15, 24] Type: Item
+        │        Label: 吴语
+        └─────── Link: {'text:吴语': 'https://wuu.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E7%A7%AF%E4%BD%93%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0'}
+        [15, 25] Type: Item
+        │        Label: 中文
+        └─────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0'}

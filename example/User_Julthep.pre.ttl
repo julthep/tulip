@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:User:Julthep
-    owl:sameAs dbpedia:User:Julthep ;
+<http://tlpedia.org/resource/User:Julthep>
+    owl:sameAs <http://dbpedia.org/resource/User:Julthep> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/User:Julthep?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:User:Julthep ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/User:Julthep> ;
     foaf:name "User:Julthep" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "User:Julthep" ;
@@ -1878,7 +1878,7 @@ en-5This user can contribute with a professional level of English.
 ...This user would like to be able to speak more languages.
 UTC+07This user's time zone is UTC+07.
 00:00This user uses 24-hour time.
-Today is 2 March 2020
+Today is 24 March, 2020.
 This user has no understanding of time and does everything at the last minute.
 This user loves deadlines. He loves the whooshing sound they make as they go by.
 This user had a flux capacitor seized by the FBI.
@@ -1958,8 +1958,8 @@ This user contributes to OpenStreetMap.""" ;
                                     tlp:url <http://en.wikipedia.org/wiki/File:Crystal_Clear_app_date.png>
                                 ] ,
                                 [
-                                    tlp:text "2 March" ;
-                                    tlp:url <http://en.wikipedia.org/wiki/2_March>
+                                    tlp:text "24 March" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/24_March>
                                 ] ,
                                 [
                                     tlp:text "2020" ;
@@ -2284,11 +2284,11 @@ Bangkok"""
                             tlp:index 11 ;
                             tlp:indexList ( 23 2 11 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "Today is 2 March 2020" ;
+                            rdfs:label "Today is 24 March, 2020." ;
                             tlp:link
                                 [
-                                    tlp:text "2 March" ;
-                                    tlp:url <http://en.wikipedia.org/wiki/2_March>
+                                    tlp:text "24 March" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/24_March>
                                 ] ,
                                 [
                                     tlp:text "2020" ;
@@ -2805,11 +2805,11 @@ Bangkok"""
                             tlp:index 1 ;
                             tlp:indexList ( 33 2 1 0 ) ;
                             rdf:type tlp:Cell ;
-                            rdfs:label "Today is 2 March 2020" ;
+                            rdfs:label "Today is 24 March, 2020." ;
                             tlp:link
                                 [
-                                    tlp:text "2 March" ;
-                                    tlp:url <http://en.wikipedia.org/wiki/2_March>
+                                    tlp:text "24 March" ;
+                                    tlp:url <http://en.wikipedia.org/wiki/24_March>
                                 ] ,
                                 [
                                     tlp:text "2020" ;

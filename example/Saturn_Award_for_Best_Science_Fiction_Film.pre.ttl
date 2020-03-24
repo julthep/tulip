@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:Saturn_Award_for_Best_Science_Fiction_Film
-    owl:sameAs dbpedia:Saturn_Award_for_Best_Science_Fiction_Film ;
+<http://tlpedia.org/resource/Saturn_Award_for_Best_Science_Fiction_Film>
+    owl:sameAs <http://dbpedia.org/resource/Saturn_Award_for_Best_Science_Fiction_Film> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:Saturn_Award_for_Best_Science_Fiction_Film ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Saturn_Award_for_Best_Science_Fiction_Film> ;
     foaf:name "Saturn Award for Best Science Fiction Film" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "Saturn Award for Best Science Fiction Film" ;
@@ -7104,7 +7104,7 @@ Best Science Fiction Film""" ;
                     tlp:link
                         [
                             tlp:text "Cite this page" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Saturn_Award_for_Best_Science_Fiction_Film&id=920464240>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Saturn_Award_for_Best_Science_Fiction_Film&id=920464240&wpFormIdentifier=titleform>
                         ]
                 ]
         ] ,

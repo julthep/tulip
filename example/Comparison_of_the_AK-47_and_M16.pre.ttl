@@ -8,10 +8,10 @@
 @prefix tlp: <http://purl.org/tulip/ns#> .
 @prefix tlpedia: <http://tlpedia.org/resource/> .
 
-tlpedia:Comparison_of_the_AK-47_and_M16
-    owl:sameAs dbpedia:Comparison_of_the_AK-47_and_M16 ;
+<http://tlpedia.org/resource/Comparison_of_the_AK-47_and_M16>
+    owl:sameAs <http://dbpedia.org/resource/Comparison_of_the_AK-47_and_M16> ;
     prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Comparison_of_the_AK-47_and_M16?oldid=> ;
-    foaf:isPrimaryTopicOf wikipedia:Comparison_of_the_AK-47_and_M16 ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Comparison_of_the_AK-47_and_M16> ;
     foaf:name "Comparison of the AK-47 and M16" ;
     tlp:indexList ( 0 ) ;
     rdfs:label "Comparison of the AK-47 and M16" ;
@@ -12231,7 +12231,7 @@ Z-M Weapons,"""
                     tlp:link
                         [
                             tlp:text "Cite this page" ;
-                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Comparison_of_the_AK-47_and_M16&id=935993898>
+                            tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Comparison_of_the_AK-47_and_M16&id=935993898&wpFormIdentifier=titleform>
                         ]
                 ]
         ] ,

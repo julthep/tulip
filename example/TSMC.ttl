@@ -1,0 +1,4412 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tlpedia:TSMC a tlp:Page ;
+    rdfs:label "TSMC" ;
+    tlp:element _:ub350bL1004C25,
+        _:ub350bL1011C25,
+        _:ub350bL1017C25,
+        _:ub350bL1024C25,
+        _:ub350bL1030C25,
+        _:ub350bL1037C25,
+        _:ub350bL103C25,
+        _:ub350bL1044C17,
+        _:ub350bL1050C25,
+        _:ub350bL1057C25,
+        _:ub350bL1063C25,
+        _:ub350bL1070C25,
+        _:ub350bL1077C17,
+        _:ub350bL1083C25,
+        _:ub350bL1090C25,
+        _:ub350bL1096C25,
+        _:ub350bL1103C25,
+        _:ub350bL110C25,
+        _:ub350bL1110C17,
+        _:ub350bL1116C25,
+        _:ub350bL1123C25,
+        _:ub350bL1129C25,
+        _:ub350bL1136C25,
+        _:ub350bL1143C17,
+        _:ub350bL1149C25,
+        _:ub350bL1156C25,
+        _:ub350bL1162C25,
+        _:ub350bL1169C25,
+        _:ub350bL1176C17,
+        _:ub350bL117C25,
+        _:ub350bL1182C25,
+        _:ub350bL1189C25,
+        _:ub350bL1195C25,
+        _:ub350bL1202C25,
+        _:ub350bL1209C17,
+        _:ub350bL1215C25,
+        _:ub350bL1222C25,
+        _:ub350bL1228C25,
+        _:ub350bL1235C25,
+        _:ub350bL1242C17,
+        _:ub350bL1248C25,
+        _:ub350bL124C25,
+        _:ub350bL1255C25,
+        _:ub350bL1261C25,
+        _:ub350bL1268C25,
+        _:ub350bL1275C17,
+        _:ub350bL1281C25,
+        _:ub350bL1288C25,
+        _:ub350bL1294C25,
+        _:ub350bL1301C25,
+        _:ub350bL1309C9,
+        _:ub350bL1318C17,
+        _:ub350bL131C25,
+        _:ub350bL1324C25,
+        _:ub350bL1331C25,
+        _:ub350bL1338C25,
+        _:ub350bL1345C25,
+        _:ub350bL1352C25,
+        _:ub350bL1359C25,
+        _:ub350bL1366C25,
+        _:ub350bL1373C25,
+        _:ub350bL1381C17,
+        _:ub350bL1387C25,
+        _:ub350bL138C25,
+        _:ub350bL1394C25,
+        _:ub350bL1400C25,
+        _:ub350bL1406C25,
+        _:ub350bL1412C25,
+        _:ub350bL1418C25,
+        _:ub350bL1424C25,
+        _:ub350bL1430C25,
+        _:ub350bL1437C17,
+        _:ub350bL1443C25,
+        _:ub350bL1450C25,
+        _:ub350bL1456C25,
+        _:ub350bL145C25,
+        _:ub350bL1462C25,
+        _:ub350bL1468C25,
+        _:ub350bL1474C25,
+        _:ub350bL1480C25,
+        _:ub350bL1486C25,
+        _:ub350bL1493C17,
+        _:ub350bL1499C25,
+        _:ub350bL1506C25,
+        _:ub350bL1512C25,
+        _:ub350bL1518C25,
+        _:ub350bL1524C25,
+        _:ub350bL152C25,
+        _:ub350bL1530C25,
+        _:ub350bL1536C25,
+        _:ub350bL1542C25,
+        _:ub350bL1549C17,
+        _:ub350bL1555C25,
+        _:ub350bL1562C25,
+        _:ub350bL1568C25,
+        _:ub350bL1574C25,
+        _:ub350bL1580C25,
+        _:ub350bL1586C25,
+        _:ub350bL1592C25,
+        _:ub350bL1598C25,
+        _:ub350bL159C25,
+        _:ub350bL1606C9,
+        _:ub350bL1613C17,
+        _:ub350bL1624C17,
+        _:ub350bL1635C17,
+        _:ub350bL1646C17,
+        _:ub350bL1657C17,
+        _:ub350bL1668C17,
+        _:ub350bL1679C17,
+        _:ub350bL1690C17,
+        _:ub350bL1701C17,
+        _:ub350bL1712C17,
+        _:ub350bL171C25,
+        _:ub350bL1724C9,
+        _:ub350bL1732C17,
+        _:ub350bL1743C17,
+        _:ub350bL1754C17,
+        _:ub350bL1765C17,
+        _:ub350bL1776C17,
+        _:ub350bL1787C17,
+        _:ub350bL1798C17,
+        _:ub350bL1809C17,
+        _:ub350bL1820C17,
+        _:ub350bL1831C17,
+        _:ub350bL183C25,
+        _:ub350bL1842C17,
+        _:ub350bL1848C17,
+        _:ub350bL1859C17,
+        _:ub350bL1870C17,
+        _:ub350bL1881C17,
+        _:ub350bL1892C17,
+        _:ub350bL1903C17,
+        _:ub350bL1914C17,
+        _:ub350bL1925C17,
+        _:ub350bL1936C17,
+        _:ub350bL1951C17,
+        _:ub350bL195C25,
+        _:ub350bL1962C17,
+        _:ub350bL1973C17,
+        _:ub350bL1984C17,
+        _:ub350bL1995C17,
+        _:ub350bL19C9,
+        _:ub350bL2006C17,
+        _:ub350bL2017C17,
+        _:ub350bL2028C17,
+        _:ub350bL2039C17,
+        _:ub350bL2050C17,
+        _:ub350bL2061C17,
+        _:ub350bL2072C17,
+        _:ub350bL207C25,
+        _:ub350bL2083C17,
+        _:ub350bL2094C17,
+        _:ub350bL2105C17,
+        _:ub350bL2116C17,
+        _:ub350bL2127C17,
+        _:ub350bL2138C17,
+        _:ub350bL2149C17,
+        _:ub350bL214C25,
+        _:ub350bL2160C17,
+        _:ub350bL2171C17,
+        _:ub350bL2182C17,
+        _:ub350bL2193C17,
+        _:ub350bL2204C17,
+        _:ub350bL2215C17,
+        _:ub350bL2226C17,
+        _:ub350bL2237C17,
+        _:ub350bL2248C17,
+        _:ub350bL2259C17,
+        _:ub350bL226C25,
+        _:ub350bL2270C17,
+        _:ub350bL2281C17,
+        _:ub350bL2292C17,
+        _:ub350bL2303C17,
+        _:ub350bL2314C17,
+        _:ub350bL2329C17,
+        _:ub350bL233C25,
+        _:ub350bL2340C17,
+        _:ub350bL2351C17,
+        _:ub350bL2362C17,
+        _:ub350bL2373C17,
+        _:ub350bL2384C17,
+        _:ub350bL2395C17,
+        _:ub350bL2406C17,
+        _:ub350bL240C25,
+        _:ub350bL2417C17,
+        _:ub350bL2428C17,
+        _:ub350bL2439C17,
+        _:ub350bL2450C17,
+        _:ub350bL2461C17,
+        _:ub350bL2472C17,
+        _:ub350bL2483C17,
+        _:ub350bL248C25,
+        _:ub350bL2499C9,
+        _:ub350bL2506C17,
+        _:ub350bL2522C9,
+        _:ub350bL2529C17,
+        _:ub350bL2540C17,
+        _:ub350bL2551C17,
+        _:ub350bL2562C17,
+        _:ub350bL2573C17,
+        _:ub350bL2584C17,
+        _:ub350bL2595C17,
+        _:ub350bL2606C17,
+        _:ub350bL260C25,
+        _:ub350bL2617C17,
+        _:ub350bL2628C17,
+        _:ub350bL2640C9,
+        _:ub350bL2647C17,
+        _:ub350bL2658C17,
+        _:ub350bL2669C17,
+        _:ub350bL267C25,
+        _:ub350bL2680C17,
+        _:ub350bL2691C17,
+        _:ub350bL2702C17,
+        _:ub350bL2713C17,
+        _:ub350bL2724C17,
+        _:ub350bL2736C9,
+        _:ub350bL2743C17,
+        _:ub350bL274C25,
+        _:ub350bL2754C17,
+        _:ub350bL2765C17,
+        _:ub350bL2776C17,
+        _:ub350bL2787C17,
+        _:ub350bL2798C17,
+        _:ub350bL2809C17,
+        _:ub350bL281C25,
+        _:ub350bL2820C17,
+        _:ub350bL2832C9,
+        _:ub350bL2839C17,
+        _:ub350bL2851C9,
+        _:ub350bL2858C17,
+        _:ub350bL2869C17,
+        _:ub350bL2880C17,
+        _:ub350bL288C25,
+        _:ub350bL2892C9,
+        _:ub350bL2899C17,
+        _:ub350bL28C17,
+        _:ub350bL2910C17,
+        _:ub350bL2921C17,
+        _:ub350bL2932C17,
+        _:ub350bL2943C17,
+        _:ub350bL2954C17,
+        _:ub350bL2965C17,
+        _:ub350bL296C17,
+        _:ub350bL2976C17,
+        _:ub350bL2987C17,
+        _:ub350bL2998C17,
+        _:ub350bL3009C17,
+        _:ub350bL3020C17,
+        _:ub350bL302C25,
+        _:ub350bL3031C17,
+        _:ub350bL3042C17,
+        _:ub350bL3053C17,
+        _:ub350bL3064C17,
+        _:ub350bL3075C17,
+        _:ub350bL3086C17,
+        _:ub350bL3097C17,
+        _:ub350bL3108C17,
+        _:ub350bL3119C17,
+        _:ub350bL3130C17,
+        _:ub350bL3141C17,
+        _:ub350bL314C25,
+        _:ub350bL3152C17,
+        _:ub350bL3163C17,
+        _:ub350bL3174C17,
+        _:ub350bL320C25,
+        _:ub350bL331C25,
+        _:ub350bL338C33,
+        _:ub350bL344C33,
+        _:ub350bL34C25,
+        _:ub350bL351C25,
+        _:ub350bL366C25,
+        _:ub350bL377C25,
+        _:ub350bL394C25,
+        _:ub350bL405C25,
+        _:ub350bL416C25,
+        _:ub350bL422C25,
+        _:ub350bL429C33,
+        _:ub350bL435C33,
+        _:ub350bL442C25,
+        _:ub350bL448C25,
+        _:ub350bL455C33,
+        _:ub350bL462C25,
+        _:ub350bL46C25,
+        _:ub350bL473C25,
+        _:ub350bL480C33,
+        _:ub350bL487C25,
+        _:ub350bL494C33,
+        _:ub350bL501C25,
+        _:ub350bL508C33,
+        _:ub350bL515C25,
+        _:ub350bL522C33,
+        _:ub350bL529C25,
+        _:ub350bL536C33,
+        _:ub350bL53C25,
+        _:ub350bL543C25,
+        _:ub350bL549C25,
+        _:ub350bL556C33,
+        _:ub350bL562C33,
+        _:ub350bL568C33,
+        _:ub350bL575C25,
+        _:ub350bL582C25,
+        _:ub350bL589C25,
+        _:ub350bL597C25,
+        _:ub350bL603C25,
+        _:ub350bL610C25,
+        _:ub350bL617C25,
+        _:ub350bL624C25,
+        _:ub350bL635C25,
+        _:ub350bL644C9,
+        _:ub350bL651C17,
+        _:ub350bL65C25,
+        _:ub350bL663C25,
+        _:ub350bL675C17,
+        _:ub350bL686C17,
+        _:ub350bL698C25,
+        _:ub350bL710C17,
+        _:ub350bL721C17,
+        _:ub350bL732C17,
+        _:ub350bL743C17,
+        _:ub350bL755C9,
+        _:ub350bL762C17,
+        _:ub350bL768C17,
+        _:ub350bL774C17,
+        _:ub350bL77C25,
+        _:ub350bL780C17,
+        _:ub350bL786C17,
+        _:ub350bL792C17,
+        _:ub350bL798C17,
+        _:ub350bL804C17,
+        _:ub350bL810C17,
+        _:ub350bL816C17,
+        _:ub350bL827C17,
+        _:ub350bL833C17,
+        _:ub350bL839C17,
+        _:ub350bL845C17,
+        _:ub350bL852C9,
+        _:ub350bL859C17,
+        _:ub350bL865C17,
+        _:ub350bL876C17,
+        _:ub350bL882C17,
+        _:ub350bL888C17,
+        _:ub350bL899C17,
+        _:ub350bL89C25,
+        _:ub350bL922C17,
+        _:ub350bL929C9,
+        _:ub350bL936C17,
+        _:ub350bL943C9,
+        _:ub350bL952C17,
+        _:ub350bL958C25,
+        _:ub350bL965C25,
+        _:ub350bL96C25,
+        _:ub350bL971C25,
+        _:ub350bL978C25,
+        _:ub350bL984C25,
+        _:ub350bL991C25,
+        _:ub350bL998C17 ;
+    tlp:indexList ( 0 ) ;
+    tlp:member _:ub350bL1309C9,
+        _:ub350bL1606C9,
+        _:ub350bL1724C9,
+        _:ub350bL19C9,
+        _:ub350bL2499C9,
+        _:ub350bL2522C9,
+        _:ub350bL2640C9,
+        _:ub350bL2736C9,
+        _:ub350bL2832C9,
+        _:ub350bL2851C9,
+        _:ub350bL2892C9,
+        _:ub350bL644C9,
+        _:ub350bL755C9,
+        _:ub350bL852C9,
+        _:ub350bL929C9,
+        _:ub350bL943C9 ;
+    owl:sameAs dbpedia:TSMC ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/TSMC?oldid=> ;
+    foaf:isPrimaryTopicOf wikipedia:TSMC ;
+    foaf:name "TSMC" .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb10 rdf:first 0 ;
+    rdf:rest () .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb100 rdf:first 1 ;
+    rdf:rest ( 24 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1000 rdf:first 55 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1002 rdf:first 9 ;
+    rdf:rest ( 56 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1005 rdf:first 9 ;
+    rdf:rest ( 57 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1008 rdf:first 9 ;
+    rdf:rest ( 58 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1011 rdf:first 9 ;
+    rdf:rest ( 59 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1014 rdf:first 9 ;
+    rdf:rest ( 60 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1017 rdf:first 9 ;
+    rdf:rest ( 61 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1020 rdf:first 9 ;
+    rdf:rest ( 62 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1023 rdf:first 9 ;
+    rdf:rest ( 63 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1026 rdf:first 9 ;
+    rdf:rest ( 64 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1029 rdf:first 9 ;
+    rdf:rest ( 65 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb103 rdf:first 1 ;
+    rdf:rest ( 1 25 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1032 rdf:first 9 ;
+    rdf:rest ( 66 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1035 rdf:first 9 ;
+    rdf:rest ( 67 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1038 rdf:first 9 ;
+    rdf:rest ( 68 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1041 rdf:first 9 ;
+    rdf:rest ( 69 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1044 rdf:first 10 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1046 rdf:first 10 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1049 rdf:first 11 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1051 rdf:first 11 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1054 rdf:first 11 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1057 rdf:first 11 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1060 rdf:first 11 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1063 rdf:first 11 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1066 rdf:first 11 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1069 rdf:first 11 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb107 rdf:first 1 ;
+    rdf:rest ( 1 26 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1072 rdf:first 11 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1075 rdf:first 11 ;
+    rdf:rest ( 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1078 rdf:first 11 ;
+    rdf:rest ( 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1081 rdf:first 12 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1083 rdf:first 12 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1086 rdf:first 12 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1089 rdf:first 12 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1092 rdf:first 12 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1095 rdf:first 12 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1098 rdf:first 12 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb11 rdf:first 1 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1101 rdf:first 12 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1104 rdf:first 12 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1107 rdf:first 13 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1109 rdf:first 13 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb111 rdf:first 1 ;
+    rdf:rest ( 1 32 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1112 rdf:first 13 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1115 rdf:first 13 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1118 rdf:first 13 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1121 rdf:first 13 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1124 rdf:first 13 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1127 rdf:first 13 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1130 rdf:first 13 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1133 rdf:first 14 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1135 rdf:first 14 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1138 rdf:first 15 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1140 rdf:first 15 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1143 rdf:first 15 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1146 rdf:first 15 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1149 rdf:first 16 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb115 rdf:first 1 ;
+    rdf:rest ( 1 33 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1151 rdf:first 16 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1154 rdf:first 16 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1157 rdf:first 16 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1160 rdf:first 16 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1163 rdf:first 16 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1166 rdf:first 16 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1169 rdf:first 16 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1172 rdf:first 16 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1175 rdf:first 16 ;
+    rdf:rest ( 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1178 rdf:first 16 ;
+    rdf:rest ( 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1181 rdf:first 16 ;
+    rdf:rest ( 11 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1184 rdf:first 16 ;
+    rdf:rest ( 12 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1187 rdf:first 16 ;
+    rdf:rest ( 13 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb119 rdf:first 1 ;
+    rdf:rest ( 1 34 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1190 rdf:first 16 ;
+    rdf:rest ( 14 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1193 rdf:first 16 ;
+    rdf:rest ( 15 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1196 rdf:first 16 ;
+    rdf:rest ( 16 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1199 rdf:first 16 ;
+    rdf:rest ( 17 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1202 rdf:first 16 ;
+    rdf:rest ( 18 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1205 rdf:first 16 ;
+    rdf:rest ( 19 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1208 rdf:first 16 ;
+    rdf:rest ( 20 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1211 rdf:first 16 ;
+    rdf:rest ( 21 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1214 rdf:first 16 ;
+    rdf:rest ( 22 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1217 rdf:first 16 ;
+    rdf:rest ( 23 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1220 rdf:first 16 ;
+    rdf:rest ( 24 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1223 rdf:first 16 ;
+    rdf:rest ( 25 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb1226 rdf:first 16 ;
+    rdf:rest ( 26 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb123 rdf:first 1 ;
+    rdf:rest ( 1 35 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb127 rdf:first 1 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb130 rdf:first 1 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb134 rdf:first 1 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb138 rdf:first 1 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb142 rdf:first 1 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb146 rdf:first 1 ;
+    rdf:rest ( 2 4 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb15 rdf:first 1 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb151 rdf:first 1 ;
+    rdf:rest ( 2 4 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb156 rdf:first 1 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb160 rdf:first 1 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb164 rdf:first 1 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb168 rdf:first 1 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb172 rdf:first 1 ;
+    rdf:rest ( 2 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb176 rdf:first 1 ;
+    rdf:rest ( 2 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb180 rdf:first 1 ;
+    rdf:rest ( 2 11 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb184 rdf:first 1 ;
+    rdf:rest ( 2 11 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb189 rdf:first 1 ;
+    rdf:rest ( 2 11 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb19 rdf:first 1 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb194 rdf:first 1 ;
+    rdf:rest ( 2 12 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb198 rdf:first 1 ;
+    rdf:rest ( 2 13 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb2 rdf:first 1 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb202 rdf:first 1 ;
+    rdf:rest ( 2 13 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb207 rdf:first 1 ;
+    rdf:rest ( 2 14 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb211 rdf:first 1 ;
+    rdf:rest ( 2 15 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb215 rdf:first 1 ;
+    rdf:rest ( 2 15 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb220 rdf:first 1 ;
+    rdf:rest ( 2 16 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb224 rdf:first 1 ;
+    rdf:rest ( 2 16 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb229 rdf:first 1 ;
+    rdf:rest ( 2 17 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb23 rdf:first 1 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb233 rdf:first 1 ;
+    rdf:rest ( 2 17 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb238 rdf:first 1 ;
+    rdf:rest ( 2 18 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb242 rdf:first 1 ;
+    rdf:rest ( 2 18 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb247 rdf:first 1 ;
+    rdf:rest ( 2 19 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb251 rdf:first 1 ;
+    rdf:rest ( 2 19 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb256 rdf:first 1 ;
+    rdf:rest ( 2 20 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb260 rdf:first 1 ;
+    rdf:rest ( 2 21 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb264 rdf:first 1 ;
+    rdf:rest ( 2 21 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb269 rdf:first 1 ;
+    rdf:rest ( 2 21 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb27 rdf:first 1 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb274 rdf:first 1 ;
+    rdf:rest ( 2 21 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb279 rdf:first 1 ;
+    rdf:rest ( 2 22 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb283 rdf:first 1 ;
+    rdf:rest ( 2 23 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb287 rdf:first 1 ;
+    rdf:rest ( 2 24 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb291 rdf:first 1 ;
+    rdf:rest ( 2 25 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb295 rdf:first 1 ;
+    rdf:rest ( 2 26 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb299 rdf:first 1 ;
+    rdf:rest ( 2 32 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb303 rdf:first 1 ;
+    rdf:rest ( 2 33 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb307 rdf:first 1 ;
+    rdf:rest ( 2 34 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb31 rdf:first 1 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb311 rdf:first 1 ;
+    rdf:rest ( 2 35 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb315 rdf:first 2 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb317 rdf:first 2 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb320 rdf:first 2 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb324 rdf:first 2 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb327 rdf:first 2 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb330 rdf:first 2 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb334 rdf:first 2 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb337 rdf:first 2 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb340 rdf:first 2 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb343 rdf:first 2 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb346 rdf:first 3 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb348 rdf:first 3 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb35 rdf:first 1 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb351 rdf:first 3 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb354 rdf:first 3 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb357 rdf:first 3 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb360 rdf:first 3 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb363 rdf:first 3 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb366 rdf:first 3 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb369 rdf:first 3 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb372 rdf:first 3 ;
+    rdf:rest ( 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb375 rdf:first 3 ;
+    rdf:rest ( 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb378 rdf:first 3 ;
+    rdf:rest ( 11 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb381 rdf:first 3 ;
+    rdf:rest ( 12 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb384 rdf:first 3 ;
+    rdf:rest ( 13 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb387 rdf:first 3 ;
+    rdf:rest ( 14 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb39 rdf:first 1 ;
+    rdf:rest ( 1 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb390 rdf:first 4 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb392 rdf:first 4 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb395 rdf:first 4 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb398 rdf:first 4 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb4 rdf:first 1 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb401 rdf:first 4 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb404 rdf:first 4 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb407 rdf:first 4 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb410 rdf:first 4 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb413 rdf:first 5 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb415 rdf:first 5 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb418 rdf:first 6 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb420 rdf:first 6 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb423 rdf:first 6 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb427 rdf:first 6 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb43 rdf:first 1 ;
+    rdf:rest ( 1 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb431 rdf:first 6 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb435 rdf:first 6 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb439 rdf:first 6 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb443 rdf:first 6 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb447 rdf:first 6 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb450 rdf:first 6 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb454 rdf:first 6 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb458 rdf:first 6 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb462 rdf:first 6 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb466 rdf:first 6 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb47 rdf:first 1 ;
+    rdf:rest ( 1 11 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb470 rdf:first 6 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb474 rdf:first 6 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb477 rdf:first 6 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb481 rdf:first 6 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb485 rdf:first 6 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb489 rdf:first 6 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb493 rdf:first 6 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb496 rdf:first 6 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb500 rdf:first 6 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb504 rdf:first 6 ;
+    rdf:rest ( 4 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb508 rdf:first 6 ;
+    rdf:rest ( 4 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb51 rdf:first 1 ;
+    rdf:rest ( 1 12 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb512 rdf:first 6 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb515 rdf:first 6 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb519 rdf:first 6 ;
+    rdf:rest ( 5 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb523 rdf:first 6 ;
+    rdf:rest ( 5 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb527 rdf:first 6 ;
+    rdf:rest ( 5 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb531 rdf:first 6 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb534 rdf:first 6 ;
+    rdf:rest ( 6 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb538 rdf:first 6 ;
+    rdf:rest ( 6 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb542 rdf:first 6 ;
+    rdf:rest ( 6 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb546 rdf:first 6 ;
+    rdf:rest ( 6 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb55 rdf:first 1 ;
+    rdf:rest ( 1 13 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb550 rdf:first 6 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb553 rdf:first 6 ;
+    rdf:rest ( 7 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb557 rdf:first 6 ;
+    rdf:rest ( 7 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb561 rdf:first 6 ;
+    rdf:rest ( 7 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb565 rdf:first 6 ;
+    rdf:rest ( 7 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb569 rdf:first 6 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb572 rdf:first 6 ;
+    rdf:rest ( 8 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb576 rdf:first 6 ;
+    rdf:rest ( 8 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb580 rdf:first 6 ;
+    rdf:rest ( 8 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb584 rdf:first 6 ;
+    rdf:rest ( 8 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb588 rdf:first 6 ;
+    rdf:rest ( 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb59 rdf:first 1 ;
+    rdf:rest ( 1 14 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb591 rdf:first 6 ;
+    rdf:rest ( 9 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb595 rdf:first 6 ;
+    rdf:rest ( 9 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb599 rdf:first 6 ;
+    rdf:rest ( 9 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb603 rdf:first 6 ;
+    rdf:rest ( 9 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb607 rdf:first 6 ;
+    rdf:rest ( 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb610 rdf:first 6 ;
+    rdf:rest ( 10 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb614 rdf:first 6 ;
+    rdf:rest ( 10 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb618 rdf:first 6 ;
+    rdf:rest ( 10 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb622 rdf:first 6 ;
+    rdf:rest ( 10 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb626 rdf:first 7 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb628 rdf:first 7 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb63 rdf:first 1 ;
+    rdf:rest ( 1 15 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb631 rdf:first 7 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb635 rdf:first 7 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb639 rdf:first 7 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb643 rdf:first 7 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb647 rdf:first 7 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb651 rdf:first 7 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb655 rdf:first 7 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb659 rdf:first 7 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb663 rdf:first 7 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb666 rdf:first 7 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb67 rdf:first 1 ;
+    rdf:rest ( 1 16 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb670 rdf:first 7 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb674 rdf:first 7 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb678 rdf:first 7 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb682 rdf:first 7 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb686 rdf:first 7 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb690 rdf:first 7 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb694 rdf:first 7 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb698 rdf:first 7 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb7 rdf:first 1 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb701 rdf:first 7 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb705 rdf:first 7 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb709 rdf:first 7 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb71 rdf:first 1 ;
+    rdf:rest ( 1 17 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb713 rdf:first 7 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb717 rdf:first 7 ;
+    rdf:rest ( 3 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb721 rdf:first 7 ;
+    rdf:rest ( 3 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb725 rdf:first 7 ;
+    rdf:rest ( 3 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb729 rdf:first 7 ;
+    rdf:rest ( 3 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb733 rdf:first 7 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb736 rdf:first 7 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb740 rdf:first 7 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb744 rdf:first 7 ;
+    rdf:rest ( 4 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb748 rdf:first 7 ;
+    rdf:rest ( 4 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb75 rdf:first 1 ;
+    rdf:rest ( 1 18 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb752 rdf:first 7 ;
+    rdf:rest ( 4 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb756 rdf:first 7 ;
+    rdf:rest ( 4 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb760 rdf:first 7 ;
+    rdf:rest ( 4 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb764 rdf:first 7 ;
+    rdf:rest ( 4 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb768 rdf:first 7 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb771 rdf:first 7 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb775 rdf:first 7 ;
+    rdf:rest ( 5 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb779 rdf:first 7 ;
+    rdf:rest ( 5 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb783 rdf:first 7 ;
+    rdf:rest ( 5 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb787 rdf:first 7 ;
+    rdf:rest ( 5 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb79 rdf:first 1 ;
+    rdf:rest ( 1 19 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb791 rdf:first 7 ;
+    rdf:rest ( 5 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb795 rdf:first 7 ;
+    rdf:rest ( 5 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb799 rdf:first 7 ;
+    rdf:rest ( 5 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb803 rdf:first 8 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb805 rdf:first 8 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb808 rdf:first 8 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb811 rdf:first 8 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb814 rdf:first 8 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb817 rdf:first 8 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb820 rdf:first 8 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb823 rdf:first 8 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb826 rdf:first 8 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb829 rdf:first 8 ;
+    rdf:rest ( 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb83 rdf:first 1 ;
+    rdf:rest ( 1 20 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb832 rdf:first 8 ;
+    rdf:rest ( 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb835 rdf:first 9 ;
+    rdf:rest ( 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb837 rdf:first 9 ;
+    rdf:rest ( 1 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb840 rdf:first 9 ;
+    rdf:rest ( 2 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb843 rdf:first 9 ;
+    rdf:rest ( 3 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb846 rdf:first 9 ;
+    rdf:rest ( 4 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb849 rdf:first 9 ;
+    rdf:rest ( 5 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb852 rdf:first 9 ;
+    rdf:rest ( 6 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb855 rdf:first 9 ;
+    rdf:rest ( 7 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb858 rdf:first 9 ;
+    rdf:rest ( 8 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb861 rdf:first 9 ;
+    rdf:rest ( 9 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb864 rdf:first 9 ;
+    rdf:rest ( 10 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb867 rdf:first 9 ;
+    rdf:rest ( 11 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb87 rdf:first 1 ;
+    rdf:rest ( 1 21 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb870 rdf:first 9 ;
+    rdf:rest ( 12 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb873 rdf:first 9 ;
+    rdf:rest ( 13 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb876 rdf:first 9 ;
+    rdf:rest ( 14 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb879 rdf:first 9 ;
+    rdf:rest ( 15 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb882 rdf:first 9 ;
+    rdf:rest ( 16 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb885 rdf:first 9 ;
+    rdf:rest ( 17 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb888 rdf:first 9 ;
+    rdf:rest ( 18 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb891 rdf:first 9 ;
+    rdf:rest ( 19 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb894 rdf:first 9 ;
+    rdf:rest ( 20 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb897 rdf:first 9 ;
+    rdf:rest ( 21 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb900 rdf:first 9 ;
+    rdf:rest ( 22 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb903 rdf:first 9 ;
+    rdf:rest ( 23 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb906 rdf:first 9 ;
+    rdf:rest ( 24 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb909 rdf:first 9 ;
+    rdf:rest ( 25 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb91 rdf:first 1 ;
+    rdf:rest ( 1 22 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb912 rdf:first 9 ;
+    rdf:rest ( 26 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb915 rdf:first 9 ;
+    rdf:rest ( 27 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb918 rdf:first 9 ;
+    rdf:rest ( 28 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb921 rdf:first 9 ;
+    rdf:rest ( 29 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb924 rdf:first 9 ;
+    rdf:rest ( 30 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb927 rdf:first 9 ;
+    rdf:rest ( 31 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb930 rdf:first 9 ;
+    rdf:rest ( 32 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb933 rdf:first 9 ;
+    rdf:rest ( 33 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb936 rdf:first 9 ;
+    rdf:rest ( 34 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb939 rdf:first 9 ;
+    rdf:rest ( 35 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb942 rdf:first 9 ;
+    rdf:rest ( 36 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb945 rdf:first 9 ;
+    rdf:rest ( 37 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb948 rdf:first 9 ;
+    rdf:rest ( 38 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb95 rdf:first 1 ;
+    rdf:rest ( 1 23 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb951 rdf:first 9 ;
+    rdf:rest ( 39 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb954 rdf:first 9 ;
+    rdf:rest ( 40 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb957 rdf:first 9 ;
+    rdf:rest ( 41 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb960 rdf:first 9 ;
+    rdf:rest ( 42 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb963 rdf:first 9 ;
+    rdf:rest ( 43 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb966 rdf:first 9 ;
+    rdf:rest ( 44 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb969 rdf:first 9 ;
+    rdf:rest ( 45 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb972 rdf:first 9 ;
+    rdf:rest ( 46 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb975 rdf:first 9 ;
+    rdf:rest ( 47 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb978 rdf:first 9 ;
+    rdf:rest ( 48 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb981 rdf:first 9 ;
+    rdf:rest ( 49 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb984 rdf:first 9 ;
+    rdf:rest ( 50 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb987 rdf:first 9 ;
+    rdf:rest ( 51 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb99 rdf:first 1 ;
+    rdf:rest _:ff130e1476ca144b4ad2c2cd96515e7ecb100 .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb990 rdf:first 9 ;
+    rdf:rest ( 52 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb993 rdf:first 9 ;
+    rdf:rest ( 53 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb996 rdf:first 9 ;
+    rdf:rest ( 54 0 ) .
+
+_:ff130e1476ca144b4ad2c2cd96515e7ecb999 rdf:first 9 ;
+    rdf:rest _:ff130e1476ca144b4ad2c2cd96515e7ecb1000 .
+
+_:ub350bL1619C25 tlp:text "5 nanometer" ;
+    tlp:url <http://en.wikipedia.org/wiki/5_nanometer> .
+
+_:ub350bL1630C25 tlp:text "List of companies in Taiwan" ;
+    tlp:url wikipedia:List_of_companies_in_Taiwan .
+
+_:ub350bL1641C25 tlp:text "List of semiconductor fabrication plants" ;
+    tlp:url wikipedia:List_of_semiconductor_fabrication_plants .
+
+_:ub350bL1652C25 tlp:text "Moore's law" ;
+    tlp:url <http://en.wikipedia.org/wiki/Moore%27s_law> .
+
+_:ub350bL1663C25 tlp:text "Pure-play semiconductor foundry" ;
+    tlp:url wikipedia:Pure-play_semiconductor_foundry .
+
+_:ub350bL166C33 tlp:text "Operating income" ;
+    tlp:url wikipedia:Earnings_before_interest_and_taxes .
+
+_:ub350bL1674C25 tlp:text "Quantum tunnelling" ;
+    tlp:url wikipedia:Quantum_tunnelling .
+
+_:ub350bL1685C25 tlp:text "Semiconductor device fabrication" ;
+    tlp:url wikipedia:Semiconductor_device_fabrication .
+
+_:ub350bL1696C25 tlp:text "United Microelectronics Corporation" ;
+    tlp:url wikipedia:United_Microelectronics_Corporation .
+
+_:ub350bL1707C25 tlp:text "Very-large-scale integration" ;
+    tlp:url wikipedia:Very-large-scale_integration .
+
+_:ub350bL1718C25 tlp:text "North South divide in Taiwan § Attractiveness" ;
+    tlp:url <http://en.wikipedia.org/wiki/North%E2%80%93South_divide_in_Taiwan#Attractiveness> .
+
+_:ub350bL1738C25 tlp:text "\"TSMC 2018 Annual Report Website\"" ;
+    tlp:url <https://www.tsmc.com/download/ir/annualReports/2018/english/index.html> .
+
+_:ub350bL1749C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <http://www.tsmc.com> .
+
+_:ub350bL1760C25 tlp:text "\"Advanced Technology Key to Strong Foundry Revenue per Wafer\"" ;
+    tlp:url <http://www.icinsights.com/news/bulletins/advanced-technology-key-to-strong-foundry-revenue-per-wafer/> .
+
+_:ub350bL1771C25 tlp:text "\"Taiwan Semiconductor: My Top Semiconductor Pick For 2020\"" ;
+    tlp:url <https://seekingalpha.com/article/4316247-taiwan-semiconductor-top-semiconductor-pick-for-2020> .
+
+_:ub350bL1782C25 tlp:text "\"Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That's Good News for Chip Stocks.\"" ;
+    tlp:url <https://www.barrons.com/articles/taiwan-semiconductor-tsmc-capex-budget-semiconductor-equipment-chip-stocks-51579192516> .
+
+_:ub350bL178C33 tlp:text "Net income" ;
+    tlp:url wikipedia:Net_income .
+
+_:ub350bL1793C25 tlp:text "\"About TSC: Company Profile\"" ;
+    tlp:url <https://www.taiwansemi.com/en/about> .
+
+_:ub350bL1804C25 tlp:text "\"Taiwan Semiconductor Co Ltd - Company Profile and News\"" ;
+    tlp:url <https://www.bloomberg.com/profile/company/5425:TT> .
+
+_:ub350bL1815C25 tlp:text "\"Company Profile\"" ;
+    tlp:url <http://www.tsmc.com/english/aboutTSMC/company_profile.htm> .
+
+_:ub350bL1826C25 tlp:text "\"D&R Foundry Corner\"" ;
+    tlp:url <http://www.design-reuse.com/foundry/technology/?prov=20> .
+
+_:ub350bL1837C25 tlp:text "\"Corporate Executives\"" ;
+    tlp:url <http://www.tsmc.com/english/aboutTSMC/executives.htm> .
+
+_:ub350bL1854C25 tlp:text "\"Morris Chang on Altera and Intel\"" ;
+    tlp:url <http://www.semiwiki.com/forum/content/2272-morris-chang-altera-intel.html> .
+
+_:ub350bL1865C25 tlp:text "\"Intel Outsourcing Some Atom Manufacturing to TSMC\"" ;
+    tlp:url <http://www.oregonlive.com/business/index.ssf/2009/03/intel_outsourcing_some_atom_ma.html> .
+
+_:ub350bL1876C25 tlp:text "\"STMicroelectronics envisage la création de deux usines de puces avec l'aide des Etats français et italien\"" ;
+    tlp:url <https://www.usinenouvelle.com/article/stmicroelectronics-envisage-la-creation-de-deux-usines-de-puces-avec-l-aide-des-etats-francais-et-italien.N597638> .
+
+_:ub350bL1887C25 tlp:text "\"TSMC plans to increase research spending\"" ;
+    tlp:url <http://www.taipeitimes.com/News/biz/archives/2010/12/21/2003491466> .
+
+_:ub350bL1898C25 tlp:text "\"TSMC to expand capacity by 30% in 2011\"" ;
+    tlp:url <http://www.chinaknowledge.com/Newswires/News_Detail.aspx?type=1&cat=CMP&NewsID=%2039307> .
+
+_:ub350bL1909C25 tlp:text "\"TSMC Board of Directors Meeting Resolutions\"" ;
+    tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=8541&language=E> .
+
+_:ub350bL190C33 tlp:text "Total assets" ;
+    tlp:url wikipedia:Asset .
+
+_:ub350bL1920C25 tlp:text "\"TSMC forecasts 22 percent Q2 growth\"" ;
+    tlp:url <http://www.taipeitimes.com/News/biz/archives/2014/04/18/2003588265> .
+
+_:ub350bL1931C25 tlp:text "\"TSMC Board of Directors Meeting Resolutions\"" ;
+    tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsArchivesAction.do?action=detail&newsid=8701&language=E> .
+
+_:ub350bL1942C25 tlp:text "\"TSMC Kicks Off A6 Processor Trial Production with Apple\"" ;
+    tlp:url <https://web.archive.org/web/20110927000244/http://cens.com/cens/html/en/news/news_inner_37282.html> .
+
+_:ub350bL1946C25 tlp:text "the original" ;
+    tlp:url <http://cens.com/cens/html/en/news/news_inner_37282.html> .
+
+_:ub350bL1957C25 tlp:text "\"TSMC Beginning Production Of Apple's New A6 Processor\"" ;
+    tlp:url <https://techcrunch.com/2011/08/12/tsmc-beginning-production-of-apples-new-a6-processor/> .
+
+_:ub350bL1968C25 tlp:text "\"Apple begins receiving shipments of A-series processors from TSMC - report\"" ;
+    tlp:url <http://appleinsider.com/articles/14/07/10/apple-begins-receiving-shipments-of-a-series-processors-from-tsmc---report> .
+
+_:ub350bL1979C25 tlp:text "\"TSMC to Snatch All of Apple's A8 chip Orders?\"" ;
+    tlp:url <http://technews.co/2014/02/17/tsmc-to-snatch-all-of-apples-a8-chip-orders/> .
+
+_:ub350bL1990C25 tlp:text "\"Apple driving move to 64-bit mobile processors, TSMC says\"" ;
+    tlp:url <https://www.cnet.com/news/apple-driving-move-to-64-bit-mobile-processors-says-tsmc/> .
+
+_:ub350bL2001C25 tlp:text "\"Apple chips to be 20% of TSMC sales\"" ;
+    tlp:url <http://www.taipeitimes.com/News/biz/archives/2014/04/15/2003588037> .
+
+_:ub350bL2012C25 tlp:text "\"Market capitalization of TSMC reaches a historic high: CEO\"" ;
+    tlp:url <http://business.asiaone.com/Business/News/Story/A1Story20101221-253866.html> .
+
+_:ub350bL2023C25 tlp:text "\"FT 500 2013\"" ;
+    tlp:url <https://www.ft.com/intl/indepth/ft500> .
+
+_:ub350bL202C33 tlp:text "Total equity" ;
+    tlp:url <http://en.wikipedia.org/wiki/Equity_(finance)> .
+
+_:ub350bL2034C25 tlp:text "\"TSM\"" ;
+    tlp:url <https://finance.yahoo.com/q?s=tsm&ql=1> .
+
+_:ub350bL2045C25 tlp:text "\"Chipzilla Got Toppled\"" ;
+    tlp:url <https://www.bloomberg.com/gadfly/articles/2017-03-22/chipzilla-intel-toppled-by-taiwan-s-supplier-to-the-stars> .
+
+_:ub350bL2056C25 tlp:text "\"GLOBALFOUNDRIES Files Patent Infringement Lawsuits Against TSMC In the U.S. and Germany\"" ;
+    tlp:url <https://www.globalfoundries.com/news-events/press-releases/globalfoundries-files-patent-infringement-lawsuits-against-tsmc-us-and> .
+
+_:ub350bL2067C25 tlp:text "\"Media Fact Sheet\"" ;
+    tlp:url <https://www.globalfoundries.com/sites/default/files/media_fact_sheet.pdf> .
+
+_:ub350bL2078C25 tlp:text "\"TSMC Will Vigorously Defend its Proprietary Technology in Response to GlobalFoundries Complaints\"" ;
+    tlp:url <https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THPGSTTHTH> .
+
+_:ub350bL2089C25 tlp:text "\"TSMC Files Complaints Against GlobalFoundries in U.S., Germany and Singapore for Infringement of 25 Patents to Affirm its Technology Leadership and to Protect Its Customers and Consumers Worldwide\"" ;
+    tlp:url <https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=THGOSTTHTH> .
+
+_:ub350bL2100C25 tlp:text "\"TSMC and GLOBALFOUNDRIES Announce Resolution of Global Disputes Through Broad Global Patent Cross-License\"" ;
+    tlp:url <https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THHKHIPGTH> .
+
+_:ub350bL2111C25 tlp:text "\"GLOBALFOUNDRIES and TSMC Announce Resolution of Global Disputes Through Broad Global Patent Cross-License\"" ;
+    tlp:url <https://www.globalfoundries.com/news-events/press-releases/globalfoundries-and-tsmc-announce-resolution-global-disputes-through> .
+
+_:ub350bL2122C25 tlp:text "\"Globalfoundries Files Suit Against TSMC – The Outcome Could Have Broad Consequences\"" ;
+    tlp:url <https://www.forbes.com/sites/tiriasresearch/2019/09/11/globalfoundries-files-suit-against-tsmc--the-outcome-could-have-broad-consequences/> .
+
+_:ub350bL2133C25 tlp:text "\"TSMC counter-sues US chip rival GlobalFoundries for patent infringement\"" ;
+    tlp:url <https://www.reuters.com/article/db-tsmc-globalfoundries-lawsuit-test-idUSKBN1WG3B5> .
+
+_:ub350bL2144C25 tlp:text "\"TSMC accuses GlobalFoundries of infringing 25 patents for node processes | ZDNet\"" ;
+    tlp:url <https://www.zdnet.com/google-amp/article/tsmc-accuses-globalfoundries-of-infringing-25-patents-for-node-processes/> .
+
+_:ub350bL2155C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/40nm.htm> .
+
+_:ub350bL2166C25 tlp:text "\"SemiWiki.com - TSMC Unleashes Aggressive 28nm Strategy!\"" ;
+    tlp:url <https://www.semiwiki.com/forum/content/4530-tsmc-unleashes-aggressive-28nm-strategy.html> .
+
+_:ub350bL2177C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/22nm.htm> .
+
+_:ub350bL2188C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/20nm.htm> .
+
+_:ub350bL2199C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/16nm.htm> .
+
+_:ub350bL2210C25 tlp:text "\"Report: TSMC to relabel process as 12nm\"" ;
+    tlp:url <https://www.eenewsanalog.com/news/report-tsmc-relabel-process-12nm> .
+
+_:ub350bL221C33 tlp:text "Subsidiaries" ;
+    tlp:url wikipedia:Subsidiary .
+
+_:ub350bL2221C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/10nm.htm> .
+
+_:ub350bL2232C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/english/dedicatedFoundry/technology/7nm.htm> .
+
+_:ub350bL2243C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <https://www.tsmc.com/uploadfile/pr/newspdf/THWQWQTHTH/NEWS_FILE_EN.pdf> .
+
+_:ub350bL2254C25 tlp:text "\"Taiwan Semiconductor Manufacturing Company Limited\"" ;
+    tlp:url <http://www.tsmc.com/english/dedicatedFoundry/technology/advanced_12inch_technology.htm> .
+
+_:ub350bL2265C25 tlp:text "\"Fab Locations\"" ;
+    tlp:url <http://www.tsmc.com/english/dedicatedFoundry/manufacturing/locations.htm> .
+
+_:ub350bL2276C25 tlp:text "\"Business Contacts\"" ;
+    tlp:url <http://www.tsmc.com/english/aboutTSMC/business_contacts.htm> .
+
+_:ub350bL2287C25 tlp:text "\"UPDATE 1-TSMC says plans $9.4 bln Taiwan plant\"" ;
+    tlp:url <https://www.reuters.com/article/idUSTOE66F03G20100716> .
+
+_:ub350bL2298C25 tlp:text "\"Analyst Warns Of Semiconductor Monopoly\"" ;
+    tlp:url <http://www.informationweek.com/news/smb/hardware_software/showArticle.jhtml?articleID=226100063&subSection=Processors> .
+
+_:ub350bL2309C25 tlp:text "\"TSMC increases 28nm output\"" ;
+    tlp:url <http://fudzilla.com/home/item/29751-tsmc-increases-28nm-output> .
+
+_:ub350bL2320C25 tlp:text "\"TSMC Acquires PSC Land for New Fab Construction\"" ;
+    tlp:url <https://web.archive.org/web/20110724033015/http://news.cens.com/cens/html/en/news/news_inner_35080.html> .
+
+_:ub350bL2324C25 tlp:text "the original" ;
+    tlp:url <http://news.cens.com/cens/html/en/news/news_inner_35080.html> .
+
+_:ub350bL2335C25 tlp:text "\"Company News; Chip maker is buying out three WaferTech partners\"" ;
+    tlp:url <https://query.nytimes.com/gst/fullpage.html?res=9804EFDB163EF936A25751C1A9669C8B63&n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fM%2fMergers%2c%20Acquisitions%20and%20Divestitures> .
+
+_:ub350bL2346C25 tlp:text "\"TSMC\"" ;
+    tlp:url <http://www.digitimes.com/finance/company.asp?cid=32> .
+
+_:ub350bL2357C25 tlp:text "\"TSMC Quarterly Results\"" ;
+    tlp:url <http://www.tsmc.com/english/investorRelations/quarterly_results.htm> .
+
+_:ub350bL2368C25 tlp:text "\"Mobile chips are driving strong demand for TSMC's manufacturing services\"" ;
+    tlp:url <http://analysisreport.morningstar.com/stock/research?t=TSM&culture=en-US&cur=USD&productcode=MLE> .
+
+_:ub350bL2379C25 tlp:text "\"Smartphones, 28nm Tech Drive TSMC 1Q Revenue\"" ;
+    tlp:url <http://www.eetimes.com/document.asp?doc_id=1321989> .
+
+_:ub350bL2390C25 tlp:text "\"Qualcomm pending to add SMIC to 28nm vendor list\"" ;
+    tlp:url <http://www.ddrtester.com/page/news/shownews.asp?num=16016> .
+
+_:ub350bL2401C25 tlp:text "\"Qualcomm Snapdragon 800 Processor First to Use TSMC's 28HPM Advanced Process Technology\"" ;
+    tlp:url <http://www.prnewswire.com/news-releases/qualcomm-snapdragon-800-processor-first-to-use-tsmcs-28hpm-advanced-process-technology-192959191.html> .
+
+_:ub350bL2412C25 tlp:text "\"TSMC banking on 28nm shipments\"" ;
+    tlp:url <http://www.taipeitimes.com/News/biz/archives/2013/06/06/2003564057> .
+
+_:ub350bL2423C25 tlp:text "\"MediaTek adding more 28nm chip orders at TSMC, UMC due to production defects at Globalfoundries\"" ;
+    tlp:url <http://www.digitimes.com/news/a20140506PD212.html> .
+
+_:ub350bL2434C25 tlp:text "\"TSMC Updates 1Q'14 Guidance\"" ;
+    tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&newsid=8381&language=E> .
+
+_:ub350bL2445C25 tlp:text "\"TSMC Reports Second Quarter EPS of NT$2.30\"" ;
+    tlp:url <http://www.tsmc.com/tsmcdotcom/PRListingNewsArchivesAction.do?action=detail&newsid=8661&language=E> .
+
+_:ub350bL2456C25 tlp:text "\"TSMC extends 28nm production lead time to 16 weeks\"" ;
+    tlp:url <http://www.digitimes.com/news/a20140509PD207.html> .
+
+_:ub350bL2467C25 tlp:text "\"TSMC 4Q14 production capacity almost fully booked\"" ;
+    tlp:url <http://www.digitimes.com/news/a20140814PD214.html> .
+
+_:ub350bL2478C25 tlp:text "\"TSMC revenue shrinks as clients adjust inventories\"" ;
+    tlp:url <http://www.taipeitimes.com/News/biz/archives/2014/12/11/2003606440> .
+
+_:ub350bL2489C25 tlp:text "\"ARM Partnered With TSMC For 10nm FinFET Processors\"" ;
+    tlp:url <https://web.archive.org/web/20141013181149/http://gsminsider.com/2014/10/arm-partnered-tsmc-10nm-finfet-processors/> .
+
+_:ub350bL2493C25 tlp:text "the original" ;
+    tlp:url <http://gsminsider.com/2014/10/arm-partnered-tsmc-10nm-finfet-processors/> .
+
+_:ub350bL2512C25 tlp:text "Official website" ;
+    tlp:url <http://www.tsmc.com> .
+
+_:ub350bL2516C25 tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png> ;
+    tlp:url <https://www.wikidata.org/wiki/Q713418#P856> .
+
+_:ub350bL2535C25 tlp:text "Taiwanese companies established in 1987" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Taiwanese_companies_established_in_1987> .
+
+_:ub350bL2546C25 tlp:text "Manufacturing companies based in Hsinchu" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Manufacturing_companies_based_in_Hsinchu> .
+
+_:ub350bL2557C25 tlp:text "Companies listed on the New York Stock Exchange" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange> .
+
+_:ub350bL255C33 tlp:text "Traditional Chinese" ;
+    tlp:url wikipedia:Traditional_Chinese_characters .
+
+_:ub350bL2568C25 tlp:text "Companies listed on the Taiwan Stock Exchange" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Taiwan_Stock_Exchange> .
+
+_:ub350bL2579C25 tlp:text "Electronics companies of Taiwan" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Electronics_companies_of_Taiwan> .
+
+_:ub350bL2590C25 tlp:text "Semiconductor companies of Taiwan" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Semiconductor_companies_of_Taiwan> .
+
+_:ub350bL2601C25 tlp:text "Foundry semiconductor companies" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Foundry_semiconductor_companies> .
+
+_:ub350bL2612C25 tlp:text "Private equity portfolio companies" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Private_equity_portfolio_companies> .
+
+_:ub350bL2623C25 tlp:text "Taiwanese brands" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Taiwanese_brands> .
+
+_:ub350bL2634C25 tlp:text "Technology companies of Taiwan" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Technology_companies_of_Taiwan> .
+
+_:ub350bL2653C25 tlp:text "EngvarB from August 2016" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:EngvarB_from_August_2016> .
+
+_:ub350bL2664C25 tlp:text "Use dmy dates from August 2016" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2016> .
+
+_:ub350bL2675C25 tlp:text "Pages using deprecated image syntax" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax> .
+
+_:ub350bL2686C25 tlp:text "Articles containing Chinese-language text" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text> .
+
+_:ub350bL2697C25 tlp:text "Articles containing traditional Chinese-language text" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_traditional_Chinese-language_text> .
+
+_:ub350bL2708C25 tlp:text "All articles with unsourced statements" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements> .
+
+_:ub350bL2719C25 tlp:text "Articles with unsourced statements from May 2014" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_May_2014> .
+
+_:ub350bL2730C25 tlp:text "Commons category link from Wikidata" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata> .
+
+_:ub350bL2749C25 tlp:text "What links here" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/TSMC> .
+
+_:ub350bL2760C25 tlp:text "Related changes" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/TSMC> .
+
+_:ub350bL2771C25 tlp:text "Upload file" ;
+    tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard> .
+
+_:ub350bL2782C25 tlp:text "Special pages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages> .
+
+_:ub350bL2793C25 tlp:text "Permanent link" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=TSMC&oldid=946609630> .
+
+_:ub350bL2804C25 tlp:text "Page information" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=TSMC&action=info> .
+
+_:ub350bL2815C25 tlp:text "Wikidata item" ;
+    tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q713418> .
+
+_:ub350bL2826C25 tlp:text "Cite this page" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=TSMC&id=946609630&wpFormIdentifier=titleform> .
+
+_:ub350bL2845C25 tlp:text "Wikimedia Commons" ;
+    tlp:url <https://commons.wikimedia.org/wiki/Category:TSMC> .
+
+_:ub350bL2864C25 tlp:text "Create a book" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=TSMC> .
+
+_:ub350bL2875C25 tlp:text "Download as PDF" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=TSMC&action=show-download-screen> .
+
+_:ub350bL2886C25 tlp:text "Printable version" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=TSMC&printable=yes> .
+
+_:ub350bL2905C25 tlp:text "العربية" ;
+    tlp:url <https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9_%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86_%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A3%D8%B4%D8%A8%D8%A7%D9%87_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9> .
+
+_:ub350bL2916C25 tlp:text "تۆرکجه" ;
+    tlp:url <https://azb.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C> .
+
+_:ub350bL2927C25 tlp:text "Bân-lâm-gú" ;
+    tlp:url <https://zh-min-nan.wikipedia.org/wiki/T%C3%A2i-o%C3%A2n_Chek-th%C3%A9_Ti%C4%81n-l%C5%8D%CD%98_Ch%C3%A8-ch%C5%8D> .
+
+_:ub350bL2938C25 tlp:text "Català" ;
+    tlp:url <https://ca.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL2949C25 tlp:text "Čeština" ;
+    tlp:url <https://cs.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL2960C25 tlp:text "Deutsch" ;
+    tlp:url <https://de.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL2971C25 tlp:text "Español" ;
+    tlp:url <https://es.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL2982C25 tlp:text "فارسی" ;
+    tlp:url <https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C> .
+
+_:ub350bL2993C25 tlp:text "Français" ;
+    tlp:url <https://fr.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company> .
+
+_:ub350bL3004C25 tlp:text "한국어" ;
+    tlp:url <https://ko.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3015C25 tlp:text "Bahasa Indonesia" ;
+    tlp:url <https://id.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3026C25 tlp:text "Italiano" ;
+    tlp:url <https://it.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3037C25 tlp:text "עברית" ;
+    tlp:url <https://he.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3048C25 tlp:text "Bahasa Melayu" ;
+    tlp:url <https://ms.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3059C25 tlp:text "မြန်မာဘာသာ" ;
+    tlp:url <https://my.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3070C25 tlp:text "Nederlands" ;
+    tlp:url <https://nl.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3081C25 tlp:text "日本語" ;
+    tlp:url <https://ja.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3092C25 tlp:text "Polski" ;
+    tlp:url <https://pl.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL309C33 tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Tsmc.svg> .
+
+_:ub350bL3103C25 tlp:text "Русский" ;
+    tlp:url <https://ru.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3114C25 tlp:text "Slovenčina" ;
+    tlp:url <https://sk.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3125C25 tlp:text "Svenska" ;
+    tlp:url <https://sv.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company_Limited> .
+
+_:ub350bL3136C25 tlp:text "Türkçe" ;
+    tlp:url <https://tr.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3147C25 tlp:text "Українська" ;
+    tlp:url <https://uk.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3158C25 tlp:text "Tiếng Việt" ;
+    tlp:url <https://vi.wikipedia.org/wiki/TSMC> .
+
+_:ub350bL3169C25 tlp:text "吴语" ;
+    tlp:url <https://wuu.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E7%A7%AF%E4%BD%93%E7%94%B5%E8%B7%AF%E5%88%B6%E9%80%A0> .
+
+_:ub350bL3180C25 tlp:text "中文" ;
+    tlp:url <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0> .
+
+_:ub350bL326C33 tlp:text "Public" ;
+    tlp:url wikipedia:Public_company .
+
+_:ub350bL357C33 tlp:text "US8740391003" ;
+    tlp:url <https://tools.wmflabs.org/isin/?language=en&isin=US8740391003> .
+
+_:ub350bL361C33 tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png> ;
+    tlp:url <https://www.wikidata.org/wiki/Q713418?uselang=en#P946> .
+
+_:ub350bL372C33 tlp:text "Semiconductors" ;
+    tlp:url wikipedia:Semiconductor .
+
+_:ub350bL385C33 tlp:text "Industrial Technology Research Institute" ;
+    tlp:url wikipedia:Industrial_Technology_Research_Institute .
+
+_:ub350bL389C33 tlp:text "Hsinchu" ;
+    tlp:url wikipedia:Hsinchu .
+
+_:ub350bL400C33 tlp:text "Morris Chang" ;
+    tlp:url wikipedia:Morris_Chang .
+
+_:ub350bL411C33 tlp:text "Hsinchu Science and Industrial Park" ;
+    tlp:url wikipedia:Hsinchu_Science_and_Industrial_Park .
+
+_:ub350bL41C33 tlp:image <http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Tsmc.svg> .
+
+_:ub350bL468C33 tlp:text "Integrated circuits" ;
+    tlp:url wikipedia:Integrated_circuit .
+
+_:ub350bL60C33 tlp:text "Type" ;
+    tlp:url wikipedia:List_of_legal_entity_types_by_country .
+
+_:ub350bL630C33 tlp:text "www.tsmc.com" ;
+    tlp:url <http://www.tsmc.com> .
+
+_:ub350bL657C25 tlp:text "Overview" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#Overview> .
+
+_:ub350bL669C33 tlp:text "GlobalFoundries vs. TSMC et al" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#GlobalFoundries_vs._TSMC_et_al> .
+
+_:ub350bL681C25 tlp:text "Production capabilities" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#Production_capabilities> .
+
+_:ub350bL692C25 tlp:text "Facilities" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#Facilities> .
+
+_:ub350bL704C33 tlp:text "WaferTech subsidiary" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#WaferTech_subsidiary> .
+
+_:ub350bL716C25 tlp:text "Sales and market trends" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#Sales_and_market_trends> .
+
+_:ub350bL727C25 tlp:text "See also" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#See_also> .
+
+_:ub350bL72C33 tlp:text "Traded as" ;
+    tlp:url wikipedia:Ticker_symbol .
+
+_:ub350bL738C25 tlp:text "References" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#References> .
+
+_:ub350bL749C25 tlp:text "External links" ;
+    tlp:url <http://en.wikipedia.org/wiki/TSMC#External_links> .
+
+_:ub350bL822C25 tlp:text "NVIDIA" ;
+    tlp:url wikipedia:Nvidia .
+
+_:ub350bL84C33 tlp:text "ISIN" ;
+    tlp:url wikipedia:International_Securities_Identification_Number .
+
+_:ub350bL871C25 tlp:text "wafer" ;
+    tlp:url <http://en.wikipedia.org/wiki/Wafer_(electronics)> .
+
+_:ub350bL894C25 tlp:text "Camas, Washington" ;
+    tlp:url <http://en.wikipedia.org/wiki/Camas,_Washington> .
+
+_:ub350bL905C25 tlp:text "SSMC" ;
+    tlp:url wikipedia:SSMC .
+
+_:ub350bL909C25 tlp:text "joint venture" ;
+    tlp:url wikipedia:Joint_venture .
+
+_:ub350bL913C25 tlp:text "NXP Semiconductors" ;
+    tlp:url wikipedia:NXP_Semiconductors .
+
+_:ub350bL917C25 tlp:text "Singapore" ;
+    tlp:url wikipedia:Singapore .
+
+_:ub350bL1004C25 a tlp:Cell ;
+    rdfs:label "1998" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb450 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1011C25 a tlp:Cell ;
+    rdfs:label "50,422" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb454 .
+
+_:ub350bL1017C25 a tlp:Cell ;
+    rdfs:label "2008" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb458 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1024C25 a tlp:Cell ;
+    rdfs:label "333,158" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb462 .
+
+_:ub350bL1030C25 a tlp:Cell ;
+    rdfs:label "2018" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb466 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1037C25 a tlp:Cell ;
+    rdfs:label "1,031,474" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb470 .
+
+_:ub350bL103C25 a tlp:Cell ;
+    rdfs:label "Founder" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb35 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1044C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb474 ;
+    tlp:member _:ub350bL1050C25,
+        _:ub350bL1057C25,
+        _:ub350bL1063C25,
+        _:ub350bL1070C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1050C25 a tlp:Cell ;
+    rdfs:label "1999" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb477 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1057C25 a tlp:Cell ;
+    rdfs:label "73,067" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb481 .
+
+_:ub350bL1063C25 a tlp:Cell ;
+    rdfs:label "2009" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb485 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1070C25 a tlp:Cell ;
+    rdfs:label "295,742" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb489 .
+
+_:ub350bL1077C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb493 ;
+    tlp:member _:ub350bL1083C25,
+        _:ub350bL1090C25,
+        _:ub350bL1096C25,
+        _:ub350bL1103C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1083C25 a tlp:Cell ;
+    rdfs:label "2000" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb496 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1090C25 a tlp:Cell ;
+    rdfs:label "166,189" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb500 .
+
+_:ub350bL1096C25 a tlp:Cell ;
+    rdfs:label "2010" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb504 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1103C25 a tlp:Cell ;
+    rdfs:label "419,538" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb508 .
+
+_:ub350bL110C25 a tlp:Cell ;
+    rdfs:label "Headquarters" ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb39 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1110C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb512 ;
+    tlp:member _:ub350bL1116C25,
+        _:ub350bL1123C25,
+        _:ub350bL1129C25,
+        _:ub350bL1136C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1116C25 a tlp:Cell ;
+    rdfs:label "2001" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb515 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1123C25 a tlp:Cell ;
+    rdfs:label "125,881" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb519 .
+
+_:ub350bL1129C25 a tlp:Cell ;
+    rdfs:label "2011" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb523 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1136C25 a tlp:Cell ;
+    rdfs:label "427,081" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb527 .
+
+_:ub350bL1143C17 a tlp:Column ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb531 ;
+    tlp:member _:ub350bL1149C25,
+        _:ub350bL1156C25,
+        _:ub350bL1162C25,
+        _:ub350bL1169C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1149C25 a tlp:Cell ;
+    rdfs:label "2002" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb534 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1156C25 a tlp:Cell ;
+    rdfs:label "162,301" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb538 .
+
+_:ub350bL1162C25 a tlp:Cell ;
+    rdfs:label "2012" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb542 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1169C25 a tlp:Cell ;
+    rdfs:label "506,754" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb546 .
+
+_:ub350bL1176C17 a tlp:Column ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb550 ;
+    tlp:member _:ub350bL1182C25,
+        _:ub350bL1189C25,
+        _:ub350bL1195C25,
+        _:ub350bL1202C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL117C25 a tlp:Cell ;
+    rdfs:label "Area served" ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb43 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1182C25 a tlp:Cell ;
+    rdfs:label "2003" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb553 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1189C25 a tlp:Cell ;
+    rdfs:label "202,997" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb557 .
+
+_:ub350bL1195C25 a tlp:Cell ;
+    rdfs:label "2013" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb561 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1202C25 a tlp:Cell ;
+    rdfs:label "597,024" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb565 .
+
+_:ub350bL1209C17 a tlp:Column ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb569 ;
+    tlp:member _:ub350bL1215C25,
+        _:ub350bL1222C25,
+        _:ub350bL1228C25,
+        _:ub350bL1235C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1215C25 a tlp:Cell ;
+    rdfs:label "2004" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb572 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1222C25 a tlp:Cell ;
+    rdfs:label "257,213" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb576 .
+
+_:ub350bL1228C25 a tlp:Cell ;
+    rdfs:label "2014" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb580 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1235C25 a tlp:Cell ;
+    rdfs:label "762,806" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb584 .
+
+_:ub350bL1242C17 a tlp:Column ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb588 ;
+    tlp:member _:ub350bL1248C25,
+        _:ub350bL1255C25,
+        _:ub350bL1261C25,
+        _:ub350bL1268C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1248C25 a tlp:Cell ;
+    rdfs:label "2005" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb591 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL124C25 a tlp:Cell ;
+    rdfs:label "Key people" ;
+    tlp:index 11 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb47 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1255C25 a tlp:Cell ;
+    rdfs:label "266,565" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb595 .
+
+_:ub350bL1261C25 a tlp:Cell ;
+    rdfs:label "2015" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb599 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1268C25 a tlp:Cell ;
+    rdfs:label "843,497" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb603 .
+
+_:ub350bL1275C17 a tlp:Column ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb607 ;
+    tlp:member _:ub350bL1281C25,
+        _:ub350bL1288C25,
+        _:ub350bL1294C25,
+        _:ub350bL1301C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1281C25 a tlp:Cell ;
+    rdfs:label "2006" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb610 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1288C25 a tlp:Cell ;
+    rdfs:label "317,407" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb614 .
+
+_:ub350bL1294C25 a tlp:Cell ;
+    rdfs:label "2016" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb618 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1301C25 a tlp:Cell ;
+    rdfs:label "947,938" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb622 .
+
+_:ub350bL1309C9 a tlp:Table ;
+    rdfs:label "Quarterly revenues in million NT$" ;
+    tlp:dimension 2 ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb626 ;
+    tlp:member _:ub350bL1318C17,
+        _:ub350bL1381C17,
+        _:ub350bL1437C17,
+        _:ub350bL1493C17,
+        _:ub350bL1549C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub350bL1318C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb628 ;
+    tlp:member _:ub350bL1324C25,
+        _:ub350bL1331C25,
+        _:ub350bL1338C25,
+        _:ub350bL1345C25,
+        _:ub350bL1352C25,
+        _:ub350bL1359C25,
+        _:ub350bL1366C25,
+        _:ub350bL1373C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL131C25 a tlp:Cell ;
+    rdfs:label "Brands" ;
+    tlp:index 12 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb51 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1324C25 a tlp:Cell ;
+    rdfs:label "Year" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb631 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1331C25 a tlp:Cell ;
+    rdfs:label "2012" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb635 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1338C25 a tlp:Cell ;
+    rdfs:label "2013" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb639 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1345C25 a tlp:Cell ;
+    rdfs:label "2014" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb643 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1352C25 a tlp:Cell ;
+    rdfs:label "2015" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb647 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1359C25 a tlp:Cell ;
+    rdfs:label "2016" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb651 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1366C25 a tlp:Cell ;
+    rdfs:label "2017" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb655 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1373C25 a tlp:Cell ;
+    rdfs:label "2018" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb659 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1381C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb663 ;
+    tlp:member _:ub350bL1387C25,
+        _:ub350bL1394C25,
+        _:ub350bL1400C25,
+        _:ub350bL1406C25,
+        _:ub350bL1412C25,
+        _:ub350bL1418C25,
+        _:ub350bL1424C25,
+        _:ub350bL1430C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1387C25 a tlp:Cell ;
+    rdfs:label "Q1" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb666 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL138C25 a tlp:Cell ;
+    rdfs:label "Production output" ;
+    tlp:index 13 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb55 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1394C25 a tlp:Cell ;
+    rdfs:label "105,615" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb670 .
+
+_:ub350bL1400C25 a tlp:Cell ;
+    rdfs:label "132,755" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb674 .
+
+_:ub350bL1406C25 a tlp:Cell ;
+    rdfs:label "148,215" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb678 .
+
+_:ub350bL1412C25 a tlp:Cell ;
+    rdfs:label "222,034" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb682 .
+
+_:ub350bL1418C25 a tlp:Cell ;
+    rdfs:label "203,495" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb686 .
+
+_:ub350bL1424C25 a tlp:Cell ;
+    rdfs:label "233,914" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb690 .
+
+_:ub350bL1430C25 a tlp:Cell ;
+    rdfs:label "248,079" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb694 .
+
+_:ub350bL1437C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb698 ;
+    tlp:member _:ub350bL1443C25,
+        _:ub350bL1450C25,
+        _:ub350bL1456C25,
+        _:ub350bL1462C25,
+        _:ub350bL1468C25,
+        _:ub350bL1474C25,
+        _:ub350bL1480C25,
+        _:ub350bL1486C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1443C25 a tlp:Cell ;
+    rdfs:label "Q2" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb701 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1450C25 a tlp:Cell ;
+    rdfs:label "128,186" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb705 .
+
+_:ub350bL1456C25 a tlp:Cell ;
+    rdfs:label "155,886" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb709 .
+
+_:ub350bL145C25 a tlp:Cell ;
+    rdfs:label "Services" ;
+    tlp:index 14 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb59 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1462C25 a tlp:Cell ;
+    rdfs:label "183,020" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb713 .
+
+_:ub350bL1468C25 a tlp:Cell ;
+    rdfs:label "205,440" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb717 .
+
+_:ub350bL1474C25 a tlp:Cell ;
+    rdfs:label "221,810" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb721 .
+
+_:ub350bL1480C25 a tlp:Cell ;
+    rdfs:label "213,855" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb725 .
+
+_:ub350bL1486C25 a tlp:Cell ;
+    rdfs:label "233,276" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb729 .
+
+_:ub350bL1493C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb733 ;
+    tlp:member _:ub350bL1499C25,
+        _:ub350bL1506C25,
+        _:ub350bL1512C25,
+        _:ub350bL1518C25,
+        _:ub350bL1524C25,
+        _:ub350bL1530C25,
+        _:ub350bL1536C25,
+        _:ub350bL1542C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1499C25 a tlp:Cell ;
+    rdfs:label "Q3" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb736 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1506C25 a tlp:Cell ;
+    rdfs:label "141,499" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb740 .
+
+_:ub350bL1512C25 a tlp:Cell ;
+    rdfs:label "162,577" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb744 .
+
+_:ub350bL1518C25 a tlp:Cell ;
+    rdfs:label "209,050" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb748 .
+
+_:ub350bL1524C25 a tlp:Cell ;
+    rdfs:label "212,505" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb752 .
+
+_:ub350bL152C25 a tlp:Cell ;
+    rdfs:label "Revenue" ;
+    tlp:index 15 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb63 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1530C25 a tlp:Cell ;
+    rdfs:label "260,406" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb756 .
+
+_:ub350bL1536C25 a tlp:Cell ;
+    rdfs:label "252,107" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb760 .
+
+_:ub350bL1542C25 a tlp:Cell ;
+    rdfs:label "260,348" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb764 .
+
+_:ub350bL1549C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb768 ;
+    tlp:member _:ub350bL1555C25,
+        _:ub350bL1562C25,
+        _:ub350bL1568C25,
+        _:ub350bL1574C25,
+        _:ub350bL1580C25,
+        _:ub350bL1586C25,
+        _:ub350bL1592C25,
+        _:ub350bL1598C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1555C25 a tlp:Cell ;
+    rdfs:label "Q4" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb771 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1562C25 a tlp:Cell ;
+    rdfs:label "131,445" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb775 .
+
+_:ub350bL1568C25 a tlp:Cell ;
+    rdfs:label "145,806" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb779 .
+
+_:ub350bL1574C25 a tlp:Cell ;
+    rdfs:label "222,520" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb783 .
+
+_:ub350bL1580C25 a tlp:Cell ;
+    rdfs:label "203,518" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb787 .
+
+_:ub350bL1586C25 a tlp:Cell ;
+    rdfs:label "262,227" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb791 .
+
+_:ub350bL1592C25 a tlp:Cell ;
+    rdfs:label "277,570" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb795 .
+
+_:ub350bL1598C25 a tlp:Cell ;
+    rdfs:label "289,771" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb799 .
+
+_:ub350bL159C25 a tlp:Cell ;
+    rdfs:label "Operating income" ;
+    tlp:index 16 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb67 ;
+    tlp:link _:ub350bL166C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1606C9 a tlp:List ;
+    rdfs:label "See also" ;
+    tlp:dimension 1 ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb803 ;
+    tlp:member _:ub350bL1613C17,
+        _:ub350bL1624C17,
+        _:ub350bL1635C17,
+        _:ub350bL1646C17,
+        _:ub350bL1657C17,
+        _:ub350bL1668C17,
+        _:ub350bL1679C17,
+        _:ub350bL1690C17,
+        _:ub350bL1701C17,
+        _:ub350bL1712C17 .
+
+_:ub350bL1613C17 a tlp:Item ;
+    rdfs:label "5 nanometer" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb805 ;
+    tlp:link _:ub350bL1619C25 .
+
+_:ub350bL1624C17 a tlp:Item ;
+    rdfs:label "List of companies in Taiwan" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb808 ;
+    tlp:link _:ub350bL1630C25 .
+
+_:ub350bL1635C17 a tlp:Item ;
+    rdfs:label "List of semiconductor fabrication plants" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb811 ;
+    tlp:link _:ub350bL1641C25 .
+
+_:ub350bL1646C17 a tlp:Item ;
+    rdfs:label "Moore's law" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb814 ;
+    tlp:link _:ub350bL1652C25 .
+
+_:ub350bL1657C17 a tlp:Item ;
+    rdfs:label "Pure-play semiconductor foundry" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb817 ;
+    tlp:link _:ub350bL1663C25 .
+
+_:ub350bL1668C17 a tlp:Item ;
+    rdfs:label "Quantum tunnelling" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb820 ;
+    tlp:link _:ub350bL1674C25 .
+
+_:ub350bL1679C17 a tlp:Item ;
+    rdfs:label "Semiconductor device fabrication" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb823 ;
+    tlp:link _:ub350bL1685C25 .
+
+_:ub350bL1690C17 a tlp:Item ;
+    rdfs:label "United Microelectronics Corporation" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb826 ;
+    tlp:link _:ub350bL1696C25 .
+
+_:ub350bL1701C17 a tlp:Item ;
+    rdfs:label "Very-large-scale integration" ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb829 ;
+    tlp:link _:ub350bL1707C25 .
+
+_:ub350bL1712C17 a tlp:Item ;
+    rdfs:label "North South divide in Taiwan § Attractiveness" ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb832 ;
+    tlp:link _:ub350bL1718C25 .
+
+_:ub350bL171C25 a tlp:Cell ;
+    rdfs:label "Net income" ;
+    tlp:index 17 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb71 ;
+    tlp:link _:ub350bL178C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1724C9 a tlp:List ;
+    rdfs:label "References" ;
+    tlp:dimension 1 ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb835 ;
+    tlp:member _:ub350bL1732C17,
+        _:ub350bL1743C17,
+        _:ub350bL1754C17,
+        _:ub350bL1765C17,
+        _:ub350bL1776C17,
+        _:ub350bL1787C17,
+        _:ub350bL1798C17,
+        _:ub350bL1809C17,
+        _:ub350bL1820C17,
+        _:ub350bL1831C17,
+        _:ub350bL1842C17,
+        _:ub350bL1848C17,
+        _:ub350bL1859C17,
+        _:ub350bL1870C17,
+        _:ub350bL1881C17,
+        _:ub350bL1892C17,
+        _:ub350bL1903C17,
+        _:ub350bL1914C17,
+        _:ub350bL1925C17,
+        _:ub350bL1936C17,
+        _:ub350bL1951C17,
+        _:ub350bL1962C17,
+        _:ub350bL1973C17,
+        _:ub350bL1984C17,
+        _:ub350bL1995C17,
+        _:ub350bL2006C17,
+        _:ub350bL2017C17,
+        _:ub350bL2028C17,
+        _:ub350bL2039C17,
+        _:ub350bL2050C17,
+        _:ub350bL2061C17,
+        _:ub350bL2072C17,
+        _:ub350bL2083C17,
+        _:ub350bL2094C17,
+        _:ub350bL2105C17,
+        _:ub350bL2116C17,
+        _:ub350bL2127C17,
+        _:ub350bL2138C17,
+        _:ub350bL2149C17,
+        _:ub350bL2160C17,
+        _:ub350bL2171C17,
+        _:ub350bL2182C17,
+        _:ub350bL2193C17,
+        _:ub350bL2204C17,
+        _:ub350bL2215C17,
+        _:ub350bL2226C17,
+        _:ub350bL2237C17,
+        _:ub350bL2248C17,
+        _:ub350bL2259C17,
+        _:ub350bL2270C17,
+        _:ub350bL2281C17,
+        _:ub350bL2292C17,
+        _:ub350bL2303C17,
+        _:ub350bL2314C17,
+        _:ub350bL2329C17,
+        _:ub350bL2340C17,
+        _:ub350bL2351C17,
+        _:ub350bL2362C17,
+        _:ub350bL2373C17,
+        _:ub350bL2384C17,
+        _:ub350bL2395C17,
+        _:ub350bL2406C17,
+        _:ub350bL2417C17,
+        _:ub350bL2428C17,
+        _:ub350bL2439C17,
+        _:ub350bL2450C17,
+        _:ub350bL2461C17,
+        _:ub350bL2472C17,
+        _:ub350bL2483C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL1732C17 a tlp:Item ;
+    rdfs:label "\"TSMC 2018 Annual Report Website\". www.tsmc.com." ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb837 ;
+    tlp:link _:ub350bL1738C25 .
+
+_:ub350bL1743C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". TSMC. Retrieved 19 May 2014." ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb840 ;
+    tlp:link _:ub350bL1749C25 .
+
+_:ub350bL1754C17 a tlp:Item ;
+    rdfs:label "\"Advanced Technology Key to Strong Foundry Revenue per Wafer\". IC Insights. 12 October 2018. Retrieved 14 July 2019." ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb843 ;
+    tlp:link _:ub350bL1760C25 .
+
+_:ub350bL1765C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor: My Top Semiconductor Pick For 2020\", Seeking Alpha" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb846 ;
+    tlp:link _:ub350bL1771C25 .
+
+_:ub350bL1776C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That's Good News for Chip Stocks.\", Barron's" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb849 ;
+    tlp:link _:ub350bL1782C25 .
+
+_:ub350bL1787C17 a tlp:Item ;
+    rdfs:label "\"About TSC: Company Profile\". Taiwan Semiconductor. Taiwan Semiconductor was established in 1979 and remains under the direction of its founder and CEO, Arthur Wang. The company has grown from its beginnings as a local manufacturer, to a global enterprise with 2,000 employees. Taiwan Semiconductor is publicly traded on the Stock Exchange Corporation of Taiwan. Recognized for more than 40 years for its core competence in discrete Power Rectifiers, Taiwan Semiconductor has expanded its product portfolio to include Trench Schottkys,  MOSFETs, Power Transistors, LED Driver ICs, Analog ICs and ESD Protection Devices, and now provides a complete solution from one source." ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb852 ;
+    tlp:link _:ub350bL1793C25 .
+
+_:ub350bL1798C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Co Ltd - Company Profile and News\". Bloomberg." ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb855 ;
+    tlp:link _:ub350bL1804C25 .
+
+_:ub350bL1809C17 a tlp:Item ;
+    rdfs:label "\"Company Profile\". TSMC. Retrieved 20 December 2010." ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb858 ;
+    tlp:link _:ub350bL1815C25 .
+
+_:ub350bL1820C17 a tlp:Item ;
+    rdfs:label "\"D&R Foundry Corner\". Design & Reuse. Retrieved 18 May 2014." ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb861 ;
+    tlp:link _:ub350bL1826C25 .
+
+_:ub350bL1831C17 a tlp:Item ;
+    rdfs:label "\"Corporate Executives\". TSMC. Retrieved 20 June 2018." ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb864 ;
+    tlp:link _:ub350bL1837C25 .
+
+_:ub350bL183C25 a tlp:Cell ;
+    rdfs:label "Total assets" ;
+    tlp:index 18 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb75 ;
+    tlp:link _:ub350bL190C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1842C17 a tlp:Item ;
+    rdfs:label "Abrams, Randy (25 November 2013), Asia Semiconductor Sector (Sector Review), Asia Pacific Equity Research, Credit Suisse, pp. 1, 3" ;
+    tlp:index 11 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb867 .
+
+_:ub350bL1848C17 a tlp:Item ;
+    rdfs:label "\"Morris Chang on Altera and Intel\". SemiWiki. 25 April 2013. Retrieved 23 May 2014." ;
+    tlp:index 12 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb870 ;
+    tlp:link _:ub350bL1854C25 .
+
+_:ub350bL1859C17 a tlp:Item ;
+    rdfs:label "\"Intel Outsourcing Some Atom Manufacturing to TSMC\". The Oregonian. 2 March 2009." ;
+    tlp:index 13 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb873 ;
+    tlp:link _:ub350bL1865C25 .
+
+_:ub350bL1870C17 a tlp:Item ;
+    rdfs:label "\"STMicroelectronics envisage la création de deux usines de puces avec l'aide des Etats français et italien\". Ousine Nouvelle. 9 October 2017." ;
+    tlp:index 14 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb876 ;
+    tlp:link _:ub350bL1876C25 .
+
+_:ub350bL1881C17 a tlp:Item ;
+    rdfs:label "Lisa Wang (21 December 2010). \"TSMC plans to increase research spending\". Taipei Times. Retrieved 20 December 2010." ;
+    tlp:index 15 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb879 ;
+    tlp:link _:ub350bL1887C25 .
+
+_:ub350bL1892C17 a tlp:Item ;
+    rdfs:label "\"TSMC to expand capacity by 30% in 2011\". China Knowledge. 8 December 2010. Retrieved 20 December 2010." ;
+    tlp:index 16 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb882 ;
+    tlp:link _:ub350bL1898C25 .
+
+_:ub350bL1903C17 a tlp:Item ;
+    rdfs:label "\"TSMC Board of Directors Meeting Resolutions\". TSMC. 13 May 2014. Retrieved 18 May 2014." ;
+    tlp:index 17 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb885 ;
+    tlp:link _:ub350bL1909C25 .
+
+_:ub350bL1914C17 a tlp:Item ;
+    rdfs:label "\"TSMC forecasts 22 percent Q2 growth\". Taipei Times. 18 April 2014. Retrieved 18 May 2014." ;
+    tlp:index 18 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb888 ;
+    tlp:link _:ub350bL1920C25 .
+
+_:ub350bL1925C17 a tlp:Item ;
+    rdfs:label "\"TSMC Board of Directors Meeting Resolutions\". TSMC. 12 August 2014. Retrieved 16 August 2014." ;
+    tlp:index 19 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb891 ;
+    tlp:link _:ub350bL1931C25 .
+
+_:ub350bL1936C17 a tlp:Item ;
+    rdfs:label "\"TSMC Kicks Off A6 Processor Trial Production with Apple\". Chinese Economic News Service. 12 August 2011. Archived from the original on 27 September 2011. Retrieved 13 September 2011." ;
+    tlp:index 20 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb894 ;
+    tlp:link _:ub350bL1942C25,
+        _:ub350bL1946C25 .
+
+_:ub350bL1951C17 a tlp:Item ;
+    rdfs:label "\"TSMC Beginning Production Of Apple's New A6 Processor\". Techcrunch. 12 August 2011. Retrieved 13 September 2011." ;
+    tlp:index 21 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb897 ;
+    tlp:link _:ub350bL1957C25 .
+
+_:ub350bL195C25 a tlp:Cell ;
+    rdfs:label "Total equity" ;
+    tlp:index 19 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb79 ;
+    tlp:link _:ub350bL202C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL1962C17 a tlp:Item ;
+    rdfs:label "\"Apple begins receiving shipments of A-series processors from TSMC - report\". AppleInsider. 10 July 2014. Retrieved 2 November 2014." ;
+    tlp:index 22 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb900 ;
+    tlp:link _:ub350bL1968C25 .
+
+_:ub350bL1973C17 a tlp:Item ;
+    rdfs:label "\"TSMC to Snatch All of Apple's A8 chip Orders?\". TechNews. 17 February 2014. Retrieved 18 May 2014." ;
+    tlp:index 23 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb903 ;
+    tlp:link _:ub350bL1979C25 .
+
+_:ub350bL1984C17 a tlp:Item ;
+    rdfs:label "\"Apple driving move to 64-bit mobile processors, TSMC says\". CNET. 17 April 2014. Retrieved 23 May 2014." ;
+    tlp:index 24 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb906 ;
+    tlp:link _:ub350bL1990C25 .
+
+_:ub350bL1995C17 a tlp:Item ;
+    rdfs:label "\"Apple chips to be 20% of TSMC sales\". Taipei Times. 15 April 2014. Retrieved 18 May 2014." ;
+    tlp:index 25 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb909 ;
+    tlp:link _:ub350bL2001C25 .
+
+_:ub350bL19C9 a tlp:Table ;
+    rdfs:label "Taiwan Semiconductor Manufacturing Company Limited (TSMC)" ;
+    tlp:dimension 3 ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb2 ;
+    tlp:member _:ub350bL28C17,
+        _:ub350bL296C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub350bL2006C17 a tlp:Item ;
+    rdfs:label "\"Market capitalization of TSMC reaches a historic high: CEO\". AsiaOne Business. 21 December 2010. Retrieved 20 December 2010." ;
+    tlp:index 26 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb912 ;
+    tlp:link _:ub350bL2012C25 .
+
+_:ub350bL2017C17 a tlp:Item ;
+    rdfs:label "\"FT 500 2013\". Financial Times. Retrieved 18 May 2014." ;
+    tlp:index 27 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb915 ;
+    tlp:link _:ub350bL2023C25 .
+
+_:ub350bL2028C17 a tlp:Item ;
+    rdfs:label "\"TSM\". Yahoo! Finance. Retrieved 18 May 2014." ;
+    tlp:index 28 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb918 ;
+    tlp:link _:ub350bL2034C25 .
+
+_:ub350bL2039C17 a tlp:Item ;
+    rdfs:label "Culpan, Tim (22 March 2017). \"Chipzilla Got Toppled\". Bloomberg Gadfly. Retrieved 22 March 2017." ;
+    tlp:index 29 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb921 ;
+    tlp:link _:ub350bL2045C25 .
+
+_:ub350bL2050C17 a tlp:Item ;
+    rdfs:label "eric.millington (26 August 2019). \"GLOBALFOUNDRIES Files Patent Infringement Lawsuits Against TSMC In the U.S. and Germany\". GLOBALFOUNDRIES. Retrieved 28 August 2019." ;
+    tlp:index 30 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb924 ;
+    tlp:link _:ub350bL2056C25 .
+
+_:ub350bL2061C17 a tlp:Item ;
+    rdfs:label "\"Media Fact Sheet\" (PDF). GlobalFoundries. 25 August 2019." ;
+    tlp:index 31 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb927 ;
+    tlp:link _:ub350bL2067C25 .
+
+_:ub350bL2072C17 a tlp:Item ;
+    rdfs:label "\"TSMC Will Vigorously Defend its Proprietary Technology in Response to GlobalFoundries Complaints\". www.tsmc.com. Retrieved 28 August 2019." ;
+    tlp:index 32 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb930 ;
+    tlp:link _:ub350bL2078C25 .
+
+_:ub350bL207C25 a tlp:Cell ;
+    rdfs:label "Number of employees" ;
+    tlp:index 20 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb83 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL2083C17 a tlp:Item ;
+    rdfs:label "\"TSMC Files Complaints Against GlobalFoundries in U.S., Germany and Singapore for Infringement of 25 Patents to Affirm its Technology Leadership and to Protect Its Customers and Consumers Worldwide\". www.tsmc.com. Retrieved 2 October 2019." ;
+    tlp:index 33 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb933 ;
+    tlp:link _:ub350bL2089C25 .
+
+_:ub350bL2094C17 a tlp:Item ;
+    rdfs:label "\"TSMC and GLOBALFOUNDRIES Announce Resolution of Global Disputes Through Broad Global Patent Cross-License\". www.tsmc.com. Retrieved 29 October 2019." ;
+    tlp:index 34 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb936 ;
+    tlp:link _:ub350bL2100C25 .
+
+_:ub350bL2105C17 a tlp:Item ;
+    rdfs:label "eric.millington (28 October 2019). \"GLOBALFOUNDRIES and TSMC Announce Resolution of Global Disputes Through Broad Global Patent Cross-License\". GLOBALFOUNDRIES. Retrieved 30 October 2019." ;
+    tlp:index 35 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb939 ;
+    tlp:link _:ub350bL2111C25 .
+
+_:ub350bL2116C17 a tlp:Item ;
+    rdfs:label "McGregor, Jim. \"Globalfoundries Files Suit Against TSMC – The Outcome Could Have Broad Consequences\". Forbes." ;
+    tlp:index 36 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb942 ;
+    tlp:link _:ub350bL2122C25 .
+
+_:ub350bL2127C17 a tlp:Item ;
+    rdfs:label "\"TSMC counter-sues US chip rival GlobalFoundries for patent infringement\" – via mobile.reuters.com." ;
+    tlp:index 37 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb945 ;
+    tlp:link _:ub350bL2133C25 .
+
+_:ub350bL2138C17 a tlp:Item ;
+    rdfs:label "\"TSMC accuses GlobalFoundries of infringing 25 patents for node processes | ZDNet\". www.zdnet.com." ;
+    tlp:index 38 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb948 ;
+    tlp:link _:ub350bL2144C25 .
+
+_:ub350bL2149C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". www.tsmc.com. Retrieved 21 April 2019." ;
+    tlp:index 39 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb951 ;
+    tlp:link _:ub350bL2155C25 .
+
+_:ub350bL214C25 a tlp:Cell ;
+    rdfs:label "Subsidiaries" ;
+    tlp:index 21 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb87 ;
+    tlp:link _:ub350bL221C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL2160C17 a tlp:Item ;
+    rdfs:label "\"SemiWiki.com - TSMC Unleashes Aggressive 28nm Strategy!\". Retrieved 16 January 2017." ;
+    tlp:index 40 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb954 ;
+    tlp:link _:ub350bL2166C25 .
+
+_:ub350bL2171C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". www.tsmc.com. Retrieved 21 April 2019." ;
+    tlp:index 41 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb957 ;
+    tlp:link _:ub350bL2177C25 .
+
+_:ub350bL2182C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". www.tsmc.com. Retrieved 21 April 2019." ;
+    tlp:index 42 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb960 ;
+    tlp:link _:ub350bL2188C25 .
+
+_:ub350bL2193C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". www.tsmc.com. Retrieved 21 April 2019." ;
+    tlp:index 43 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb963 ;
+    tlp:link _:ub350bL2199C25 .
+
+_:ub350bL2204C17 a tlp:Item ;
+    rdfs:label "\"Report: TSMC to relabel process as 12nm\". eeNews Analog. 29 November 2016. Retrieved 21 April 2019." ;
+    tlp:index 44 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb966 ;
+    tlp:link _:ub350bL2210C25 .
+
+_:ub350bL2215C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". www.tsmc.com. Retrieved 21 April 2019." ;
+    tlp:index 45 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb969 ;
+    tlp:link _:ub350bL2221C25 .
+
+_:ub350bL2226C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". www.tsmc.com. Retrieved 21 April 2019." ;
+    tlp:index 46 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb972 ;
+    tlp:link _:ub350bL2232C25 .
+
+_:ub350bL2237C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\" (PDF). Retrieved 16 April 2019." ;
+    tlp:index 47 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb975 ;
+    tlp:link _:ub350bL2243C25 .
+
+_:ub350bL2248C17 a tlp:Item ;
+    rdfs:label "\"Taiwan Semiconductor Manufacturing Company Limited\". Retrieved 16 January 2017." ;
+    tlp:index 48 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb978 ;
+    tlp:link _:ub350bL2254C25 .
+
+_:ub350bL2259C17 a tlp:Item ;
+    rdfs:label "\"Fab Locations\". TSMC. Retrieved 18 May 2014." ;
+    tlp:index 49 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb981 ;
+    tlp:link _:ub350bL2265C25 .
+
+_:ub350bL226C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 22 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb91 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL2270C17 a tlp:Item ;
+    rdfs:label "\"Business Contacts\". TSMC. Retrieved 18 May 2014." ;
+    tlp:index 50 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb984 ;
+    tlp:link _:ub350bL2276C25 .
+
+_:ub350bL2281C17 a tlp:Item ;
+    rdfs:label "\"UPDATE 1-TSMC says plans $9.4 bln Taiwan plant\". Reuters. 16 July 2010. Retrieved 16 July 2010." ;
+    tlp:index 51 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb987 ;
+    tlp:link _:ub350bL2287C25 .
+
+_:ub350bL2292C17 a tlp:Item ;
+    rdfs:label "\"Analyst Warns Of Semiconductor Monopoly\". Information Week. 21 July 2010. Retrieved 22 July 2010." ;
+    tlp:index 52 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb990 ;
+    tlp:link _:ub350bL2298C25 .
+
+_:ub350bL2303C17 a tlp:Item ;
+    rdfs:label "\"TSMC increases 28nm output\". fudzilla. 7 December 2012. Retrieved 19 May 2014." ;
+    tlp:index 53 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb993 ;
+    tlp:link _:ub350bL2309C25 .
+
+_:ub350bL2314C17 a tlp:Item ;
+    rdfs:label "\"TSMC Acquires PSC Land for New Fab Construction\". Taiwan Economic News. 13 January 2011. Archived from the original on 24 July 2011. Retrieved 13 January 2011." ;
+    tlp:index 54 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb996 ;
+    tlp:link _:ub350bL2320C25,
+        _:ub350bL2324C25 .
+
+_:ub350bL2329C17 a tlp:Item ;
+    rdfs:label "\"Company News; Chip maker is buying out three WaferTech partners\". The New York Times. 15 December 2000. Retrieved 22 May 2014." ;
+    tlp:index 55 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb999 ;
+    tlp:link _:ub350bL2335C25 .
+
+_:ub350bL233C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 23 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb95 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL2340C17 a tlp:Item ;
+    rdfs:label "\"TSMC\". DigiTimes Finance. Retrieved 18 May 2014." ;
+    tlp:index 56 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1002 ;
+    tlp:link _:ub350bL2346C25 .
+
+_:ub350bL2351C17 a tlp:Item ;
+    rdfs:label "\"TSMC Quarterly Results\". TSMC." ;
+    tlp:index 57 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1005 ;
+    tlp:link _:ub350bL2357C25 .
+
+_:ub350bL2362C17 a tlp:Item ;
+    rdfs:label "\"Mobile chips are driving strong demand for TSMC's manufacturing services\". Morningstar. 9 May 2014. Retrieved 18 May 2014." ;
+    tlp:index 58 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1008 ;
+    tlp:link _:ub350bL2368C25 .
+
+_:ub350bL2373C17 a tlp:Item ;
+    rdfs:label "\"Smartphones, 28nm Tech Drive TSMC 1Q Revenue\". EE Times. 17 April 2014. Retrieved 23 May 2014." ;
+    tlp:index 59 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1011 ;
+    tlp:link _:ub350bL2379C25 .
+
+_:ub350bL2384C17 a tlp:Item ;
+    rdfs:label "\"Qualcomm pending to add SMIC to 28nm vendor list\". SimmTester.com. 14 March 2014. Retrieved 18 May 2014." ;
+    tlp:index 60 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1014 ;
+    tlp:link _:ub350bL2390C25 .
+
+_:ub350bL2395C17 a tlp:Item ;
+    rdfs:label "\"Qualcomm Snapdragon 800 Processor First to Use TSMC's 28HPM Advanced Process Technology\". TSMC. 25 February 2013. Retrieved 18 May 2014." ;
+    tlp:index 61 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1017 ;
+    tlp:link _:ub350bL2401C25 .
+
+_:ub350bL2406C17 a tlp:Item ;
+    rdfs:label "\"TSMC banking on 28nm shipments\". Taipei Times. 6 June 2013. Retrieved 18 May 2014." ;
+    tlp:index 62 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1020 ;
+    tlp:link _:ub350bL2412C25 .
+
+_:ub350bL240C25 a tlp:Cell ;
+    rdfs:label "Chinese name" ;
+    tlp:index 24 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb99 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub350bL2417C17 a tlp:Item ;
+    rdfs:label "\"MediaTek adding more 28nm chip orders at TSMC, UMC due to production defects at Globalfoundries\". DigiTimes. 6 May 2014. Retrieved 18 May 2014." ;
+    tlp:index 63 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1023 ;
+    tlp:link _:ub350bL2423C25 .
+
+_:ub350bL2428C17 a tlp:Item ;
+    rdfs:label "\"TSMC Updates 1Q'14 Guidance\". Taipei Times. 1 March 2014. Retrieved 18 May 2014." ;
+    tlp:index 64 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1026 ;
+    tlp:link _:ub350bL2434C25 .
+
+_:ub350bL2439C17 a tlp:Item ;
+    rdfs:label "\"TSMC Reports Second Quarter EPS of NT$2.30\". TSMC. 16 July 2014. Retrieved 16 August 2014." ;
+    tlp:index 65 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1029 ;
+    tlp:link _:ub350bL2445C25 .
+
+_:ub350bL2450C17 a tlp:Item ;
+    rdfs:label "\"TSMC extends 28nm production lead time to 16 weeks\". DigiTimes. 9 May 2014. Retrieved 17 May 2014." ;
+    tlp:index 66 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1032 ;
+    tlp:link _:ub350bL2456C25 .
+
+_:ub350bL2461C17 a tlp:Item ;
+    rdfs:label "\"TSMC 4Q14 production capacity almost fully booked\". DigiTimes. 14 August 2014. Retrieved 16 August 2014." ;
+    tlp:index 67 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1035 ;
+    tlp:link _:ub350bL2467C25 .
+
+_:ub350bL2472C17 a tlp:Item ;
+    rdfs:label "\"TSMC revenue shrinks as clients adjust inventories\". Taipei Times. 11 December 2014. Retrieved 6 January 2015." ;
+    tlp:index 68 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1038 ;
+    tlp:link _:ub350bL2478C25 .
+
+_:ub350bL2483C17 a tlp:Item ;
+    rdfs:label "\"ARM Partnered With TSMC For 10nm FinFET Processors\". GSM Insider. Archived from the original on 13 October 2014. Retrieved 8 October 2014." ;
+    tlp:index 69 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1041 ;
+    tlp:link _:ub350bL2489C25,
+        _:ub350bL2493C25 .
+
+_:ub350bL248C25 a tlp:Cell ;
+    rdfs:label "Traditional Chinese" ;
+    tlp:index 25 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb103 ;
+    tlp:link _:ub350bL255C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL2499C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1044 ;
+    tlp:member _:ub350bL2506C17 .
+
+_:ub350bL2506C17 a tlp:Item ;
+    rdfs:label "Official website" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1046 ;
+    tlp:link _:ub350bL2512C25,
+        _:ub350bL2516C25 .
+
+_:ub350bL2522C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 11 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1049 ;
+    tlp:member _:ub350bL2529C17,
+        _:ub350bL2540C17,
+        _:ub350bL2551C17,
+        _:ub350bL2562C17,
+        _:ub350bL2573C17,
+        _:ub350bL2584C17,
+        _:ub350bL2595C17,
+        _:ub350bL2606C17,
+        _:ub350bL2617C17,
+        _:ub350bL2628C17 .
+
+_:ub350bL2529C17 a tlp:Item ;
+    rdfs:label "Taiwanese companies established in 1987" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1051 ;
+    tlp:link _:ub350bL2535C25 .
+
+_:ub350bL2540C17 a tlp:Item ;
+    rdfs:label "Manufacturing companies based in Hsinchu" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1054 ;
+    tlp:link _:ub350bL2546C25 .
+
+_:ub350bL2551C17 a tlp:Item ;
+    rdfs:label "Companies listed on the New York Stock Exchange" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1057 ;
+    tlp:link _:ub350bL2557C25 .
+
+_:ub350bL2562C17 a tlp:Item ;
+    rdfs:label "Companies listed on the Taiwan Stock Exchange" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1060 ;
+    tlp:link _:ub350bL2568C25 .
+
+_:ub350bL2573C17 a tlp:Item ;
+    rdfs:label "Electronics companies of Taiwan" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1063 ;
+    tlp:link _:ub350bL2579C25 .
+
+_:ub350bL2584C17 a tlp:Item ;
+    rdfs:label "Semiconductor companies of Taiwan" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1066 ;
+    tlp:link _:ub350bL2590C25 .
+
+_:ub350bL2595C17 a tlp:Item ;
+    rdfs:label "Foundry semiconductor companies" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1069 ;
+    tlp:link _:ub350bL2601C25 .
+
+_:ub350bL2606C17 a tlp:Item ;
+    rdfs:label "Private equity portfolio companies" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1072 ;
+    tlp:link _:ub350bL2612C25 .
+
+_:ub350bL260C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 26 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb107 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL2617C17 a tlp:Item ;
+    rdfs:label "Taiwanese brands" ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1075 ;
+    tlp:link _:ub350bL2623C25 .
+
+_:ub350bL2628C17 a tlp:Item ;
+    rdfs:label "Technology companies of Taiwan" ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1078 ;
+    tlp:link _:ub350bL2634C25 .
+
+_:ub350bL2640C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 12 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1081 ;
+    tlp:member _:ub350bL2647C17,
+        _:ub350bL2658C17,
+        _:ub350bL2669C17,
+        _:ub350bL2680C17,
+        _:ub350bL2691C17,
+        _:ub350bL2702C17,
+        _:ub350bL2713C17,
+        _:ub350bL2724C17 .
+
+_:ub350bL2647C17 a tlp:Item ;
+    rdfs:label "EngvarB from August 2016" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1083 ;
+    tlp:link _:ub350bL2653C25 .
+
+_:ub350bL2658C17 a tlp:Item ;
+    rdfs:label "Use dmy dates from August 2016" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1086 ;
+    tlp:link _:ub350bL2664C25 .
+
+_:ub350bL2669C17 a tlp:Item ;
+    rdfs:label "Pages using deprecated image syntax" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1089 ;
+    tlp:link _:ub350bL2675C25 .
+
+_:ub350bL267C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 32 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb111 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL2680C17 a tlp:Item ;
+    rdfs:label "Articles containing Chinese-language text" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1092 ;
+    tlp:link _:ub350bL2686C25 .
+
+_:ub350bL2691C17 a tlp:Item ;
+    rdfs:label "Articles containing traditional Chinese-language text" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1095 ;
+    tlp:link _:ub350bL2697C25 .
+
+_:ub350bL2702C17 a tlp:Item ;
+    rdfs:label "All articles with unsourced statements" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1098 ;
+    tlp:link _:ub350bL2708C25 .
+
+_:ub350bL2713C17 a tlp:Item ;
+    rdfs:label "Articles with unsourced statements from May 2014" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1101 ;
+    tlp:link _:ub350bL2719C25 .
+
+_:ub350bL2724C17 a tlp:Item ;
+    rdfs:label "Commons category link from Wikidata" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1104 ;
+    tlp:link _:ub350bL2730C25 .
+
+_:ub350bL2736C9 a tlp:List ;
+    rdfs:label "Tools" ;
+    tlp:dimension 1 ;
+    tlp:index 13 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1107 ;
+    tlp:member _:ub350bL2743C17,
+        _:ub350bL2754C17,
+        _:ub350bL2765C17,
+        _:ub350bL2776C17,
+        _:ub350bL2787C17,
+        _:ub350bL2798C17,
+        _:ub350bL2809C17,
+        _:ub350bL2820C17 .
+
+_:ub350bL2743C17 a tlp:Item ;
+    rdfs:label "What links here" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1109 ;
+    tlp:link _:ub350bL2749C25 .
+
+_:ub350bL274C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 33 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb115 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL2754C17 a tlp:Item ;
+    rdfs:label "Related changes" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1112 ;
+    tlp:link _:ub350bL2760C25 .
+
+_:ub350bL2765C17 a tlp:Item ;
+    rdfs:label "Upload file" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1115 ;
+    tlp:link _:ub350bL2771C25 .
+
+_:ub350bL2776C17 a tlp:Item ;
+    rdfs:label "Special pages" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1118 ;
+    tlp:link _:ub350bL2782C25 .
+
+_:ub350bL2787C17 a tlp:Item ;
+    rdfs:label "Permanent link" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1121 ;
+    tlp:link _:ub350bL2793C25 .
+
+_:ub350bL2798C17 a tlp:Item ;
+    rdfs:label "Page information" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1124 ;
+    tlp:link _:ub350bL2804C25 .
+
+_:ub350bL2809C17 a tlp:Item ;
+    rdfs:label "Wikidata item" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1127 ;
+    tlp:link _:ub350bL2815C25 .
+
+_:ub350bL281C25 a tlp:Cell ;
+    rdfs:label "Website" ;
+    tlp:index 34 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb119 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL2820C17 a tlp:Item ;
+    rdfs:label "Cite this page" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1130 ;
+    tlp:link _:ub350bL2826C25 .
+
+_:ub350bL2832C9 a tlp:List ;
+    rdfs:label "In other projects" ;
+    tlp:dimension 1 ;
+    tlp:index 14 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1133 ;
+    tlp:member _:ub350bL2839C17 .
+
+_:ub350bL2839C17 a tlp:Item ;
+    rdfs:label "Wikimedia Commons" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1135 ;
+    tlp:link _:ub350bL2845C25 .
+
+_:ub350bL2851C9 a tlp:List ;
+    rdfs:label "Print/export" ;
+    tlp:dimension 1 ;
+    tlp:index 15 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1138 ;
+    tlp:member _:ub350bL2858C17,
+        _:ub350bL2869C17,
+        _:ub350bL2880C17 .
+
+_:ub350bL2858C17 a tlp:Item ;
+    rdfs:label "Create a book" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1140 ;
+    tlp:link _:ub350bL2864C25 .
+
+_:ub350bL2869C17 a tlp:Item ;
+    rdfs:label "Download as PDF" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1143 ;
+    tlp:link _:ub350bL2875C25 .
+
+_:ub350bL2880C17 a tlp:Item ;
+    rdfs:label "Printable version" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1146 ;
+    tlp:link _:ub350bL2886C25 .
+
+_:ub350bL288C25 a tlp:Cell ;
+    rdfs:label "Footnotes / references" ;
+    tlp:index 35 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb123 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL2892C9 a tlp:List ;
+    rdfs:label "Languages" ;
+    tlp:dimension 1 ;
+    tlp:index 16 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1149 ;
+    tlp:member _:ub350bL2899C17,
+        _:ub350bL2910C17,
+        _:ub350bL2921C17,
+        _:ub350bL2932C17,
+        _:ub350bL2943C17,
+        _:ub350bL2954C17,
+        _:ub350bL2965C17,
+        _:ub350bL2976C17,
+        _:ub350bL2987C17,
+        _:ub350bL2998C17,
+        _:ub350bL3009C17,
+        _:ub350bL3020C17,
+        _:ub350bL3031C17,
+        _:ub350bL3042C17,
+        _:ub350bL3053C17,
+        _:ub350bL3064C17,
+        _:ub350bL3075C17,
+        _:ub350bL3086C17,
+        _:ub350bL3097C17,
+        _:ub350bL3108C17,
+        _:ub350bL3119C17,
+        _:ub350bL3130C17,
+        _:ub350bL3141C17,
+        _:ub350bL3152C17,
+        _:ub350bL3163C17,
+        _:ub350bL3174C17 .
+
+_:ub350bL2899C17 a tlp:Item ;
+    rdfs:label "العربية" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1151 ;
+    tlp:link _:ub350bL2905C25 .
+
+_:ub350bL28C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb4 ;
+    tlp:member _:ub350bL103C25,
+        _:ub350bL110C25,
+        _:ub350bL117C25,
+        _:ub350bL124C25,
+        _:ub350bL131C25,
+        _:ub350bL138C25,
+        _:ub350bL145C25,
+        _:ub350bL152C25,
+        _:ub350bL159C25,
+        _:ub350bL171C25,
+        _:ub350bL183C25,
+        _:ub350bL195C25,
+        _:ub350bL207C25,
+        _:ub350bL214C25,
+        _:ub350bL226C25,
+        _:ub350bL233C25,
+        _:ub350bL240C25,
+        _:ub350bL248C25,
+        _:ub350bL260C25,
+        _:ub350bL267C25,
+        _:ub350bL274C25,
+        _:ub350bL281C25,
+        _:ub350bL288C25,
+        _:ub350bL34C25,
+        _:ub350bL46C25,
+        _:ub350bL53C25,
+        _:ub350bL65C25,
+        _:ub350bL77C25,
+        _:ub350bL89C25,
+        _:ub350bL96C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL2910C17 a tlp:Item ;
+    rdfs:label "تۆرکجه" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1154 ;
+    tlp:link _:ub350bL2916C25 .
+
+_:ub350bL2921C17 a tlp:Item ;
+    rdfs:label "Bân-lâm-gú" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1157 ;
+    tlp:link _:ub350bL2927C25 .
+
+_:ub350bL2932C17 a tlp:Item ;
+    rdfs:label "Català" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1160 ;
+    tlp:link _:ub350bL2938C25 .
+
+_:ub350bL2943C17 a tlp:Item ;
+    rdfs:label "Čeština" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1163 ;
+    tlp:link _:ub350bL2949C25 .
+
+_:ub350bL2954C17 a tlp:Item ;
+    rdfs:label "Deutsch" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1166 ;
+    tlp:link _:ub350bL2960C25 .
+
+_:ub350bL2965C17 a tlp:Item ;
+    rdfs:label "Español" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1169 ;
+    tlp:link _:ub350bL2971C25 .
+
+_:ub350bL296C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb127 ;
+    tlp:member _:ub350bL302C25,
+        _:ub350bL314C25,
+        _:ub350bL320C25,
+        _:ub350bL331C25,
+        _:ub350bL351C25,
+        _:ub350bL366C25,
+        _:ub350bL377C25,
+        _:ub350bL394C25,
+        _:ub350bL405C25,
+        _:ub350bL416C25,
+        _:ub350bL422C25,
+        _:ub350bL442C25,
+        _:ub350bL448C25,
+        _:ub350bL462C25,
+        _:ub350bL473C25,
+        _:ub350bL487C25,
+        _:ub350bL501C25,
+        _:ub350bL515C25,
+        _:ub350bL529C25,
+        _:ub350bL543C25,
+        _:ub350bL549C25,
+        _:ub350bL575C25,
+        _:ub350bL582C25,
+        _:ub350bL589C25,
+        _:ub350bL597C25,
+        _:ub350bL603C25,
+        _:ub350bL610C25,
+        _:ub350bL617C25,
+        _:ub350bL624C25,
+        _:ub350bL635C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL2976C17 a tlp:Item ;
+    rdfs:label "فارسی" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1172 ;
+    tlp:link _:ub350bL2982C25 .
+
+_:ub350bL2987C17 a tlp:Item ;
+    rdfs:label "Français" ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1175 ;
+    tlp:link _:ub350bL2993C25 .
+
+_:ub350bL2998C17 a tlp:Item ;
+    rdfs:label "한국어" ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1178 ;
+    tlp:link _:ub350bL3004C25 .
+
+_:ub350bL3009C17 a tlp:Item ;
+    rdfs:label "Bahasa Indonesia" ;
+    tlp:index 11 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1181 ;
+    tlp:link _:ub350bL3015C25 .
+
+_:ub350bL3020C17 a tlp:Item ;
+    rdfs:label "Italiano" ;
+    tlp:index 12 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1184 ;
+    tlp:link _:ub350bL3026C25 .
+
+_:ub350bL302C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb130 ;
+    tlp:link _:ub350bL309C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL3031C17 a tlp:Item ;
+    rdfs:label "עברית" ;
+    tlp:index 13 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1187 ;
+    tlp:link _:ub350bL3037C25 .
+
+_:ub350bL3042C17 a tlp:Item ;
+    rdfs:label "Bahasa Melayu" ;
+    tlp:index 14 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1190 ;
+    tlp:link _:ub350bL3048C25 .
+
+_:ub350bL3053C17 a tlp:Item ;
+    rdfs:label "မြန်မာဘာသာ" ;
+    tlp:index 15 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1193 ;
+    tlp:link _:ub350bL3059C25 .
+
+_:ub350bL3064C17 a tlp:Item ;
+    rdfs:label "Nederlands" ;
+    tlp:index 16 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1196 ;
+    tlp:link _:ub350bL3070C25 .
+
+_:ub350bL3075C17 a tlp:Item ;
+    rdfs:label "日本語" ;
+    tlp:index 17 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1199 ;
+    tlp:link _:ub350bL3081C25 .
+
+_:ub350bL3086C17 a tlp:Item ;
+    rdfs:label "Polski" ;
+    tlp:index 18 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1202 ;
+    tlp:link _:ub350bL3092C25 .
+
+_:ub350bL3097C17 a tlp:Item ;
+    rdfs:label "Русский" ;
+    tlp:index 19 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1205 ;
+    tlp:link _:ub350bL3103C25 .
+
+_:ub350bL3108C17 a tlp:Item ;
+    rdfs:label "Slovenčina" ;
+    tlp:index 20 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1208 ;
+    tlp:link _:ub350bL3114C25 .
+
+_:ub350bL3119C17 a tlp:Item ;
+    rdfs:label "Svenska" ;
+    tlp:index 21 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1211 ;
+    tlp:link _:ub350bL3125C25 .
+
+_:ub350bL3130C17 a tlp:Item ;
+    rdfs:label "Türkçe" ;
+    tlp:index 22 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1214 ;
+    tlp:link _:ub350bL3136C25 .
+
+_:ub350bL3141C17 a tlp:Item ;
+    rdfs:label "Українська" ;
+    tlp:index 23 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1217 ;
+    tlp:link _:ub350bL3147C25 .
+
+_:ub350bL314C25 a tlp:Cell ;
+    rdfs:label "臺灣積體電路製造股份有限公司" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb134 .
+
+_:ub350bL3152C17 a tlp:Item ;
+    rdfs:label "Tiếng Việt" ;
+    tlp:index 24 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1220 ;
+    tlp:link _:ub350bL3158C25 .
+
+_:ub350bL3163C17 a tlp:Item ;
+    rdfs:label "吴语" ;
+    tlp:index 25 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1223 ;
+    tlp:link _:ub350bL3169C25 .
+
+_:ub350bL3174C17 a tlp:Item ;
+    rdfs:label "中文" ;
+    tlp:index 26 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb1226 ;
+    tlp:link _:ub350bL3180C25 .
+
+_:ub350bL320C25 a tlp:Cell ;
+    rdfs:label "Public" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb138 ;
+    tlp:link _:ub350bL326C33 .
+
+_:ub350bL331C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb142 ;
+    tlp:member _:ub350bL338C33,
+        _:ub350bL344C33 .
+
+_:ub350bL338C33 a tlp:Item ;
+    rdfs:label "TWSE: 2330" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb146 .
+
+_:ub350bL344C33 a tlp:Item ;
+    rdfs:label "NYSE: TSM" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb151 .
+
+_:ub350bL34C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb7 ;
+    tlp:link _:ub350bL41C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL351C25 a tlp:Cell ;
+    rdfs:label "US8740391003" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb156 ;
+    tlp:link _:ub350bL357C33,
+        _:ub350bL361C33 .
+
+_:ub350bL366C25 a tlp:Cell ;
+    rdfs:label "Semiconductors" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb160 ;
+    tlp:link _:ub350bL372C33 .
+
+_:ub350bL377C25 a tlp:Cell ;
+    rdfs:label """Industrial Technology Research Institute, Hsinchu, Taiwan\r
+(1987; 33 years ago (1987))""" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb164 ;
+    tlp:link _:ub350bL385C33,
+        _:ub350bL389C33 .
+
+_:ub350bL394C25 a tlp:Cell ;
+    rdfs:label "Morris Chang" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb168 ;
+    tlp:link _:ub350bL400C33 .
+
+_:ub350bL405C25 a tlp:Cell ;
+    rdfs:label "Hsinchu Science and Industrial Park, Taiwan" ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb172 ;
+    tlp:link _:ub350bL411C33 .
+
+_:ub350bL416C25 a tlp:Cell ;
+    rdfs:label "Worldwide" ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb176 .
+
+_:ub350bL422C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 11 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb180 ;
+    tlp:member _:ub350bL429C33,
+        _:ub350bL435C33 .
+
+_:ub350bL429C33 a tlp:Item ;
+    rdfs:label "Mark Liu (Chairman)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb184 .
+
+_:ub350bL435C33 a tlp:Item ;
+    rdfs:label "C.C. Wei (CEO and Vice Chairman)" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb189 .
+
+_:ub350bL442C25 a tlp:Cell ;
+    rdfs:label "CyberShuttle prototyping service, Open Innovation Platform, eFoundry online services" ;
+    tlp:index 12 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb194 .
+
+_:ub350bL448C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 13 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb198 ;
+    tlp:member _:ub350bL455C33 .
+
+_:ub350bL455C33 a tlp:Item ;
+    rdfs:label "10,745.000 12-inch equivalent wafers (2018)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb202 .
+
+_:ub350bL462C25 a tlp:Cell ;
+    rdfs:label "Manufacture of Integrated circuits and related services" ;
+    tlp:index 14 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb207 ;
+    tlp:link _:ub350bL468C33 .
+
+_:ub350bL46C25 a tlp:Cell ;
+    rdfs:label "Native name" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb11 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL473C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 15 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb211 ;
+    tlp:member _:ub350bL480C33 .
+
+_:ub350bL480C33 a tlp:Item ;
+    rdfs:label "TWD$1031,473.557 billion (US$35.000 billion) (2018)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb215 .
+
+_:ub350bL487C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 16 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb220 ;
+    tlp:member _:ub350bL494C33 .
+
+_:ub350bL494C33 a tlp:Item ;
+    rdfs:label "NT$383,623.524 billion (US$12.712 billion) (2018)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb224 .
+
+_:ub350bL501C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 17 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb229 ;
+    tlp:member _:ub350bL508C33 .
+
+_:ub350bL508C33 a tlp:Item ;
+    rdfs:label "NT$351,184.406 billion (US$11.638 billion) (2018)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb233 .
+
+_:ub350bL515C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 18 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb238 ;
+    tlp:member _:ub350bL522C33 .
+
+_:ub350bL522C33 a tlp:Item ;
+    rdfs:label "NT$1,991.861 billion (US$67.023 billion) (2018)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb242 .
+
+_:ub350bL529C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 19 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb247 ;
+    tlp:member _:ub350bL536C33 .
+
+_:ub350bL536C33 a tlp:Item ;
+    rdfs:label "NT$1,552.759 billion (US$52.248 billion) (2018)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb251 .
+
+_:ub350bL53C25 a tlp:Cell ;
+    rdfs:label "Type" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb15 ;
+    tlp:link _:ub350bL60C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL543C25 a tlp:Cell ;
+    rdfs:label "48,752 (2018)" ;
+    tlp:index 20 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb256 .
+
+_:ub350bL549C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 21 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb260 ;
+    tlp:member _:ub350bL556C33,
+        _:ub350bL562C33,
+        _:ub350bL568C33 .
+
+_:ub350bL556C33 a tlp:Item ;
+    rdfs:label "WaferTech" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb264 .
+
+_:ub350bL562C33 a tlp:Item ;
+    rdfs:label "TSMC PRC" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb269 .
+
+_:ub350bL568C33 a tlp:Item ;
+    rdfs:label "SSMC" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb274 .
+
+_:ub350bL575C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 22 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb279 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL582C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 23 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb283 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL589C25 a tlp:Cell ;
+    rdfs:label "Chinese name" ;
+    tlp:index 24 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb287 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub350bL597C25 a tlp:Cell ;
+    rdfs:label "台灣積體電路製造公司" ;
+    tlp:index 25 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb291 .
+
+_:ub350bL603C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 26 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb295 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL610C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 32 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb299 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL617C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 33 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb303 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL624C25 a tlp:Cell ;
+    rdfs:label "www.tsmc.com" ;
+    tlp:index 34 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb307 ;
+    tlp:link _:ub350bL630C33 .
+
+_:ub350bL635C25 a tlp:Cell ;
+    rdfs:label "Footnotes / references" ;
+    tlp:index 35 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb311 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub350bL644C9 a tlp:List ;
+    rdfs:label "Contents" ;
+    tlp:dimension 2 ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb315 ;
+    tlp:member _:ub350bL651C17,
+        _:ub350bL675C17,
+        _:ub350bL686C17,
+        _:ub350bL710C17,
+        _:ub350bL721C17,
+        _:ub350bL732C17,
+        _:ub350bL743C17 .
+
+_:ub350bL651C17 a tlp:Item,
+        tlp:List ;
+    rdfs:label "Overview" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb317 ;
+    tlp:link _:ub350bL657C25 ;
+    tlp:member _:ub350bL663C25 .
+
+_:ub350bL65C25 a tlp:Cell ;
+    rdfs:label "Traded as" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb19 ;
+    tlp:link _:ub350bL72C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL663C25 a tlp:Item ;
+    rdfs:label "GlobalFoundries vs. TSMC et al" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb320 ;
+    tlp:link _:ub350bL669C33 .
+
+_:ub350bL675C17 a tlp:Item ;
+    rdfs:label "Production capabilities" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb324 ;
+    tlp:link _:ub350bL681C25 .
+
+_:ub350bL686C17 a tlp:Item,
+        tlp:List ;
+    rdfs:label "Facilities" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb327 ;
+    tlp:link _:ub350bL692C25 ;
+    tlp:member _:ub350bL698C25 .
+
+_:ub350bL698C25 a tlp:Item ;
+    rdfs:label "WaferTech subsidiary" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb330 ;
+    tlp:link _:ub350bL704C33 .
+
+_:ub350bL710C17 a tlp:Item ;
+    rdfs:label "Sales and market trends" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb334 ;
+    tlp:link _:ub350bL716C25 .
+
+_:ub350bL721C17 a tlp:Item ;
+    rdfs:label "See also" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb337 ;
+    tlp:link _:ub350bL727C25 .
+
+_:ub350bL732C17 a tlp:Item ;
+    rdfs:label "References" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb340 ;
+    tlp:link _:ub350bL738C25 .
+
+_:ub350bL743C17 a tlp:Item ;
+    rdfs:label "External links" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb343 ;
+    tlp:link _:ub350bL749C25 .
+
+_:ub350bL755C9 a tlp:List ;
+    rdfs:label "Production capabilities" ;
+    tlp:dimension 1 ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb346 ;
+    tlp:member _:ub350bL762C17,
+        _:ub350bL768C17,
+        _:ub350bL774C17,
+        _:ub350bL780C17,
+        _:ub350bL786C17,
+        _:ub350bL792C17,
+        _:ub350bL798C17,
+        _:ub350bL804C17,
+        _:ub350bL810C17,
+        _:ub350bL816C17,
+        _:ub350bL827C17,
+        _:ub350bL833C17,
+        _:ub350bL839C17,
+        _:ub350bL845C17 .
+
+_:ub350bL762C17 a tlp:Item ;
+    rdfs:label "0.13 μm (options: general-purpose (G), low-power (LP), high-performance low-voltage (LV))." ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb348 .
+
+_:ub350bL768C17 a tlp:Item ;
+    rdfs:label "90 nm (based upon 80GC from Q4/2006)," ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb351 .
+
+_:ub350bL774C17 a tlp:Item ;
+    rdfs:label "65 nm (options: general-purpose (GP), low-power (LP), ultra-low power (ULP), LPG)." ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb354 .
+
+_:ub350bL77C25 a tlp:Cell ;
+    rdfs:label "ISIN" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb23 ;
+    tlp:link _:ub350bL84C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL780C17 a tlp:Item ;
+    rdfs:label "55 nm (options: general-purpose (GP), low-power (LP))." ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb357 .
+
+_:ub350bL786C17 a tlp:Item ;
+    rdfs:label "40 nm (options: general-purpose (GP), low-power (LP), ultra-low power (ULP))." ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb360 .
+
+_:ub350bL792C17 a tlp:Item ;
+    rdfs:label "28 nm (options: high-performance (HP), high-performance mobile (HPM), high-performance computing (HPC), high-performance low-power(HPL), low-power (LP), high-performance computing Plus (HPC+), ultra-low power (ULP)) with HKMG." ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb363 .
+
+_:ub350bL798C17 a tlp:Item ;
+    rdfs:label "22 nm (options: ultra-low power (ULP), ultra-low leakage (ULL))" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb366 .
+
+_:ub350bL804C17 a tlp:Item ;
+    rdfs:label "20 nm" ;
+    tlp:index 8 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb369 .
+
+_:ub350bL810C17 a tlp:Item ;
+    rdfs:label "16 nm (options: FinFET (FF), FinFET Plus (FF+), FinFET Compact (FFC))" ;
+    tlp:index 9 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb372 .
+
+_:ub350bL816C17 a tlp:Item ;
+    rdfs:label "12 nm (options: FinFET Compact (FFC), FinFET NVIDIA (FFN)), enhanced version of 16 nm process." ;
+    tlp:index 10 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb375 ;
+    tlp:link _:ub350bL822C25 .
+
+_:ub350bL827C17 a tlp:Item ;
+    rdfs:label "10 nm (options: FinFET (FF))" ;
+    tlp:index 11 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb378 .
+
+_:ub350bL833C17 a tlp:Item ;
+    rdfs:label "7 nm (options: FinFET (FF), FinFET Plus (FF+), FinFET Pro (FFP), high-performance computing (HPC))" ;
+    tlp:index 12 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb381 .
+
+_:ub350bL839C17 a tlp:Item ;
+    rdfs:label "6 nm (options: FinFET (FF)), risk production starting in Q1 2020, enhanced version of 7 nm process." ;
+    tlp:index 13 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb384 .
+
+_:ub350bL845C17 a tlp:Item ;
+    rdfs:label "5 nm (options: FinFET (FF)), risk production started in Q2 2019, mass production targets in Q2 2020." ;
+    tlp:index 14 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb387 .
+
+_:ub350bL852C9 a tlp:List ;
+    rdfs:label "Facilities" ;
+    tlp:dimension 1 ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb390 ;
+    tlp:member _:ub350bL859C17,
+        _:ub350bL865C17,
+        _:ub350bL876C17,
+        _:ub350bL882C17,
+        _:ub350bL888C17,
+        _:ub350bL899C17,
+        _:ub350bL922C17 .
+
+_:ub350bL859C17 a tlp:Item ;
+    rdfs:label "Three 300 mm (12 inch) \"GIGAFABs\" in operation in Taiwan: Fab 12 (Hsinchu), 14 (Tainan), 15 (Taichung)" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb392 .
+
+_:ub350bL865C17 a tlp:Item ;
+    rdfs:label "Four 200 mm (8 inch) wafer fabs in full operation in Taiwan: Fab 3, 5, 8 (Hsinchu) , 6 (Tainan)" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb395 ;
+    tlp:link _:ub350bL871C25 .
+
+_:ub350bL876C17 a tlp:Item ;
+    rdfs:label "TSMC China Company Limited, 200 mm (8 inch): Fab 10 (Shanghai)" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb398 .
+
+_:ub350bL882C17 a tlp:Item ;
+    rdfs:label "TSMC Nanjing Company Limited, 300 mm (12 inch): Fab 16 (Nanjing)" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb401 .
+
+_:ub350bL888C17 a tlp:Item ;
+    rdfs:label "WaferTech L.L.C., TSMC's wholly owned US subsidiary, a 200 mm (8 inch) fab: Fab 11 (Camas, Washington)" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb404 ;
+    tlp:link _:ub350bL894C25 .
+
+_:ub350bL899C17 a tlp:Item ;
+    rdfs:label "SSMC (Systems on Silicon Manufacturing Co.), a joint venture with NXP Semiconductors in Singapore, 200 mm (8 inch), where production started at the end of 2002" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb407 ;
+    tlp:link _:ub350bL905C25,
+        _:ub350bL909C25,
+        _:ub350bL913C25,
+        _:ub350bL917C25 .
+
+_:ub350bL89C25 a tlp:Cell ;
+    rdfs:label "Industry" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb27 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL922C17 a tlp:Item ;
+    rdfs:label "One 150 mm (6 inch) wafer fab in full operation in Taiwan: Fab 2 (Hsinchu)" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb410 .
+
+_:ub350bL929C9 a tlp:List ;
+    rdfs:label "Facilities" ;
+    tlp:dimension 1 ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb413 ;
+    tlp:member _:ub350bL936C17 .
+
+_:ub350bL936C17 a tlp:Item ;
+    rdfs:label "Fab 18,  300 mm (12 inch) (Tainan), phase 1 equipment installation completed in March 2019" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb415 .
+
+_:ub350bL943C9 a tlp:Table ;
+    rdfs:label "Yearly revenues in million NT$" ;
+    tlp:dimension 2 ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb418 ;
+    tlp:member _:ub350bL1044C17,
+        _:ub350bL1077C17,
+        _:ub350bL1110C17,
+        _:ub350bL1143C17,
+        _:ub350bL1176C17,
+        _:ub350bL1209C17,
+        _:ub350bL1242C17,
+        _:ub350bL1275C17,
+        _:ub350bL952C17,
+        _:ub350bL998C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub350bL952C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb420 ;
+    tlp:member _:ub350bL958C25,
+        _:ub350bL965C25,
+        _:ub350bL971C25,
+        _:ub350bL978C25,
+        _:ub350bL984C25,
+        _:ub350bL991C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub350bL958C25 a tlp:Cell ;
+    rdfs:label "1997" ;
+    tlp:index 1 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb423 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL965C25 a tlp:Cell ;
+    rdfs:label "43,927" ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb427 .
+
+_:ub350bL96C25 a tlp:Cell ;
+    rdfs:label "Founded" ;
+    tlp:index 7 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb31 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL971C25 a tlp:Cell ;
+    rdfs:label "2007" ;
+    tlp:index 3 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb431 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL978C25 a tlp:Cell ;
+    rdfs:label "322,631" ;
+    tlp:index 4 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb435 .
+
+_:ub350bL984C25 a tlp:Cell ;
+    rdfs:label "2017" ;
+    tlp:index 5 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb439 ;
+    tlp:style tlp:Emphasize .
+
+_:ub350bL991C25 a tlp:Cell ;
+    rdfs:label "977,477" ;
+    tlp:index 6 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb443 .
+
+_:ub350bL998C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:ff130e1476ca144b4ad2c2cd96515e7ecb447 ;
+    tlp:member _:ub350bL1004C25,
+        _:ub350bL1011C25,
+        _:ub350bL1017C25,
+        _:ub350bL1024C25,
+        _:ub350bL1030C25,
+        _:ub350bL1037C25 ;
+    tlp:style tlp:Enumerate .
+

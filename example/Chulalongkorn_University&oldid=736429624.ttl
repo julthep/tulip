@@ -1,0 +1,5113 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tlp: <http://purl.org/tulip/ns#> .
+@prefix tlpedia: <http://tlpedia.org/resource/> .
+@prefix wikipedia: <http://en.wikipedia.org/wiki/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tlpedia:Chulalongkorn_University a tlp:Page ;
+    rdfs:label "Chulalongkorn University" ;
+    tlp:element _:ub308bL1003C9,
+        _:ub308bL1010C17,
+        _:ub308bL1016C17,
+        _:ub308bL1027C17,
+        _:ub308bL1033C17,
+        _:ub308bL1039C17,
+        _:ub308bL1045C17,
+        _:ub308bL1051C17,
+        _:ub308bL1057C17,
+        _:ub308bL1069C9,
+        _:ub308bL1076C17,
+        _:ub308bL1082C17,
+        _:ub308bL1088C17,
+        _:ub308bL1094C17,
+        _:ub308bL1100C17,
+        _:ub308bL1106C17,
+        _:ub308bL1118C9,
+        _:ub308bL111C25,
+        _:ub308bL1125C17,
+        _:ub308bL1131C17,
+        _:ub308bL1137C17,
+        _:ub308bL1143C17,
+        _:ub308bL1149C17,
+        _:ub308bL1155C17,
+        _:ub308bL1161C17,
+        _:ub308bL1167C17,
+        _:ub308bL1174C9,
+        _:ub308bL1181C17,
+        _:ub308bL1187C17,
+        _:ub308bL118C25,
+        _:ub308bL1194C9,
+        _:ub308bL1201C17,
+        _:ub308bL1207C17,
+        _:ub308bL1213C17,
+        _:ub308bL1219C17,
+        _:ub308bL1225C17,
+        _:ub308bL1231C17,
+        _:ub308bL1237C17,
+        _:ub308bL1243C17,
+        _:ub308bL1250C9,
+        _:ub308bL1259C17,
+        _:ub308bL1265C25,
+        _:ub308bL1273C25,
+        _:ub308bL1281C25,
+        _:ub308bL1292C25,
+        _:ub308bL1303C25,
+        _:ub308bL130C25,
+        _:ub308bL1314C25,
+        _:ub308bL1325C25,
+        _:ub308bL1336C25,
+        _:ub308bL1344C25,
+        _:ub308bL1355C25,
+        _:ub308bL1366C25,
+        _:ub308bL1377C25,
+        _:ub308bL1388C25,
+        _:ub308bL1400C17,
+        _:ub308bL1406C25,
+        _:ub308bL1414C25,
+        _:ub308bL1422C25,
+        _:ub308bL1428C25,
+        _:ub308bL142C25,
+        _:ub308bL1434C25,
+        _:ub308bL1440C25,
+        _:ub308bL1446C25,
+        _:ub308bL1452C25,
+        _:ub308bL1460C25,
+        _:ub308bL1466C25,
+        _:ub308bL1472C25,
+        _:ub308bL1478C25,
+        _:ub308bL1484C25,
+        _:ub308bL1492C9,
+        _:ub308bL1501C17,
+        _:ub308bL1507C25,
+        _:ub308bL1514C25,
+        _:ub308bL1520C25,
+        _:ub308bL1526C25,
+        _:ub308bL1532C25,
+        _:ub308bL1538C25,
+        _:ub308bL1544C25,
+        _:ub308bL154C25,
+        _:ub308bL1551C17,
+        _:ub308bL1557C25,
+        _:ub308bL1564C25,
+        _:ub308bL1570C25,
+        _:ub308bL1576C25,
+        _:ub308bL1582C25,
+        _:ub308bL1588C25,
+        _:ub308bL1594C25,
+        _:ub308bL1601C17,
+        _:ub308bL1607C25,
+        _:ub308bL1614C25,
+        _:ub308bL161C25,
+        _:ub308bL1620C25,
+        _:ub308bL1626C25,
+        _:ub308bL1632C25,
+        _:ub308bL1638C25,
+        _:ub308bL1644C25,
+        _:ub308bL1651C17,
+        _:ub308bL1657C25,
+        _:ub308bL1664C25,
+        _:ub308bL1670C25,
+        _:ub308bL1676C25,
+        _:ub308bL1682C25,
+        _:ub308bL1688C25,
+        _:ub308bL168C25,
+        _:ub308bL1694C25,
+        _:ub308bL1701C17,
+        _:ub308bL1707C25,
+        _:ub308bL1714C25,
+        _:ub308bL1720C25,
+        _:ub308bL1726C25,
+        _:ub308bL1732C25,
+        _:ub308bL1738C25,
+        _:ub308bL1744C25,
+        _:ub308bL1751C17,
+        _:ub308bL1757C25,
+        _:ub308bL175C25,
+        _:ub308bL1764C25,
+        _:ub308bL1770C25,
+        _:ub308bL1776C25,
+        _:ub308bL1782C25,
+        _:ub308bL1788C25,
+        _:ub308bL1794C25,
+        _:ub308bL1801C17,
+        _:ub308bL1807C25,
+        _:ub308bL1814C25,
+        _:ub308bL1820C25,
+        _:ub308bL1826C25,
+        _:ub308bL1832C25,
+        _:ub308bL1838C25,
+        _:ub308bL1844C25,
+        _:ub308bL1851C17,
+        _:ub308bL1857C25,
+        _:ub308bL1864C25,
+        _:ub308bL1870C25,
+        _:ub308bL1876C25,
+        _:ub308bL187C25,
+        _:ub308bL1882C25,
+        _:ub308bL1888C25,
+        _:ub308bL1894C25,
+        _:ub308bL1901C17,
+        _:ub308bL1907C25,
+        _:ub308bL1914C25,
+        _:ub308bL1920C25,
+        _:ub308bL1926C25,
+        _:ub308bL1932C25,
+        _:ub308bL1938C25,
+        _:ub308bL1944C25,
+        _:ub308bL194C25,
+        _:ub308bL1952C9,
+        _:ub308bL1959C17,
+        _:ub308bL1970C17,
+        _:ub308bL1981C17,
+        _:ub308bL1993C9,
+        _:ub308bL19C9,
+        _:ub308bL2000C17,
+        _:ub308bL201C25,
+        _:ub308bL2023C17,
+        _:ub308bL2034C17,
+        _:ub308bL2041C9,
+        _:ub308bL2048C17,
+        _:ub308bL2067C17,
+        _:ub308bL2082C17,
+        _:ub308bL208C25,
+        _:ub308bL2093C17,
+        _:ub308bL2104C17,
+        _:ub308bL2131C17,
+        _:ub308bL2154C17,
+        _:ub308bL2165C17,
+        _:ub308bL2180C17,
+        _:ub308bL2195C17,
+        _:ub308bL2206C17,
+        _:ub308bL2217C17,
+        _:ub308bL221C17,
+        _:ub308bL2228C17,
+        _:ub308bL2239C17,
+        _:ub308bL2250C17,
+        _:ub308bL2261C17,
+        _:ub308bL2272C17,
+        _:ub308bL227C25,
+        _:ub308bL2283C17,
+        _:ub308bL2294C17,
+        _:ub308bL2321C17,
+        _:ub308bL2344C17,
+        _:ub308bL234C25,
+        _:ub308bL2355C17,
+        _:ub308bL2366C17,
+        _:ub308bL2378C9,
+        _:ub308bL2385C17,
+        _:ub308bL2396C17,
+        _:ub308bL2407C17,
+        _:ub308bL2418C17,
+        _:ub308bL2434C9,
+        _:ub308bL2441C17,
+        _:ub308bL2448C9,
+        _:ub308bL2455C17,
+        _:ub308bL2466C17,
+        _:ub308bL2477C17,
+        _:ub308bL2488C17,
+        _:ub308bL2500C9,
+        _:ub308bL2508C17,
+        _:ub308bL250C25,
+        _:ub308bL2519C17,
+        _:ub308bL2530C17,
+        _:ub308bL2541C17,
+        _:ub308bL2552C17,
+        _:ub308bL2563C17,
+        _:ub308bL2574C17,
+        _:ub308bL257C33,
+        _:ub308bL2585C17,
+        _:ub308bL2596C17,
+        _:ub308bL2607C17,
+        _:ub308bL2618C17,
+        _:ub308bL2629C17,
+        _:ub308bL263C33,
+        _:ub308bL2640C17,
+        _:ub308bL2651C17,
+        _:ub308bL2662C17,
+        _:ub308bL2673C17,
+        _:ub308bL2684C17,
+        _:ub308bL2695C17,
+        _:ub308bL2706C17,
+        _:ub308bL270C25,
+        _:ub308bL2717C17,
+        _:ub308bL2728C17,
+        _:ub308bL2739C17,
+        _:ub308bL2750C17,
+        _:ub308bL2761C17,
+        _:ub308bL2772C17,
+        _:ub308bL277C33,
+        _:ub308bL2783C17,
+        _:ub308bL2794C17,
+        _:ub308bL2805C17,
+        _:ub308bL2816C17,
+        _:ub308bL2827C17,
+        _:ub308bL2838C17,
+        _:ub308bL283C33,
+        _:ub308bL2849C17,
+        _:ub308bL2860C17,
+        _:ub308bL2871C17,
+        _:ub308bL2882C17,
+        _:ub308bL2893C17,
+        _:ub308bL28C17,
+        _:ub308bL2904C17,
+        _:ub308bL290C25,
+        _:ub308bL2915C17,
+        _:ub308bL2926C17,
+        _:ub308bL2937C17,
+        _:ub308bL2948C17,
+        _:ub308bL2959C17,
+        _:ub308bL2971C9,
+        _:ub308bL2978C17,
+        _:ub308bL297C33,
+        _:ub308bL2989C17,
+        _:ub308bL3000C17,
+        _:ub308bL3011C17,
+        _:ub308bL3022C17,
+        _:ub308bL3034C9,
+        _:ub308bL303C33,
+        _:ub308bL3041C17,
+        _:ub308bL3052C17,
+        _:ub308bL3063C17,
+        _:ub308bL3074C17,
+        _:ub308bL3085C17,
+        _:ub308bL3096C17,
+        _:ub308bL3107C17,
+        _:ub308bL310C25,
+        _:ub308bL3118C17,
+        _:ub308bL3130C9,
+        _:ub308bL3137C17,
+        _:ub308bL3148C17,
+        _:ub308bL3159C17,
+        _:ub308bL3170C17,
+        _:ub308bL3181C17,
+        _:ub308bL3192C17,
+        _:ub308bL3203C17,
+        _:ub308bL3214C17,
+        _:ub308bL321C25,
+        _:ub308bL3225C17,
+        _:ub308bL3236C17,
+        _:ub308bL3247C17,
+        _:ub308bL3259C9,
+        _:ub308bL3266C17,
+        _:ub308bL3277C17,
+        _:ub308bL327C25,
+        _:ub308bL3288C17,
+        _:ub308bL3299C17,
+        _:ub308bL3310C17,
+        _:ub308bL3321C17,
+        _:ub308bL3332C17,
+        _:ub308bL3343C17,
+        _:ub308bL3355C9,
+        _:ub308bL3362C17,
+        _:ub308bL3374C9,
+        _:ub308bL3381C17,
+        _:ub308bL338C25,
+        _:ub308bL3392C17,
+        _:ub308bL3403C17,
+        _:ub308bL3415C9,
+        _:ub308bL3422C17,
+        _:ub308bL3433C17,
+        _:ub308bL3444C17,
+        _:ub308bL3455C17,
+        _:ub308bL3466C17,
+        _:ub308bL3477C17,
+        _:ub308bL3488C17,
+        _:ub308bL3499C17,
+        _:ub308bL34C25,
+        _:ub308bL3510C17,
+        _:ub308bL351C25,
+        _:ub308bL3521C17,
+        _:ub308bL3532C17,
+        _:ub308bL3543C17,
+        _:ub308bL3554C17,
+        _:ub308bL3565C17,
+        _:ub308bL3576C17,
+        _:ub308bL357C25,
+        _:ub308bL3587C17,
+        _:ub308bL3598C17,
+        _:ub308bL3609C17,
+        _:ub308bL3620C17,
+        _:ub308bL3631C17,
+        _:ub308bL363C25,
+        _:ub308bL3642C17,
+        _:ub308bL3653C17,
+        _:ub308bL3664C17,
+        _:ub308bL3675C17,
+        _:ub308bL3686C17,
+        _:ub308bL3697C17,
+        _:ub308bL369C25,
+        _:ub308bL3708C17,
+        _:ub308bL3719C17,
+        _:ub308bL3730C17,
+        _:ub308bL3741C17,
+        _:ub308bL375C25,
+        _:ub308bL400C25,
+        _:ub308bL411C25,
+        _:ub308bL419C25,
+        _:ub308bL41C25,
+        _:ub308bL425C25,
+        _:ub308bL444C25,
+        _:ub308bL455C25,
+        _:ub308bL466C25,
+        _:ub308bL480C9,
+        _:ub308bL487C17,
+        _:ub308bL498C17,
+        _:ub308bL510C25,
+        _:ub308bL521C25,
+        _:ub308bL532C25,
+        _:ub308bL544C33,
+        _:ub308bL556C25,
+        _:ub308bL568C17,
+        _:ub308bL57C25,
+        _:ub308bL580C25,
+        _:ub308bL591C25,
+        _:ub308bL602C25,
+        _:ub308bL613C25,
+        _:ub308bL624C25,
+        _:ub308bL635C25,
+        _:ub308bL647C17,
+        _:ub308bL64C25,
+        _:ub308bL658C17,
+        _:ub308bL669C17,
+        _:ub308bL680C17,
+        _:ub308bL691C17,
+        _:ub308bL702C17,
+        _:ub308bL713C17,
+        _:ub308bL71C25,
+        _:ub308bL725C25,
+        _:ub308bL737C17,
+        _:ub308bL748C17,
+        _:ub308bL759C17,
+        _:ub308bL770C17,
+        _:ub308bL782C9,
+        _:ub308bL789C17,
+        _:ub308bL78C25,
+        _:ub308bL795C17,
+        _:ub308bL806C17,
+        _:ub308bL817C17,
+        _:ub308bL823C17,
+        _:ub308bL830C9,
+        _:ub308bL837C17,
+        _:ub308bL848C17,
+        _:ub308bL859C17,
+        _:ub308bL85C25,
+        _:ub308bL874C17,
+        _:ub308bL889C17,
+        _:ub308bL905C9,
+        _:ub308bL912C17,
+        _:ub308bL918C17,
+        _:ub308bL924C17,
+        _:ub308bL92C25,
+        _:ub308bL935C17,
+        _:ub308bL941C17,
+        _:ub308bL952C17,
+        _:ub308bL958C17,
+        _:ub308bL964C17,
+        _:ub308bL971C9,
+        _:ub308bL978C17,
+        _:ub308bL984C17,
+        _:ub308bL990C17,
+        _:ub308bL996C17,
+        _:ub308bL99C25 ;
+    tlp:indexList ( 0 ) ;
+    tlp:member _:ub308bL1003C9,
+        _:ub308bL1069C9,
+        _:ub308bL1118C9,
+        _:ub308bL1174C9,
+        _:ub308bL1194C9,
+        _:ub308bL1250C9,
+        _:ub308bL1492C9,
+        _:ub308bL1952C9,
+        _:ub308bL1993C9,
+        _:ub308bL19C9,
+        _:ub308bL2041C9,
+        _:ub308bL2378C9,
+        _:ub308bL2434C9,
+        _:ub308bL2448C9,
+        _:ub308bL2500C9,
+        _:ub308bL2971C9,
+        _:ub308bL3034C9,
+        _:ub308bL3130C9,
+        _:ub308bL3259C9,
+        _:ub308bL3355C9,
+        _:ub308bL3374C9,
+        _:ub308bL3415C9,
+        _:ub308bL480C9,
+        _:ub308bL782C9,
+        _:ub308bL830C9,
+        _:ub308bL905C9,
+        _:ub308bL971C9 ;
+    owl:sameAs dbpedia:Chulalongkorn_University ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Chulalongkorn_University?oldid=> ;
+    foaf:isPrimaryTopicOf wikipedia:Chulalongkorn_University ;
+    foaf:name "Chulalongkorn University" .
+
+_:f9edbf23bddb14fe7a50579836f28d281b10 rdf:first 0 ;
+    rdf:rest () .
+
+_:f9edbf23bddb14fe7a50579836f28d281b100 rdf:first 2 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1000 rdf:first 20 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1002 rdf:first 20 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1005 rdf:first 20 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1008 rdf:first 20 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1011 rdf:first 20 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1014 rdf:first 20 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1017 rdf:first 20 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b102 rdf:first 1 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1020 rdf:first 20 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1023 rdf:first 20 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1026 rdf:first 20 ;
+    rdf:rest ( 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1029 rdf:first 20 ;
+    rdf:rest ( 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1032 rdf:first 20 ;
+    rdf:rest ( 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1035 rdf:first 20 ;
+    rdf:rest ( 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1038 rdf:first 20 ;
+    rdf:rest ( 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1041 rdf:first 20 ;
+    rdf:rest ( 14 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1044 rdf:first 20 ;
+    rdf:rest ( 15 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1047 rdf:first 20 ;
+    rdf:rest ( 16 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1050 rdf:first 20 ;
+    rdf:rest ( 17 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1053 rdf:first 20 ;
+    rdf:rest ( 18 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1056 rdf:first 20 ;
+    rdf:rest ( 19 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1059 rdf:first 20 ;
+    rdf:rest ( 20 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b106 rdf:first 1 ;
+    rdf:rest ( 2 3 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1062 rdf:first 20 ;
+    rdf:rest ( 21 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1065 rdf:first 20 ;
+    rdf:rest ( 22 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1068 rdf:first 20 ;
+    rdf:rest ( 23 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1071 rdf:first 20 ;
+    rdf:rest ( 24 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1074 rdf:first 20 ;
+    rdf:rest ( 25 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1077 rdf:first 20 ;
+    rdf:rest ( 26 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1080 rdf:first 20 ;
+    rdf:rest ( 27 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1083 rdf:first 20 ;
+    rdf:rest ( 28 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1086 rdf:first 20 ;
+    rdf:rest ( 29 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1089 rdf:first 20 ;
+    rdf:rest ( 30 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1092 rdf:first 20 ;
+    rdf:rest ( 31 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1095 rdf:first 20 ;
+    rdf:rest ( 32 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1098 rdf:first 20 ;
+    rdf:rest ( 33 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b11 rdf:first 1 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1101 rdf:first 20 ;
+    rdf:rest ( 34 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1104 rdf:first 20 ;
+    rdf:rest ( 35 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1107 rdf:first 20 ;
+    rdf:rest ( 36 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b111 rdf:first 1 ;
+    rdf:rest ( 2 3 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1110 rdf:first 20 ;
+    rdf:rest ( 37 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1113 rdf:first 20 ;
+    rdf:rest ( 38 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1116 rdf:first 20 ;
+    rdf:rest ( 39 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1119 rdf:first 20 ;
+    rdf:rest ( 40 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1122 rdf:first 20 ;
+    rdf:rest ( 41 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1125 rdf:first 20 ;
+    rdf:rest ( 42 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1128 rdf:first 21 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1130 rdf:first 21 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1133 rdf:first 21 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1136 rdf:first 21 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1139 rdf:first 21 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1142 rdf:first 21 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1145 rdf:first 22 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1147 rdf:first 22 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1150 rdf:first 22 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1153 rdf:first 22 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1156 rdf:first 22 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1159 rdf:first 22 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b116 rdf:first 1 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1162 rdf:first 22 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1165 rdf:first 22 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1168 rdf:first 22 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1171 rdf:first 23 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1173 rdf:first 23 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1176 rdf:first 23 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1179 rdf:first 23 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1182 rdf:first 23 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1185 rdf:first 23 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1188 rdf:first 23 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1191 rdf:first 23 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1194 rdf:first 23 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1197 rdf:first 23 ;
+    rdf:rest ( 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b120 rdf:first 1 ;
+    rdf:rest ( 2 4 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1200 rdf:first 23 ;
+    rdf:rest ( 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1203 rdf:first 23 ;
+    rdf:rest ( 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1206 rdf:first 24 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1208 rdf:first 24 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1211 rdf:first 24 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1214 rdf:first 24 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1217 rdf:first 24 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1220 rdf:first 24 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1223 rdf:first 24 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1226 rdf:first 24 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1229 rdf:first 24 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1232 rdf:first 25 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1234 rdf:first 25 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1237 rdf:first 26 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1239 rdf:first 26 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1242 rdf:first 26 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1245 rdf:first 26 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1248 rdf:first 27 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b125 rdf:first 1 ;
+    rdf:rest ( 2 4 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1250 rdf:first 27 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1253 rdf:first 27 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1256 rdf:first 27 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1259 rdf:first 27 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1262 rdf:first 27 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1265 rdf:first 27 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1268 rdf:first 27 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1271 rdf:first 27 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1274 rdf:first 27 ;
+    rdf:rest ( 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1277 rdf:first 27 ;
+    rdf:rest ( 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1280 rdf:first 27 ;
+    rdf:rest ( 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1283 rdf:first 27 ;
+    rdf:rest ( 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1286 rdf:first 27 ;
+    rdf:rest ( 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1289 rdf:first 27 ;
+    rdf:rest ( 14 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1292 rdf:first 27 ;
+    rdf:rest ( 15 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1295 rdf:first 27 ;
+    rdf:rest ( 16 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1298 rdf:first 27 ;
+    rdf:rest ( 17 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b130 rdf:first 1 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1301 rdf:first 27 ;
+    rdf:rest ( 18 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1304 rdf:first 27 ;
+    rdf:rest ( 19 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1307 rdf:first 27 ;
+    rdf:rest ( 20 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1310 rdf:first 27 ;
+    rdf:rest ( 21 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1313 rdf:first 27 ;
+    rdf:rest ( 22 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1316 rdf:first 27 ;
+    rdf:rest ( 23 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1319 rdf:first 27 ;
+    rdf:rest ( 24 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1322 rdf:first 27 ;
+    rdf:rest ( 25 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1325 rdf:first 27 ;
+    rdf:rest ( 26 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1328 rdf:first 27 ;
+    rdf:rest ( 27 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1331 rdf:first 27 ;
+    rdf:rest ( 28 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1334 rdf:first 27 ;
+    rdf:rest ( 29 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b1337 rdf:first 27 ;
+    rdf:rest ( 30 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b134 rdf:first 1 ;
+    rdf:rest ( 2 5 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b139 rdf:first 1 ;
+    rdf:rest ( 2 5 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b144 rdf:first 1 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b148 rdf:first 1 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b15 rdf:first 1 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b152 rdf:first 1 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b156 rdf:first 1 ;
+    rdf:rest ( 2 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b160 rdf:first 1 ;
+    rdf:rest ( 2 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b164 rdf:first 1 ;
+    rdf:rest ( 2 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b168 rdf:first 1 ;
+    rdf:rest ( 2 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b172 rdf:first 1 ;
+    rdf:rest ( 2 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b176 rdf:first 1 ;
+    rdf:rest ( 2 14 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b180 rdf:first 1 ;
+    rdf:rest ( 2 15 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b184 rdf:first 1 ;
+    rdf:rest ( 2 16 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b188 rdf:first 1 ;
+    rdf:rest ( 2 17 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b19 rdf:first 1 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b192 rdf:first 1 ;
+    rdf:rest ( 2 18 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b196 rdf:first 1 ;
+    rdf:rest ( 2 19 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b2 rdf:first 1 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b200 rdf:first 1 ;
+    rdf:rest ( 2 20 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b204 rdf:first 1 ;
+    rdf:rest ( 2 21 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b208 rdf:first 2 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b210 rdf:first 2 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b213 rdf:first 2 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b216 rdf:first 2 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b220 rdf:first 2 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b224 rdf:first 2 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b228 rdf:first 2 ;
+    rdf:rest ( 2 3 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b23 rdf:first 1 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b233 rdf:first 2 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b237 rdf:first 2 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b240 rdf:first 2 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b244 rdf:first 2 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b248 rdf:first 2 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b252 rdf:first 2 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b256 rdf:first 2 ;
+    rdf:rest ( 3 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b260 rdf:first 2 ;
+    rdf:rest ( 3 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b264 rdf:first 2 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b267 rdf:first 2 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b27 rdf:first 1 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b270 rdf:first 2 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b273 rdf:first 2 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b276 rdf:first 2 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b279 rdf:first 2 ;
+    rdf:rest ( 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b282 rdf:first 2 ;
+    rdf:rest ( 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b285 rdf:first 2 ;
+    rdf:rest ( 10 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b289 rdf:first 2 ;
+    rdf:rest ( 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b292 rdf:first 2 ;
+    rdf:rest ( 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b295 rdf:first 2 ;
+    rdf:rest ( 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b298 rdf:first 2 ;
+    rdf:rest ( 14 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b301 rdf:first 3 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b303 rdf:first 3 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b306 rdf:first 3 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b309 rdf:first 3 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b31 rdf:first 1 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b312 rdf:first 3 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b315 rdf:first 3 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b318 rdf:first 4 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b320 rdf:first 4 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b323 rdf:first 4 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b326 rdf:first 4 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b329 rdf:first 4 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b332 rdf:first 4 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b335 rdf:first 5 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b337 rdf:first 5 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b340 rdf:first 5 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b343 rdf:first 5 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b346 rdf:first 5 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b349 rdf:first 5 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b35 rdf:first 1 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b352 rdf:first 5 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b355 rdf:first 5 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b358 rdf:first 5 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b361 rdf:first 6 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b363 rdf:first 6 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b366 rdf:first 6 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b369 rdf:first 6 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b372 rdf:first 6 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b375 rdf:first 7 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b377 rdf:first 7 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b380 rdf:first 7 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b383 rdf:first 7 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b386 rdf:first 7 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b389 rdf:first 7 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b39 rdf:first 1 ;
+    rdf:rest ( 1 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b392 rdf:first 7 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b395 rdf:first 7 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b398 rdf:first 7 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b4 rdf:first 1 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b401 rdf:first 8 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b403 rdf:first 8 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b406 rdf:first 8 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b409 rdf:first 8 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b412 rdf:first 8 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b415 rdf:first 8 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b418 rdf:first 8 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b421 rdf:first 9 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b423 rdf:first 9 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b426 rdf:first 9 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b429 rdf:first 9 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b43 rdf:first 1 ;
+    rdf:rest ( 1 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b432 rdf:first 9 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b435 rdf:first 9 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b438 rdf:first 9 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b441 rdf:first 9 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b444 rdf:first 9 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b447 rdf:first 10 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b449 rdf:first 10 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b452 rdf:first 10 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b455 rdf:first 11 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b457 rdf:first 11 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b460 rdf:first 11 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b463 rdf:first 11 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b466 rdf:first 11 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b469 rdf:first 11 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b47 rdf:first 1 ;
+    rdf:rest ( 1 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b472 rdf:first 11 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b475 rdf:first 11 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b478 rdf:first 11 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b481 rdf:first 12 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b483 rdf:first 12 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b486 rdf:first 12 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b490 rdf:first 12 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b494 rdf:first 12 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b498 rdf:first 12 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b502 rdf:first 12 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b506 rdf:first 12 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b51 rdf:first 1 ;
+    rdf:rest ( 1 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b510 rdf:first 12 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b514 rdf:first 12 ;
+    rdf:rest ( 1 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b518 rdf:first 12 ;
+    rdf:rest ( 1 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b522 rdf:first 12 ;
+    rdf:rest ( 1 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b526 rdf:first 12 ;
+    rdf:rest ( 1 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b530 rdf:first 12 ;
+    rdf:rest ( 1 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b534 rdf:first 12 ;
+    rdf:rest ( 1 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b538 rdf:first 12 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b541 rdf:first 12 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b545 rdf:first 12 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b549 rdf:first 12 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b55 rdf:first 1 ;
+    rdf:rest ( 1 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b553 rdf:first 12 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b557 rdf:first 12 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b561 rdf:first 12 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b565 rdf:first 12 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b569 rdf:first 12 ;
+    rdf:rest ( 2 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b573 rdf:first 12 ;
+    rdf:rest ( 2 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b577 rdf:first 12 ;
+    rdf:rest ( 2 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b581 rdf:first 12 ;
+    rdf:rest ( 2 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b585 rdf:first 12 ;
+    rdf:rest ( 2 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b589 rdf:first 12 ;
+    rdf:rest ( 2 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b59 rdf:first 1 ;
+    rdf:rest ( 1 14 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b593 rdf:first 13 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b595 rdf:first 13 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b598 rdf:first 13 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b602 rdf:first 13 ;
+    rdf:rest ( 1 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b606 rdf:first 13 ;
+    rdf:rest ( 1 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b610 rdf:first 13 ;
+    rdf:rest ( 1 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b614 rdf:first 13 ;
+    rdf:rest ( 1 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b618 rdf:first 13 ;
+    rdf:rest ( 1 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b622 rdf:first 13 ;
+    rdf:rest ( 1 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b626 rdf:first 13 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b629 rdf:first 13 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b63 rdf:first 1 ;
+    rdf:rest ( 1 15 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b633 rdf:first 13 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b637 rdf:first 13 ;
+    rdf:rest ( 2 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b641 rdf:first 13 ;
+    rdf:rest ( 2 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b645 rdf:first 13 ;
+    rdf:rest ( 2 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b649 rdf:first 13 ;
+    rdf:rest ( 2 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b653 rdf:first 13 ;
+    rdf:rest ( 2 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b657 rdf:first 13 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b660 rdf:first 13 ;
+    rdf:rest ( 3 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b664 rdf:first 13 ;
+    rdf:rest ( 3 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b668 rdf:first 13 ;
+    rdf:rest ( 3 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b67 rdf:first 1 ;
+    rdf:rest ( 1 16 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b672 rdf:first 13 ;
+    rdf:rest ( 3 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b676 rdf:first 13 ;
+    rdf:rest ( 3 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b680 rdf:first 13 ;
+    rdf:rest ( 3 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b684 rdf:first 13 ;
+    rdf:rest ( 3 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b688 rdf:first 13 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b691 rdf:first 13 ;
+    rdf:rest ( 4 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b695 rdf:first 13 ;
+    rdf:rest ( 4 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b699 rdf:first 13 ;
+    rdf:rest ( 4 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b7 rdf:first 1 ;
+    rdf:rest ( 1 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b703 rdf:first 13 ;
+    rdf:rest ( 4 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b707 rdf:first 13 ;
+    rdf:rest ( 4 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b71 rdf:first 1 ;
+    rdf:rest ( 1 17 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b711 rdf:first 13 ;
+    rdf:rest ( 4 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b715 rdf:first 13 ;
+    rdf:rest ( 4 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b719 rdf:first 13 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b722 rdf:first 13 ;
+    rdf:rest ( 5 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b726 rdf:first 13 ;
+    rdf:rest ( 5 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b730 rdf:first 13 ;
+    rdf:rest ( 5 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b734 rdf:first 13 ;
+    rdf:rest ( 5 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b738 rdf:first 13 ;
+    rdf:rest ( 5 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b742 rdf:first 13 ;
+    rdf:rest ( 5 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b746 rdf:first 13 ;
+    rdf:rest ( 5 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b75 rdf:first 1 ;
+    rdf:rest ( 1 18 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b750 rdf:first 13 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b753 rdf:first 13 ;
+    rdf:rest ( 6 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b757 rdf:first 13 ;
+    rdf:rest ( 6 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b761 rdf:first 13 ;
+    rdf:rest ( 6 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b765 rdf:first 13 ;
+    rdf:rest ( 6 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b769 rdf:first 13 ;
+    rdf:rest ( 6 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b773 rdf:first 13 ;
+    rdf:rest ( 6 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b777 rdf:first 13 ;
+    rdf:rest ( 6 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b781 rdf:first 13 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b784 rdf:first 13 ;
+    rdf:rest ( 7 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b788 rdf:first 13 ;
+    rdf:rest ( 7 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b79 rdf:first 1 ;
+    rdf:rest ( 1 19 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b792 rdf:first 13 ;
+    rdf:rest ( 7 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b796 rdf:first 13 ;
+    rdf:rest ( 7 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b800 rdf:first 13 ;
+    rdf:rest ( 7 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b804 rdf:first 13 ;
+    rdf:rest ( 7 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b808 rdf:first 13 ;
+    rdf:rest ( 7 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b812 rdf:first 13 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b815 rdf:first 13 ;
+    rdf:rest ( 8 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b819 rdf:first 13 ;
+    rdf:rest ( 8 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b823 rdf:first 13 ;
+    rdf:rest ( 8 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b827 rdf:first 13 ;
+    rdf:rest ( 8 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b83 rdf:first 1 ;
+    rdf:rest ( 1 20 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b831 rdf:first 13 ;
+    rdf:rest ( 8 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b835 rdf:first 13 ;
+    rdf:rest ( 8 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b839 rdf:first 13 ;
+    rdf:rest ( 8 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b843 rdf:first 13 ;
+    rdf:rest ( 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b846 rdf:first 13 ;
+    rdf:rest ( 9 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b850 rdf:first 13 ;
+    rdf:rest ( 9 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b854 rdf:first 13 ;
+    rdf:rest ( 9 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b858 rdf:first 13 ;
+    rdf:rest ( 9 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b862 rdf:first 13 ;
+    rdf:rest ( 9 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b866 rdf:first 13 ;
+    rdf:rest ( 9 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b87 rdf:first 1 ;
+    rdf:rest ( 1 21 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b870 rdf:first 13 ;
+    rdf:rest ( 9 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b874 rdf:first 14 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b876 rdf:first 14 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b879 rdf:first 14 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b882 rdf:first 14 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b885 rdf:first 15 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b887 rdf:first 15 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b890 rdf:first 15 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b893 rdf:first 15 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b896 rdf:first 16 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b898 rdf:first 16 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b901 rdf:first 16 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b904 rdf:first 16 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b907 rdf:first 16 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b91 rdf:first 1 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b910 rdf:first 16 ;
+    rdf:rest ( 5 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b913 rdf:first 16 ;
+    rdf:rest ( 6 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b916 rdf:first 16 ;
+    rdf:rest ( 7 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b919 rdf:first 16 ;
+    rdf:rest ( 8 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b922 rdf:first 16 ;
+    rdf:rest ( 9 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b925 rdf:first 16 ;
+    rdf:rest ( 10 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b928 rdf:first 16 ;
+    rdf:rest ( 11 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b931 rdf:first 16 ;
+    rdf:rest ( 12 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b934 rdf:first 16 ;
+    rdf:rest ( 13 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b937 rdf:first 16 ;
+    rdf:rest ( 14 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b94 rdf:first 1 ;
+    rdf:rest ( 2 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b940 rdf:first 16 ;
+    rdf:rest ( 15 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b943 rdf:first 16 ;
+    rdf:rest ( 16 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b946 rdf:first 16 ;
+    rdf:rest ( 17 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b949 rdf:first 16 ;
+    rdf:rest ( 18 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b952 rdf:first 16 ;
+    rdf:rest ( 19 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b955 rdf:first 16 ;
+    rdf:rest ( 20 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b958 rdf:first 16 ;
+    rdf:rest ( 21 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b961 rdf:first 16 ;
+    rdf:rest ( 22 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b964 rdf:first 16 ;
+    rdf:rest ( 23 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b967 rdf:first 17 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b969 rdf:first 17 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b972 rdf:first 17 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b975 rdf:first 17 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b978 rdf:first 17 ;
+    rdf:rest ( 4 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b98 rdf:first 1 ;
+    rdf:rest ( 2 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b981 rdf:first 18 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b983 rdf:first 18 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b986 rdf:first 19 ;
+    rdf:rest ( 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b988 rdf:first 19 ;
+    rdf:rest ( 1 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b991 rdf:first 19 ;
+    rdf:rest ( 2 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b994 rdf:first 19 ;
+    rdf:rest ( 3 0 ) .
+
+_:f9edbf23bddb14fe7a50579836f28d281b997 rdf:first 19 ;
+    rdf:rest ( 4 0 ) .
+
+_:ub308bL1022C25 tlp:text "Faculty of Arts" ;
+    tlp:url <http://en.wikipedia.org/wiki/Faculty_of_Arts,_Chulalongkorn_University> .
+
+_:ub308bL1063C25 tlp:text "Faculty of Political Science" ;
+    tlp:url <http://en.wikipedia.org/wiki/Faculty_of_Political_Science,_Chulalongkorn_University> .
+
+_:ub308bL106C33 tlp:text "President" ;
+    tlp:url wikipedia:University_president .
+
+_:ub308bL1112C25 tlp:text "Sasin Graduate Institute of Business Administration" ;
+    tlp:url wikipedia:Sasin_Graduate_Institute_of_Business_Administration_of_Chulalongkorn_University .
+
+_:ub308bL125C33 tlp:text "Undergraduates" ;
+    tlp:url wikipedia:Undergraduate_education .
+
+_:ub308bL1287C33 tlp:text "Webometrics" ;
+    tlp:url wikipedia:Webometrics_Ranking_of_World_Universities .
+
+_:ub308bL1298C33 tlp:text "Times (Asia)" ;
+    tlp:url wikipedia:Times_Higher_Education_World_University_Rankings .
+
+_:ub308bL1309C33 tlp:text "QS Asian" ;
+    tlp:url wikipedia:QS_World_University_Rankings .
+
+_:ub308bL1320C33 tlp:text "QS World" ;
+    tlp:url wikipedia:QS_World_University_Rankings .
+
+_:ub308bL1331C33 tlp:text "SIR" ;
+    tlp:url <http://en.wikipedia.org/wiki/College_and_university_rankings#SCImago_Institutions_Rankings> .
+
+_:ub308bL1350C33 tlp:text "Webometrics" ;
+    tlp:url wikipedia:Webometrics_Ranking_of_World_Universities .
+
+_:ub308bL1361C33 tlp:text "Times" ;
+    tlp:url wikipedia:Times_Higher_Education_World_University_Rankings .
+
+_:ub308bL1372C33 tlp:text "QS Asian" ;
+    tlp:url wikipedia:QS_World_University_Rankings .
+
+_:ub308bL137C33 tlp:text "Postgraduates" ;
+    tlp:url wikipedia:Postgraduate_education .
+
+_:ub308bL1383C33 tlp:text "QS World" ;
+    tlp:url wikipedia:QS_World_University_Rankings .
+
+_:ub308bL1394C33 tlp:text "SIR" ;
+    tlp:url <http://en.wikipedia.org/wiki/College_and_university_rankings#SCImago_Institutions_Rankings> .
+
+_:ub308bL149C33 tlp:text "Doctoral students" ;
+    tlp:url wikipedia:Doctorate .
+
+_:ub308bL182C33 tlp:text "Colours" ;
+    tlp:url wikipedia:School_colors .
+
+_:ub308bL1965C25 tlp:text "Lyndon B. Johnson" ;
+    tlp:url wikipedia:Lyndon_B._Johnson .
+
+_:ub308bL1976C25 tlp:text "Bill Clinton" ;
+    tlp:url wikipedia:Bill_Clinton .
+
+_:ub308bL1987C25 tlp:text "Nelson Mandela" ;
+    tlp:url wikipedia:Nelson_Mandela .
+
+_:ub308bL2006C25 tlp:text "Chula–Thammasat Traditional Football Match" ;
+    tlp:url <http://en.wikipedia.org/wiki/Chula%E2%80%93Thammasat_Traditional_Football_Match> .
+
+_:ub308bL2010C25 tlp:text "football" ;
+    tlp:url wikipedia:Association_football .
+
+_:ub308bL2014C25 tlp:text "Thammasat University" ;
+    tlp:url wikipedia:Thammasat_University .
+
+_:ub308bL2018C25 tlp:text "Suphashalasai Stadium" ;
+    tlp:url wikipedia:Suphashalasai_Stadium .
+
+_:ub308bL2029C25 tlp:text "Loy Krathong" ;
+    tlp:url wikipedia:Loy_Krathong .
+
+_:ub308bL2054C25 tlp:text "HRH Prince Mahidol Adulyadej of Songkhla" ;
+    tlp:url wikipedia:Mahidol_Adulyadej .
+
+_:ub308bL2058C25 tlp:text "King Ananda Mahidol" ;
+    tlp:url wikipedia:Ananda_Mahidol .
+
+_:ub308bL2062C25 tlp:text "King Bhumibol Adulyadej" ;
+    tlp:url wikipedia:Bhumibol_Adulyadej .
+
+_:ub308bL2073C25 tlp:text "HRH Princess Galyani Vadhana" ;
+    tlp:url wikipedia:Galyani_Vadhana .
+
+_:ub308bL2077C25 tlp:text "Narathiwat" ;
+    tlp:url wikipedia:Narathiwat_Province .
+
+_:ub308bL2088C25 tlp:text "HRH Princess Maha Chakri Sirindhorn" ;
+    tlp:url wikipedia:Maha_Chakri_Sirindhorn .
+
+_:ub308bL2099C25 tlp:text "HRH Princess Sirivannavari Nariratana" ;
+    tlp:url wikipedia:Siriwannawari_Nariratana .
+
+_:ub308bL2110C25 tlp:text "Banjong Pisanthanakun" ;
+    tlp:url wikipedia:Banjong_Pisanthanakun .
+
+_:ub308bL2114C25 tlp:text "Shutter" ;
+    tlp:url <http://en.wikipedia.org/wiki/Shutter_(2008_film)> .
+
+_:ub308bL2118C25 tlp:text "India" ;
+    tlp:url wikipedia:India .
+
+_:ub308bL2122C25 tlp:text "Sivi" ;
+    tlp:url wikipedia:Sivi .
+
+_:ub308bL2126C25 tlp:text "Alone" ;
+    tlp:url <http://en.wikipedia.org/wiki/Alone_(2007_film)> .
+
+_:ub308bL2137C25 tlp:text "Surakiart Sathirathai" ;
+    tlp:url wikipedia:Surakiart_Sathirathai .
+
+_:ub308bL2141C25 tlp:text "Thailand" ;
+    tlp:url wikipedia:Thailand .
+
+_:ub308bL2145C25 tlp:text "United Nations" ;
+    tlp:url wikipedia:United_Nations .
+
+_:ub308bL2149C25 tlp:text "Secretary-General" ;
+    tlp:url wikipedia:United_Nations_Secretary-General .
+
+_:ub308bL215C33 tlp:text "Pillar of the Kingdom" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:Upload?wpDestFile=Chula_logo.jpg> .
+
+_:ub308bL2160C25 tlp:text "Mallica Vajrathon" ;
+    tlp:url wikipedia:Mallica_Vajrathon .
+
+_:ub308bL2171C25 tlp:text "Win Lyovarin" ;
+    tlp:url wikipedia:Win_Lyovarin .
+
+_:ub308bL2175C25 tlp:text "S.E.A. Write Award" ;
+    tlp:url wikipedia:S.E.A._Write_Award .
+
+_:ub308bL2186C25 tlp:text "Binlah Sonkalagiri" ;
+    tlp:url wikipedia:Binlah_Sonkalagiri .
+
+_:ub308bL2190C25 tlp:text "S.E.A. Write Award" ;
+    tlp:url wikipedia:S.E.A._Write_Award .
+
+_:ub308bL2201C25 tlp:text "Thanpuying Dhasanawalaya Sornsongkram" ;
+    tlp:url wikipedia:Thanpuying_Dhasanawalaya_Sornsongkram .
+
+_:ub308bL2212C25 tlp:text "HRH Princess Sirivannavari Nariratana" ;
+    tlp:url wikipedia:Siriwannawari_Nariratana .
+
+_:ub308bL2223C25 tlp:text "Apinan Poshyananda" ;
+    tlp:url wikipedia:Apinan_Poshyananda .
+
+_:ub308bL2234C25 tlp:text "Pinyo Suwankiri" ;
+    tlp:url wikipedia:Pinyo_Suwankiri .
+
+_:ub308bL2245C25 tlp:text "Borwornsak Uwanno" ;
+    tlp:url wikipedia:Borwornsak_Uwanno .
+
+_:ub308bL2256C25 tlp:text "Kiatisuk Senamuang" ;
+    tlp:url wikipedia:Kiatisuk_Senamuang .
+
+_:ub308bL2267C25 tlp:text "Sukhumbhand Paripatra" ;
+    tlp:url wikipedia:Sukhumbhand_Paripatra .
+
+_:ub308bL2278C25 tlp:text "Suporn Watanyusakul" ;
+    tlp:url wikipedia:Suporn_Watanyusakul .
+
+_:ub308bL2289C25 tlp:text "Pakorn Chatborirak" ;
+    tlp:url wikipedia:Pakorn_Chatborirak .
+
+_:ub308bL2300C25 tlp:text "Yong Poovorawan" ;
+    tlp:url wikipedia:Yong_Poovorawan .
+
+_:ub308bL2304C25 tlp:text "viral hepatitis" ;
+    tlp:url wikipedia:Viral_hepatitis .
+
+_:ub308bL2308C25 tlp:text "virology" ;
+    tlp:url wikipedia:Virology .
+
+_:ub308bL2312C25 tlp:text "H5N1" ;
+    tlp:url wikipedia:H5N1 .
+
+_:ub308bL2316C25 tlp:text "avian influenza" ;
+    tlp:url wikipedia:Avian_influenza .
+
+_:ub308bL2327C25 tlp:text "Chit Phumisak" ;
+    tlp:url wikipedia:Chit_Phumisak .
+
+_:ub308bL2331C25 tlp:text "Thai" ;
+    tlp:url wikipedia:Thai_language .
+
+_:ub308bL2335C25 tlp:text "philologist" ;
+    tlp:url wikipedia:Philology .
+
+_:ub308bL2339C25 tlp:text "Che" ;
+    tlp:url wikipedia:Che_Guevara .
+
+_:ub308bL2350C25 tlp:text "Alexander Rendell" ;
+    tlp:url wikipedia:Alexander_Rendell .
+
+_:ub308bL2361C25 tlp:text "Natapohn Tameeruks" ;
+    tlp:url wikipedia:Natapohn_Tameeruks .
+
+_:ub308bL2372C25 tlp:text "Urassaya Sperbund" ;
+    tlp:url wikipedia:Urassaya_Sperbund .
+
+_:ub308bL2391C25 tlp:text "Osaka" ;
+    tlp:url wikipedia:Osaka .
+
+_:ub308bL2402C25 tlp:text "Bremen" ;
+    tlp:url wikipedia:Bremen .
+
+_:ub308bL2413C25 tlp:text "Atlanta" ;
+    tlp:url wikipedia:Atlanta .
+
+_:ub308bL241C33 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/180px-Phra_Kiao.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Phra_Kiao.svg> .
+
+_:ub308bL2424C25 tlp:text "Suzhou" ;
+    tlp:url wikipedia:Suzhou .
+
+_:ub308bL2428C25 tlp:text "China" ;
+    tlp:url wikipedia:China .
+
+_:ub308bL245C33 tlp:text "Chulalongkorn University seal" ;
+    tlp:url wikipedia:Phra_Kiao .
+
+_:ub308bL2461C25 tlp:text "Academic dress of Chulalongkorn University" ;
+    tlp:url wikipedia:Academic_dress_of_Chulalongkorn_University .
+
+_:ub308bL2472C25 tlp:text "Sasin Graduate Institute of Business Administration of Chulalongkorn University" ;
+    tlp:url wikipedia:Sasin_Graduate_Institute_of_Business_Administration_of_Chulalongkorn_University .
+
+_:ub308bL2483C25 tlp:text "Education in Thailand" ;
+    tlp:url wikipedia:Education_in_Thailand .
+
+_:ub308bL2494C25 tlp:text "Chula United football club" ;
+    tlp:url wikipedia:Chula_United .
+
+_:ub308bL2514C25 tlp:text "Statistics on Students in Different Level" ;
+    tlp:url <https://www.reg.chula.ac.th/statistics/statistics1.html> .
+
+_:ub308bL2525C25 tlp:text "History of Chulalongkorn University" ;
+    tlp:url <http://www.chula.ac.th/chula/en/about/brief_en.html> .
+
+_:ub308bL2536C25 tlp:text "CU History" ;
+    tlp:url <http://www.chula.ac.th/en/about/history> .
+
+_:ub308bL2547C25 tlp:text "\"World Science & Engineering University Portal: THES- World University Ranking 2007\"" ;
+    tlp:url <http://www.universityportal.net/2008/01/thes-world-university-ranking-2008.html> .
+
+_:ub308bL2558C25 tlp:text "Thai" ;
+    tlp:url wikipedia:Thai_language .
+
+_:ub308bL2569C25 tlp:text "พระบรมราชโองการประกาศตั้งโรงเรียนมหาดเล็ก" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2445/001/16.PDF> .
+
+_:ub308bL2580C25 tlp:text "พระบรมราชโองการประกาศตั้งโรงเรียนข้าราชการพลเรือนฯ" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2453/A/123.PDF> .
+
+_:ub308bL2591C25 tlp:text "พระบรมราชโองการ ประกาศประดิษฐานโรงเรียนข้าราชการพลเรือนของพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวขึ้นเป็นโรงเรียนข้าราชการพลเรือน" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2460/A/20.PDF> .
+
+_:ub308bL2602C25 tlp:text "About Phra Kiao by Chulalongkorn Memorial Hall" ;
+    tlp:url <http://www.chula.ac.th/about/symbol_prakew/index.htm> .
+
+_:ub308bL2613C25 tlp:text "History about CU uniform." ;
+    tlp:url <http://www.discipline.studentaffairs.chula.ac.th/nisit_intro.html> .
+
+_:ub308bL2624C25 tlp:text "ข้อบังคับจุฬาฯ ว่าด้วยเครื่องแบบ เครื่องหมาย และเครื่องแต่งกายนิสิต พ.ศ.๒๕๕๓" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/E/052/25.PDF> .
+
+_:ub308bL2635C25 tlp:text "พระราชกำหนดเสื้อครุยบัณฑิตของจุฬาลงกรณ์มหาวิทยาลัย พ.ศ.๒๔๗๓" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2473/A/92.PDF> .
+
+_:ub308bL2646C25 tlp:text "ข้อบังคับจุฬาฯ ว่าด้วยการกำหนดปริญญาในสาขาวิชา อักษรย่อสำหรับสาขาวิชา ครุยวิทยฐานะ เข็มวิทยฐานะ และครุยประจำตำแหน่ง พ.ศ.๒๕๕๓" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/E/052/20.PDF> .
+
+_:ub308bL2657C25 tlp:text "Graduation Gown of Chulalongkorn University" ;
+    tlp:url <http://www.chula.ac.th/about/symbol_prakew/relatelink/symbol_gown/index.htm> .
+
+_:ub308bL2668C25 tlp:text "Rain Tree-The Symbol of Chulalongkorn University" ;
+    tlp:url <http://www.chula.ac.th/about/symbol_prakew/relatelink/symbol_chamjuree/index.htm> .
+
+_:ub308bL2679C25 tlp:text "ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย พ.ศ. ๒๕๕๒" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/E/016/70.PDF> .
+
+_:ub308bL2690C25 tlp:text "ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย (ฉบับที่ ๒) พ.ศ. ๒๕๕๗" ;
+    tlp:url <http://www.ratchakitcha.soc.go.th/DATA/PDF/2557/E/049/2.PDF> .
+
+_:ub308bL2701C25 tlp:text "www.law.chula.ac.th" ;
+    tlp:url <http://www.law.chula.ac.th> .
+
+_:ub308bL2712C25 tlp:text "Faculty of Education, Chulalongkorn University" ;
+    tlp:url <http://www.edu.chula.ac.th/> .
+
+_:ub308bL2723C25 tlp:text "Principles and history of establishing OCARE." ;
+    tlp:url <http://www.ocare.chula.ac.th/index.php/about-us/history.html> .
+
+_:ub308bL2734C25 tlp:text "Webometrics: Thailand" ;
+    tlp:url <http://www.webometrics.info/en/Asia/Thailand> .
+
+_:ub308bL2745C25 tlp:text "Asia University Rankings 2013 Top 100" ;
+    tlp:url <http://www.timeshighereducation.co.uk/world-university-rankings/2012-13/regional-ranking/region/asia?gclid=CLurhP-Kw7YCFQ4b6wodTGcAEQ> .
+
+_:ub308bL2756C25 tlp:text "QS asian university ranking 2012" ;
+    tlp:url <http://www.topuniversities.com/node/2279/ranking-details/asian-university-rankings/2012> .
+
+_:ub308bL2767C25 tlp:text "QS world university ranking 2012" ;
+    tlp:url <http://www.topuniversities.com/node/2279/ranking-details/world-university-rankings/2012> .
+
+_:ub308bL2778C25 tlp:text "SIR World Report 2012" ;
+    tlp:url <http://www.scimagoir.com/pdf/sir_2012_world_report.pdf> .
+
+_:ub308bL2789C25 tlp:text "Chulalongkorn University World University Ranking" ;
+    tlp:url <http://www.topuniversities.com/institution/chulalongkorn-university/wur> .
+
+_:ub308bL2800C25 tlp:text "\"Chulalongkorn University Rankings\"" ;
+    tlp:url <http://www.topuniversities.com/node/2279/ranking-details/world-university-rankings/2012> .
+
+_:ub308bL2811C25 tlp:text "World University Ranking 2011" ;
+    tlp:url <http://www.topuniversities.com/institution/chulalongkorn-university/wur> .
+
+_:ub308bL2822C25 tlp:text "\"Chulalongkorn University Undergraduate\"" ;
+    tlp:url <http://www.topuniversities.com/universities/chulalongkorn-university/undergrad> .
+
+_:ub308bL2833C25 tlp:text "http://www.webometrics.info/en/Asia" ;
+    tlp:url <http://www.webometrics.info/en/Asia> .
+
+_:ub308bL2844C25 tlp:text "http://www.scimagoir.com/research.php?country=THA" ;
+    tlp:url <http://www.scimagoir.com/research.php?country=THA> .
+
+_:ub308bL2855C25 tlp:text "http://www.cwur.org/2015/thailand.html" ;
+    tlp:url <http://www.cwur.org/2015/thailand.html> .
+
+_:ub308bL2866C25 tlp:text "http://www.usnews.com/education/best-global-universities/search?country=thailand" ;
+    tlp:url <http://www.usnews.com/education/best-global-universities/search?country=thailand> .
+
+_:ub308bL2877C25 tlp:text "\"Asia University Rankings 2014\"" ;
+    tlp:url <https://www.timeshighereducation.co.uk/world-university-rankings/2014/regional-ranking#/> .
+
+_:ub308bL2888C25 tlp:text "\"Nelson Mandela Centre of Memory\"" ;
+    tlp:url <http://db.nelsonmandela.org/tributes/pub_view.asp?pg=results&opt=guided&strGenre=Honorary> .
+
+_:ub308bL2899C25 tlp:text "PlasmaZ Extended Team Description Paper" ;
+    tlp:url <http://kucitypic.kasetsart.org/kucity.com8/kucity8_robocup2009_Symposium/tdps/small/small_plasma_z.pdf> .
+
+_:ub308bL2910C25 tlp:text "\"IEEE Xplore - Sign In\"" ;
+    tlp:url <http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4913305&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4913305> .
+
+_:ub308bL2921C25 tlp:text "Plasma-RX: Autonomous Rescue Robots" ;
+    tlp:url <http://www.cp.eng.chula.ac.th/~piak/paper/2009/Plasma-RX19.pdf> .
+
+_:ub308bL2932C25 tlp:text "\"Innovation boss in duplication row\"" ;
+    tlp:url <http://www.timeshighereducation.co.uk/story.asp?storycode=419680> .
+
+_:ub308bL2943C25 tlp:text "\"University rankings from Chula's perspective\"" ;
+    tlp:url <http://asiapacific.anu.edu.au/newmandala/2011/02/21/university-rankings-from-chulas-perspective/> .
+
+_:ub308bL2954C25 tlp:text "\"Thai 'plagiarism' saga takes a new turn\"" ;
+    tlp:url <http://www.scidev.net/en/south-east-asia/news/thai-plagiarism-saga-takes-a-new-turn.html> .
+
+_:ub308bL2965C25 tlp:text "University World News 18 August 2012" ;
+    tlp:url <http://www.universityworldnews.com/article.php?story=20120818084937660> .
+
+_:ub308bL2984C25 tlp:text "Chulalongkorn University official website" ;
+    tlp:url <http://www.chula.ac.th> .
+
+_:ub308bL2995C25 tlp:text "Chulalongkorn University on THES University Rankings" ;
+    tlp:url <http://www.paked.net/higher_education/international_universities/Chulalongkorn%20University.htm> .
+
+_:ub308bL3006C25 tlp:text "cu-tep" ;
+    tlp:url <http://pantip.com/topic/31547824> .
+
+_:ub308bL3017C25 tlp:text "cu-aat" ;
+    tlp:url <http://www.dek-d.com/article/33024/> .
+
+_:ub308bL3028C25 tlp:text "cu-best" ;
+    tlp:url <http://pantip.com/topic/31620977> .
+
+_:ub308bL3047C25 tlp:text "Chulalongkorn University" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Chulalongkorn_University> .
+
+_:ub308bL3058C25 tlp:text "Universities and colleges in Bangkok" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Universities_and_colleges_in_Bangkok> .
+
+_:ub308bL3069C25 tlp:text "Education in Bangkok" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Education_in_Bangkok> .
+
+_:ub308bL3080C25 tlp:text "Educational institutions established in 1917" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Educational_institutions_established_in_1917> .
+
+_:ub308bL3091C25 tlp:text "ASEAN University Network" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:ASEAN_University_Network> .
+
+_:ub308bL3102C25 tlp:text "Pathum Wan District" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Pathum_Wan_District> .
+
+_:ub308bL3113C25 tlp:text "Universities in Thailand" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Universities_in_Thailand> .
+
+_:ub308bL3124C25 tlp:text "1917 establishments in Siam" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:1917_establishments_in_Siam> .
+
+_:ub308bL3143C25 tlp:text "Articles containing Thai-language text" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text> .
+
+_:ub308bL3154C25 tlp:text "Use mdy dates from October 2015" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_October_2015> .
+
+_:ub308bL3165C25 tlp:text "Coordinates on Wikidata" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata> .
+
+_:ub308bL316C33 tlp:text "Public" ;
+    tlp:url wikipedia:Public_university .
+
+_:ub308bL3176C25 tlp:text "Articles with missing files" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_with_missing_files> .
+
+_:ub308bL3187C25 tlp:text "Pages using deprecated image syntax" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax> .
+
+_:ub308bL3198C25 tlp:text "Pages using infobox university with the image name parameter" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_infobox_university_with_the_image_name_parameter> .
+
+_:ub308bL3209C25 tlp:text "Instances of Infobox university using image size" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Instances_of_Infobox_university_using_image_size> .
+
+_:ub308bL3220C25 tlp:text "Pages using infobox university with the affiliations parameter" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Pages_using_infobox_university_with_the_affiliations_parameter> .
+
+_:ub308bL3231C25 tlp:text "Articles needing additional references from January 2012" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_January_2012> .
+
+_:ub308bL3242C25 tlp:text "All articles needing additional references" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references> .
+
+_:ub308bL3253C25 tlp:text "Commons category link is on Wikidata" ;
+    tlp:url <http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata> .
+
+_:ub308bL3272C25 tlp:text "What links here" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:WhatLinksHere/Chulalongkorn_University> .
+
+_:ub308bL3283C25 tlp:text "Related changes" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Chulalongkorn_University> .
+
+_:ub308bL3294C25 tlp:text "Upload file" ;
+    tlp:url <http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard> .
+
+_:ub308bL3305C25 tlp:text "Special pages" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:SpecialPages> .
+
+_:ub308bL3316C25 tlp:text "Permanent link" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624> .
+
+_:ub308bL3327C25 tlp:text "Page information" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&action=info> .
+
+_:ub308bL3338C25 tlp:text "Wikidata item" ;
+    tlp:url <https://www.wikidata.org/wiki/Special:EntityPage/Q855730> .
+
+_:ub308bL333C33 tlp:text "King Vajiravudh of Siam" ;
+    tlp:url wikipedia:Vajiravudh .
+
+_:ub308bL3349C25 tlp:text "Cite this page" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chulalongkorn_University&id=736429624&wpFormIdentifier=titleform> .
+
+_:ub308bL3368C25 tlp:text "Wikimedia Commons" ;
+    tlp:url <https://commons.wikimedia.org/wiki/Category:Chulalongkorn_University> .
+
+_:ub308bL3387C25 tlp:text "Create a book" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Chulalongkorn+University> .
+
+_:ub308bL3398C25 tlp:text "Download as PDF" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Chulalongkorn+University&action=show-download-screen> .
+
+_:ub308bL3409C25 tlp:text "Printable version" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&printable=yes> .
+
+_:ub308bL3428C25 tlp:text "العربية" ;
+    tlp:url <https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%B4%D9%88%D9%84%D8%A7%D9%84%D9%88%D9%86%D8%BA%D9%83%D9%88%D8%B1%D9%86> .
+
+_:ub308bL3439C25 tlp:text "Bân-lâm-gú" ;
+    tlp:url <https://zh-min-nan.wikipedia.org/wiki/Chulalongkorn_T%C4%81i-ha%CC%8Dk> .
+
+_:ub308bL3450C25 tlp:text "Dansk" ;
+    tlp:url <https://da.wikipedia.org/wiki/Chulalongkorn_(universitet)> .
+
+_:ub308bL3461C25 tlp:text "Deutsch" ;
+    tlp:url <https://de.wikipedia.org/wiki/Chulalongkorn-Universit%C3%A4t> .
+
+_:ub308bL346C33 tlp:text "บัณฑิต เอื้ออาภรณ์" ;
+    tlp:url <https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95_%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C> .
+
+_:ub308bL3472C25 tlp:text "Español" ;
+    tlp:url <https://es.wikipedia.org/wiki/Universidad_Chulalongkorn> .
+
+_:ub308bL3483C25 tlp:text "Esperanto" ;
+    tlp:url <https://eo.wikipedia.org/wiki/Universitato_%C4%88ulalonkon> .
+
+_:ub308bL3494C25 tlp:text "فارسی" ;
+    tlp:url <https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%DA%86%D9%88%D9%84%D8%A7%D9%84%D9%88%D9%86%DA%AF%DA%A9%D9%88%D8%B1%D9%86> .
+
+_:ub308bL3505C25 tlp:text "Français" ;
+    tlp:url <https://fr.wikipedia.org/wiki/Universit%C3%A9_Chulalongkorn> .
+
+_:ub308bL3516C25 tlp:text "Galego" ;
+    tlp:url <https://gl.wikipedia.org/wiki/Universidade_Chulalongkorn> .
+
+_:ub308bL3527C25 tlp:text "한국어" ;
+    tlp:url <https://ko.wikipedia.org/wiki/%EC%AD%90%EB%9E%84%EB%A1%B1%EA%BC%B0_%EB%8C%80%ED%95%99%EA%B5%90> .
+
+_:ub308bL3538C25 tlp:text "Bahasa Indonesia" ;
+    tlp:url <https://id.wikipedia.org/wiki/Universitas_Chulalongkorn> .
+
+_:ub308bL3549C25 tlp:text "Italiano" ;
+    tlp:url <https://it.wikipedia.org/wiki/Universit%C3%A0_Chulalongkorn> .
+
+_:ub308bL3560C25 tlp:text "ລາວ" ;
+    tlp:url <https://lo.wikipedia.org/wiki/%E0%BA%88%E0%BA%B8%E0%BA%A5%E0%BA%B2%E0%BA%A5%E0%BA%BB%E0%BA%87%E0%BA%81%E0%BA%AD%E0%BA%99%E0%BA%A1%E0%BA%B0%E0%BA%AB%E0%BA%B2%E0%BA%A7%E0%BA%B4%E0%BA%97%E0%BA%B0%E0%BA%8D%E0%BA%B2%E0%BB%84%E0%BA%A5> .
+
+_:ub308bL3571C25 tlp:text "Latina" ;
+    tlp:url <https://la.wikipedia.org/wiki/Universitas_Chulalongkorn> .
+
+_:ub308bL3582C25 tlp:text "Bahasa Melayu" ;
+    tlp:url <https://ms.wikipedia.org/wiki/Universiti_Chulalongkorn> .
+
+_:ub308bL3593C25 tlp:text "မြန်မာဘာသာ" ;
+    tlp:url <https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AF%E1%80%A0%E1%80%AC%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%9B%E1%80%8F%E1%80%90%E1%80%80%E1%80%B9%E1%80%80%E1%80%9E%E1%80%AD%E1%80%AF%E1%80%9C%E1%80%BA> .
+
+_:ub308bL3604C25 tlp:text "Nederlands" ;
+    tlp:url <https://nl.wikipedia.org/wiki/Chulalongkorn-universiteit> .
+
+_:ub308bL3615C25 tlp:text "日本語" ;
+    tlp:url <https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%B3%E5%A4%A7%E5%AD%A6> .
+
+_:ub308bL3626C25 tlp:text "Norsk bokmål" ;
+    tlp:url <https://no.wikipedia.org/wiki/Chulalongkornuniversitetet> .
+
+_:ub308bL3637C25 tlp:text "ភាសាខ្មែរ" ;
+    tlp:url <https://km.wikipedia.org/wiki/%E1%9E%9F%E1%9E%B6%E1%9E%80%E1%9E%9B%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6%E1%9E%9B%E1%9F%90%E1%9E%99_%E1%9E%85%E1%9E%BB%E1%9E%A1%E1%9E%B6%E1%9E%9B%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%9A%E1%9E%8E%E1%9F%8D> .
+
+_:ub308bL3648C25 tlp:text "Polski" ;
+    tlp:url <https://pl.wikipedia.org/wiki/Uniwersytet_Chulalongkorna> .
+
+_:ub308bL3659C25 tlp:text "Português" ;
+    tlp:url <https://pt.wikipedia.org/wiki/Universidade_de_Chulalongkorn> .
+
+_:ub308bL3670C25 tlp:text "Русский" ;
+    tlp:url <https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%A7%D1%83%D0%BB%D0%B0%D0%BB%D0%BE%D0%BD%D0%B3%D0%BA%D0%BE%D1%80%D0%BD%D0%B0> .
+
+_:ub308bL3681C25 tlp:text "Simple English" ;
+    tlp:url <https://simple.wikipedia.org/wiki/Chulalongkorn_University> .
+
+_:ub308bL3692C25 tlp:text "Svenska" ;
+    tlp:url <https://sv.wikipedia.org/wiki/Chulalongkornuniversitetet> .
+
+_:ub308bL3703C25 tlp:text "Tagalog" ;
+    tlp:url <https://tl.wikipedia.org/wiki/Pamantasang_Chulalongkorn> .
+
+_:ub308bL3714C25 tlp:text "ไทย" ;
+    tlp:url <https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2> .
+
+_:ub308bL3725C25 tlp:text "Tiếng Việt" ;
+    tlp:url <https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chulalongkorn> .
+
+_:ub308bL3736C25 tlp:text "文言" ;
+    tlp:url <https://zh-classical.wikipedia.org/wiki/%E6%9C%B1%E6%8B%89%E9%9A%86%E5%8A%9F%E5%A4%A7%E5%AD%B8> .
+
+_:ub308bL3747C25 tlp:text "中文" ;
+    tlp:url <https://zh.wikipedia.org/wiki/%E6%9C%B1%E6%8B%89%E9%9A%86%E5%8A%9F%E5%A4%A7%E5%AD%A6> .
+
+_:ub308bL383C33 tlp:text "Pathum Wan District" ;
+    tlp:url wikipedia:Pathum_Wan_District .
+
+_:ub308bL387C33 tlp:text "Bangkok" ;
+    tlp:url wikipedia:Bangkok .
+
+_:ub308bL391C33 tlp:text "Thailand" ;
+    tlp:url wikipedia:Thailand .
+
+_:ub308bL395C33 tlp:text "13°44′18″N 100°31′57″E﻿ / ﻿13.73826°N 100.532413°E﻿ / 13.73826; 100.532413" ;
+    tlp:url <http://tools.wmflabs.org/geohack/geohack.php?pagename=Chulalongkorn_University&params=13.73826_N_100.532413_E_type:edu_region:TH> .
+
+_:ub308bL406C33 tlp:text "Downtown" ;
+    tlp:url wikipedia:Downtown .
+
+_:ub308bL431C33 tlp:text "ASAIHL" ;
+    tlp:url wikipedia:Association_of_Southeast_Asian_Institutions_of_Higher_Learning .
+
+_:ub308bL435C33 tlp:text "AUN" ;
+    tlp:url wikipedia:ASEAN_University_Network .
+
+_:ub308bL439C33 tlp:text "APRU" ;
+    tlp:url wikipedia:Association_of_Pacific_Rim_Universities .
+
+_:ub308bL450C33 tlp:text "Rain Tree (Albizia saman)" ;
+    tlp:url wikipedia:Albizia_saman .
+
+_:ub308bL461C33 tlp:text "www.chula.ac.th" ;
+    tlp:url <http://www.chula.ac.th/en/> .
+
+_:ub308bL473C33 tlp:text "Pillar of the Kingdom" ;
+    tlp:url <http://en.wikipedia.org/wiki/Special:Upload?wpDestFile=Chula_logo.jpg> .
+
+_:ub308bL48C33 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Phra_Kiao.svg/180px-Phra_Kiao.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Phra_Kiao.svg> .
+
+_:ub308bL493C25 tlp:text "History" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#History> .
+
+_:ub308bL504C25 tlp:text "Symbols" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Symbols> .
+
+_:ub308bL516C33 tlp:text "Phra Kiao" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Phra_Kiao> .
+
+_:ub308bL527C33 tlp:text "Student Uniform" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Student_Uniform> .
+
+_:ub308bL52C33 tlp:text "Chulalongkorn University seal" ;
+    tlp:url wikipedia:Phra_Kiao .
+
+_:ub308bL538C33 tlp:text "Academic Dress" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Academic_Dress> .
+
+_:ub308bL550C41 tlp:text "Example of Felt Strips" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Example_of_Felt_Strips> .
+
+_:ub308bL562C33 tlp:text "Rain Tree" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Rain_Tree> .
+
+_:ub308bL574C25 tlp:text "Organization" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Organization> .
+
+_:ub308bL586C33 tlp:text "Health Sciences" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Health_Sciences> .
+
+_:ub308bL597C33 tlp:text "Sciences and Technologies" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Sciences_and_Technologies> .
+
+_:ub308bL608C33 tlp:text "Social Sciences and Humanities" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Social_Sciences_and_Humanities> .
+
+_:ub308bL619C33 tlp:text "Graduate institutes" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Graduate_institutes> .
+
+_:ub308bL630C33 tlp:text "Research institutes" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Research_institutes> .
+
+_:ub308bL641C33 tlp:text "Associated institutes" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Associated_institutes> .
+
+_:ub308bL653C25 tlp:text "Research" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Research> .
+
+_:ub308bL664C25 tlp:text "Rankings" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Rankings> .
+
+_:ub308bL675C25 tlp:text "Honorary Degrees" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Honorary_Degrees> .
+
+_:ub308bL686C25 tlp:text "Traditions" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Traditions> .
+
+_:ub308bL697C25 tlp:text "Student activities and clubs" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Student_activities_and_clubs> .
+
+_:ub308bL708C25 tlp:text "Notable alumni" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Notable_alumni> .
+
+_:ub308bL719C25 tlp:text "International Reputation" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#International_Reputation> .
+
+_:ub308bL731C33 tlp:text "Robocup competitions" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Robocup_competitions> .
+
+_:ub308bL743C25 tlp:text "Controversy" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#Controversy> .
+
+_:ub308bL754C25 tlp:text "See also" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#See_also> .
+
+_:ub308bL765C25 tlp:text "References" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#References> .
+
+_:ub308bL776C25 tlp:text "External links" ;
+    tlp:url <http://en.wikipedia.org/w/index.php?title=Chulalongkorn_University&oldid=736429624#External_links> .
+
+_:ub308bL801C25 tlp:text "School of Teacher Training at Baan Somdet Chao Phraya" ;
+    tlp:url <http://en.wikipedia.org/wiki/Faculty_of_Education,_Chulalongkorn_University> .
+
+_:ub308bL812C25 tlp:text "Royal Medical College" ;
+    tlp:url <http://en.wikipedia.org/wiki/Faculty_of_Medicine_Siriraj_Hospital,_Mahidol_University> .
+
+_:ub308bL843C25 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/King%27s_Felt_Strip_CU.svg/60px-King%27s_Felt_Strip_CU.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:King%27s_Felt_Strip_CU.svg> .
+
+_:ub308bL854C25 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Faculty%27s_Felt_Strip_CU.svg/60px-Faculty%27s_Felt_Strip_CU.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Faculty%27s_Felt_Strip_CU.svg> .
+
+_:ub308bL865C25 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Felt_Strip_for_Bachelor_CU_%28Science%29.svg/60px-Felt_Strip_for_Bachelor_CU_%28Science%29.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Felt_Strip_for_Bachelor_CU_(Science).svg> .
+
+_:ub308bL869C25 tlp:text "BSc" ;
+    tlp:url wikipedia:Bachelor_of_Science .
+
+_:ub308bL880C25 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Felt_Strip_for_Master_CU_%28Science%29.svg/60px-Felt_Strip_for_Master_CU_%28Science%29.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Felt_Strip_for_Master_CU_(Science).svg> .
+
+_:ub308bL884C25 tlp:text "MSc" ;
+    tlp:url wikipedia:Master_of_Science .
+
+_:ub308bL895C25 tlp:image <http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Felt_Strip_for_Doctor_CU_%28Science%29.svg/60px-Felt_Strip_for_Doctor_CU_%28Science%29.svg.png> ;
+    tlp:url <http://en.wikipedia.org/wiki/File:Felt_Strip_for_Doctor_CU_(Science).svg> .
+
+_:ub308bL899C25 tlp:text "PhD" ;
+    tlp:url wikipedia:Doctor_of_Philosophy .
+
+_:ub308bL930C25 tlp:text "Faculty of Medicine" ;
+    tlp:url <http://en.wikipedia.org/wiki/Faculty_of_Medicine,_Chulalongkorn_University> .
+
+_:ub308bL947C25 tlp:text "Faculty of Pharmaceutical Sciences" ;
+    tlp:url <http://en.wikipedia.org/wiki/Faculty_of_Pharmaceutical_Sciences,_Chulalongkorn_University> .
+
+_:ub308bL1003C9 a tlp:List ;
+    rdfs:label "Social Sciences and Humanities" ;
+    tlp:dimension 1 ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b375 ;
+    tlp:member _:ub308bL1010C17,
+        _:ub308bL1016C17,
+        _:ub308bL1027C17,
+        _:ub308bL1033C17,
+        _:ub308bL1039C17,
+        _:ub308bL1045C17,
+        _:ub308bL1051C17,
+        _:ub308bL1057C17 .
+
+_:ub308bL1010C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn Business School" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b377 .
+
+_:ub308bL1016C17 a tlp:Item ;
+    rdfs:label "Faculty of Arts (Language&Literature)" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b380 ;
+    tlp:link _:ub308bL1022C25 .
+
+_:ub308bL1027C17 a tlp:Item ;
+    rdfs:label "Faculty of Communication Arts" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b383 .
+
+_:ub308bL1033C17 a tlp:Item ;
+    rdfs:label "Faculty of Economics" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b386 .
+
+_:ub308bL1039C17 a tlp:Item ;
+    rdfs:label "Faculty of Education" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b389 .
+
+_:ub308bL1045C17 a tlp:Item ;
+    rdfs:label "Faculty of Fine and Applied Arts (Art)" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b392 .
+
+_:ub308bL1051C17 a tlp:Item ;
+    rdfs:label "Faculty of Law" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b395 .
+
+_:ub308bL1057C17 a tlp:Item ;
+    rdfs:label "Faculty of Political Science" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b398 ;
+    tlp:link _:ub308bL1063C25 .
+
+_:ub308bL1069C9 a tlp:List ;
+    rdfs:label "Graduate institutes" ;
+    tlp:dimension 1 ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b401 ;
+    tlp:member _:ub308bL1076C17,
+        _:ub308bL1082C17,
+        _:ub308bL1088C17,
+        _:ub308bL1094C17,
+        _:ub308bL1100C17,
+        _:ub308bL1106C17 .
+
+_:ub308bL1076C17 a tlp:Item ;
+    rdfs:label "College of Population Studies" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b403 .
+
+_:ub308bL1082C17 a tlp:Item ;
+    rdfs:label "College of Public Health Science" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b406 .
+
+_:ub308bL1088C17 a tlp:Item ;
+    rdfs:label "Graduate School" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b409 .
+
+_:ub308bL1094C17 a tlp:Item ;
+    rdfs:label "Language Institute" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b412 .
+
+_:ub308bL1100C17 a tlp:Item ;
+    rdfs:label "Petroleum and Petrochemical College" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b415 .
+
+_:ub308bL1106C17 a tlp:Item ;
+    rdfs:label "Sasin Graduate Institute of Business Administration" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b418 ;
+    tlp:link _:ub308bL1112C25 .
+
+_:ub308bL1118C9 a tlp:List ;
+    rdfs:label "Research institutes" ;
+    tlp:dimension 1 ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b421 ;
+    tlp:member _:ub308bL1125C17,
+        _:ub308bL1131C17,
+        _:ub308bL1137C17,
+        _:ub308bL1143C17,
+        _:ub308bL1149C17,
+        _:ub308bL1155C17,
+        _:ub308bL1161C17,
+        _:ub308bL1167C17 .
+
+_:ub308bL111C25 a tlp:Cell ;
+    rdfs:label "Students" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b43 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1125C17 a tlp:Item ;
+    rdfs:label "Aquatic Resources Research Institute" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b423 .
+
+_:ub308bL1131C17 a tlp:Item ;
+    rdfs:label "Energy Research Institute" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b426 .
+
+_:ub308bL1137C17 a tlp:Item ;
+    rdfs:label "Environmental Research Institute" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b429 .
+
+_:ub308bL1143C17 a tlp:Item ;
+    rdfs:label "Institute of Asian Studies" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b432 .
+
+_:ub308bL1149C17 a tlp:Item ;
+    rdfs:label "Institute of Biotechnology and Genetic Engineering" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b435 .
+
+_:ub308bL1155C17 a tlp:Item ;
+    rdfs:label "Metallurgy and Materials Science Research Institute" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b438 .
+
+_:ub308bL1161C17 a tlp:Item ;
+    rdfs:label "Social Research Institute" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b441 .
+
+_:ub308bL1167C17 a tlp:Item ;
+    rdfs:label "Transportation Institute" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b444 .
+
+_:ub308bL1174C9 a tlp:List ;
+    rdfs:label "Associated institutes" ;
+    tlp:dimension 1 ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b447 ;
+    tlp:member _:ub308bL1181C17,
+        _:ub308bL1187C17 .
+
+_:ub308bL1181C17 a tlp:Item ;
+    rdfs:label "Police Nursing College" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b449 .
+
+_:ub308bL1187C17 a tlp:Item ;
+    rdfs:label "Red Cross College of Nursing" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b452 .
+
+_:ub308bL118C25 a tlp:Cell ;
+    rdfs:label "Undergraduates" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b47 ;
+    tlp:link _:ub308bL125C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1194C9 a tlp:List ;
+    rdfs:label "Research" ;
+    tlp:dimension 1 ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b455 ;
+    tlp:member _:ub308bL1201C17,
+        _:ub308bL1207C17,
+        _:ub308bL1213C17,
+        _:ub308bL1219C17,
+        _:ub308bL1225C17,
+        _:ub308bL1231C17,
+        _:ub308bL1237C17,
+        _:ub308bL1243C17 .
+
+_:ub308bL1201C17 a tlp:Item ;
+    rdfs:label "Aquatio Resources Research Institute" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b457 .
+
+_:ub308bL1207C17 a tlp:Item ;
+    rdfs:label "Energy Research Institute" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b460 .
+
+_:ub308bL1213C17 a tlp:Item ;
+    rdfs:label "Environment Research Institute" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b463 .
+
+_:ub308bL1219C17 a tlp:Item ;
+    rdfs:label "Social Research Institute" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b466 .
+
+_:ub308bL1225C17 a tlp:Item ;
+    rdfs:label "The Institute of Biotechnology and Genetics Engineering" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b469 .
+
+_:ub308bL1231C17 a tlp:Item ;
+    rdfs:label "Metallurgy ang Material Science Research Institute" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b472 .
+
+_:ub308bL1237C17 a tlp:Item ;
+    rdfs:label "Institute of Asian Studies" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b475 .
+
+_:ub308bL1243C17 a tlp:Item ;
+    rdfs:label "Transportation Institute" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b478 .
+
+_:ub308bL1250C9 a tlp:Table ;
+    rdfs:label "Rankings" ;
+    tlp:dimension 2 ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b481 ;
+    tlp:member _:ub308bL1259C17,
+        _:ub308bL1400C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub308bL1259C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b483 ;
+    tlp:member _:ub308bL1265C25,
+        _:ub308bL1273C25,
+        _:ub308bL1281C25,
+        _:ub308bL1292C25,
+        _:ub308bL1303C25,
+        _:ub308bL1314C25,
+        _:ub308bL1325C25,
+        _:ub308bL1336C25,
+        _:ub308bL1344C25,
+        _:ub308bL1355C25,
+        _:ub308bL1366C25,
+        _:ub308bL1377C25,
+        _:ub308bL1388C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1265C25 a tlp:Cell ;
+    rdfs:label "Ranking" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b486 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub308bL1273C25 a tlp:Cell ;
+    rdfs:label "National Ranking" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b490 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub308bL1281C25 a tlp:Cell ;
+    rdfs:label "Webometrics (2012)" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b494 ;
+    tlp:link _:ub308bL1287C33 .
+
+_:ub308bL1292C25 a tlp:Cell ;
+    rdfs:label "Times (Asia) (2012)" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b498 ;
+    tlp:link _:ub308bL1298C33 .
+
+_:ub308bL1303C25 a tlp:Cell ;
+    rdfs:label "QS Asian (2012)" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b502 ;
+    tlp:link _:ub308bL1309C33 .
+
+_:ub308bL130C25 a tlp:Cell ;
+    rdfs:label "Postgraduates" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b51 ;
+    tlp:link _:ub308bL137C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1314C25 a tlp:Cell ;
+    rdfs:label "QS World (2012)" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b506 ;
+    tlp:link _:ub308bL1320C33 .
+
+_:ub308bL1325C25 a tlp:Cell ;
+    rdfs:label "SIR (2555)" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b510 ;
+    tlp:link _:ub308bL1331C33 .
+
+_:ub308bL1336C25 a tlp:Cell ;
+    rdfs:label "Global" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b514 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub308bL1344C25 a tlp:Cell ;
+    rdfs:label "Webometrics (2012)" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b518 ;
+    tlp:link _:ub308bL1350C33 .
+
+_:ub308bL1355C25 a tlp:Cell ;
+    rdfs:label "Times (2012)" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b522 ;
+    tlp:link _:ub308bL1361C33 .
+
+_:ub308bL1366C25 a tlp:Cell ;
+    rdfs:label "QS Asian (2012)" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b526 ;
+    tlp:link _:ub308bL1372C33 .
+
+_:ub308bL1377C25 a tlp:Cell ;
+    rdfs:label "QS World (2012)" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b530 ;
+    tlp:link _:ub308bL1383C33 .
+
+_:ub308bL1388C25 a tlp:Cell ;
+    rdfs:label "SIR (2012)" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b534 ;
+    tlp:link _:ub308bL1394C33 .
+
+_:ub308bL1400C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b538 ;
+    tlp:member _:ub308bL1406C25,
+        _:ub308bL1414C25,
+        _:ub308bL1422C25,
+        _:ub308bL1428C25,
+        _:ub308bL1434C25,
+        _:ub308bL1440C25,
+        _:ub308bL1446C25,
+        _:ub308bL1452C25,
+        _:ub308bL1460C25,
+        _:ub308bL1466C25,
+        _:ub308bL1472C25,
+        _:ub308bL1478C25,
+        _:ub308bL1484C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1406C25 a tlp:Cell ;
+    rdfs:label "Ranking" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b541 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub308bL1414C25 a tlp:Cell ;
+    rdfs:label "National Ranking" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b545 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub308bL1422C25 a tlp:Cell ;
+    rdfs:label "1" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b549 .
+
+_:ub308bL1428C25 a tlp:Cell ;
+    rdfs:label "3" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b553 .
+
+_:ub308bL142C25 a tlp:Cell ;
+    rdfs:label "Doctoral students" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b55 ;
+    tlp:link _:ub308bL149C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1434C25 a tlp:Cell ;
+    rdfs:label "2" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b557 .
+
+_:ub308bL1440C25 a tlp:Cell ;
+    rdfs:label "1" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b561 .
+
+_:ub308bL1446C25 a tlp:Cell ;
+    rdfs:label "1" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b565 .
+
+_:ub308bL1452C25 a tlp:Cell ;
+    rdfs:label "Global" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b569 ;
+    tlp:style tlp:Emphasize,
+        tlp:GrpSpan .
+
+_:ub308bL1460C25 a tlp:Cell ;
+    rdfs:label "169" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b573 .
+
+_:ub308bL1466C25 a tlp:Cell ;
+    rdfs:label "82" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b577 .
+
+_:ub308bL1472C25 a tlp:Cell ;
+    rdfs:label "43" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b581 .
+
+_:ub308bL1478C25 a tlp:Cell ;
+    rdfs:label "201" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b585 .
+
+_:ub308bL1484C25 a tlp:Cell ;
+    rdfs:label "480" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b589 .
+
+_:ub308bL1492C9 a tlp:Table ;
+    rdfs:label "University World Ranking in 2005 – 2012 by QS World University Rankings" ;
+    tlp:dimension 2 ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b593 ;
+    tlp:member _:ub308bL1501C17,
+        _:ub308bL1551C17,
+        _:ub308bL1601C17,
+        _:ub308bL1651C17,
+        _:ub308bL1701C17,
+        _:ub308bL1751C17,
+        _:ub308bL1801C17,
+        _:ub308bL1851C17,
+        _:ub308bL1901C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub308bL1501C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b595 ;
+    tlp:member _:ub308bL1507C25,
+        _:ub308bL1514C25,
+        _:ub308bL1520C25,
+        _:ub308bL1526C25,
+        _:ub308bL1532C25,
+        _:ub308bL1538C25,
+        _:ub308bL1544C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1507C25 a tlp:Cell ;
+    rdfs:label "" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b598 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1514C25 a tlp:Cell ;
+    rdfs:label "Overall" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b602 .
+
+_:ub308bL1520C25 a tlp:Cell ;
+    rdfs:label "Arts & Humanities" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b606 .
+
+_:ub308bL1526C25 a tlp:Cell ;
+    rdfs:label "Natural Sciences" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b610 .
+
+_:ub308bL1532C25 a tlp:Cell ;
+    rdfs:label "Engineering & IT" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b614 .
+
+_:ub308bL1538C25 a tlp:Cell ;
+    rdfs:label "Social Sciences" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b618 .
+
+_:ub308bL1544C25 a tlp:Cell ;
+    rdfs:label "Life Sciences" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b622 .
+
+_:ub308bL154C25 a tlp:Cell ;
+    rdfs:label "Location" ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b59 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1551C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b626 ;
+    tlp:member _:ub308bL1557C25,
+        _:ub308bL1564C25,
+        _:ub308bL1570C25,
+        _:ub308bL1576C25,
+        _:ub308bL1582C25,
+        _:ub308bL1588C25,
+        _:ub308bL1594C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1557C25 a tlp:Cell ;
+    rdfs:label "2012" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b629 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1564C25 a tlp:Cell ;
+    rdfs:label "201" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b633 .
+
+_:ub308bL1570C25 a tlp:Cell ;
+    rdfs:label "113" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b637 .
+
+_:ub308bL1576C25 a tlp:Cell ;
+    rdfs:label "140" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b641 .
+
+_:ub308bL1582C25 a tlp:Cell ;
+    rdfs:label "106" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b645 .
+
+_:ub308bL1588C25 a tlp:Cell ;
+    rdfs:label "80" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b649 .
+
+_:ub308bL1594C25 a tlp:Cell ;
+    rdfs:label "92" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b653 .
+
+_:ub308bL1601C17 a tlp:Column ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b657 ;
+    tlp:member _:ub308bL1607C25,
+        _:ub308bL1614C25,
+        _:ub308bL1620C25,
+        _:ub308bL1626C25,
+        _:ub308bL1632C25,
+        _:ub308bL1638C25,
+        _:ub308bL1644C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1607C25 a tlp:Cell ;
+    rdfs:label "2011" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b660 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1614C25 a tlp:Cell ;
+    rdfs:label "171" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b664 .
+
+_:ub308bL161C25 a tlp:Cell ;
+    rdfs:label "Campus" ;
+    tlp:index 15 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b63 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1620C25 a tlp:Cell ;
+    rdfs:label "69" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b668 .
+
+_:ub308bL1626C25 a tlp:Cell ;
+    rdfs:label "138" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b672 .
+
+_:ub308bL1632C25 a tlp:Cell ;
+    rdfs:label "104" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b676 .
+
+_:ub308bL1638C25 a tlp:Cell ;
+    rdfs:label "68" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b680 .
+
+_:ub308bL1644C25 a tlp:Cell ;
+    rdfs:label "78" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b684 .
+
+_:ub308bL1651C17 a tlp:Column ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b688 ;
+    tlp:member _:ub308bL1657C25,
+        _:ub308bL1664C25,
+        _:ub308bL1670C25,
+        _:ub308bL1676C25,
+        _:ub308bL1682C25,
+        _:ub308bL1688C25,
+        _:ub308bL1694C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1657C25 a tlp:Cell ;
+    rdfs:label "2010" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b691 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1664C25 a tlp:Cell ;
+    rdfs:label "180" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b695 .
+
+_:ub308bL1670C25 a tlp:Cell ;
+    rdfs:label "78" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b699 .
+
+_:ub308bL1676C25 a tlp:Cell ;
+    rdfs:label "186" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b703 .
+
+_:ub308bL1682C25 a tlp:Cell ;
+    rdfs:label "101" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b707 .
+
+_:ub308bL1688C25 a tlp:Cell ;
+    rdfs:label "78" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b711 .
+
+_:ub308bL168C25 a tlp:Cell ;
+    rdfs:label "Anthem" ;
+    tlp:index 16 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b67 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1694C25 a tlp:Cell ;
+    rdfs:label "130" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b715 .
+
+_:ub308bL1701C17 a tlp:Column ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b719 ;
+    tlp:member _:ub308bL1707C25,
+        _:ub308bL1714C25,
+        _:ub308bL1720C25,
+        _:ub308bL1726C25,
+        _:ub308bL1732C25,
+        _:ub308bL1738C25,
+        _:ub308bL1744C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1707C25 a tlp:Cell ;
+    rdfs:label "2009" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b722 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1714C25 a tlp:Cell ;
+    rdfs:label "138" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b726 .
+
+_:ub308bL1720C25 a tlp:Cell ;
+    rdfs:label "49" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b730 .
+
+_:ub308bL1726C25 a tlp:Cell ;
+    rdfs:label "136" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b734 .
+
+_:ub308bL1732C25 a tlp:Cell ;
+    rdfs:label "78" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b738 .
+
+_:ub308bL1738C25 a tlp:Cell ;
+    rdfs:label "51" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b742 .
+
+_:ub308bL1744C25 a tlp:Cell ;
+    rdfs:label "51" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b746 .
+
+_:ub308bL1751C17 a tlp:Column ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b750 ;
+    tlp:member _:ub308bL1757C25,
+        _:ub308bL1764C25,
+        _:ub308bL1770C25,
+        _:ub308bL1776C25,
+        _:ub308bL1782C25,
+        _:ub308bL1788C25,
+        _:ub308bL1794C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1757C25 a tlp:Cell ;
+    rdfs:label "2008" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b753 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL175C25 a tlp:Cell ;
+    rdfs:label "Colours" ;
+    tlp:index 17 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b71 ;
+    tlp:link _:ub308bL182C33 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1764C25 a tlp:Cell ;
+    rdfs:label "166" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b757 .
+
+_:ub308bL1770C25 a tlp:Cell ;
+    rdfs:label "119" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b761 .
+
+_:ub308bL1776C25 a tlp:Cell ;
+    rdfs:label "171" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b765 .
+
+_:ub308bL1782C25 a tlp:Cell ;
+    rdfs:label "86" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b769 .
+
+_:ub308bL1788C25 a tlp:Cell ;
+    rdfs:label "72" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b773 .
+
+_:ub308bL1794C25 a tlp:Cell ;
+    rdfs:label "108" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b777 .
+
+_:ub308bL1801C17 a tlp:Column ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b781 ;
+    tlp:member _:ub308bL1807C25,
+        _:ub308bL1814C25,
+        _:ub308bL1820C25,
+        _:ub308bL1826C25,
+        _:ub308bL1832C25,
+        _:ub308bL1838C25,
+        _:ub308bL1844C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1807C25 a tlp:Cell ;
+    rdfs:label "2007" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b784 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1814C25 a tlp:Cell ;
+    rdfs:label "223" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b788 .
+
+_:ub308bL1820C25 a tlp:Cell ;
+    rdfs:label "136" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b792 .
+
+_:ub308bL1826C25 a tlp:Cell ;
+    rdfs:label "159" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b796 .
+
+_:ub308bL1832C25 a tlp:Cell ;
+    rdfs:label "100" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b800 .
+
+_:ub308bL1838C25 a tlp:Cell ;
+    rdfs:label "83" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b804 .
+
+_:ub308bL1844C25 a tlp:Cell ;
+    rdfs:label "138" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b808 .
+
+_:ub308bL1851C17 a tlp:Column ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b812 ;
+    tlp:member _:ub308bL1857C25,
+        _:ub308bL1864C25,
+        _:ub308bL1870C25,
+        _:ub308bL1876C25,
+        _:ub308bL1882C25,
+        _:ub308bL1888C25,
+        _:ub308bL1894C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1857C25 a tlp:Cell ;
+    rdfs:label "2006" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b815 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1864C25 a tlp:Cell ;
+    rdfs:label "161" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b819 .
+
+_:ub308bL1870C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b823 .
+
+_:ub308bL1876C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b827 .
+
+_:ub308bL187C25 a tlp:Cell ;
+    rdfs:label "Affiliations" ;
+    tlp:index 18 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b75 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1882C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b831 .
+
+_:ub308bL1888C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b835 .
+
+_:ub308bL1894C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b839 .
+
+_:ub308bL1901C17 a tlp:Column ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b843 ;
+    tlp:member _:ub308bL1907C25,
+        _:ub308bL1914C25,
+        _:ub308bL1920C25,
+        _:ub308bL1926C25,
+        _:ub308bL1932C25,
+        _:ub308bL1938C25,
+        _:ub308bL1944C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL1907C25 a tlp:Cell ;
+    rdfs:label "2005" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b846 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1914C25 a tlp:Cell ;
+    rdfs:label "161" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b850 .
+
+_:ub308bL1920C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b854 .
+
+_:ub308bL1926C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b858 .
+
+_:ub308bL1932C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b862 .
+
+_:ub308bL1938C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b866 .
+
+_:ub308bL1944C25 a tlp:Cell ;
+    rdfs:label "–" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b870 .
+
+_:ub308bL194C25 a tlp:Cell ;
+    rdfs:label "Mascot" ;
+    tlp:index 19 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b79 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL1952C9 a tlp:List ;
+    rdfs:label "Honorary Degrees" ;
+    tlp:dimension 1 ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b874 ;
+    tlp:member _:ub308bL1959C17,
+        _:ub308bL1970C17,
+        _:ub308bL1981C17 .
+
+_:ub308bL1959C17 a tlp:Item ;
+    rdfs:label "Lyndon B. Johnson, October 29, 1966" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b876 ;
+    tlp:link _:ub308bL1965C25 .
+
+_:ub308bL1970C17 a tlp:Item ;
+    rdfs:label "Bill Clinton, November 26, 1996" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b879 ;
+    tlp:link _:ub308bL1976C25 .
+
+_:ub308bL1981C17 a tlp:Item ;
+    rdfs:label "Nelson Mandela, July 17, 1997" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b882 ;
+    tlp:link _:ub308bL1987C25 .
+
+_:ub308bL1993C9 a tlp:List ;
+    rdfs:label "Traditions" ;
+    tlp:dimension 1 ;
+    tlp:index 15 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b885 ;
+    tlp:member _:ub308bL2000C17,
+        _:ub308bL2023C17,
+        _:ub308bL2034C17 .
+
+_:ub308bL19C9 a tlp:Table ;
+    rdfs:label "Chulalongkorn University" ;
+    tlp:dimension 3 ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b2 ;
+    tlp:member _:ub308bL221C17,
+        _:ub308bL28C17 ;
+    tlp:style tlp:ColMajor,
+        tlp:Enumerate .
+
+_:ub308bL2000C17 a tlp:Item ;
+    rdfs:label "Chula–Thammasat Traditional Football Match: The annual football match between Chulalongkorn University and Thammasat University in January at Suphashalasai Stadium. It first started in 1934." ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b887 ;
+    tlp:link _:ub308bL2006C25,
+        _:ub308bL2010C25,
+        _:ub308bL2014C25,
+        _:ub308bL2018C25 .
+
+_:ub308bL201C25 a tlp:Cell ;
+    rdfs:label "Website" ;
+    tlp:index 20 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b83 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL2023C17 a tlp:Item ;
+    rdfs:label "Loy Krathong: an annual celebration of the full moon night, which usually falls on the first full moon day in November. Since the festival is open to the public, it attracts many people, especially Chulalongkorn students and faculty and those who live in downtown Bangkok, to come to the university to float their Krathongs on the university's pond." ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b890 ;
+    tlp:link _:ub308bL2029C25 .
+
+_:ub308bL2034C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn Academic Exhibition: a triennial academic and research exhibition presented by Chulalongkorn University's students and faculty. It is regarded as one of the most important academic fairs in Thailand." ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b893 .
+
+_:ub308bL2041C9 a tlp:List ;
+    rdfs:label "Notable alumni" ;
+    tlp:dimension 1 ;
+    tlp:index 16 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b896 ;
+    tlp:member _:ub308bL2048C17,
+        _:ub308bL2067C17,
+        _:ub308bL2082C17,
+        _:ub308bL2093C17,
+        _:ub308bL2104C17,
+        _:ub308bL2131C17,
+        _:ub308bL2154C17,
+        _:ub308bL2165C17,
+        _:ub308bL2180C17,
+        _:ub308bL2195C17,
+        _:ub308bL2206C17,
+        _:ub308bL2217C17,
+        _:ub308bL2228C17,
+        _:ub308bL2239C17,
+        _:ub308bL2250C17,
+        _:ub308bL2261C17,
+        _:ub308bL2272C17,
+        _:ub308bL2283C17,
+        _:ub308bL2294C17,
+        _:ub308bL2321C17,
+        _:ub308bL2344C17,
+        _:ub308bL2355C17,
+        _:ub308bL2366C17 .
+
+_:ub308bL2048C17 a tlp:Item ;
+    rdfs:label "HRH Prince Mahidol Adulyadej of Songkhla, father of King Ananda Mahidol and King Bhumibol Adulyadej" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b898 ;
+    tlp:link _:ub308bL2054C25,
+        _:ub308bL2058C25,
+        _:ub308bL2062C25 .
+
+_:ub308bL2067C17 a tlp:Item ;
+    rdfs:label "HRH Princess Galyani Vadhana, princess of Narathiwat, Thailand" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b901 ;
+    tlp:link _:ub308bL2073C25,
+        _:ub308bL2077C25 .
+
+_:ub308bL2082C17 a tlp:Item ;
+    rdfs:label "HRH Princess Maha Chakri Sirindhorn, princess of Thailand" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b904 ;
+    tlp:link _:ub308bL2088C25 .
+
+_:ub308bL208C25 a tlp:Cell ;
+    rdfs:label "Pillar of the Kingdom" ;
+    tlp:index 21 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b87 ;
+    tlp:link _:ub308bL215C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub308bL2093C17 a tlp:Item ;
+    rdfs:label "HRH Princess Sirivannavari Nariratana, princess of Thailand" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b907 ;
+    tlp:link _:ub308bL2099C25 .
+
+_:ub308bL2104C17 a tlp:Item ;
+    rdfs:label "Banjong Pisanthanakun, co-directed and co-written of a box-office hit film such as Shutter (which was re-made in the US as Shutter, and in India as Sivi and Alone)" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b910 ;
+    tlp:link _:ub308bL2110C25,
+        _:ub308bL2114C25,
+        _:ub308bL2118C25,
+        _:ub308bL2122C25,
+        _:ub308bL2126C25 .
+
+_:ub308bL2131C17 a tlp:Item ;
+    rdfs:label "Surakiart Sathirathai, former Deputy Prime Minister of Thailand Foreign Affairs, Education and Culture and the former Thailand's candidate for United Nations Secretary-General in 2006" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b913 ;
+    tlp:link _:ub308bL2137C25,
+        _:ub308bL2141C25,
+        _:ub308bL2145C25,
+        _:ub308bL2149C25 .
+
+_:ub308bL2154C17 a tlp:Item ;
+    rdfs:label "Mallica Vajrathon, a sociologist, political scientist and former United Nations Senior Staff member" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b916 ;
+    tlp:link _:ub308bL2160C25 .
+
+_:ub308bL2165C17 a tlp:Item ;
+    rdfs:label "Win Lyovarin, a Thai writer, two-time winner of the S.E.A. Write Award" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b919 ;
+    tlp:link _:ub308bL2171C25,
+        _:ub308bL2175C25 .
+
+_:ub308bL2180C17 a tlp:Item ;
+    rdfs:label "Binlah Sonkalagiri, a winner of the S.E.A. Write Award" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b922 ;
+    tlp:link _:ub308bL2186C25,
+        _:ub308bL2190C25 .
+
+_:ub308bL2195C17 a tlp:Item ;
+    rdfs:label "Thanpuying Dhasanawalaya Sornsongkram, daughter of HRH Princess Galyani Vadhana" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b925 ;
+    tlp:link _:ub308bL2201C25 .
+
+_:ub308bL2206C17 a tlp:Item ;
+    rdfs:label "HRH Princess Sirivannavari Nariratana, princess of Thailand" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b928 ;
+    tlp:link _:ub308bL2212C25 .
+
+_:ub308bL2217C17 a tlp:Item ;
+    rdfs:label "Apinan Poshyananda, Director-General, Office of Contemporary Art, The Ministry of Culture and one of the top curators in the Asian region" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b931 ;
+    tlp:link _:ub308bL2223C25 .
+
+_:ub308bL221C17 a tlp:Column ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b91 ;
+    tlp:member _:ub308bL227C25,
+        _:ub308bL234C25,
+        _:ub308bL250C25,
+        _:ub308bL270C25,
+        _:ub308bL290C25,
+        _:ub308bL310C25,
+        _:ub308bL321C25,
+        _:ub308bL327C25,
+        _:ub308bL338C25,
+        _:ub308bL351C25,
+        _:ub308bL357C25,
+        _:ub308bL363C25,
+        _:ub308bL369C25,
+        _:ub308bL375C25,
+        _:ub308bL400C25,
+        _:ub308bL411C25,
+        _:ub308bL419C25,
+        _:ub308bL425C25,
+        _:ub308bL444C25,
+        _:ub308bL455C25,
+        _:ub308bL466C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL2228C17 a tlp:Item ;
+    rdfs:label "Pinyo Suwankiri, Thailand National Artist in the area of applied arts (Thai architecture)" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b934 ;
+    tlp:link _:ub308bL2234C25 .
+
+_:ub308bL2239C17 a tlp:Item ;
+    rdfs:label "Borwornsak Uwanno, a Thai legal expert and a cabinet secretary-general under the Thaksin-government" ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b937 ;
+    tlp:link _:ub308bL2245C25 .
+
+_:ub308bL2250C17 a tlp:Item ;
+    rdfs:label "Kiatisuk Senamuang, a professional football player" ;
+    tlp:index 15 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b940 ;
+    tlp:link _:ub308bL2256C25 .
+
+_:ub308bL2261C17 a tlp:Item ;
+    rdfs:label "Sukhumbhand Paripatra, the 15th Governor of Bangkok" ;
+    tlp:index 16 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b943 ;
+    tlp:link _:ub308bL2267C25 .
+
+_:ub308bL2272C17 a tlp:Item ;
+    rdfs:label "Suporn Watanyusakul, pioneer in vaginoplasty & facial reconstruction" ;
+    tlp:index 17 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b946 ;
+    tlp:link _:ub308bL2278C25 .
+
+_:ub308bL227C25 a tlp:Cell ;
+    rdfs:label "จุฬาลงกรณ์มหาวิทยาลัย" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b94 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub308bL2283C17 a tlp:Item ;
+    rdfs:label "Pakorn Chatborirak, Thai actor and model." ;
+    tlp:index 18 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b949 ;
+    tlp:link _:ub308bL2289C25 .
+
+_:ub308bL2294C17 a tlp:Item ;
+    rdfs:label "Yong Poovorawan, a noted scientist in the fields of pediatric hepatology, viral hepatitis and virology, and an expert on the H5N1 avian influenza virus" ;
+    tlp:index 19 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b952 ;
+    tlp:link _:ub308bL2300C25,
+        _:ub308bL2304C25,
+        _:ub308bL2308C25,
+        _:ub308bL2312C25,
+        _:ub308bL2316C25 .
+
+_:ub308bL2321C17 a tlp:Item ;
+    rdfs:label "Chit Phumisak, a Thai author, philologist, historian, poet and Communist rebel. His most influential book was The Face of Thai Feudalism (Thai: โฉมหน้าศักดินาไทย, Chom Na Sakdina Thai). He also has been described as the \"Che of Thailand\"." ;
+    tlp:index 20 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b955 ;
+    tlp:link _:ub308bL2327C25,
+        _:ub308bL2331C25,
+        _:ub308bL2335C25,
+        _:ub308bL2339C25 .
+
+_:ub308bL2344C17 a tlp:Item ;
+    rdfs:label "Alexander Rendell, Thai actor and model." ;
+    tlp:index 21 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b958 ;
+    tlp:link _:ub308bL2350C25 .
+
+_:ub308bL234C25 a tlp:Cell ;
+    rdfs:label "Phra Kiao Chulalongkorn University seal" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b98 ;
+    tlp:link _:ub308bL241C33,
+        _:ub308bL245C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub308bL2355C17 a tlp:Item ;
+    rdfs:label "Natapohn Tameeruks, Thai actor and model." ;
+    tlp:index 22 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b961 ;
+    tlp:link _:ub308bL2361C25 .
+
+_:ub308bL2366C17 a tlp:Item ;
+    rdfs:label "Urassaya Sperbund, Thai actor and model." ;
+    tlp:index 23 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b964 ;
+    tlp:link _:ub308bL2372C25 .
+
+_:ub308bL2378C9 a tlp:List ;
+    rdfs:label "Robocup competitions" ;
+    tlp:dimension 1 ;
+    tlp:index 17 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b967 ;
+    tlp:member _:ub308bL2385C17,
+        _:ub308bL2396C17,
+        _:ub308bL2407C17,
+        _:ub308bL2418C17 .
+
+_:ub308bL2385C17 a tlp:Item ;
+    rdfs:label "In 2005, almost reached the quarter final at Osaka RoboCup." ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b969 ;
+    tlp:link _:ub308bL2391C25 .
+
+_:ub308bL2396C17 a tlp:Item ;
+    rdfs:label "In 2006, the third place and technical challenge at Bremen RoboCup." ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b972 ;
+    tlp:link _:ub308bL2402C25 .
+
+_:ub308bL2407C17 a tlp:Item ;
+    rdfs:label "In 2007, second place Atlanta World RoboCup." ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b975 ;
+    tlp:link _:ub308bL2413C25 .
+
+_:ub308bL2418C17 a tlp:Item ;
+    rdfs:label "In 2008, finally the team got champion of World RoboCup Small‐Sized Robot League at Suzhou, China." ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b978 ;
+    tlp:link _:ub308bL2424C25,
+        _:ub308bL2428C25 .
+
+_:ub308bL2434C9 a tlp:List ;
+    rdfs:label "Controversy" ;
+    tlp:dimension 1 ;
+    tlp:index 18 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b981 ;
+    tlp:member _:ub308bL2441C17 .
+
+_:ub308bL2441C17 a tlp:Item ;
+    rdfs:label "In April 2012, Times Higher Education raised concerns that Chulalongkorn failed to act against Supachai Lorlowhakarn, a senior government official who was found by a university investigation to have plagiarised his PhD thesis and who has also been accused of plagiarising an academic paper about organic asparagus production. Later, on 21 June 2012, the University formally withdrew the degree of PhD from Supachai Lorlowhakarn, the first time it had ever revoked a PhD." ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b983 .
+
+_:ub308bL2448C9 a tlp:List ;
+    rdfs:label "See also" ;
+    tlp:dimension 1 ;
+    tlp:index 19 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b986 ;
+    tlp:member _:ub308bL2455C17,
+        _:ub308bL2466C17,
+        _:ub308bL2477C17,
+        _:ub308bL2488C17 .
+
+_:ub308bL2455C17 a tlp:Item ;
+    rdfs:label "Academic dress of Chulalongkorn University" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b988 ;
+    tlp:link _:ub308bL2461C25 .
+
+_:ub308bL2466C17 a tlp:Item ;
+    rdfs:label "Sasin Graduate Institute of Business Administration of Chulalongkorn University" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b991 ;
+    tlp:link _:ub308bL2472C25 .
+
+_:ub308bL2477C17 a tlp:Item ;
+    rdfs:label "Education in Thailand" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b994 ;
+    tlp:link _:ub308bL2483C25 .
+
+_:ub308bL2488C17 a tlp:Item ;
+    rdfs:label "Chula United football club" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b997 ;
+    tlp:link _:ub308bL2494C25 .
+
+_:ub308bL2500C9 a tlp:List ;
+    rdfs:label "References" ;
+    tlp:dimension 1 ;
+    tlp:index 20 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1000 ;
+    tlp:member _:ub308bL2508C17,
+        _:ub308bL2519C17,
+        _:ub308bL2530C17,
+        _:ub308bL2541C17,
+        _:ub308bL2552C17,
+        _:ub308bL2563C17,
+        _:ub308bL2574C17,
+        _:ub308bL2585C17,
+        _:ub308bL2596C17,
+        _:ub308bL2607C17,
+        _:ub308bL2618C17,
+        _:ub308bL2629C17,
+        _:ub308bL2640C17,
+        _:ub308bL2651C17,
+        _:ub308bL2662C17,
+        _:ub308bL2673C17,
+        _:ub308bL2684C17,
+        _:ub308bL2695C17,
+        _:ub308bL2706C17,
+        _:ub308bL2717C17,
+        _:ub308bL2728C17,
+        _:ub308bL2739C17,
+        _:ub308bL2750C17,
+        _:ub308bL2761C17,
+        _:ub308bL2772C17,
+        _:ub308bL2783C17,
+        _:ub308bL2794C17,
+        _:ub308bL2805C17,
+        _:ub308bL2816C17,
+        _:ub308bL2827C17,
+        _:ub308bL2838C17,
+        _:ub308bL2849C17,
+        _:ub308bL2860C17,
+        _:ub308bL2871C17,
+        _:ub308bL2882C17,
+        _:ub308bL2893C17,
+        _:ub308bL2904C17,
+        _:ub308bL2915C17,
+        _:ub308bL2926C17,
+        _:ub308bL2937C17,
+        _:ub308bL2948C17,
+        _:ub308bL2959C17 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL2508C17 a tlp:Item ;
+    rdfs:label "Office of the Registrar, Chulalongkorn University. Statistics on Students in Different Level. Last updated January 16, 2016" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1002 ;
+    tlp:link _:ub308bL2514C25 .
+
+_:ub308bL250C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b102 ;
+    tlp:member _:ub308bL257C33,
+        _:ub308bL263C33 .
+
+_:ub308bL2519C17 a tlp:Item ;
+    rdfs:label "History of Chulalongkorn University" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1005 ;
+    tlp:link _:ub308bL2525C25 .
+
+_:ub308bL2530C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn University official website. CU History. Retrieved January 15, 2016." ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1008 ;
+    tlp:link _:ub308bL2536C25 .
+
+_:ub308bL2541C17 a tlp:Item ;
+    rdfs:label "\"World Science & Engineering University Portal: THES- World University Ranking 2007\". Universityportal.net. Retrieved May 20, 2013." ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1011 ;
+    tlp:link _:ub308bL2547C25 .
+
+_:ub308bL2552C17 a tlp:Item ;
+    rdfs:label "Thai: โรงเรียนสำหรับฝึกหัดวิชาข้าราชการฝ่ายพลเรือน" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1014 ;
+    tlp:link _:ub308bL2558C25 .
+
+_:ub308bL2563C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา, พระบรมราชโองการประกาศตั้งโรงเรียนมหาดเล็ก. เล่ม ๑๙, ตอน ๑, ๖ เมษายน พ.ศ.๒๔๔๕, หน้า ๑๖ (Royal Order to establish Royal Page School)" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1017 ;
+    tlp:link _:ub308bL2569C25 .
+
+_:ub308bL2574C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา, พระบรมราชโองการประกาศตั้งโรงเรียนข้าราชการพลเรือนฯ , เล่ม ๒๗, ตอน ก, ๑๑ มกราคม พ.ศ.๒๔๕๔, หน้า ๑๒๓ (Royal Order to establish the Civil Service College of King Chulalongkorn)" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1020 ;
+    tlp:link _:ub308bL2580C25 .
+
+_:ub308bL257C33 a tlp:Item ;
+    rdfs:label "Royal Pages School" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b106 .
+
+_:ub308bL2585C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา, พระบรมราชโองการ ประกาศประดิษฐานโรงเรียนข้าราชการพลเรือนของพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวขึ้นเป็นโรงเรียนข้าราชการพลเรือน, เล่ม ๒๗, ตอน ก, ๑๕ เมษายน พ.ศ.๒๔๖๐ (ประกาศเมื่อวันที่ ๒๖ มีนาคม พ.ศ.๒๔๖๐, หน้า ๑๒๓ (Royal Order to establish the Civil Service College of King Chulalongkorn.)" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1023 ;
+    tlp:link _:ub308bL2591C25 .
+
+_:ub308bL2596C17 a tlp:Item ;
+    rdfs:label "About Phra Kiao by Chulalongkorn Memorial Hall" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1026 ;
+    tlp:link _:ub308bL2602C25 .
+
+_:ub308bL2607C17 a tlp:Item ;
+    rdfs:label "History about CU uniform." ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1029 ;
+    tlp:link _:ub308bL2613C25 .
+
+_:ub308bL2618C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา, ข้อบังคับจุฬาฯ ว่าด้วยเครื่องแบบ เครื่องหมาย และเครื่องแต่งกายนิสิต พ.ศ.๒๕๕๓, เล่ม ๑๒๗, ตอนพิเศษ ๕๒ ง, ๒๖ เมษายน พ.ศ.๒๕๕๓ (The university regulation on uniform and dress codes, 2010)" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1032 ;
+    tlp:link _:ub308bL2624C25 .
+
+_:ub308bL2629C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา.พระราชกำหนดเสื้อครุยบัณฑิตของจุฬาลงกรณ์มหาวิทยาลัย พ.ศ.๒๔๗๓. เล่ม ๔๗, ๖ กรกฎาคม ๒๔๗๓. (Regulation on Chulalongkorn University Graduation Gown, 1930)" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1035 ;
+    tlp:link _:ub308bL2635C25 .
+
+_:ub308bL263C33 a tlp:Item ;
+    rdfs:label "Civil Service College of King Chulalongkorn" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b111 .
+
+_:ub308bL2640C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา.ข้อบังคับจุฬาฯ ว่าด้วยการกำหนดปริญญาในสาขาวิชา อักษรย่อสำหรับสาขาวิชา ครุยวิทยฐานะ เข็มวิทยฐานะ และครุยประจำตำแหน่ง พ.ศ.๒๕๕๓.เล่ม ๑๒๗ ตอนพิเศษ ๕๒ ง, ๒๖ เมษายน ๒๕๕๓. (University Regulation on Degrees Granted, Graduation and Faculty Gowns, 2010)" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1038 ;
+    tlp:link _:ub308bL2646C25 .
+
+_:ub308bL2651C17 a tlp:Item ;
+    rdfs:label "Graduation Gown of Chulalongkorn University" ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1041 ;
+    tlp:link _:ub308bL2657C25 .
+
+_:ub308bL2662C17 a tlp:Item ;
+    rdfs:label "Rain Tree-The Symbol of Chulalongkorn University" ;
+    tlp:index 15 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1044 ;
+    tlp:link _:ub308bL2668C25 .
+
+_:ub308bL2673C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา, ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย พ.ศ. ๒๕๕๒, เล่ม ๑๒๗, ตอนพิเศษ ๑๖ ง, ๑ กุมภาพันธ์ พ.ศ. ๒๕๕๓, หน้า ๗๐ (University notification (rather command) on academic units, 2008)" ;
+    tlp:index 16 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1047 ;
+    tlp:link _:ub308bL2679C25 .
+
+_:ub308bL2684C17 a tlp:Item ;
+    rdfs:label "ราชกิจจานุเบกษา, ประกาศจุฬาลงกรณ์มหาวิทยาลัย เรื่อง ส่วนงานของมหาวิทยาลัย (ฉบับที่ ๒) พ.ศ. ๒๕๕๗, เล่ม ๑๓๑, ตอนพิเศษ ๔๙ ง, ๑๘ มีนาคม พ.ศ. ๒๕๕๗, หน้า ๓ (Amendment to 2008 regulation, ratified 2014)" ;
+    tlp:index 17 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1050 ;
+    tlp:link _:ub308bL2690C25 .
+
+_:ub308bL2695C17 a tlp:Item ;
+    rdfs:label "www.law.chula.ac.th" ;
+    tlp:index 18 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1053 ;
+    tlp:link _:ub308bL2701C25 .
+
+_:ub308bL2706C17 a tlp:Item ;
+    rdfs:label "Faculty of Education, Chulalongkorn University" ;
+    tlp:index 19 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1056 ;
+    tlp:link _:ub308bL2712C25 .
+
+_:ub308bL270C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b116 ;
+    tlp:member _:ub308bL277C33,
+        _:ub308bL283C33 .
+
+_:ub308bL2717C17 a tlp:Item ;
+    rdfs:label "Principles and history of establishing OCARE." ;
+    tlp:index 20 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1059 ;
+    tlp:link _:ub308bL2723C25 .
+
+_:ub308bL2728C17 a tlp:Item ;
+    rdfs:label "Webometrics: Thailand, Retrieved 12 April 2012" ;
+    tlp:index 21 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1062 ;
+    tlp:link _:ub308bL2734C25 .
+
+_:ub308bL2739C17 a tlp:Item ;
+    rdfs:label "Asia University Rankings 2013 Top 100, Retrieved 12 April 2012" ;
+    tlp:index 22 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1065 ;
+    tlp:link _:ub308bL2745C25 .
+
+_:ub308bL2750C17 a tlp:Item ;
+    rdfs:label "QS asian university ranking 2012, Retrieved 12 April 2012" ;
+    tlp:index 23 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1068 ;
+    tlp:link _:ub308bL2756C25 .
+
+_:ub308bL2761C17 a tlp:Item ;
+    rdfs:label "QS world university ranking 2012, Retrieved 12 April 2012" ;
+    tlp:index 24 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1071 ;
+    tlp:link _:ub308bL2767C25 .
+
+_:ub308bL2772C17 a tlp:Item ;
+    rdfs:label "SIR World Report 2012, Retrieved 12 April 2012" ;
+    tlp:index 25 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1074 ;
+    tlp:link _:ub308bL2778C25 .
+
+_:ub308bL277C33 a tlp:Item ;
+    rdfs:label "ความรู้คู่คุณธรรม (official)" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b120 .
+
+_:ub308bL2783C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn University World University Ranking" ;
+    tlp:index 26 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1077 ;
+    tlp:link _:ub308bL2789C25 .
+
+_:ub308bL2794C17 a tlp:Item ;
+    rdfs:label "\"Chulalongkorn University Rankings\". Top Universities. Retrieved July 16, 2015." ;
+    tlp:index 27 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1080 ;
+    tlp:link _:ub308bL2800C25 .
+
+_:ub308bL2805C17 a tlp:Item ;
+    rdfs:label "World University Ranking 2011" ;
+    tlp:index 28 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1083 ;
+    tlp:link _:ub308bL2811C25 .
+
+_:ub308bL2816C17 a tlp:Item ;
+    rdfs:label "\"Chulalongkorn University Undergraduate\". QS Top Universities. QS Quacquarelli Symonds Limited. Retrieved June 16, 2015." ;
+    tlp:index 29 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1086 ;
+    tlp:link _:ub308bL2822C25 .
+
+_:ub308bL2827C17 a tlp:Item ;
+    rdfs:label "http://www.webometrics.info/en/Asia" ;
+    tlp:index 30 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1089 ;
+    tlp:link _:ub308bL2833C25 .
+
+_:ub308bL2838C17 a tlp:Item ;
+    rdfs:label "http://www.scimagoir.com/research.php?country=THA" ;
+    tlp:index 31 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1092 ;
+    tlp:link _:ub308bL2844C25 .
+
+_:ub308bL283C33 a tlp:Item ;
+    rdfs:label "เกียรติภูมิจุฬาฯ คือเกียรติแห่งการรับใช้ประชาชน (unofficial)" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b125 .
+
+_:ub308bL2849C17 a tlp:Item ;
+    rdfs:label "http://www.cwur.org/2015/thailand.html CWUR university rankings, 2015" ;
+    tlp:index 32 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1095 ;
+    tlp:link _:ub308bL2855C25 .
+
+_:ub308bL2860C17 a tlp:Item ;
+    rdfs:label "http://www.usnews.com/education/best-global-universities/search?country=thailand U.S. news Thailand university rankings." ;
+    tlp:index 33 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1098 ;
+    tlp:link _:ub308bL2866C25 .
+
+_:ub308bL2871C17 a tlp:Item ;
+    rdfs:label "\"Asia University Rankings 2014\". Times Higher Educations World University Rankings. The Times. Retrieved June 16, 2015." ;
+    tlp:index 34 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1101 ;
+    tlp:link _:ub308bL2877C25 .
+
+_:ub308bL2882C17 a tlp:Item ;
+    rdfs:label "\"Nelson Mandela Centre of Memory\". Db.nelsonmandela.org. Retrieved May 20, 2013." ;
+    tlp:index 35 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1104 ;
+    tlp:link _:ub308bL2888C25 .
+
+_:ub308bL2893C17 a tlp:Item ;
+    rdfs:label "PlasmaZ Extended Team Description Paper" ;
+    tlp:index 36 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1107 ;
+    tlp:link _:ub308bL2899C25 .
+
+_:ub308bL28C17 a tlp:Column ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b4 ;
+    tlp:member _:ub308bL111C25,
+        _:ub308bL118C25,
+        _:ub308bL130C25,
+        _:ub308bL142C25,
+        _:ub308bL154C25,
+        _:ub308bL161C25,
+        _:ub308bL168C25,
+        _:ub308bL175C25,
+        _:ub308bL187C25,
+        _:ub308bL194C25,
+        _:ub308bL201C25,
+        _:ub308bL208C25,
+        _:ub308bL34C25,
+        _:ub308bL41C25,
+        _:ub308bL57C25,
+        _:ub308bL64C25,
+        _:ub308bL71C25,
+        _:ub308bL78C25,
+        _:ub308bL85C25,
+        _:ub308bL92C25,
+        _:ub308bL99C25 ;
+    tlp:style tlp:Enumerate .
+
+_:ub308bL2904C17 a tlp:Item ;
+    rdfs:label "\"IEEE Xplore - Sign In\". Retrieved July 16, 2015." ;
+    tlp:index 37 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1110 ;
+    tlp:link _:ub308bL2910C25 .
+
+_:ub308bL290C25 a tlp:Cell,
+        tlp:List ;
+    rdfs:label "" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b130 ;
+    tlp:member _:ub308bL297C33,
+        _:ub308bL303C33 .
+
+_:ub308bL2915C17 a tlp:Item ;
+    rdfs:label "Plasma-RX: Autonomous Rescue Robots" ;
+    tlp:index 38 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1113 ;
+    tlp:link _:ub308bL2921C25 .
+
+_:ub308bL2926C17 a tlp:Item ;
+    rdfs:label "\"Innovation boss in duplication row\". Times Higher Education. Retrieved July 16, 2015." ;
+    tlp:index 39 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1116 ;
+    tlp:link _:ub308bL2932C25 .
+
+_:ub308bL2937C17 a tlp:Item ;
+    rdfs:label "\"University rankings from Chula's perspective\". New Mandala. Retrieved July 16, 2015." ;
+    tlp:index 40 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1119 ;
+    tlp:link _:ub308bL2943C25 .
+
+_:ub308bL2948C17 a tlp:Item ;
+    rdfs:label "\"Thai 'plagiarism' saga takes a new turn\". SciDev.Net. Retrieved July 16, 2015." ;
+    tlp:index 41 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1122 ;
+    tlp:link _:ub308bL2954C25 .
+
+_:ub308bL2959C17 a tlp:Item ;
+    rdfs:label "University World News 18 August 2012 Suluck Lamubol \"Plagiarism controversy raises questions over academic integrity\"" ;
+    tlp:index 42 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1125 ;
+    tlp:link _:ub308bL2965C25 .
+
+_:ub308bL2971C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 21 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1128 ;
+    tlp:member _:ub308bL2978C17,
+        _:ub308bL2989C17,
+        _:ub308bL3000C17,
+        _:ub308bL3011C17,
+        _:ub308bL3022C17 .
+
+_:ub308bL2978C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn University official website" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1130 ;
+    tlp:link _:ub308bL2984C25 .
+
+_:ub308bL297C33 a tlp:Item ;
+    rdfs:label "Knowledge with Virtue (official)" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b134 .
+
+_:ub308bL2989C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn University on THES University Rankings" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1133 ;
+    tlp:link _:ub308bL2995C25 .
+
+_:ub308bL3000C17 a tlp:Item ;
+    rdfs:label "cu-tep" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1136 ;
+    tlp:link _:ub308bL3006C25 .
+
+_:ub308bL3011C17 a tlp:Item ;
+    rdfs:label "cu-aat" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1139 ;
+    tlp:link _:ub308bL3017C25 .
+
+_:ub308bL3022C17 a tlp:Item ;
+    rdfs:label "cu-best" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1142 ;
+    tlp:link _:ub308bL3028C25 .
+
+_:ub308bL3034C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 22 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1145 ;
+    tlp:member _:ub308bL3041C17,
+        _:ub308bL3052C17,
+        _:ub308bL3063C17,
+        _:ub308bL3074C17,
+        _:ub308bL3085C17,
+        _:ub308bL3096C17,
+        _:ub308bL3107C17,
+        _:ub308bL3118C17 .
+
+_:ub308bL303C33 a tlp:Item ;
+    rdfs:label "Honour of Chula is the Honour of Serving the Public (unofficial)" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b139 .
+
+_:ub308bL3041C17 a tlp:Item ;
+    rdfs:label "Chulalongkorn University" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1147 ;
+    tlp:link _:ub308bL3047C25 .
+
+_:ub308bL3052C17 a tlp:Item ;
+    rdfs:label "Universities and colleges in Bangkok" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1150 ;
+    tlp:link _:ub308bL3058C25 .
+
+_:ub308bL3063C17 a tlp:Item ;
+    rdfs:label "Education in Bangkok" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1153 ;
+    tlp:link _:ub308bL3069C25 .
+
+_:ub308bL3074C17 a tlp:Item ;
+    rdfs:label "Educational institutions established in 1917" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1156 ;
+    tlp:link _:ub308bL3080C25 .
+
+_:ub308bL3085C17 a tlp:Item ;
+    rdfs:label "ASEAN University Network" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1159 ;
+    tlp:link _:ub308bL3091C25 .
+
+_:ub308bL3096C17 a tlp:Item ;
+    rdfs:label "Pathum Wan District" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1162 ;
+    tlp:link _:ub308bL3102C25 .
+
+_:ub308bL3107C17 a tlp:Item ;
+    rdfs:label "Universities in Thailand" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1165 ;
+    tlp:link _:ub308bL3113C25 .
+
+_:ub308bL310C25 a tlp:Cell ;
+    rdfs:label "Public" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b144 ;
+    tlp:link _:ub308bL316C33 .
+
+_:ub308bL3118C17 a tlp:Item ;
+    rdfs:label "1917 establishments in Siam" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1168 ;
+    tlp:link _:ub308bL3124C25 .
+
+_:ub308bL3130C9 a tlp:List ;
+    rdfs:label "External links" ;
+    tlp:dimension 1 ;
+    tlp:index 23 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1171 ;
+    tlp:member _:ub308bL3137C17,
+        _:ub308bL3148C17,
+        _:ub308bL3159C17,
+        _:ub308bL3170C17,
+        _:ub308bL3181C17,
+        _:ub308bL3192C17,
+        _:ub308bL3203C17,
+        _:ub308bL3214C17,
+        _:ub308bL3225C17,
+        _:ub308bL3236C17,
+        _:ub308bL3247C17 .
+
+_:ub308bL3137C17 a tlp:Item ;
+    rdfs:label "Articles containing Thai-language text" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1173 ;
+    tlp:link _:ub308bL3143C25 .
+
+_:ub308bL3148C17 a tlp:Item ;
+    rdfs:label "Use mdy dates from October 2015" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1176 ;
+    tlp:link _:ub308bL3154C25 .
+
+_:ub308bL3159C17 a tlp:Item ;
+    rdfs:label "Coordinates on Wikidata" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1179 ;
+    tlp:link _:ub308bL3165C25 .
+
+_:ub308bL3170C17 a tlp:Item ;
+    rdfs:label "Articles with missing files" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1182 ;
+    tlp:link _:ub308bL3176C25 .
+
+_:ub308bL3181C17 a tlp:Item ;
+    rdfs:label "Pages using deprecated image syntax" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1185 ;
+    tlp:link _:ub308bL3187C25 .
+
+_:ub308bL3192C17 a tlp:Item ;
+    rdfs:label "Pages using infobox university with the image name parameter" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1188 ;
+    tlp:link _:ub308bL3198C25 .
+
+_:ub308bL3203C17 a tlp:Item ;
+    rdfs:label "Instances of Infobox university using image size" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1191 ;
+    tlp:link _:ub308bL3209C25 .
+
+_:ub308bL3214C17 a tlp:Item ;
+    rdfs:label "Pages using infobox university with the affiliations parameter" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1194 ;
+    tlp:link _:ub308bL3220C25 .
+
+_:ub308bL321C25 a tlp:Cell ;
+    rdfs:label "March 26, 1917" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b148 .
+
+_:ub308bL3225C17 a tlp:Item ;
+    rdfs:label "Articles needing additional references from January 2012" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1197 ;
+    tlp:link _:ub308bL3231C25 .
+
+_:ub308bL3236C17 a tlp:Item ;
+    rdfs:label "All articles needing additional references" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1200 ;
+    tlp:link _:ub308bL3242C25 .
+
+_:ub308bL3247C17 a tlp:Item ;
+    rdfs:label "Commons category link is on Wikidata" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1203 ;
+    tlp:link _:ub308bL3253C25 .
+
+_:ub308bL3259C9 a tlp:List ;
+    rdfs:label "Tools" ;
+    tlp:dimension 1 ;
+    tlp:index 24 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1206 ;
+    tlp:member _:ub308bL3266C17,
+        _:ub308bL3277C17,
+        _:ub308bL3288C17,
+        _:ub308bL3299C17,
+        _:ub308bL3310C17,
+        _:ub308bL3321C17,
+        _:ub308bL3332C17,
+        _:ub308bL3343C17 .
+
+_:ub308bL3266C17 a tlp:Item ;
+    rdfs:label "What links here" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1208 ;
+    tlp:link _:ub308bL3272C25 .
+
+_:ub308bL3277C17 a tlp:Item ;
+    rdfs:label "Related changes" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1211 ;
+    tlp:link _:ub308bL3283C25 .
+
+_:ub308bL327C25 a tlp:Cell ;
+    rdfs:label "King Vajiravudh of Siam" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b152 ;
+    tlp:link _:ub308bL333C33 .
+
+_:ub308bL3288C17 a tlp:Item ;
+    rdfs:label "Upload file" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1214 ;
+    tlp:link _:ub308bL3294C25 .
+
+_:ub308bL3299C17 a tlp:Item ;
+    rdfs:label "Special pages" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1217 ;
+    tlp:link _:ub308bL3305C25 .
+
+_:ub308bL3310C17 a tlp:Item ;
+    rdfs:label "Permanent link" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1220 ;
+    tlp:link _:ub308bL3316C25 .
+
+_:ub308bL3321C17 a tlp:Item ;
+    rdfs:label "Page information" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1223 ;
+    tlp:link _:ub308bL3327C25 .
+
+_:ub308bL3332C17 a tlp:Item ;
+    rdfs:label "Wikidata item" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1226 ;
+    tlp:link _:ub308bL3338C25 .
+
+_:ub308bL3343C17 a tlp:Item ;
+    rdfs:label "Cite this page" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1229 ;
+    tlp:link _:ub308bL3349C25 .
+
+_:ub308bL3355C9 a tlp:List ;
+    rdfs:label "In other projects" ;
+    tlp:dimension 1 ;
+    tlp:index 25 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1232 ;
+    tlp:member _:ub308bL3362C17 .
+
+_:ub308bL3362C17 a tlp:Item ;
+    rdfs:label "Wikimedia Commons" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1234 ;
+    tlp:link _:ub308bL3368C25 .
+
+_:ub308bL3374C9 a tlp:List ;
+    rdfs:label "Print/export" ;
+    tlp:dimension 1 ;
+    tlp:index 26 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1237 ;
+    tlp:member _:ub308bL3381C17,
+        _:ub308bL3392C17,
+        _:ub308bL3403C17 .
+
+_:ub308bL3381C17 a tlp:Item ;
+    rdfs:label "Create a book" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1239 ;
+    tlp:link _:ub308bL3387C25 .
+
+_:ub308bL338C25 a tlp:Cell ;
+    rdfs:label """Prof. Bundhit Eua-arporn, Ph.D.\r
+(บัณฑิต เอื้ออาภรณ์)""" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b156 ;
+    tlp:link _:ub308bL346C33 .
+
+_:ub308bL3392C17 a tlp:Item ;
+    rdfs:label "Download as PDF" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1242 ;
+    tlp:link _:ub308bL3398C25 .
+
+_:ub308bL3403C17 a tlp:Item ;
+    rdfs:label "Printable version" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1245 ;
+    tlp:link _:ub308bL3409C25 .
+
+_:ub308bL3415C9 a tlp:List ;
+    rdfs:label "Languages" ;
+    tlp:dimension 1 ;
+    tlp:index 27 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1248 ;
+    tlp:member _:ub308bL3422C17,
+        _:ub308bL3433C17,
+        _:ub308bL3444C17,
+        _:ub308bL3455C17,
+        _:ub308bL3466C17,
+        _:ub308bL3477C17,
+        _:ub308bL3488C17,
+        _:ub308bL3499C17,
+        _:ub308bL3510C17,
+        _:ub308bL3521C17,
+        _:ub308bL3532C17,
+        _:ub308bL3543C17,
+        _:ub308bL3554C17,
+        _:ub308bL3565C17,
+        _:ub308bL3576C17,
+        _:ub308bL3587C17,
+        _:ub308bL3598C17,
+        _:ub308bL3609C17,
+        _:ub308bL3620C17,
+        _:ub308bL3631C17,
+        _:ub308bL3642C17,
+        _:ub308bL3653C17,
+        _:ub308bL3664C17,
+        _:ub308bL3675C17,
+        _:ub308bL3686C17,
+        _:ub308bL3697C17,
+        _:ub308bL3708C17,
+        _:ub308bL3719C17,
+        _:ub308bL3730C17,
+        _:ub308bL3741C17 .
+
+_:ub308bL3422C17 a tlp:Item ;
+    rdfs:label "العربية" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1250 ;
+    tlp:link _:ub308bL3428C25 .
+
+_:ub308bL3433C17 a tlp:Item ;
+    rdfs:label "Bân-lâm-gú" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1253 ;
+    tlp:link _:ub308bL3439C25 .
+
+_:ub308bL3444C17 a tlp:Item ;
+    rdfs:label "Dansk" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1256 ;
+    tlp:link _:ub308bL3450C25 .
+
+_:ub308bL3455C17 a tlp:Item ;
+    rdfs:label "Deutsch" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1259 ;
+    tlp:link _:ub308bL3461C25 .
+
+_:ub308bL3466C17 a tlp:Item ;
+    rdfs:label "Español" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1262 ;
+    tlp:link _:ub308bL3472C25 .
+
+_:ub308bL3477C17 a tlp:Item ;
+    rdfs:label "Esperanto" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1265 ;
+    tlp:link _:ub308bL3483C25 .
+
+_:ub308bL3488C17 a tlp:Item ;
+    rdfs:label "فارسی" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1268 ;
+    tlp:link _:ub308bL3494C25 .
+
+_:ub308bL3499C17 a tlp:Item ;
+    rdfs:label "Français" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1271 ;
+    tlp:link _:ub308bL3505C25 .
+
+_:ub308bL34C25 a tlp:Cell ;
+    rdfs:label "จุฬาลงกรณ์มหาวิทยาลัย" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b7 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub308bL3510C17 a tlp:Item ;
+    rdfs:label "Galego" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1274 ;
+    tlp:link _:ub308bL3516C25 .
+
+_:ub308bL351C25 a tlp:Cell ;
+    rdfs:label "37,609" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b160 .
+
+_:ub308bL3521C17 a tlp:Item ;
+    rdfs:label "한국어" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1277 ;
+    tlp:link _:ub308bL3527C25 .
+
+_:ub308bL3532C17 a tlp:Item ;
+    rdfs:label "Bahasa Indonesia" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1280 ;
+    tlp:link _:ub308bL3538C25 .
+
+_:ub308bL3543C17 a tlp:Item ;
+    rdfs:label "Italiano" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1283 ;
+    tlp:link _:ub308bL3549C25 .
+
+_:ub308bL3554C17 a tlp:Item ;
+    rdfs:label "ລາວ" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1286 ;
+    tlp:link _:ub308bL3560C25 .
+
+_:ub308bL3565C17 a tlp:Item ;
+    rdfs:label "Latina" ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1289 ;
+    tlp:link _:ub308bL3571C25 .
+
+_:ub308bL3576C17 a tlp:Item ;
+    rdfs:label "Bahasa Melayu" ;
+    tlp:index 15 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1292 ;
+    tlp:link _:ub308bL3582C25 .
+
+_:ub308bL357C25 a tlp:Cell ;
+    rdfs:label "25,464" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b164 .
+
+_:ub308bL3587C17 a tlp:Item ;
+    rdfs:label "မြန်မာဘာသာ" ;
+    tlp:index 16 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1295 ;
+    tlp:link _:ub308bL3593C25 .
+
+_:ub308bL3598C17 a tlp:Item ;
+    rdfs:label "Nederlands" ;
+    tlp:index 17 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1298 ;
+    tlp:link _:ub308bL3604C25 .
+
+_:ub308bL3609C17 a tlp:Item ;
+    rdfs:label "日本語" ;
+    tlp:index 18 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1301 ;
+    tlp:link _:ub308bL3615C25 .
+
+_:ub308bL3620C17 a tlp:Item ;
+    rdfs:label "Norsk bokmål" ;
+    tlp:index 19 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1304 ;
+    tlp:link _:ub308bL3626C25 .
+
+_:ub308bL3631C17 a tlp:Item ;
+    rdfs:label "ភាសាខ្មែរ" ;
+    tlp:index 20 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1307 ;
+    tlp:link _:ub308bL3637C25 .
+
+_:ub308bL363C25 a tlp:Cell ;
+    rdfs:label "8,419" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b168 .
+
+_:ub308bL3642C17 a tlp:Item ;
+    rdfs:label "Polski" ;
+    tlp:index 21 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1310 ;
+    tlp:link _:ub308bL3648C25 .
+
+_:ub308bL3653C17 a tlp:Item ;
+    rdfs:label "Português" ;
+    tlp:index 22 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1313 ;
+    tlp:link _:ub308bL3659C25 .
+
+_:ub308bL3664C17 a tlp:Item ;
+    rdfs:label "Русский" ;
+    tlp:index 23 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1316 ;
+    tlp:link _:ub308bL3670C25 .
+
+_:ub308bL3675C17 a tlp:Item ;
+    rdfs:label "Simple English" ;
+    tlp:index 24 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1319 ;
+    tlp:link _:ub308bL3681C25 .
+
+_:ub308bL3686C17 a tlp:Item ;
+    rdfs:label "Svenska" ;
+    tlp:index 25 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1322 ;
+    tlp:link _:ub308bL3692C25 .
+
+_:ub308bL3697C17 a tlp:Item ;
+    rdfs:label "Tagalog" ;
+    tlp:index 26 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1325 ;
+    tlp:link _:ub308bL3703C25 .
+
+_:ub308bL369C25 a tlp:Cell ;
+    rdfs:label "2,582" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b172 .
+
+_:ub308bL3708C17 a tlp:Item ;
+    rdfs:label "ไทย" ;
+    tlp:index 27 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1328 ;
+    tlp:link _:ub308bL3714C25 .
+
+_:ub308bL3719C17 a tlp:Item ;
+    rdfs:label "Tiếng Việt" ;
+    tlp:index 28 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1331 ;
+    tlp:link _:ub308bL3725C25 .
+
+_:ub308bL3730C17 a tlp:Item ;
+    rdfs:label "文言" ;
+    tlp:index 29 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1334 ;
+    tlp:link _:ub308bL3736C25 .
+
+_:ub308bL3741C17 a tlp:Item ;
+    rdfs:label "中文" ;
+    tlp:index 30 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b1337 ;
+    tlp:link _:ub308bL3747C25 .
+
+_:ub308bL375C25 a tlp:Cell ;
+    rdfs:label """Pathum Wan District,  Bangkok, Thailand\r
+13°44′18″N 100°31′57″E﻿ / ﻿13.73826°N 100.532413°E﻿ / 13.73826; 100.532413""" ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b176 ;
+    tlp:link _:ub308bL383C33,
+        _:ub308bL387C33,
+        _:ub308bL391C33,
+        _:ub308bL395C33 .
+
+_:ub308bL400C25 a tlp:Cell ;
+    rdfs:label "Downtown 2.0944 km2 (0.8087 sq mi)" ;
+    tlp:index 15 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b180 ;
+    tlp:link _:ub308bL406C33 .
+
+_:ub308bL411C25 a tlp:Cell ;
+    rdfs:label """"Maha Chulalongkorn"\r
+("Great Chulalongkorn")""" ;
+    tlp:index 16 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b184 .
+
+_:ub308bL419C25 a tlp:Cell ;
+    rdfs:label "Pink" ;
+    tlp:index 17 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b188 .
+
+_:ub308bL41C25 a tlp:Cell ;
+    rdfs:label "Phra Kiao Chulalongkorn University seal" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b11 ;
+    tlp:link _:ub308bL48C33,
+        _:ub308bL52C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub308bL425C25 a tlp:Cell ;
+    rdfs:label "ASAIHL, AUN, APRU" ;
+    tlp:index 18 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b192 ;
+    tlp:link _:ub308bL431C33,
+        _:ub308bL435C33,
+        _:ub308bL439C33 .
+
+_:ub308bL444C25 a tlp:Cell ;
+    rdfs:label "Rain Tree (Albizia saman)" ;
+    tlp:index 19 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b196 ;
+    tlp:link _:ub308bL450C33 .
+
+_:ub308bL455C25 a tlp:Cell ;
+    rdfs:label "www.chula.ac.th" ;
+    tlp:index 20 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b200 ;
+    tlp:link _:ub308bL461C33 .
+
+_:ub308bL466C25 a tlp:Cell ;
+    rdfs:label "Pillar of the Kingdom" ;
+    tlp:index 21 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b204 ;
+    tlp:link _:ub308bL473C33 ;
+    tlp:style tlp:GrpSpan .
+
+_:ub308bL480C9 a tlp:List ;
+    rdfs:label "Contents" ;
+    tlp:dimension 3 ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b208 ;
+    tlp:member _:ub308bL487C17,
+        _:ub308bL498C17,
+        _:ub308bL568C17,
+        _:ub308bL647C17,
+        _:ub308bL658C17,
+        _:ub308bL669C17,
+        _:ub308bL680C17,
+        _:ub308bL691C17,
+        _:ub308bL702C17,
+        _:ub308bL713C17,
+        _:ub308bL737C17,
+        _:ub308bL748C17,
+        _:ub308bL759C17,
+        _:ub308bL770C17 .
+
+_:ub308bL487C17 a tlp:Item ;
+    rdfs:label "History" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b210 ;
+    tlp:link _:ub308bL493C25 .
+
+_:ub308bL498C17 a tlp:Item,
+        tlp:List ;
+    rdfs:label "Symbols" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b213 ;
+    tlp:link _:ub308bL504C25 ;
+    tlp:member _:ub308bL510C25,
+        _:ub308bL521C25,
+        _:ub308bL532C25,
+        _:ub308bL556C25 .
+
+_:ub308bL510C25 a tlp:Item ;
+    rdfs:label "Phra Kiao" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b216 ;
+    tlp:link _:ub308bL516C33 .
+
+_:ub308bL521C25 a tlp:Item ;
+    rdfs:label "Student Uniform" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b220 ;
+    tlp:link _:ub308bL527C33 .
+
+_:ub308bL532C25 a tlp:Item,
+        tlp:List ;
+    rdfs:label "Academic Dress" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b224 ;
+    tlp:link _:ub308bL538C33 ;
+    tlp:member _:ub308bL544C33 .
+
+_:ub308bL544C33 a tlp:Item ;
+    rdfs:label "Example of Felt Strips" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b228 ;
+    tlp:link _:ub308bL550C41 .
+
+_:ub308bL556C25 a tlp:Item ;
+    rdfs:label "Rain Tree" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b233 ;
+    tlp:link _:ub308bL562C33 .
+
+_:ub308bL568C17 a tlp:Item,
+        tlp:List ;
+    rdfs:label "Organization" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b237 ;
+    tlp:link _:ub308bL574C25 ;
+    tlp:member _:ub308bL580C25,
+        _:ub308bL591C25,
+        _:ub308bL602C25,
+        _:ub308bL613C25,
+        _:ub308bL624C25,
+        _:ub308bL635C25 .
+
+_:ub308bL57C25 a tlp:Cell ;
+    rdfs:label "Former names" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b15 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL580C25 a tlp:Item ;
+    rdfs:label "Health Sciences" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b240 ;
+    tlp:link _:ub308bL586C33 .
+
+_:ub308bL591C25 a tlp:Item ;
+    rdfs:label "Sciences and Technologies" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b244 ;
+    tlp:link _:ub308bL597C33 .
+
+_:ub308bL602C25 a tlp:Item ;
+    rdfs:label "Social Sciences and Humanities" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b248 ;
+    tlp:link _:ub308bL608C33 .
+
+_:ub308bL613C25 a tlp:Item ;
+    rdfs:label "Graduate institutes" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b252 ;
+    tlp:link _:ub308bL619C33 .
+
+_:ub308bL624C25 a tlp:Item ;
+    rdfs:label "Research institutes" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b256 ;
+    tlp:link _:ub308bL630C33 .
+
+_:ub308bL635C25 a tlp:Item ;
+    rdfs:label "Associated institutes" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b260 ;
+    tlp:link _:ub308bL641C33 .
+
+_:ub308bL647C17 a tlp:Item ;
+    rdfs:label "Research" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b264 ;
+    tlp:link _:ub308bL653C25 .
+
+_:ub308bL64C25 a tlp:Cell ;
+    rdfs:label "Motto" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b19 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL658C17 a tlp:Item ;
+    rdfs:label "Rankings" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b267 ;
+    tlp:link _:ub308bL664C25 .
+
+_:ub308bL669C17 a tlp:Item ;
+    rdfs:label "Honorary Degrees" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b270 ;
+    tlp:link _:ub308bL675C25 .
+
+_:ub308bL680C17 a tlp:Item ;
+    rdfs:label "Traditions" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b273 ;
+    tlp:link _:ub308bL686C25 .
+
+_:ub308bL691C17 a tlp:Item ;
+    rdfs:label "Student activities and clubs" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b276 ;
+    tlp:link _:ub308bL697C25 .
+
+_:ub308bL702C17 a tlp:Item ;
+    rdfs:label "Notable alumni" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b279 ;
+    tlp:link _:ub308bL708C25 .
+
+_:ub308bL713C17 a tlp:Item,
+        tlp:List ;
+    rdfs:label "International Reputation" ;
+    tlp:index 10 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b282 ;
+    tlp:link _:ub308bL719C25 ;
+    tlp:member _:ub308bL725C25 .
+
+_:ub308bL71C25 a tlp:Cell ;
+    rdfs:label "Motto in English" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b23 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL725C25 a tlp:Item ;
+    rdfs:label "Robocup competitions" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b285 ;
+    tlp:link _:ub308bL731C33 .
+
+_:ub308bL737C17 a tlp:Item ;
+    rdfs:label "Controversy" ;
+    tlp:index 11 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b289 ;
+    tlp:link _:ub308bL743C25 .
+
+_:ub308bL748C17 a tlp:Item ;
+    rdfs:label "See also" ;
+    tlp:index 12 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b292 ;
+    tlp:link _:ub308bL754C25 .
+
+_:ub308bL759C17 a tlp:Item ;
+    rdfs:label "References" ;
+    tlp:index 13 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b295 ;
+    tlp:link _:ub308bL765C25 .
+
+_:ub308bL770C17 a tlp:Item ;
+    rdfs:label "External links" ;
+    tlp:index 14 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b298 ;
+    tlp:link _:ub308bL776C25 .
+
+_:ub308bL782C9 a tlp:List ;
+    rdfs:label "History" ;
+    tlp:dimension 1 ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b301 ;
+    tlp:member _:ub308bL789C17,
+        _:ub308bL795C17,
+        _:ub308bL806C17,
+        _:ub308bL817C17,
+        _:ub308bL823C17 .
+
+_:ub308bL789C17 a tlp:Item ;
+    rdfs:label "School of International Relations in the Royal Palace" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b303 .
+
+_:ub308bL78C25 a tlp:Cell ;
+    rdfs:label "Type" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b27 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL795C17 a tlp:Item ;
+    rdfs:label "School of Teacher Training at Baan Somdet Chao Phraya" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b306 ;
+    tlp:link _:ub308bL801C25 .
+
+_:ub308bL806C17 a tlp:Item ;
+    rdfs:label "Royal Medical College at Siriraj Hospital" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b309 ;
+    tlp:link _:ub308bL812C25 .
+
+_:ub308bL817C17 a tlp:Item ;
+    rdfs:label "School of Legal Studies" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b312 .
+
+_:ub308bL823C17 a tlp:Item ;
+    rdfs:label "School of Mechanical Sciences at the Windsor Palace" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b315 .
+
+_:ub308bL830C9 a tlp:List ;
+    rdfs:label "Example of Felt Strips" ;
+    tlp:dimension 1 ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b318 ;
+    tlp:member _:ub308bL837C17,
+        _:ub308bL848C17,
+        _:ub308bL859C17,
+        _:ub308bL874C17,
+        _:ub308bL889C17 .
+
+_:ub308bL837C17 a tlp:Item ;
+    rdfs:label "King of Thailand's ceremonial robe" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b320 ;
+    tlp:link _:ub308bL843C25 .
+
+_:ub308bL848C17 a tlp:Item ;
+    rdfs:label "Lecturer's ceremonial robe" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b323 ;
+    tlp:link _:ub308bL854C25 .
+
+_:ub308bL859C17 a tlp:Item ;
+    rdfs:label "Faculty of Science's BSc" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b326 ;
+    tlp:link _:ub308bL865C25,
+        _:ub308bL869C25 .
+
+_:ub308bL85C25 a tlp:Cell ;
+    rdfs:label "Established" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b31 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL874C17 a tlp:Item ;
+    rdfs:label "Faculty of Science's MSc" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b329 ;
+    tlp:link _:ub308bL880C25,
+        _:ub308bL884C25 .
+
+_:ub308bL889C17 a tlp:Item ;
+    rdfs:label "Faculty of Science's PhD" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b332 ;
+    tlp:link _:ub308bL895C25,
+        _:ub308bL899C25 .
+
+_:ub308bL905C9 a tlp:List ;
+    rdfs:label "Health Sciences" ;
+    tlp:dimension 1 ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b335 ;
+    tlp:member _:ub308bL912C17,
+        _:ub308bL918C17,
+        _:ub308bL924C17,
+        _:ub308bL935C17,
+        _:ub308bL941C17,
+        _:ub308bL952C17,
+        _:ub308bL958C17,
+        _:ub308bL964C17 .
+
+_:ub308bL912C17 a tlp:Item ;
+    rdfs:label "Faculty of Allied Health Sciences" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b337 .
+
+_:ub308bL918C17 a tlp:Item ;
+    rdfs:label "Faculty of Dentistry" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b340 .
+
+_:ub308bL924C17 a tlp:Item ;
+    rdfs:label "Faculty of Medicine" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b343 ;
+    tlp:link _:ub308bL930C25 .
+
+_:ub308bL92C25 a tlp:Cell ;
+    rdfs:label "Founder" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b35 ;
+    tlp:style tlp:Emphasize .
+
+_:ub308bL935C17 a tlp:Item ;
+    rdfs:label "Faculty of Nursing" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b346 .
+
+_:ub308bL941C17 a tlp:Item ;
+    rdfs:label "Faculty of Pharmaceutical Sciences" ;
+    tlp:index 5 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b349 ;
+    tlp:link _:ub308bL947C25 .
+
+_:ub308bL952C17 a tlp:Item ;
+    rdfs:label "Faculty of Psychology" ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b352 .
+
+_:ub308bL958C17 a tlp:Item ;
+    rdfs:label "Faculty of Sport Sciences" ;
+    tlp:index 7 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b355 .
+
+_:ub308bL964C17 a tlp:Item ;
+    rdfs:label "Faculty of Veterinary Science" ;
+    tlp:index 8 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b358 .
+
+_:ub308bL971C9 a tlp:List ;
+    rdfs:label "Sciences and Technologies" ;
+    tlp:dimension 1 ;
+    tlp:index 6 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b361 ;
+    tlp:member _:ub308bL978C17,
+        _:ub308bL984C17,
+        _:ub308bL990C17,
+        _:ub308bL996C17 .
+
+_:ub308bL978C17 a tlp:Item ;
+    rdfs:label "Faculty of Architecture" ;
+    tlp:index 1 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b363 .
+
+_:ub308bL984C17 a tlp:Item ;
+    rdfs:label "Faculty of Engineering" ;
+    tlp:index 2 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b366 .
+
+_:ub308bL990C17 a tlp:Item ;
+    rdfs:label "Faculty of Science" ;
+    tlp:index 3 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b369 .
+
+_:ub308bL996C17 a tlp:Item ;
+    rdfs:label "School of Agricultural Resources" ;
+    tlp:index 4 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b372 .
+
+_:ub308bL99C25 a tlp:Cell ;
+    rdfs:label "President" ;
+    tlp:index 9 ;
+    tlp:indexList _:f9edbf23bddb14fe7a50579836f28d281b39 ;
+    tlp:link _:ub308bL106C33 ;
+    tlp:style tlp:Emphasize .
+

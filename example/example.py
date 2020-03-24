@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
 """
 @author: julthep
 """
 
 __author__ = "Julthep Nandakwang"
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __license__ = "LGPL-3.0"
 
 import tulip as tlp
@@ -53,10 +52,21 @@ def main():
                       'rfc1866_list.ttl.html')
     # test article
     test_articles = ['Chulalongkorn University',
+                     'Chulalongkorn University&oldid=736429624',
+                     'Bangkok',
+                     'Thailand',
+                     'Thai people',
+                     'Thai language',
+                     'Thai script',
+                     'Thai (Unicode block)',
                      'List of C-family programming languages',
                      'Comparison of the AK-47 and M16',
+                     'Product life-cycle management (marketing)',
                      'Saturn Award for Best Science Fiction Film',
                      'Simulated reality in fiction',
+                     'TSMC',
+                     'Windows 10 version history',
+                     'Simon %26 Garfunkel',
                      'User:Julthep']
     for test_article in test_articles:
         test_article_fn = test_article.replace(' ','_').replace(':','_')

@@ -1,0 +1,2591 @@
+[] Type: Page
+│  Label: Bangkok
+└─ Number of Member: 19
+    [0] Type: Table
+    │   Label: Bangkok
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 31
+            [0, 0, 0] Type: Cell
+            │         Label: Bangkok
+กรุงเทพมหานคร
+Krung Thep Maha Nakhon
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 1] Type: Cell
+            │         Label: Special administrative area
+            └──────── Style: GrpSpan
+            [0, 0, 2] Type: Cell
+            │         Label: Clockwise from top: Si Lom–Sathon business district, Giant Swing, Victory Monument, Rama VIII Bridge, Wat Arun, and Grand Palace
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bangkok_montage_3.jpg/250px-Bangkok_montage_3.jpg': 'http://en.wikipedia.org/wiki/File:Bangkok_montage_3.jpg', 'text:Si Lom': 'http://en.wikipedia.org/wiki/Si_Lom', 'text:Sathon': 'http://en.wikipedia.org/wiki/Sathon', 'text:Giant Swing': 'http://en.wikipedia.org/wiki/Giant_Swing', 'text:Victory Monument': 'http://en.wikipedia.org/wiki/Victory_Monument_(Bangkok)', 'text:Rama VIII Bridge': 'http://en.wikipedia.org/wiki/Rama_VIII_Bridge', 'text:Wat Arun': 'http://en.wikipedia.org/wiki/Wat_Arun', 'text:Grand Palace': 'http://en.wikipedia.org/wiki/Grand_Palace'}
+            [0, 0, 3] Type: Cell
+            │         Label: Flag
+Seal
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Bangkok.svg/100px-Flag_of_Bangkok.svg.png': 'http://en.wikipedia.org/wiki/File:Flag_of_Bangkok.svg', 'text:Flag': 'http://en.wikipedia.org/wiki/Flag_of_Bangkok', 'image:http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Seal_Bangkok_Metropolitan_Admin_%28green%29.svg/100px-Seal_Bangkok_Metropolitan_Admin_%28green%29.svg.png': 'http://en.wikipedia.org/wiki/File:Seal_Bangkok_Metropolitan_Admin_(green).svg'}
+            [0, 0, 4] Type: Cell
+            │         Label: Location within Thailand
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Thailand_Bangkok_locator_map.svg/142px-Thailand_Bangkok_locator_map.svg.png': 'http://en.wikipedia.org/wiki/File:Thailand_Bangkok_locator_map.svg'}
+            [0, 0, 5] Type: Cell
+            │         Label: Coordinates: 13°45′09″N 100°29′39″E﻿ / ﻿13.75250°N 100.49417°E﻿ / 13.75250; 100.49417
+            │         Style: GrpSpan
+            └──────── Link: {'text:13°45′09″N 100°29′39″E\ufeff / \ufeff13.75250°N 100.49417°E\ufeff / 13.75250; 100.49417': 'http://tools.wmflabs.org/geohack/geohack.php?pagename=Bangkok&params=13_45_09_N_100_29_39_E_region:TH-10_type:city(8305218)'}
+            [0, 0, 6] Type: Cell
+            │         Label: Country
+            └──────── Style: Emphasize
+            [0, 0, 7] Type: Cell
+            │         Label: Region
+            │         Style: Emphasize
+            └──────── Link: {'text:Region': 'http://en.wikipedia.org/wiki/Regions_of_Thailand'}
+            [0, 0, 8] Type: Cell
+            │         Label: Settled
+            └──────── Style: Emphasize
+            [0, 0, 9] Type: Cell
+            │         Label: Founded as capital
+            └──────── Style: Emphasize
+            [0, 0, 10] Type: Cell
+            │          Label: Re-incorporated
+            └───────── Style: Emphasize
+            [0, 0, 11] Type: Cell
+            │          Label: Founded by
+            └───────── Style: Emphasize
+            [0, 0, 12] Type: Cell
+            │          Label: Governing body
+            └───────── Style: Emphasize
+            [0, 0, 13] Type: Cell
+            │          Label: Government
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 14] Type: Cell
+            │          Label: • Type
+            └───────── Style: Emphasize
+            [0, 0, 15] Type: Cell
+            │          Label: • Governor
+            │          Style: Emphasize
+            └───────── Link: {'text:Governor': 'http://en.wikipedia.org/wiki/Bangkok_Metropolitan_Administration#List_of_governors'}
+            [0, 0, 16] Type: Cell
+            │          Label: Area
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 17] Type: Cell
+            │          Label: • City
+            └───────── Style: Emphasize
+            [0, 0, 18] Type: Cell
+            │          Label: • Metro
+            └───────── Style: Emphasize
+            [0, 0, 19] Type: Cell
+            │          Label: Elevation
+            └───────── Style: Emphasize
+            [0, 0, 20] Type: Cell
+            │          Label: Population (2010 census)
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 21] Type: Cell
+            │          Label: • City
+            └───────── Style: Emphasize
+            [0, 0, 22] Type: Cell
+            │          Label: • Density
+            └───────── Style: Emphasize
+            [0, 0, 23] Type: Cell
+            │          Label: • Metro
+            │          Style: Emphasize
+            └───────── Link: {'text:Metro': 'http://en.wikipedia.org/wiki/Metropolitan_area'}
+            [0, 0, 24] Type: Cell
+            │          Label: • Metro density
+            └───────── Style: Emphasize
+            [0, 0, 25] Type: Cell
+            │          Label: Demonym(s)
+            │          Style: Emphasize
+            └───────── Link: {'text:Demonym(s)': 'http://en.wikipedia.org/wiki/Demonym'}
+            [0, 0, 26] Type: Cell
+            │          Label: Time zone
+            │          Style: Emphasize
+            └───────── Link: {'text:Time zone': 'http://en.wikipedia.org/wiki/Time_zone'}
+            [0, 0, 27] Type: Cell
+            │          Label: Postal code
+            └───────── Style: Emphasize
+            [0, 0, 28] Type: Cell
+            │          Label: Area code(s)
+            │          Style: Emphasize
+            └───────── Link: {'text:Area code(s)': 'http://en.wikipedia.org/wiki/Telephone_numbering_plan'}
+            [0, 0, 29] Type: Cell
+            │          Label: ISO 3166 code
+            │          Style: Emphasize
+            └───────── Link: {'text:ISO 3166 code': 'http://en.wikipedia.org/wiki/ISO_3166'}
+            [0, 0, 30] Type: Cell
+            │          Label: Website
+            └───────── Style: Emphasize
+        [0, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 31
+            [0, 1, 0] Type: Cell
+            │         Label: Bangkok
+กรุงเทพมหานคร
+Krung Thep Maha Nakhon
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 1] Type: Cell
+            │         Label: Special administrative area
+            └──────── Style: GrpSpan
+            [0, 1, 2] Type: Cell
+            │         Label: Clockwise from top: Si Lom–Sathon business district, Giant Swing, Victory Monument, Rama VIII Bridge, Wat Arun, and Grand Palace
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bangkok_montage_3.jpg/250px-Bangkok_montage_3.jpg': 'http://en.wikipedia.org/wiki/File:Bangkok_montage_3.jpg', 'text:Si Lom': 'http://en.wikipedia.org/wiki/Si_Lom', 'text:Sathon': 'http://en.wikipedia.org/wiki/Sathon', 'text:Giant Swing': 'http://en.wikipedia.org/wiki/Giant_Swing', 'text:Victory Monument': 'http://en.wikipedia.org/wiki/Victory_Monument_(Bangkok)', 'text:Rama VIII Bridge': 'http://en.wikipedia.org/wiki/Rama_VIII_Bridge', 'text:Wat Arun': 'http://en.wikipedia.org/wiki/Wat_Arun', 'text:Grand Palace': 'http://en.wikipedia.org/wiki/Grand_Palace'}
+            [0, 1, 3] Type: Cell
+            │         Label: Flag
+Seal
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Bangkok.svg/100px-Flag_of_Bangkok.svg.png': 'http://en.wikipedia.org/wiki/File:Flag_of_Bangkok.svg', 'text:Flag': 'http://en.wikipedia.org/wiki/Flag_of_Bangkok', 'image:http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Seal_Bangkok_Metropolitan_Admin_%28green%29.svg/100px-Seal_Bangkok_Metropolitan_Admin_%28green%29.svg.png': 'http://en.wikipedia.org/wiki/File:Seal_Bangkok_Metropolitan_Admin_(green).svg'}
+            [0, 1, 4] Type: Cell
+            │         Label: Location within Thailand
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Thailand_Bangkok_locator_map.svg/142px-Thailand_Bangkok_locator_map.svg.png': 'http://en.wikipedia.org/wiki/File:Thailand_Bangkok_locator_map.svg'}
+            [0, 1, 5] Type: Cell
+            │         Label: Coordinates: 13°45′09″N 100°29′39″E﻿ / ﻿13.75250°N 100.49417°E﻿ / 13.75250; 100.49417
+            │         Style: GrpSpan
+            └──────── Link: {'text:13°45′09″N 100°29′39″E\ufeff / \ufeff13.75250°N 100.49417°E\ufeff / 13.75250; 100.49417': 'http://tools.wmflabs.org/geohack/geohack.php?pagename=Bangkok&params=13_45_09_N_100_29_39_E_region:TH-10_type:city(8305218)'}
+            [0, 1, 6] Type: Cell
+            │         Label: Thailand
+            └──────── Link: {'text:Thailand': 'http://en.wikipedia.org/wiki/Thailand'}
+            [0, 1, 7] Type: Cell
+            │         Label: Central Thailand
+            └──────── Link: {'text:Central Thailand': 'http://en.wikipedia.org/wiki/Central_Thailand'}
+            [0, 1, 8] Type: Cell
+            └──────── Label: c. 15th century
+            [0, 1, 9] Type: Cell
+            └──────── Label: 21 April 1782
+            [0, 1, 10] Type: Cell
+            └───────── Label: 13 December 1972
+            [0, 1, 11] Type: Cell
+            │          Label: Rama I
+            └───────── Link: {'text:Rama I': 'http://en.wikipedia.org/wiki/Rama_I'}
+            [0, 1, 12] Type: Cell
+            │          Label: Bangkok Metropolitan Administration
+            └───────── Link: {'text:Bangkok Metropolitan Administration': 'http://en.wikipedia.org/wiki/Bangkok_Metropolitan_Administration'}
+            [0, 1, 13] Type: Cell
+            │          Label: Government
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 14] Type: Cell
+            │          Label: Special administrative area
+            └───────── Link: {'text:Special administrative area': 'http://en.wikipedia.org/wiki/Special_administrative_area_(Thailand)'}
+            [0, 1, 15] Type: Cell
+            │          Label: Aswin Kwanmuang
+            └───────── Link: {'text:Aswin Kwanmuang': 'http://en.wikipedia.org/wiki/Aswin_Kwanmuang'}
+            [0, 1, 16] Type: Cell
+            │          Label: Area
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 17] Type: Cell
+            └───────── Label: 1,568.737 km2 (605.693 sq mi)
+            [0, 1, 18] Type: Cell
+            └───────── Label: 7,761.6 km2 (2,996.8 sq mi)
+            [0, 1, 19] Type: Cell
+            └───────── Label: 1.5 m (4.9 ft)
+            [0, 1, 20] Type: Cell
+            │          Label: Population (2010 census)
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 21] Type: Cell
+            └───────── Label: 8,305,218
+            [0, 1, 22] Type: Cell
+            └───────── Label: 5,300/km2 (14,000/sq mi)
+            [0, 1, 23] Type: Cell
+            └───────── Label: 14,626,225
+            [0, 1, 24] Type: Cell
+            └───────── Label: 1,900/km2 (4,900/sq mi)
+            [0, 1, 25] Type: Cell
+            └───────── Label: Bangkokian
+            [0, 1, 26] Type: Cell
+            │          Label: UTC+07:00 (ICT)
+            └───────── Link: {'text:UTC+07:00': 'http://en.wikipedia.org/wiki/UTC%2B07:00', 'text:ICT': 'http://en.wikipedia.org/wiki/Time_in_Thailand'}
+            [0, 1, 27] Type: Cell
+            └───────── Label: 10###
+            [0, 1, 28] Type: Cell
+            └───────── Label: 02
+            [0, 1, 29] Type: Cell
+            └───────── Label: TH-10
+            [0, 1, 30] Type: Cell
+            │          Label: www.bangkok.go.th
+            └───────── Link: {'text:www.bangkok.go.th': 'http://www.bangkok.go.th'}
+    [1] Type: List
+    │   Label: Contents
+    │   Dimension: 2
+    └── Number of Member: 14
+        [1, 0] Type: Item
+        │      Label: History
+        └───── Link: {'text:History': 'http://en.wikipedia.org/wiki/Bangkok#History'}
+        [1, 1] Type: Item
+        │      Label: Name
+        └───── Link: {'text:Name': 'http://en.wikipedia.org/wiki/Bangkok#Name'}
+        [1, 2] Type: Item, List
+        │      Label: Government
+        │      Link: {'text:Government': 'http://en.wikipedia.org/wiki/Bangkok#Government'}
+        └───── Number of Member: 1
+            [1, 2, 0] Type: Item
+            │         Label: International relations
+            └──────── Link: {'text:International relations': 'http://en.wikipedia.org/wiki/Bangkok#International_relations'}
+        [1, 3] Type: Item, List
+        │      Label: Geography
+        │      Link: {'text:Geography': 'http://en.wikipedia.org/wiki/Bangkok#Geography'}
+        └───── Number of Member: 5
+            [1, 3, 0] Type: Item
+            │         Label: Topography
+            └──────── Link: {'text:Topography': 'http://en.wikipedia.org/wiki/Bangkok#Topography'}
+            [1, 3, 1] Type: Item
+            │         Label: Climate
+            └──────── Link: {'text:Climate': 'http://en.wikipedia.org/wiki/Bangkok#Climate'}
+            [1, 3, 2] Type: Item
+            │         Label: Districts
+            └──────── Link: {'text:Districts': 'http://en.wikipedia.org/wiki/Bangkok#Districts'}
+            [1, 3, 3] Type: Item
+            │         Label: Cityscape
+            └──────── Link: {'text:Cityscape': 'http://en.wikipedia.org/wiki/Bangkok#Cityscape'}
+            [1, 3, 4] Type: Item
+            │         Label: Parks and green zones
+            └──────── Link: {'text:Parks and green zones': 'http://en.wikipedia.org/wiki/Bangkok#Parks_and_green_zones'}
+        [1, 4] Type: Item
+        │      Label: Demography
+        └───── Link: {'text:Demography': 'http://en.wikipedia.org/wiki/Bangkok#Demography'}
+        [1, 5] Type: Item, List
+        │      Label: Economy
+        │      Link: {'text:Economy': 'http://en.wikipedia.org/wiki/Bangkok#Economy'}
+        └───── Number of Member: 1
+            [1, 5, 0] Type: Item
+            │         Label: Tourism
+            └──────── Link: {'text:Tourism': 'http://en.wikipedia.org/wiki/Bangkok#Tourism'}
+        [1, 6] Type: Item, List
+        │      Label: Culture
+        │      Link: {'text:Culture': 'http://en.wikipedia.org/wiki/Bangkok#Culture'}
+        └───── Number of Member: 3
+            [1, 6, 0] Type: Item
+            │         Label: Festivals
+            └──────── Link: {'text:Festivals': 'http://en.wikipedia.org/wiki/Bangkok#Festivals'}
+            [1, 6, 1] Type: Item
+            │         Label: Media
+            └──────── Link: {'text:Media': 'http://en.wikipedia.org/wiki/Bangkok#Media'}
+            [1, 6, 2] Type: Item
+            │         Label: Art
+            └──────── Link: {'text:Art': 'http://en.wikipedia.org/wiki/Bangkok#Art'}
+        [1, 7] Type: Item, List
+        │      Label: Transport
+        │      Link: {'text:Transport': 'http://en.wikipedia.org/wiki/Bangkok#Transport'}
+        └───── Number of Member: 5
+            [1, 7, 0] Type: Item
+            │         Label: Roads
+            └──────── Link: {'text:Roads': 'http://en.wikipedia.org/wiki/Bangkok#Roads'}
+            [1, 7, 1] Type: Item
+            │         Label: Buses and taxis
+            └──────── Link: {'text:Buses and taxis': 'http://en.wikipedia.org/wiki/Bangkok#Buses_and_taxis'}
+            [1, 7, 2] Type: Item
+            │         Label: Rail systems
+            └──────── Link: {'text:Rail systems': 'http://en.wikipedia.org/wiki/Bangkok#Rail_systems'}
+            [1, 7, 3] Type: Item
+            │         Label: Water transport
+            └──────── Link: {'text:Water transport': 'http://en.wikipedia.org/wiki/Bangkok#Water_transport'}
+            [1, 7, 4] Type: Item
+            │         Label: Airports
+            └──────── Link: {'text:Airports': 'http://en.wikipedia.org/wiki/Bangkok#Airports'}
+        [1, 8] Type: Item, List
+        │      Label: Welfare
+        │      Link: {'text:Welfare': 'http://en.wikipedia.org/wiki/Bangkok#Welfare'}
+        └───── Number of Member: 3
+            [1, 8, 0] Type: Item
+            │         Label: Education
+            └──────── Link: {'text:Education': 'http://en.wikipedia.org/wiki/Bangkok#Education'}
+            [1, 8, 1] Type: Item
+            │         Label: Healthcare
+            └──────── Link: {'text:Healthcare': 'http://en.wikipedia.org/wiki/Bangkok#Healthcare'}
+            [1, 8, 2] Type: Item
+            │         Label: Safety
+            └──────── Link: {'text:Safety': 'http://en.wikipedia.org/wiki/Bangkok#Safety'}
+        [1, 9] Type: Item
+        │      Label: See also
+        └───── Link: {'text:See also': 'http://en.wikipedia.org/wiki/Bangkok#See_also'}
+        [1, 10] Type: Item
+        │       Label: Notes
+        └────── Link: {'text:Notes': 'http://en.wikipedia.org/wiki/Bangkok#Notes'}
+        [1, 11] Type: Item, List
+        │       Label: References
+        │       Link: {'text:References': 'http://en.wikipedia.org/wiki/Bangkok#References'}
+        └────── Number of Member: 1
+            [1, 11, 0] Type: Item
+            │          Label: Bibliography
+            └───────── Link: {'text:Bibliography': 'http://en.wikipedia.org/wiki/Bangkok#Bibliography'}
+        [1, 12] Type: Item
+        │       Label: Further reading
+        └────── Link: {'text:Further reading': 'http://en.wikipedia.org/wiki/Bangkok#Further_reading'}
+        [1, 13] Type: Item
+        │       Label: External links
+        └────── Link: {'text:External links': 'http://en.wikipedia.org/wiki/Bangkok#External_links'}
+    [2] Type: Table
+    │   Label: International relations
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 3
+    └── Number of Member: 3
+        [2, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 1
+            [2, 0, 0] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 12
+                [2, 0, 0, 0] Type: Item
+                └─────────── Label: Washington, D.C., United States (1962, 15 July 2002)
+                [2, 0, 0, 1] Type: Item
+                └─────────── Label: Beijing, China (26 May 1993)
+                [2, 0, 0, 2] Type: Item
+                └─────────── Label: Budapest, Hungary (20 February 1997)
+                [2, 0, 0, 3] Type: Item
+                └─────────── Label: Brisbane, Australia (7 May 1997)
+                [2, 0, 0, 4] Type: Item
+                └─────────── Label: Moscow, Russia (19 June 1997)
+                [2, 0, 0, 5] Type: Item
+                └─────────── Label: Saint Petersburg, Russia (20 June 1997)
+                [2, 0, 0, 6] Type: Item
+                └─────────── Label: Manila, Philippines (24 June 1997)
+                [2, 0, 0, 7] Type: Item
+                └─────────── Label: Jakarta, Indonesia (21 January 2002)
+                [2, 0, 0, 8] Type: Item
+                └─────────── Label: Hanoi, Vietnam (25 February 2004)
+                [2, 0, 0, 9] Type: Item
+                └─────────── Label: Vientiane, Laos (24 May 2004)
+                [2, 0, 0, 10] Type: Item
+                └──────────── Label: Astana, Kazakhstan (11 June 2004)
+                [2, 0, 0, 11] Type: Item
+                └──────────── Label: Chaozhou, China (23 November 2005)
+        [2, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 1
+            [2, 1, 0] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 13
+                [2, 1, 0, 0] Type: Item
+                └─────────── Label: Fukuoka, Japan (8 February 2006)
+                [2, 1, 0, 1] Type: Item
+                └─────────── Label: Seoul, South Korea (16 June 2006)
+                [2, 1, 0, 2] Type: Item
+                └─────────── Label: Guangzhou, China (13 November 2009)
+                [2, 1, 0, 3] Type: Item
+                └─────────── Label: Lausanne, Switzerland (29 December 2009)
+                [2, 1, 0, 4] Type: Item
+                └─────────── Label: Busan, South Korea (14 March 2011)
+                [2, 1, 0, 5] Type: Item
+                └─────────── Label: Chonqing, China (26 September 2011)
+                [2, 1, 0, 6] Type: Item
+                └─────────── Label: Tianjin, China (27 February 2012)
+                [2, 1, 0, 7] Type: Item
+                └─────────── Label: Ankara, Turkey (21 March 2012)
+                [2, 1, 0, 8] Type: Item
+                └─────────── Label: George Town, Malaysia (5 April 2012)
+                [2, 1, 0, 9] Type: Item
+                └─────────── Label: Aichi, Japan (9 July 2012)
+                [2, 1, 0, 10] Type: Item
+                └──────────── Label: Tehran, Iran (27 November 2012)
+                [2, 1, 0, 11] Type: Item
+                └──────────── Label: Shanghai, China (10 May 2012)
+                [2, 1, 0, 12] Type: Item
+                └──────────── Label: Phnom Penh, Cambodia (4 January 2013)
+        [2, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 1
+            [2, 2, 0] Type: Cell
+            │         Label: 
+            └──────── Number of Member: 11
+                [2, 2, 0, 0] Type: Item
+                └─────────── Label: Shandong, China (7 July 2013)
+                [2, 2, 0, 1] Type: Item
+                └─────────── Label: Wuhan, China (20 November 2013)
+                [2, 2, 0, 2] Type: Item
+                └─────────── Label: Ho Chi Minh City, Vietnam (3 April 2015)
+                [2, 2, 0, 3] Type: Item
+                └─────────── Label: Shenzhen, China (10 July 2015)
+                [2, 2, 0, 4] Type: Item
+                └─────────── Label: Lisbon, Portugal (19 January 2016)
+                [2, 2, 0, 5] Type: Item
+                └─────────── Label: Dalian, China (19 July 2016)
+                [2, 2, 0, 6] Type: Item
+                └─────────── Label: Porto, Portugal (30 July 2016)
+                [2, 2, 0, 7] Type: Item
+                └─────────── Label: Thừa Thiên-Huế, Vietnam (5 August 2016)
+                [2, 2, 0, 8] Type: Item
+                └─────────── Label: Chengdu, China (10 May 2017)
+                [2, 2, 0, 9] Type: Item
+                └─────────── Label: Ulaanbaatar, Mongolia (27 July 2017)
+                [2, 2, 0, 10] Type: Item
+                └──────────── Label: Daegu, South Korea (17 August 2017)
+    [3] Type: Table
+    │   Label: Climate
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 14
+        [3, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 0, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 0, 1] Type: Cell
+            │         Label: Month
+            └──────── Style: Emphasize
+            [3, 0, 2] Type: Cell
+            │         Label: Record high °C (°F)
+            └──────── Style: Emphasize
+            [3, 0, 3] Type: Cell
+            │         Label: Average high °C (°F)
+            └──────── Style: Emphasize
+            [3, 0, 4] Type: Cell
+            │         Label: Daily mean °C (°F)
+            └──────── Style: Emphasize
+            [3, 0, 5] Type: Cell
+            │         Label: Average low °C (°F)
+            └──────── Style: Emphasize
+            [3, 0, 6] Type: Cell
+            │         Label: Record low °C (°F)
+            └──────── Style: Emphasize
+            [3, 0, 7] Type: Cell
+            │         Label: Average rainfall mm (inches)
+            └──────── Style: Emphasize
+            [3, 0, 8] Type: Cell
+            │         Label: Average rainy days
+            └──────── Style: Emphasize
+            [3, 0, 9] Type: Cell
+            │         Label: Average relative humidity (%)
+            │         Style: Emphasize
+            └──────── Link: {'text:relative humidity': 'http://en.wikipedia.org/wiki/Relative_humidity'}
+            [3, 0, 10] Type: Cell
+            │          Label: Mean monthly sunshine hours
+            │          Style: Emphasize
+            └───────── Link: {'text:sunshine hours': 'http://en.wikipedia.org/wiki/Sunshine_duration'}
+            [3, 0, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 0, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 1, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 1, 1] Type: Cell
+            │         Label: Jan
+            └──────── Style: Emphasize
+            [3, 1, 2] Type: Cell
+            └──────── Label: 37.6
+(99.7)
+            [3, 1, 3] Type: Cell
+            └──────── Label: 32.5
+(90.5)
+            [3, 1, 4] Type: Cell
+            └──────── Label: 27.0
+(80.6)
+            [3, 1, 5] Type: Cell
+            └──────── Label: 22.6
+(72.7)
+            [3, 1, 6] Type: Cell
+            └──────── Label: 10.0
+(50.0)
+            [3, 1, 7] Type: Cell
+            └──────── Label: 13.3
+(0.52)
+            [3, 1, 8] Type: Cell
+            └──────── Label: 1.8
+            [3, 1, 9] Type: Cell
+            └──────── Label: 68
+            [3, 1, 10] Type: Cell
+            └───────── Label: 272.5
+            [3, 1, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 1, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 2, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 2, 1] Type: Cell
+            │         Label: Feb
+            └──────── Style: Emphasize
+            [3, 2, 2] Type: Cell
+            └──────── Label: 38.8
+(101.8)
+            [3, 2, 3] Type: Cell
+            └──────── Label: 33.3
+(91.9)
+            [3, 2, 4] Type: Cell
+            └──────── Label: 28.3
+(82.9)
+            [3, 2, 5] Type: Cell
+            └──────── Label: 24.4
+(75.9)
+            [3, 2, 6] Type: Cell
+            └──────── Label: 14.0
+(57.2)
+            [3, 2, 7] Type: Cell
+            └──────── Label: 20.0
+(0.79)
+            [3, 2, 8] Type: Cell
+            └──────── Label: 2.4
+            [3, 2, 9] Type: Cell
+            └──────── Label: 72
+            [3, 2, 10] Type: Cell
+            └───────── Label: 249.9
+            [3, 2, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 2, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 3, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 3, 1] Type: Cell
+            │         Label: Mar
+            └──────── Style: Emphasize
+            [3, 3, 2] Type: Cell
+            └──────── Label: 40.1
+(104.2)
+            [3, 3, 3] Type: Cell
+            └──────── Label: 34.3
+(93.7)
+            [3, 3, 4] Type: Cell
+            └──────── Label: 29.5
+(85.1)
+            [3, 3, 5] Type: Cell
+            └──────── Label: 25.9
+(78.6)
+            [3, 3, 6] Type: Cell
+            └──────── Label: 15.7
+(60.3)
+            [3, 3, 7] Type: Cell
+            └──────── Label: 42.1
+(1.66)
+            [3, 3, 8] Type: Cell
+            └──────── Label: 3.6
+            [3, 3, 9] Type: Cell
+            └──────── Label: 72
+            [3, 3, 10] Type: Cell
+            └───────── Label: 269.0
+            [3, 3, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 3, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 4, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 4, 1] Type: Cell
+            │         Label: Apr
+            └──────── Style: Emphasize
+            [3, 4, 2] Type: Cell
+            └──────── Label: 40.2
+(104.4)
+            [3, 4, 3] Type: Cell
+            └──────── Label: 35.4
+(95.7)
+            [3, 4, 4] Type: Cell
+            └──────── Label: 30.5
+(86.9)
+            [3, 4, 5] Type: Cell
+            └──────── Label: 26.9
+(80.4)
+            [3, 4, 6] Type: Cell
+            └──────── Label: 20.0
+(68.0)
+            [3, 4, 7] Type: Cell
+            └──────── Label: 91.4
+(3.60)
+            [3, 4, 8] Type: Cell
+            └──────── Label: 6.6
+            [3, 4, 9] Type: Cell
+            └──────── Label: 72
+            [3, 4, 10] Type: Cell
+            └───────── Label: 256.7
+            [3, 4, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 4, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 5] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 5, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 5, 1] Type: Cell
+            │         Label: May
+            └──────── Style: Emphasize
+            [3, 5, 2] Type: Cell
+            └──────── Label: 39.7
+(103.5)
+            [3, 5, 3] Type: Cell
+            └──────── Label: 34.4
+(93.9)
+            [3, 5, 4] Type: Cell
+            └──────── Label: 29.9
+(85.8)
+            [3, 5, 5] Type: Cell
+            └──────── Label: 26.3
+(79.3)
+            [3, 5, 6] Type: Cell
+            └──────── Label: 21.1
+(70.0)
+            [3, 5, 7] Type: Cell
+            └──────── Label: 247.7
+(9.75)
+            [3, 5, 8] Type: Cell
+            └──────── Label: 16.4
+            [3, 5, 9] Type: Cell
+            └──────── Label: 75
+            [3, 5, 10] Type: Cell
+            └───────── Label: 216.4
+            [3, 5, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 5, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 6] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 6, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 6, 1] Type: Cell
+            │         Label: Jun
+            └──────── Style: Emphasize
+            [3, 6, 2] Type: Cell
+            └──────── Label: 38.3
+(100.9)
+            [3, 6, 3] Type: Cell
+            └──────── Label: 33.6
+(92.5)
+            [3, 6, 4] Type: Cell
+            └──────── Label: 29.5
+(85.1)
+            [3, 6, 5] Type: Cell
+            └──────── Label: 26.1
+(79.0)
+            [3, 6, 6] Type: Cell
+            └──────── Label: 21.1
+(70.0)
+            [3, 6, 7] Type: Cell
+            └──────── Label: 157.1
+(6.19)
+            [3, 6, 8] Type: Cell
+            └──────── Label: 16.3
+            [3, 6, 9] Type: Cell
+            └──────── Label: 74
+            [3, 6, 10] Type: Cell
+            └───────── Label: 178.0
+            [3, 6, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 6, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 7] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 7, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 7, 1] Type: Cell
+            │         Label: Jul
+            └──────── Style: Emphasize
+            [3, 7, 2] Type: Cell
+            └──────── Label: 37.9
+(100.2)
+            [3, 7, 3] Type: Cell
+            └──────── Label: 33.2
+(91.8)
+            [3, 7, 4] Type: Cell
+            └──────── Label: 29.0
+(84.2)
+            [3, 7, 5] Type: Cell
+            └──────── Label: 25.7
+(78.3)
+            [3, 7, 6] Type: Cell
+            └──────── Label: 21.8
+(71.2)
+            [3, 7, 7] Type: Cell
+            └──────── Label: 175.1
+(6.89)
+            [3, 7, 8] Type: Cell
+            └──────── Label: 17.4
+            [3, 7, 9] Type: Cell
+            └──────── Label: 75
+            [3, 7, 10] Type: Cell
+            └───────── Label: 171.8
+            [3, 7, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 7, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 8] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 8, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 8, 1] Type: Cell
+            │         Label: Aug
+            └──────── Style: Emphasize
+            [3, 8, 2] Type: Cell
+            └──────── Label: 38.5
+(101.3)
+            [3, 8, 3] Type: Cell
+            └──────── Label: 32.9
+(91.2)
+            [3, 8, 4] Type: Cell
+            └──────── Label: 28.8
+(83.8)
+            [3, 8, 5] Type: Cell
+            └──────── Label: 25.5
+(77.9)
+            [3, 8, 6] Type: Cell
+            └──────── Label: 21.8
+(71.2)
+            [3, 8, 7] Type: Cell
+            └──────── Label: 219.3
+(8.63)
+            [3, 8, 8] Type: Cell
+            └──────── Label: 19.6
+            [3, 8, 9] Type: Cell
+            └──────── Label: 76
+            [3, 8, 10] Type: Cell
+            └───────── Label: 160.3
+            [3, 8, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 8, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 9] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [3, 9, 0] Type: Cell
+            │         Label: Climate data for Bangkok Metropolis (1981–2010)
+            └──────── Style: Emphasize, GrpSpan
+            [3, 9, 1] Type: Cell
+            │         Label: Sep
+            └──────── Style: Emphasize
+            [3, 9, 2] Type: Cell
+            └──────── Label: 37.2
+(99.0)
+            [3, 9, 3] Type: Cell
+            └──────── Label: 32.8
+(91.0)
+            [3, 9, 4] Type: Cell
+            └──────── Label: 28.3
+(82.9)
+            [3, 9, 5] Type: Cell
+            └──────── Label: 25.0
+(77.0)
+            [3, 9, 6] Type: Cell
+            └──────── Label: 21.1
+(70.0)
+            [3, 9, 7] Type: Cell
+            └──────── Label: 334.3
+(13.16)
+            [3, 9, 8] Type: Cell
+            └──────── Label: 21.2
+            [3, 9, 9] Type: Cell
+            └──────── Label: 79
+            [3, 9, 10] Type: Cell
+            └───────── Label: 154.9
+            [3, 9, 11] Type: Cell
+            │          Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └───────── Style: GrpSpan
+            [3, 9, 12] Type: Cell
+            │          Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └───────── Style: GrpSpan
+        [3, 10] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 13
+            [3, 10, 0] Type: Cell
+            │          Label: Climate data for Bangkok Metropolis (1981–2010)
+            └───────── Style: Emphasize, GrpSpan
+            [3, 10, 1] Type: Cell
+            │          Label: Oct
+            └───────── Style: Emphasize
+            [3, 10, 2] Type: Cell
+            └───────── Label: 37.9
+(100.2)
+            [3, 10, 3] Type: Cell
+            └───────── Label: 32.6
+(90.7)
+            [3, 10, 4] Type: Cell
+            └───────── Label: 28.1
+(82.6)
+            [3, 10, 5] Type: Cell
+            └───────── Label: 24.8
+(76.6)
+            [3, 10, 6] Type: Cell
+            └───────── Label: 18.3
+(64.9)
+            [3, 10, 7] Type: Cell
+            └───────── Label: 292.1
+(11.50)
+            [3, 10, 8] Type: Cell
+            └───────── Label: 17.7
+            [3, 10, 9] Type: Cell
+            └───────── Label: 78
+            [3, 10, 10] Type: Cell
+            └────────── Label: 198.1
+            [3, 10, 11] Type: Cell
+            │           Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └────────── Style: GrpSpan
+            [3, 10, 12] Type: Cell
+            │           Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └────────── Style: GrpSpan
+        [3, 11] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 13
+            [3, 11, 0] Type: Cell
+            │          Label: Climate data for Bangkok Metropolis (1981–2010)
+            └───────── Style: Emphasize, GrpSpan
+            [3, 11, 1] Type: Cell
+            │          Label: Nov
+            └───────── Style: Emphasize
+            [3, 11, 2] Type: Cell
+            └───────── Label: 38.8
+(101.8)
+            [3, 11, 3] Type: Cell
+            └───────── Label: 32.4
+(90.3)
+            [3, 11, 4] Type: Cell
+            └───────── Label: 27.8
+(82.0)
+            [3, 11, 5] Type: Cell
+            └───────── Label: 23.9
+(75.0)
+            [3, 11, 6] Type: Cell
+            └───────── Label: 15.0
+(59.0)
+            [3, 11, 7] Type: Cell
+            └───────── Label: 49.5
+(1.95)
+            [3, 11, 8] Type: Cell
+            └───────── Label: 5.8
+            [3, 11, 9] Type: Cell
+            └───────── Label: 70
+            [3, 11, 10] Type: Cell
+            └────────── Label: 234.2
+            [3, 11, 11] Type: Cell
+            │           Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └────────── Style: GrpSpan
+            [3, 11, 12] Type: Cell
+            │           Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └────────── Style: GrpSpan
+        [3, 12] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 13
+            [3, 12, 0] Type: Cell
+            │          Label: Climate data for Bangkok Metropolis (1981–2010)
+            └───────── Style: Emphasize, GrpSpan
+            [3, 12, 1] Type: Cell
+            │          Label: Dec
+            └───────── Style: Emphasize
+            [3, 12, 2] Type: Cell
+            └───────── Label: 37.1
+(98.8)
+            [3, 12, 3] Type: Cell
+            └───────── Label: 31.7
+(89.1)
+            [3, 12, 4] Type: Cell
+            └───────── Label: 26.5
+(79.7)
+            [3, 12, 5] Type: Cell
+            └───────── Label: 22.0
+(71.6)
+            [3, 12, 6] Type: Cell
+            └───────── Label: 10.5
+(50.9)
+            [3, 12, 7] Type: Cell
+            └───────── Label: 6.3
+(0.25)
+            [3, 12, 8] Type: Cell
+            └───────── Label: 1.1
+            [3, 12, 9] Type: Cell
+            └───────── Label: 66
+            [3, 12, 10] Type: Cell
+            └────────── Label: 262.0
+            [3, 12, 11] Type: Cell
+            │           Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └────────── Style: GrpSpan
+            [3, 12, 12] Type: Cell
+            │           Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └────────── Style: GrpSpan
+        [3, 13] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 13
+            [3, 13, 0] Type: Cell
+            │          Label: Climate data for Bangkok Metropolis (1981–2010)
+            └───────── Style: Emphasize, GrpSpan
+            [3, 13, 1] Type: Cell
+            │          Label: Year
+            └───────── Style: Emphasize
+            [3, 13, 2] Type: Cell
+            └───────── Label: 40.2
+(104.4)
+            [3, 13, 3] Type: Cell
+            └───────── Label: 33.3
+(91.9)
+            [3, 13, 4] Type: Cell
+            └───────── Label: 28.6
+(83.5)
+            [3, 13, 5] Type: Cell
+            └───────── Label: 24.9
+(76.8)
+            [3, 13, 6] Type: Cell
+            └───────── Label: 10.0
+(50.0)
+            [3, 13, 7] Type: Cell
+            └───────── Label: 1,648.2
+(64.89)
+            [3, 13, 8] Type: Cell
+            └───────── Label: 129.9
+            [3, 13, 9] Type: Cell
+            └───────── Label: 73
+            [3, 13, 10] Type: Cell
+            └────────── Label: 2,623.8
+            [3, 13, 11] Type: Cell
+            │           Label: Source #1: Thai Meteorological Department, humidity (1981–2010): RID; Rainfall (1981–2010): RID
+            └────────── Style: GrpSpan
+            [3, 13, 12] Type: Cell
+            │           Label: Source #2: Pogodaiklimat.ru(High/Low Record) NOAA (sun, 1961–1990)
+            └────────── Style: GrpSpan
+    [4] Type: Table
+    │   Label: Districts
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 3
+    └── Number of Member: 2
+        [4, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 1
+            [4, 0, 0] Type: Cell
+            │         Label: 
+            │         Style: Enumerate
+            └──────── Number of Member: 25
+                [4, 0, 0, 0] Type: Item
+                └─────────── Label: Phra Nakhon District
+                [4, 0, 0, 1] Type: Item
+                └─────────── Label: Dusit District
+                [4, 0, 0, 2] Type: Item
+                └─────────── Label: Nong Chok District
+                [4, 0, 0, 3] Type: Item
+                └─────────── Label: Bang Rak District
+                [4, 0, 0, 4] Type: Item
+                └─────────── Label: Bang Khen District
+                [4, 0, 0, 5] Type: Item
+                └─────────── Label: Bang Kapi District
+                [4, 0, 0, 6] Type: Item
+                └─────────── Label: Pathum Wan District
+                [4, 0, 0, 7] Type: Item
+                └─────────── Label: Pom Prap Sattru Phai District
+                [4, 0, 0, 8] Type: Item
+                └─────────── Label: Phra Khanong District
+                [4, 0, 0, 9] Type: Item
+                └─────────── Label: Min Buri District
+                [4, 0, 0, 10] Type: Item
+                └──────────── Label: Lat Krabang District
+                [4, 0, 0, 11] Type: Item
+                └──────────── Label: Yan Nawa District
+                [4, 0, 0, 12] Type: Item
+                └──────────── Label: Samphanthawong District
+                [4, 0, 0, 13] Type: Item
+                └──────────── Label: Phaya Thai District
+                [4, 0, 0, 14] Type: Item
+                └──────────── Label: Thon Buri District
+                [4, 0, 0, 15] Type: Item
+                └──────────── Label: Bangkok Yai District
+                [4, 0, 0, 16] Type: Item
+                └──────────── Label: Huai Khwang District
+                [4, 0, 0, 17] Type: Item
+                └──────────── Label: Khlong San District
+                [4, 0, 0, 18] Type: Item
+                └──────────── Label: Taling Chan District
+                [4, 0, 0, 19] Type: Item
+                └──────────── Label: Bangkok Noi District
+                [4, 0, 0, 20] Type: Item
+                └──────────── Label: Bang Khun Thian District
+                [4, 0, 0, 21] Type: Item
+                └──────────── Label: Phasi Charoen District
+                [4, 0, 0, 22] Type: Item
+                └──────────── Label: Nong Khaem District
+                [4, 0, 0, 23] Type: Item
+                └──────────── Label: Rat Burana District
+                [4, 0, 0, 24] Type: Item
+                └──────────── Label: Bang Phlat District
+        [4, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 1
+            [4, 1, 0] Type: Cell
+            │         Label: 
+            │         Style: Enumerate
+            └──────── Number of Member: 25
+                [4, 1, 0, 0] Type: Item
+                └─────────── Label: Din Daeng District
+                [4, 1, 0, 1] Type: Item
+                └─────────── Label: Bueng Kum District
+                [4, 1, 0, 2] Type: Item
+                └─────────── Label: Sathon District
+                [4, 1, 0, 3] Type: Item
+                └─────────── Label: Bang Sue District
+                [4, 1, 0, 4] Type: Item
+                └─────────── Label: Chatuchak District
+                [4, 1, 0, 5] Type: Item
+                └─────────── Label: Bang Kho Laem District
+                [4, 1, 0, 6] Type: Item
+                └─────────── Label: Prawet District
+                [4, 1, 0, 7] Type: Item
+                └─────────── Label: Khlong Toei District
+                [4, 1, 0, 8] Type: Item
+                └─────────── Label: Suan Luang District
+                [4, 1, 0, 9] Type: Item
+                └─────────── Label: Chom Thong District
+                [4, 1, 0, 10] Type: Item
+                └──────────── Label: Don Mueang District
+                [4, 1, 0, 11] Type: Item
+                └──────────── Label: Ratchathewi District
+                [4, 1, 0, 12] Type: Item
+                └──────────── Label: Lat Phrao District
+                [4, 1, 0, 13] Type: Item
+                └──────────── Label: Watthana District
+                [4, 1, 0, 14] Type: Item
+                └──────────── Label: Bang Khae District
+                [4, 1, 0, 15] Type: Item
+                └──────────── Label: Lak Si District
+                [4, 1, 0, 16] Type: Item
+                └──────────── Label: Sai Mai District
+                [4, 1, 0, 17] Type: Item
+                └──────────── Label: Khan Na Yao District
+                [4, 1, 0, 18] Type: Item
+                └──────────── Label: Saphan Sung District
+                [4, 1, 0, 19] Type: Item
+                └──────────── Label: Wang Thonglang District
+                [4, 1, 0, 20] Type: Item
+                └──────────── Label: Khlong Sam Wa District
+                [4, 1, 0, 21] Type: Item
+                └──────────── Label: Bang Na District
+                [4, 1, 0, 22] Type: Item
+                └──────────── Label: Thawi Watthana District
+                [4, 1, 0, 23] Type: Item
+                └──────────── Label: Thung Khru District
+                [4, 1, 0, 24] Type: Item
+                └──────────── Label: Bang Bon District
+    [5] Type: Table
+    │   Label: Historical census populations
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [5, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [5, 0, 0] Type: Cell
+            │         Label: Year
+            └──────── Style: Emphasize
+            [5, 0, 1] Type: Cell
+            └──────── Label: 1919
+            [5, 0, 2] Type: Cell
+            └──────── Label: 1929
+            [5, 0, 3] Type: Cell
+            └──────── Label: 1937
+            [5, 0, 4] Type: Cell
+            └──────── Label: 1947
+            [5, 0, 5] Type: Cell
+            └──────── Label: 1960
+            [5, 0, 6] Type: Cell
+            └──────── Label: 1970
+            [5, 0, 7] Type: Cell
+            └──────── Label: 1980
+            [5, 0, 8] Type: Cell
+            └──────── Label: 1990
+            [5, 0, 9] Type: Cell
+            └──────── Label: 2000
+            [5, 0, 10] Type: Cell
+            └───────── Label: 2010
+        [5, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [5, 1, 0] Type: Cell
+            │         Label: Population
+            └──────── Style: Emphasize
+            [5, 1, 1] Type: Cell
+            └──────── Label: 437,294
+            [5, 1, 2] Type: Cell
+            └──────── Label: 713,384
+            [5, 1, 3] Type: Cell
+            └──────── Label: 890,453
+            [5, 1, 4] Type: Cell
+            └──────── Label: 1,178,881
+            [5, 1, 5] Type: Cell
+            └──────── Label: 2,136,435
+            [5, 1, 6] Type: Cell
+            └──────── Label: 3,077,361
+            [5, 1, 7] Type: Cell
+            └──────── Label: 4,697,071
+            [5, 1, 8] Type: Cell
+            └──────── Label: 5,882,411
+            [5, 1, 9] Type: Cell
+            └──────── Label: 6,355,144
+            [5, 1, 10] Type: Cell
+            └───────── Label: 8,305,218
+    [6] Type: List
+    │   Label: See also
+    │   Dimension: 1
+    └── Number of Member: 1
+        [6, 0] Type: Item
+        │      Label: Outline of Bangkok
+        └───── Link: {'text:Outline of Bangkok': 'http://en.wikipedia.org/wiki/Outline_of_Bangkok'}
+    [7] Type: List
+    │   Label: Notes
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 11
+        [7, 0] Type: Item
+        │      Label: British English: /bæŋˈkɒk/, American English: /ˈbæŋkɒk/
+        └───── Link: {'text:British English': 'http://en.wikipedia.org/wiki/British_English', 'text:/bæŋˈkɒk/': 'http://en.wikipedia.org/wiki/Help:IPA/English', 'text:American English': 'http://en.wikipedia.org/wiki/American_English', 'text:/ˈbæŋkɒk/': 'http://en.wikipedia.org/wiki/Help:IPA/English'}
+        [7, 1] Type: Item
+        │      Label: กรุงเทพมหานคร, pronounced [krūŋ tʰêːp mahǎː nákʰɔ̄ːn] (listen)
+        └───── Link: {'text:[krūŋ tʰêːp mahǎː nákʰɔ̄ːn]': 'http://en.wikipedia.org/wiki/Help:IPA/Thai', 'image:http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png': 'http://en.wikipedia.org/wiki/File:Th-Krung_Thep_Maha_Nakhon.ogg', 'text:listen': 'http://upload.wikimedia.org/wikipedia/commons/0/08/Th-Krung_Thep_Maha_Nakhon.ogg'}
+        [7, 2] Type: Item
+        │      Label: Thai pronunciation (help·info)
+        └───── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png': 'http://en.wikipedia.org/wiki/File:Th-Krung_Thep.ogg', 'text:Thai pronunciation': 'http://upload.wikimedia.org/wikipedia/commons/4/48/Th-Krung_Thep.ogg', 'text:help': 'http://en.wikipedia.org/wiki/Wikipedia:Media_help', 'text:info': 'http://en.wikipedia.org/wiki/File:Th-Krung_Thep.ogg'}
+        [7, 3] Type: Item
+        │      Label: Two plants are known in Thai by the name makok: E. hygrophilus (makok nam, 'water makok') and Spondias pinnata (makok pa, 'jungle makok'). The species that grew in the area was likely makok nam.
+        └───── Link: {'text:Spondias pinnata': 'http://en.wikipedia.org/wiki/Spondias_pinnata'}
+        [7, 4] Type: Item
+        └───── Label: While this ceremonial name is generally believed, based on writings by the Somdet Phra Wannarat (Kaeo), to have originally been given by King Rama I and later modified by King Mongkut, it did not come into use until the latter reign.
+        [7, 5] Type: Item
+        │      Label: This ceremonial name uses two ancient Indian languages, Pāli and Sanskrit, prefaced with the only one Thai word, Krung, which means 'capital'. According to the romanisation of these languages, it can actually be written as Krung-dēvamahānagara amararatanakosindra mahindrāyudhyā mahātilakabhava navaratanarājadhānī purīramya uttamarājanivēsana mahāsthāna amaravimāna avatārasthitya shakrasdattiya viṣṇukarmaprasiddhi(listen) (help·info).
+        └───── Link: {'text:Pāli': 'http://en.wikipedia.org/wiki/P%C4%81li', 'text:Sanskrit': 'http://en.wikipedia.org/wiki/Sanskrit', 'text:Krung': 'https://en.wiktionary.org/wiki/%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87#Thai', 'text:dēva': 'https://en.wiktionary.org/wiki/%E0%A4%A6%E0%A5%87%E0%A4%B5#Sanskrit', 'text:mahā': 'https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE#Sanskrit', 'text:nagara': 'https://en.wiktionary.org/wiki/%E0%A4%A8%E0%A4%97%E0%A4%B0#Sanskrit', 'text:amara': 'https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%AE%E0%A4%B0#Sanskrit', 'text:ratanakosindra': 'https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8#Sanskrit', 'text:mah': 'https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE#Sanskrit', 'text:indr': 'https://en.wiktionary.org/wiki/%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0#Sanskrit', 'text:āyudhyā': 'https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE#Sanskrit', 'text:tilaka': 'https://en.wiktionary.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%B2%E0%A4%95#Sanskrit', 'text:bhava': 'https://en.wiktionary.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B5#Sanskrit', 'text:nava': 'https://en.wiktionary.org/wiki/%E0%A4%A8%E0%A4%B5#Numeral_2', 'text:ratana': 'https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8#Sanskrit', 'text:rāja': 'https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE#Sanskrit', 'text:dhānī': 'https://en.wiktionary.org/wiki/%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A5%80#Sanskrit', 'text:purī': 'https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%80#Sanskrit', 'text:ramya': 'https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%AF#Sanskrit', 'text:uttama': 'https://en.wiktionary.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE#Sanskrit', 'text:rājaniv': 'https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE#Sanskrit', 'text:āsthāna': 'https://en.wiktionary.org/wiki/%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8#Sanskrit', 'text:vimāna': 'https://en.wiktionary.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8#Sanskrit', 'text:avatāra': 'https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0#Sanskrit', 'text:sthitya': 'https://en.wiktionary.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF#Sanskrit', 'text:viṣṇu': 'https://en.wiktionary.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81#Sanskrit', 'text:karma': 'https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A8%E0%A5%8D#Sanskrit', 'text:prasiddhi': 'https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF#Sanskrit', 'image:http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png': 'http://en.wikipedia.org/wiki/File:Bangkok_ceremonial_name_in_Sanskrit.ogg', 'text:(listen)': 'http://upload.wikimedia.org/wikipedia/commons/7/79/Bangkok_ceremonial_name_in_Sanskrit.ogg', 'text:help': 'http://en.wikipedia.org/wiki/Wikipedia:Media_help', 'text:info': 'http://en.wikipedia.org/wiki/File:Bangkok_ceremonial_name_in_Sanskrit.ogg'}
+        [7, 6] Type: Item
+        └───── Label: The BMA gives an elevation figure of 2.31 metres (7 ft 7 in).
+        [7, 7] Type: Item
+        └───── Label: Thai ethnicity is rather a question of cultural identity than of genetic origin. Many people in Bangkok who self-identify as Thai have at least some Chinese ancestry.
+        [7, 8] Type: Item
+        └───── Label: An introductory publication by the BMA gives a figure of 80 percent Thai, 10 percent Chinese and 10 percent other, although this is likely a rough estimate.
+        [7, 9] Type: Item
+        └───── Label: By one recent estimate, at least 60 percent of the city's residents are of Chinese descent.
+        [7, 10] Type: Item
+        └────── Label: A 1993 study found dog bites to constitute 5.3 percent of injuries seen at Siriraj Hospital's emergency department.
+    [8] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 197
+        [8, 0] Type: Item
+        │      Label: Thavisin et al. (eds) 2006, p. 24. Reproduced in "Geography of Bangkok". BMA website. Archived from the original on 5 July 2011. Retrieved 8 September 2007.
+        └───── Link: {'text:"Geography of Bangkok"': 'https://web.archive.org/web/20110705201641/http://www.bangkok.go.th/th/page/index.php?&153-Geography_of_Bangkok&l=en', 'text:the original': 'http://www.bangkok.go.th/th/page/index.php?&153-Geography_of_Bangkok&l=en'}
+        [8, 1] Type: Item
+        │      Label: Tangchonlatip, Kanchana (2007). "กรุงเทพมหานคร: เมืองโตเดี่ยวตลอดกาลของประเทศไทย" [Bangkok: Thailand's forever primate city].  In Thongthai, Varachai; Punpuing, Sureeporn (eds.). ประชากรและสังคม 2550 [Population and society 2007]. Nakhon Pathom, Thailand: Institute for Population and Social Research. Retrieved 26 September 2012.
+        └───── Link: {'text:"กรุงเทพมหานคร: เมืองโตเดี่ยวตลอดกาลของประเทศไทย"': 'http://www.ipsr.mahidol.ac.th/ipsr/annualconference/conferenceiii/Articles/Article02.htm'}
+        [8, 2] Type: Item
+        │      Label: Sinsakul, Sin (August 2000). "Late Quaternary geology of the Lower Central Plain, Thailand". Journal of Asian Earth Sciences. 18 (4): 415–426. doi:10.1016/S1367-9120(99)00075-9.
+        └───── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/S1367-9120(99)00075-9': 'https://doi.org/10.1016%2FS1367-9120%2899%2900075-9'}
+        [8, 3] Type: Item
+        │      Label: "Table 1 Population by sex, household by type of household, changwat and area" (PDF). The 2010 Population and Housing Census: Whole Kingdom. popcensus.nso.go.th. National Statistical Office. 2012. Retrieved 5 January 2019.
+        └───── Link: {'text:"Table 1 Population by sex, household by type of household, changwat and area"': 'http://popcensus.nso.go.th/report/WholeKingdom_T.pdf'}
+        [8, 4] Type: Item
+        │      Label: "Bangkok". British and World English Dictionary. Oxford Dictionaries. Retrieved 4 August 2017.
+        └───── Link: {'text:"Bangkok"': 'https://en.oxforddictionaries.com/definition/bangkok'}
+        [8, 5] Type: Item
+        │      Label: "Definition of "Bangkok"". Collins English Dictionary (online). HarperCollins. Retrieved 26 March 2014.
+        └───── Link: {'text:"Definition of "Bangkok""': 'http://www.collinsdictionary.com/dictionary/english/bangkok'}
+        [8, 6] Type: Item
+        │      Label: "Bangkok". US English Dictionary. Oxford Dictionaries. Retrieved 4 August 2017.
+        └───── Link: {'text:"Bangkok"': 'https://en.oxforddictionaries.com/definition/us/bangkok'}
+        [8, 7] Type: Item
+        │      Label: Chandrashtitya, Tipawan; Matungka, Chiraporn. ประวัติเมืองธนบุรี [History of Thonburi City]. Arts & Cultural Office (in Thai). Dhonburi Rajabhat University. Archived from the original on 13 July 2010. Retrieved 11 December 2011.
+        └───── Link: {'text:ประวัติเมืองธนบุรี': 'https://web.archive.org/web/20100713001017/http://dit.dru.ac.th/home/012/attractions_history.html', 'text:the original': 'http://dit.dru.ac.th/home/012/attractions_history.html'}
+        [8, 8] Type: Item
+        │      Label: Committee for the Rattanakosin Bicentennial Celebration (1982). จดหมายเหตุการอนุรักษ์กรุงรัตนโกสินทร์ [Rattanakosin City conservation archives]. Department of Fine Arts. Reproduced in "กว่าจะมาเป็นกรุงเทพฯ" [The path to become Bangkok]. BMA Data Center. Archived from the original on 19 December 2014. Retrieved 1 August 2012.
+        └───── Link: {'text:"กว่าจะมาเป็นกรุงเทพฯ"': 'https://web.archive.org/web/20141219220002/http://203.155.220.230/info/passbkk/frame.asp', 'text:the original': 'http://203.155.220.230/info/passbkk/frame.asp'}
+        [8, 9] Type: Item
+        └───── Label: Baker & Pongpaichit 2005, pp. 37–41, 45, 52–71, 149–150, 162, 199–204.
+        [8, 10] Type: Item
+        │       Label: พจนานุกรม ฉบับราชบัณฑิตยสถาน พ.ศ. ๒๕๔๒ [Royal Institute Dictionary, B.E. 1999 (online edition)] (in Thai). Royal Institute. Archived from the original on 12 November 2013. Retrieved 12 September 2012.
+        └────── Link: {'text:พจนานุกรม ฉบับราชบัณฑิตยสถาน พ.ศ. ๒๕๔๒': 'https://web.archive.org/web/20131112051933/http://rirs3.royin.go.th/word24/word-24-a3.asp', 'text:the original': 'http://rirs3.royin.go.th/word24/word-24-a3.asp'}
+        [8, 11] Type: Item
+        │       Label: Wongthes, Sujit (2012). กรุงเทพฯ มาจากไหน? [Bangkok: A Historical Background] (in Thai). Bangkok: Dream Catcher. p. 37. ISBN 9786167686004. Archived from the original on 17 December 2014. Retrieved 9 June 2013.
+        └────── Link: {'text:Wongthes, Sujit': 'http://en.wikipedia.org/wiki/Sujit_Wongthes', 'text:กรุงเทพฯ มาจากไหน?': 'https://web.archive.org/web/20141217125517/http://www.sujitwongthes.com/2012/03/nonfiction2555-1/', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9786167686004': 'http://en.wikipedia.org/wiki/Special:BookSources/9786167686004', 'text:the original': 'http://www.sujitwongthes.com/2012/03/nonfiction2555-1/'}
+        [8, 12] Type: Item
+        │       Label: สาระน่ารู้กรุงธนบุรี [Interesting facts about the city of Thonburi]. Phra Racha Wang Derm (in Thai). Phra Racha Wang Derm Restoration Foundation. Archived from the original on 2 March 2012. Retrieved 11 December 2011.
+        └────── Link: {'text:สาระน่ารู้กรุงธนบุรี': 'https://web.archive.org/web/20120302033915/http://www.wangdermpalace.org/thonburi/index_thai.html', 'text:the original': 'http://www.wangdermpalace.org/thonburi/index_thai.html'}
+        [8, 13] Type: Item
+        │       Label: Phakathikhom, Chanchai (2005). นามพระนคร "ศรีอยุธยา" มาแต่ไหน [What were the origins of the capital name "Si Ayutthaya"?] (PDF). Senathipat (in Thai). 54 (3): 114–123. ISSN 0857-3891. Retrieved 31 July 2013.
+        └────── Link: {'text:นามพระนคร "ศรีอยุธยา" มาแต่ไหน': 'http://cdsd-rta.net/images/stories/valasan/valsan%20y54%20b3%20year2548/155403.pdf', 'text:ISSN': 'http://en.wikipedia.org/wiki/International_Standard_Serial_Number', 'text:0857-3891': 'http://www.worldcat.org/issn/0857-3891'}
+        [8, 14] Type: Item
+        │       Label: Roberts, Edmund (1837) [1837]. "Chapter XVIII —City of Bang-kok". Embassy to the Eastern courts of Cochin-China, Siam, and Muscat: in the U. S. sloop-of-war Peacock during the years 1832–3–4. Harper & Brothers. p. image 288. OCLC 12212199. Retrieved 5 April 2013. The spot on which the present capital stands, and the country in its vicinity, on both banks of the river for a considerable distance, were formerly, before the removal of the court to its present situation called Bang-kok; but since that time, and for nearly sixty years past, it has been named Sia yuthia, (pronounced See-ah you-tè-ah, and by the natives, Krung, that is, the capital;) it is called by both names here, but never Bang-kok; and they always correct foreigners when the latter make this mistake. The villages which occupy the right hand of the river, opposite to the capital, pass under the general name of Bang-kok.
+        └────── Link: {'text:Roberts, Edmund': 'http://en.wikipedia.org/wiki/Edmund_Roberts_(diplomat)', 'text:"Chapter XVIII —City of Bang-kok"': 'https://books.google.com/?id=aSgPAAAAYAAJ', 'text:OCLC': 'http://en.wikipedia.org/wiki/OCLC', 'text:12212199': 'http://www.worldcat.org/oclc/12212199'}
+        [8, 15] Type: Item
+        │       Label: "กรุงเทพมหานคร". Royal Institute Newsletter. 3 (31). December 1993. Reproduced in กรุงเทพมหานคร [Krung Thep Mahanakhon] (in Thai). Archived from the original on 10 December 2016. Retrieved 12 September 2012.
+        └────── Link: {'text:กรุงเทพมหานคร': 'https://web.archive.org/web/20141206140602/http://www.royin.go.th/th/knowledge/detail.php?ID=639', 'text:the original': 'http://www.royin.go.th/th/knowledge/detail.php?ID=639'}
+        [8, 16] Type: Item
+        │       Label: "Record Application Search". Guinness World Records. Retrieved 2 December 2016.
+        └────── Link: {'text:"Record Application Search"': 'http://www.guinnessworldrecords.com/search/applicationrecordsearch?term=longest+place+name&contentType=record'}
+        [8, 17] Type: Item
+        │       Label: Askew, Marc (2 August 2004). Bangkok: Place, Practice and Representation. Routledge. ISBN 978-1-134-65986-9.
+        └────── Link: {'text:Bangkok: Place, Practice and Representation': 'https://books.google.com/books?id=Bt6FAgAAQBAJ&pg=PA18&lpg=PA18#v=onepage&q&f=false', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-134-65986-9': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-134-65986-9'}
+        [8, 18] Type: Item
+        └────── Label: Thavisin et al. (eds) 2006, p. 86.
+        [8, 19] Type: Item
+        │       Label: คำสั่งหัวหน้าคณะรักษาความสงบแห่งชาติ ที่ ๖๔/๒๕๕๙ เรื่อง การให้ผู้ว่าราชการกรุงเทพมหานครพ้นจากตำแหน่ง และการแต่งตั้งผู้ว่าราชการกรุงเทพมหานคร (PDF). Royal Gazette (in Thai). 133 (พิเศษ 238 ง): 9–10. 18 October 2016.
+        └────── Link: {'text:คำสั่งหัวหน้าคณะรักษาความสงบแห่งชาติ ที่ ๖๔/๒๕๕๙ เรื่อง การให้ผู้ว่าราชการกรุงเทพมหานครพ้นจากตำแหน่ง และการแต่งตั้งผู้ว่าราชการกรุงเทพมหานคร': 'http://www.ratchakitcha.soc.go.th/DATA/PDF/2559/E/238/9.PDF'}
+        [8, 20] Type: Item
+        └────── Label: Thavisin et al. (eds) 2006, pp. 80–82.
+        [8, 21] Type: Item
+        └────── Label: Thavisin et al. (eds) 2006, p. 78.
+        [8, 22] Type: Item
+        │       Label: Department of National Parks, Wildlife and Plant Conservation. ไทรย้อยใบแหลม [Golden fig]. DNP website (in Thai). Retrieved 25 September 2012.
+        └────── Link: {'text:ไทรย้อยใบแหลม': 'http://www.dnp.go.th/EPAC/province_plant/bangkok.htm'}
+        [8, 23] Type: Item
+        │       Label: "Bangkok Finally Gets Its Own Provincial Slogan" (PDF). Bangkok Inter News. 5 (2): 10. April–June 2012. Archived from the original (PDF) on 16 October 2015.
+        └────── Link: {'text:"Bangkok Finally Gets Its Own Provincial Slogan"': 'https://web.archive.org/web/20151016093625/http://iad.bangkok.go.th/sites/default/files/internew/623-55%20new.pdf', 'text:the original': 'http://iad.bangkok.go.th/sites/default/files/internew/623-55%20new.pdf'}
+        [8, 24] Type: Item
+        │       Label: Rossman, Vadim (2018). Capital Cities: Varieties and Patterns of Development and Relocation. Taylor & Francis. pp. 103–4. ISBN 9781317562856.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9781317562856': 'http://en.wikipedia.org/wiki/Special:BookSources/9781317562856'}
+        [8, 25] Type: Item
+        │       Label: Lamb, Kate (30 September 2019). "Thailand PM considers moving capital as Bangkok congestion takes toll". The Guardian. Retrieved 30 September 2019.
+        └────── Link: {'text:"Thailand PM considers moving capital as Bangkok congestion takes toll"': 'https://www.theguardian.com/world/2019/sep/30/thailand-pm-considers-moving-capital-as-bangkok-congestion-takes-toll'}
+        [8, 26] Type: Item
+        │       Label: Katharangsiporn, Kanana; Theparat, Chatrudee (30 September 2019). "A capital idea". Bangkok Post. Retrieved 30 September 2019.
+        └────── Link: {'text:"A capital idea"': 'https://www.bangkokpost.com/business/1761309/a-capital-idea'}
+        [8, 27] Type: Item
+        │       Label: International Affairs Division. "Project Plan". International Affairs Division website. International Affairs Division, Bangkok Metropolitan Administration. Retrieved 12 September 2012.
+        └────── Link: {'text:"Project Plan"': 'http://iad.bangkok.go.th/en/node/334'}
+        [8, 28] Type: Item
+        │       Label: "UN Offices in Thailand". United Nations Thailand website. United Nations Thailand. Archived from the original on 16 April 2012. Retrieved 9 May 2012.
+        └────── Link: {'text:"UN Offices in Thailand"': 'https://web.archive.org/web/20120416000813/http://www.un.or.th/unagencies/index.html', 'text:the original': 'http://www.un.or.th/un-agencies/'}
+        [8, 29] Type: Item
+        │       Label: International Affairs Division. "Relationship with Sister Cities". International Affairs Division website. International Affairs Division, Bangkok Metropolitan Administration. Retrieved 10 November 2019.
+        └────── Link: {'text:"Relationship with Sister Cities"': 'http://iad.bangkok.go.th/en/list'}
+        [8, 30] Type: Item
+        │       Label: District of Columbia; Bangkok Metropolitan Administration (19 February 1962). "Resolution: Sister City Affiliation of Washington, D.C. and Bangkok, Thailand" (PDF).
+        └────── Link: {'text:"Resolution: Sister City Affiliation of Washington, D.C. and Bangkok, Thailand"': 'http://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Bangkok_Agreement_1962.pdf'}
+        [8, 31] Type: Item
+        │       Label: District of Columbia; Bangkok Metropolitan Administration (15 July 2002). "Reaffirmation agreement between Washington, D.C. and Bangkok, Thailand" (PDF).
+        └────── Link: {'text:"Reaffirmation agreement between Washington, D.C. and Bangkok, Thailand"': 'http://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Bangkok_Renewal_2002.pdf'}
+        [8, 32] Type: Item
+        │       Label: Bangkok Metropolitan Administration (26 May 1993). "Agreement on the Establishment of Sister City Relations between Bangkok Metropolitan Administration of the Kingdom of Thailand and the Beijing Municipality of the People's Republic of China" (PDF).
+        └────── Link: {'text:"Agreement on the Establishment of Sister City Relations between Bangkok Metropolitan Administration of the Kingdom of Thailand and the Beijing Municipality of the People\'s Republic of China"': 'http://iad.bangkok.go.th/sites/default/files/Beijing.pdf'}
+        [8, 33] Type: Item
+        │       Label: Bangkok Metropolitan Administration; Local Government of Budapest (20 February 1997). "Letter of Intent of Cooperation between Bangkok Metropolitan Administration (BMA) and Local Government of Budapest" (PDF).
+        └────── Link: {'text:"Letter of Intent of Cooperation between Bangkok Metropolitan Administration (BMA) and Local Government of Budapest"': 'http://iad.bangkok.go.th/sites/default/files/Budapest.pdf'}
+        [8, 34] Type: Item
+        │       Label: Bangkok Metropolitan Administration; City of Brisbane (7 May 1997). "Memorandum of Understanding between the City of Bangkok, The Kingdom of Thailand and the City of Brisbane, Queensland, Australia" (PDF).
+        └────── Link: {'text:"Memorandum of Understanding between the City of Bangkok, The Kingdom of Thailand and the City of Brisbane, Queensland, Australia"': 'http://iad.bangkok.go.th/sites/default/files/Brisbane.pdf'}
+        [8, 35] Type: Item
+        │       Label: Bangkok Metropolitan Administration; City of Moscow (19 June 1997). "Protocol of friendly ties between the cities of Bangkok and Moscow" (PDF).
+        └────── Link: {'text:"Protocol of friendly ties between the cities of Bangkok and Moscow"': 'http://iad.bangkok.go.th/sites/default/files/Moscow.pdf'}
+        [8, 36] Type: Item
+        │       Label: "St. Petersburg in figures > International and Interregional Ties". Eng.gov.spb.ru. Archived from the original on 24 February 2009. Retrieved 27 June 2010.
+        └────── Link: {'text:"St. Petersburg in figures > International and Interregional Ties"': 'https://archive.is/20090224073839/http://eng.gov.spb.ru/figures/ities', 'text:the original': 'http://eng.gov.spb.ru/figures/ities'}
+        [8, 37] Type: Item
+        │       Label: Bangkok Metropolitan Administration; City of St.Petersburg (20 June 1997). "Protocol on Cooperation between the City of Bangkok (the Kingdom of Thailand) and the City of St. Petersburg (the Russian Federation)" (PDF).
+        └────── Link: {'text:"Protocol on Cooperation between the City of Bangkok (the Kingdom of Thailand) and the City of St. Petersburg (the Russian Federation)"': 'http://iad.bangkok.go.th/sites/default/files/St%27%20Petersburg.pdf'}
+        [8, 38] Type: Item
+        │       Label: "Existing Sister Cities". City of Manila. Archived from the original on 6 August 2009. Retrieved 2 September 2009.
+        └────── Link: {'text:"Existing Sister Cities"': 'https://web.archive.org/web/20090806191943/http://www.manila.gov.ph/localgovt.htm', 'text:the original': 'http://www.manila.gov.ph/localgovt.htm#sistercities'}
+        [8, 39] Type: Item
+        │       Label: Bangkok Metropolitan Administration; City of Manila (24 June 1997). "Sister city friendship affiliation".
+        └────── Link: {'text:"Sister city friendship affiliation"': 'http://iad.bangkok.go.th/sites/default/files/Manila.doc'}
+        [8, 40] Type: Item
+        │       Label: Bangkok Metropolitan Administration; Jakarta Capital City Administration (21 January 2002). "Memorandum of understanding between Bangkok Metropolitan Administration, Kingdom of Thailand and the Jakarta Capital City Administration, Republic of Indonesia concerning sister city cooperation" (PDF).
+        └────── Link: {'text:"Memorandum of understanding between Bangkok Metropolitan Administration, Kingdom of Thailand and the Jakarta Capital City Administration, Republic of Indonesia concerning sister city cooperation"': 'http://iad.bangkok.go.th/sites/default/files/jakarta%5B1%5D.pdf'}
+        [8, 41] Type: Item
+        │       Label: Hanoi Capital City; Bangkok Metropolitan Administration (25 February 2004). "Agreement on cooperative and friendship relations between Hanoi Capital City and Bangkok Metropolitan Administration" (PDF).
+        └────── Link: {'text:"Agreement on cooperative and friendship relations between Hanoi Capital City and Bangkok Metropolitan Administration"': 'http://iad.bangkok.go.th/sites/default/files/Hanoi.pdf'}
+        [8, 42] Type: Item
+        │       Label: City of Vientiane; Bangkok Metropolitan Administration (24 May 2004). "บันทึกว่าด้วยความร่วมมือ ระหว่างนครหลวงเวียงจันทน์และกรุงเทพมหานคร" (PDF).
+        └────── Link: {'text:"บันทึกว่าด้วยความร่วมมือ ระหว่างนครหลวงเวียงจันทน์และกรุงเทพมหานคร"': 'http://iad.bangkok.go.th/sites/default/files/Vientiane.pdf'}
+        [8, 43] Type: Item
+        │       Label: Akimat of Astana City; Bangkok Metropolitan Administration (11 June 2004). "Agreement on establishment of bilateral relations between the Akimat of Astana City of the Republic of Kazakhstan and the City of Bangkok of Kingdom Thailand" (PDF).
+        └────── Link: {'text:"Agreement on establishment of bilateral relations between the Akimat of Astana City of the Republic of Kazakhstan and the City of Bangkok of Kingdom Thailand"': 'http://iad.bangkok.go.th/sites/default/files/Astana.pdf'}
+        [8, 44] Type: Item
+        │       Label: "Agreement of Sister City Relations". Office.bangkok.go.th. Archived from the original on 1 May 2011. Retrieved 27 June 2010.
+        └────── Link: {'text:"Agreement of Sister City Relations"': 'https://web.archive.org/web/20110501041551/http://office.bangkok.go.th/iad/eng/viewpage.php?page_id=38', 'text:the original': 'http://office.bangkok.go.th/iad/eng/viewpage.php?page_id=38'}
+        [8, 45] Type: Item
+        │       Label: Chaozhou City; Bangkok Metropolitan Administration (23 November 2005). "Agreement between Chaozhou City, the People's Republic of China and Bangkok, Kingdom of Thailand on the Establishment of Sister City Relations" (PDF).
+        └────── Link: {'text:"Agreement between Chaozhou City, the People\'s Republic of China and Bangkok, Kingdom of Thailand on the Establishment of Sister City Relations"': 'http://iad.bangkok.go.th/sites/default/files/Chaozhou.pdf'}
+        [8, 46] Type: Item
+        │       Label: International Affairs Division. "Relationship with Sister Cities: Fukuoka". International Affairs Division website. International Affairs Division, Bangkok Metropolitan Administration. Retrieved 12 September 2012.
+        └────── Link: {'text:"Relationship with Sister Cities: Fukuoka"': 'http://iad.bangkok.go.th/en/showsister_cities?id=40'}
+        [8, 47] Type: Item
+        │       Label: Seoul Metropolitan Government; Bangkok Metropolitan Administration (16 June 2006). "Sister City Agreement between the Seoul Metropolitan Government, Republic of Korea and the Bangkok Metropolitan Administration, the Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Sister City Agreement between the Seoul Metropolitan Government, Republic of Korea and the Bangkok Metropolitan Administration, the Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/Seoul.pdf'}
+        [8, 48] Type: Item
+        │       Label: "Sister Cities of Guangzhou". Guangzhou Foreign Affairs Office. Archived from the original on 20 October 2011. Retrieved 10 February 2010.
+        └────── Link: {'text:"Sister Cities of Guangzhou"': 'https://web.archive.org/web/20111020140927/http://www.gzwaishi.gov.cn/Item/3970.aspx', 'text:the original': 'http://www.gzwaishi.gov.cn/Item/3970.aspx'}
+        [8, 49] Type: Item
+        │       Label: Bangkok Metropolitan Administration; City of Guanzhou (13 November 2009). "Agreement on the establishment of sister city relations between Bangkok, Kingdom of Thailand and City of Guangzhou, the People's Republic of China" (PDF).
+        └────── Link: {'text:"Agreement on the establishment of sister city relations between Bangkok, Kingdom of Thailand and City of Guangzhou, the People\'s Republic of China"': 'http://iad.bangkok.go.th/sites/default/files/Guangzhou.pdf'}
+        [8, 50] Type: Item
+        │       Label: City of Lausanne; Bangkok Metropolitan Administration (29 December 2009). "Accord de fraternité entre La Ville de Lausanne Capitale du Canton de Vaud Confédération Helvétique et La Ville de Bangkok Royaume de Thaïlande" (PDF).
+        └────── Link: {'text:"Accord de fraternité entre La Ville de Lausanne Capitale du Canton de Vaud Confédération Helvétique et La Ville de Bangkok Royaume de Thaïlande"': 'http://iad.bangkok.go.th/sites/default/files/Lausanne%5B1%5D.pdf'}
+        [8, 51] Type: Item
+        │       Label: Busan Metropolitan City; Bangkok Metropolitan Administration (14 March 2011). "Busan Metropolitan City – Bangkok Metropolitan Administration Agreement on the Establishment of a Friendship City Relationship" (PDF).
+        └────── Link: {'text:"Busan Metropolitan City – Bangkok Metropolitan Administration Agreement on the Establishment of a Friendship City Relationship"': 'http://iad.bangkok.go.th/sites/default/files/Busan.pdf'}
+        [8, 52] Type: Item
+        │       Label: Chonqing Municipality; Bangkok Metropolitan Administration (26 September 2011). "Agreement between Chonqing Municipality of the People's Republic of China and Bangkok Metropolitan Administration of the Kingdom of Thailand on the establishment of sister-city relationship" (PDF).
+        └────── Link: {'text:"Agreement between Chonqing Municipality of the People\'s Republic of China and Bangkok Metropolitan Administration of the Kingdom of Thailand on the establishment of sister-city relationship"': 'http://iad.bangkok.go.th/sites/default/files/Chongqing.pdf'}
+        [8, 53] Type: Item
+        │       Label: Tianjin Municipal Government; Bangkok Metropolitan Administration (27 February 2012). "Agreement between Tianjin Municipal Government of the People's Republic of China and Bangkok Metropolitan Administration of the Kingdom of Thailand on the establishment of friendship exchanges and cooperative relationship" (PDF).
+        └────── Link: {'text:"Agreement between Tianjin Municipal Government of the People\'s Republic of China and Bangkok Metropolitan Administration of the Kingdom of Thailand on the establishment of friendship exchanges and cooperative relationship"': 'http://iad.bangkok.go.th/sites/default/files/Tianjin.pdf'}
+        [8, 54] Type: Item
+        │       Label: Bangkok Metropolitan Administration; Greater Ankara Municipality (21 March 2012). "Friendship and cooperation agreement between Bangkok Metropolitan Administration of the Kingdom of Thailand and the Greater Ankara Municipality of the Republic of Turkey" (PDF).
+        └────── Link: {'text:"Friendship and cooperation agreement between Bangkok Metropolitan Administration of the Kingdom of Thailand and the Greater Ankara Municipality of the Republic of Turkey"': 'http://iad.bangkok.go.th/sites/default/files/Angara.pdf'}
+        [8, 55] Type: Item
+        │       Label: Municipal Council of Penang Island; Bangkok Metropolitan Administration (5 April 2012). "Memorandum of understanding between Municipal Council of Penang Island of Malaysia and Bangkok Metropolitan Administration of the Kingdom of Thailand on the establishment of friendly cities" (PDF).
+        └────── Link: {'text:"Memorandum of understanding between Municipal Council of Penang Island of Malaysia and Bangkok Metropolitan Administration of the Kingdom of Thailand on the establishment of friendly cities"': 'http://iad.bangkok.go.th/sites/default/files/GeorgeTown.pdf'}
+        [8, 56] Type: Item
+        │       Label: International Affairs Division. "Relationship with Sister Cities: Aichi" (PDF). International Affairs Division website. International Affairs Division, Bangkok Metropolitan Administration. Retrieved 12 September 2012.
+        └────── Link: {'text:"Relationship with Sister Cities: Aichi"': 'http://iad.bangkok.go.th/sites/default/files/Aichi_mou_0.PDF'}
+        [8, 57] Type: Item
+        │       Label: Tehran Municipality; Bangkok Metropolitan Administration (6 December 2012). "Memorandum of understanding between Tehran Municipality Islamic Republic of Iran and Bangkok Metropolitan Administration Kingdom of Thailand".
+        └────── Link: {'text:"Memorandum of understanding between Tehran Municipality Islamic Republic of Iran and Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/th/showsister_cities?id=102'}
+        [8, 58] Type: Item
+        │       Label: Foreign Affairs Office, Shanghai Municipal; International Affairs Division, Bangkok Metropolitan Administration (17 December 2012). "Memorandum on Friendly Cooperation and Exchange between Foreign Affairs Office, Shanghai Municipal People's Government People's Republic of China and International Affairs Division, Bangkok Metropolitan Administration Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Memorandum on Friendly Cooperation and Exchange between Foreign Affairs Office, Shanghai Municipal People\'s Government People\'s Republic of China and International Affairs Division, Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/seanghai.pdf'}
+        [8, 59] Type: Item
+        │       Label: Municipality of Phnom Penh; Bangkok Metropolitan Administration (4 January 2013). "Memorandum of understanding between Municipality of Phnom Penh Kingdom of Cambodia and Bangkok Metropolitan Administration Kingdom of Thailand".
+        └────── Link: {'text:"Memorandum of understanding between Municipality of Phnom Penh Kingdom of Cambodia and Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/Phnom%20Penh.jpg'}
+        [8, 60] Type: Item
+        │       Label: People's Government of Shandong Province; Bangkok Metropolitan Administration. "Memorandum of understanding between People's Government of Shandong Province People's Republic of China and Bangkok Metropolitan Administration Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Memorandum of understanding between People\'s Government of Shandong Province People\'s Republic of China and Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/16011400_0.PDF'}
+        [8, 61] Type: Item
+        │       Label: People's Government of Wuhan Municipal; Bangkok Metropolitan Administration. "Memorandum of understanding between People's Government of Wuhan Municipal People's Republic of China and Bangkok Metropolitan Administration Kingdom of Thailand".
+        └────── Link: {'text:"Memorandum of understanding between People\'s Government of Wuhan Municipal People\'s Republic of China and Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/th/showsister_cities?id=105'}
+        [8, 62] Type: Item
+        │       Label: People's Committee of Ho Chi Minh City; Bangkok Metropolitan Administration (3 April 2015). "Agreement on Establishment Friendly Relations between The People's Committee of Ho Chi Minh City The Socialist Republic of Vietnam and The Bangkok Metropolitan Administration The Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Agreement on Establishment Friendly Relations between The People\'s Committee of Ho Chi Minh City The Socialist Republic of Vietnam and The Bangkok Metropolitan Administration The Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/HCM_Eng_0.pdf'}
+        [8, 63] Type: Item
+        │       Label: The City of Shenzhen; The City of Bangkok (10 July 2015). "Memorandum of understanding on The Establishment of Sister-City Relations between The City of Shenzhen of The People's Republic of China and The City of Bangkok of The Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Memorandum of understanding on The Establishment of Sister-City Relations between The City of Shenzhen of The People\'s Republic of China and The City of Bangkok of The Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/Shenzhen_mou.pdf'}
+        [8, 64] Type: Item
+        │       Label: The City of Lisbon; Bangkok Metropolitan Administration (19 July 2016). "Friendship And Co-Operation Agreement between The City of Lisbon Portugal Republic and The Bangkok Metropolitan Administration Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Friendship And Co-Operation Agreement between The City of Lisbon Portugal Republic and The Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/10021601.PDF'}
+        [8, 65] Type: Item
+        │       Label: The City of Dalian; Bangkok Metropolitan Administration (19 July 2016). "Memorandum of Understanding On the Establishment of Friendly Relations between The City of Dalian The People's Republic of China and The Bangkok Metropolitan Administration The Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Memorandum of Understanding On the Establishment of Friendly Relations between The City of Dalian The People\'s Republic of China and The Bangkok Metropolitan Administration The Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/MoU%20Dalian%20%283%20copies%29.pdf'}
+        [8, 66] Type: Item
+        │       Label: The Municipality of Porto; Bangkok Metropolitan Administration (5 August 2016). "Memorandum of understanding between The Municipality of Porto Portugal Republic and The Bangkok Metropolitan Administration Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Memorandum of understanding between The Municipality of Porto Portugal Republic and The Bangkok Metropolitan Administration Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/Agreement%20Bangkok%20%20Porto%20EN_0.PDF'}
+        [8, 67] Type: Item
+        │       Label: People's Committee of Hue City; Bangkok Metropolitan Administration (5 August 2016). "Memorandum of understanding between The People's Committee of Hue City The Socialist Republic of Vietnam and The Bangkok Metropolitan Administration The Kingdom of Thailand" (PDF).
+        └────── Link: {'text:"Memorandum of understanding between The People\'s Committee of Hue City The Socialist Republic of Vietnam and The Bangkok Metropolitan Administration The Kingdom of Thailand"': 'http://iad.bangkok.go.th/sites/default/files/Mou%20Hue.pdf'}
+        [8, 68] Type: Item
+        │       Label: Bangkok Metropolitan Administration; Chengdu Municipal People's Government (10 May 2017). "Agreement on The Establishment of Friendly City Relations Between The Bangkok Metropolitan Administration, The Kingdom of Thailand and The Chengdu Municipal People's Government, The People's Republic of China" (PDF).
+        └────── Link: {'text:"Agreement on The Establishment of Friendly City Relations Between The Bangkok Metropolitan Administration, The Kingdom of Thailand and The Chengdu Municipal People\'s Government, The People\'s Republic of China"': 'http://iad.bangkok.go.th/sites/default/files/AGREEMENT%20ON%20THE%20ESTABLISHMENT%20OF%20FRIENDSHIP%20CITY%28Eng%29.PDF'}
+        [8, 69] Type: Item
+        │       Label: Bangkok Metropolitan Administration; Ulaanbaatar (27 July 2017). "Agreement on the Establishment of Sister City Relations Between The Bangkok Metropolitan Administration, The Kingdom of Thailand and The City of Ulaanbaatar, Mongolia" (PDF).
+        └────── Link: {'text:"Agreement on the Establishment of Sister City Relations Between The Bangkok Metropolitan Administration, The Kingdom of Thailand and The City of Ulaanbaatar, Mongolia"': 'http://iad.bangkok.go.th/sites/default/files/Agreement%20Bangkok-Ulaanbaatar_Eng.pdf'}
+        [8, 70] Type: Item
+        │       Label: Bangkok Metropolitan Administration; Daegu Metropolitan City (17 August 2017). "Agreement on The Establishment of Friendship City Relations Between The Bangkok Metropolitan Administration, The Kingdom of Thailand and The Daegu Metropolitan Government, The Republic of Korea" (PDF).
+        └────── Link: {'text:"Agreement on The Establishment of Friendship City Relations Between The Bangkok Metropolitan Administration, The Kingdom of Thailand and The Daegu Metropolitan Government, The Republic of Korea"': 'http://iad.bangkok.go.th/sites/default/files/Agreementon%20The%20Establishment%20Of%20Friendship%20City%20Relations%20Eng.pdf'}
+        [8, 71] Type: Item
+        │       Label: "The largest cities in the world by land area, population and density". City Mayors. 6 January 2007. Archived from the original on 18 July 2008. Retrieved 19 July 2008.
+        └────── Link: {'text:"The largest cities in the world by land area, population and density"': 'http://www.citymayors.com/statistics/largest-cities-area-125.html', 'text:City Mayors': 'http://en.wikipedia.org/wiki/City_Mayors', 'text:Archived': 'https://web.archive.org/web/20080718162540/http://www.citymayors.com/statistics/largest-cities-area-125.html'}
+        [8, 72] Type: Item
+        └────── Label: Smyth, H. Warrington (1898). Five years in Siam: from 1891 to 1896. II. New York: Charles Scribner's Sons. p. 9. Quoted in Baker & Phongpaichit 2005, p. 90.
+        [8, 73] Type: Item
+        └────── Label: Thavisin et al. (eds) 2006, p. 35.
+        [8, 74] Type: Item
+        │       Label: Phien-wej, N.; Giao, P.H.; Nutalaya, P (2 February 2006). "Land subsidence in Bangkok, Thailand". Engineering Geology. 82 (4): 187–201. doi:10.1016/j.enggeo.2005.10.004.
+        └────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/j.enggeo.2005.10.004': 'https://doi.org/10.1016%2Fj.enggeo.2005.10.004'}
+        [8, 75] Type: Item
+        │       Label: "Rising seas, sinking land threaten Thai capital". CNN International. Archived from the original on 30 October 2007. Retrieved 24 October 2007.
+        └────── Link: {'text:"Rising seas, sinking land threaten Thai capital"': 'http://edition.cnn.com/2007/TECH/science/10/22/thailand.water.rising.ap/index.html', 'text:Archived': 'https://web.archive.org/web/20071030034936/http://edition.cnn.com/2007/TECH/science/10/22/thailand.water.rising.ap/index.html'}
+        [8, 76] Type: Item
+        │       Label: Philip, Bruno (21 July 2011). "Thailand, Sinking: Parts of Bangkok Could Be Underwater in 2030". Time.
+        └────── Link: {'text:"Thailand, Sinking: Parts of Bangkok Could Be Underwater in 2030"': 'http://www.time.com/time/world/article/0,8599,2084358,00.html'}
+        [8, 77] Type: Item
+        │       Label: Sattaburuth, Aekarach (23 July 2015). "Bangkok 'could be submerged in 15 years'". Bangkok Post. Retrieved 23 January 2017.
+        └────── Link: {'text:"Bangkok \'could be submerged in 15 years\'"': 'http://www.bangkokpost.com/learning/learning-news/632520/bangkok-could-be-submerged-in-15-years'}
+        [8, 78] Type: Item
+        │       Label: "3. Estimating Flood Impacts and Vulnerabilities in Coastal Cities" (PDF). Climate Risks and Adaptation in Asian Coastal Megacities. Washington DC: The World Bank. September 2010. pp. 23–31. Retrieved 1 November 2019.
+        └────── Link: {'text:"3. Estimating Flood Impacts and Vulnerabilities in Coastal Cities"': 'https://siteresources.worldbank.org/EASTASIAPACIFICEXT/Resources/226300-1287600424406/coastal_megacities_fullreport.pdf'}
+        [8, 79] Type: Item
+        │       Label: Kulp, Scott A; Strauss, Benjamin H (29 October 2019). "New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding". Nature Communications. 10 (1): 5752. doi:10.1038/s41467-019-13552-0. PMC 6908705. PMID 31831733. Retrieved 1 November 2019.
+        └────── Link: {'text:"New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding"': 'https://www.nature.com/articles/s41467-019-12808-z', 'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1038/s41467-019-13552-0': 'https://doi.org/10.1038%2Fs41467-019-13552-0', 'text:PMC': 'http://en.wikipedia.org/wiki/PubMed_Central', 'text:6908705': 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908705', 'text:PMID': 'http://en.wikipedia.org/wiki/PubMed_Identifier', 'text:31831733': 'http://pubmed.ncbi.nlm.nih.gov/31831733'}
+        [8, 80] Type: Item
+        │       Label: Amos, Jonathan (30 October 2019). "Climate change: Sea level rise to affect 'three times more people'". BBC. Retrieved 1 November 2019.
+        └────── Link: {'text:"Climate change: Sea level rise to affect \'three times more people\'"': 'https://www.bbc.com/news/science-environment-50236882'}
+        [8, 81] Type: Item
+        │       Label: Deviller, Sophie (2 September 2018). "With rising sea levels, Bangkok struggles to stay afloat". PHYS ORG. Retrieved 25 July 2019.
+        └────── Link: {'text:"With rising sea levels, Bangkok struggles to stay afloat"': 'https://phys.org/news/2018-09-sea-bangkok-struggles-afloat.html'}
+        [8, 82] Type: Item
+        │       Label: Engkagul, Surapee (1993). "Flooding features in Bangkok and vicinity: Geographical approach". GeoJournal. 31 (4): 335–338. doi:10.1007/BF00812783 (inactive 15 March 2020).
+        └────── Link: {'text:"Flooding features in Bangkok and vicinity: Geographical approach"': 'https://link.springer.com/article/10.1007/BF00812783', 'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1007/BF00812783': 'https://doi.org/10.1007%2FBF00812783'}
+        [8, 83] Type: Item
+        │       Label: Nicholls, R. J.; Hanson, S.; Herweijer, C.; Patmore, N.; Hallegatte, S.; CorfeeMorlot, J.; Chateau, Jean; Muir-Wood, Robert (2008). "Ranking Port Cities with High Exposure and Vulnerability to Climate Extremes: Exposure Estimates" (PDF). OECD Environment Working Papers (1). doi:10.1787/011766488208. Retrieved 22 May 2014.
+        └────── Link: {'text:"Ranking Port Cities with High Exposure and Vulnerability to Climate Extremes: Exposure Estimates"': 'http://www.oecd-ilibrary.org/docserver/download/5kzssgshj742.pdf?expires=1443516109&id=id&accname=guest&checksum=86F9E81D60F674BDFA259B0843C4A964', 'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1787/011766488208': 'https://doi.org/10.1787%2F011766488208'}
+        [8, 84] Type: Item
+        │       Label: Old photo (around 1900) of dilapidated prang from the collection of Cornell University Library (last access 2009-09-24).
+        └────── Link: {'text:Old photo (around 1900) of dilapidated prang from the collection of Cornell University Library': 'http://dlxs.library.cornell.edu/cgi/t/text/pageviewer-idx?c=sea;cc=sea;sid=fd258f1374ff0bf467cbfbf937e68f4e;rgn=full%20text;idno=sea141;view=image;seq=14'}
+        [8, 85] Type: Item
+        │       Label: "Phu Khao Thong (Golden Mount)". wikimapia.org.
+        └────── Link: {'text:"Phu Khao Thong (Golden Mount)"': 'http://wikimapia.org/11129/Temple-of-the-Golden-Mount-or-Phu-Khao-Thong-%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87'}
+        [8, 86] Type: Item
+        │       Label: Climatological Group, Meteorological Development Bureau (January 2012). "The Climate of Thailand" (PDF). Thai Meteorological Department. Retrieved 26 September 2012.
+        └────── Link: {'text:"The Climate of Thailand"': 'http://www.tmd.go.th/en/archive/thailand_climate.pdf'}
+        [8, 87] Type: Item
+        │       Label: Tran, Hung; Uchihama, Daisuke; Ochi, Shiro; Yasuoka, Yoshifumi (January 2006). "Assessment with satellite data of the urban heat island effects in Asian mega cities". International Journal of Applied Earth Observation and Geoinformation. 8 (1): 34–48. doi:10.1016/j.jag.2005.05.003.
+        └────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/j.jag.2005.05.003': 'https://doi.org/10.1016%2Fj.jag.2005.05.003'}
+        [8, 88] Type: Item
+        │       Label: Wangkiat, Paritta (15 July 2018). "Strong Cities Needed" (in Spectrum). Bangkok Post. Retrieved 16 July 2018.
+        └────── Link: {'text:"Strong Cities Needed"': 'https://www.bangkokpost.com/news/special-reports/1503802/strong-cities-needed'}
+        [8, 89] Type: Item
+        │       Label: Thai Meteorological Department. "Extreme minimum temperature during winter season in Thailand 60-year period (1951–2010)" (PDF). TMD website.
+        └────── Link: {'text:"Extreme minimum temperature during winter season in Thailand 60-year period (1951–2010)"': 'http://www.tmd.go.th/programs/uploads/tempstat/min_stat_latest_en.pdf'}
+        [8, 90] Type: Item
+        │       Label: Popovich, Nadja; Migliozzi, Blacki; Taylor, Rumsey; Williams, Josh; Watkins, Derek (n.d.). "How Much Hotter Is Your Hometown Than When You Were Born?" (Interactive graphic). New York Times. NASA Goddard Institute for Space Studies. Retrieved 1 September 2018.
+        └────── Link: {'text:"How Much Hotter Is Your Hometown Than When You Were Born?"': 'https://www.nytimes.com/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html'}
+        [8, 91] Type: Item
+        │       Label: "Climatological Data for the Period 1981–2010". Thai Meteorological Department. pp. 16–17. Retrieved 31 July 2016.
+        └────── Link: {'text:"Climatological Data for the Period 1981–2010"': 'http://climate.tmd.go.th/content/file/75'}
+        [8, 92] Type: Item
+        │       Label: "ปริมาณการใช้น้ำของพืชอ้างอิงโดยวิธีของ Penman Monteith (Reference Crop Evapotranspiration by Penman Monteith)" (PDF). Office of Water Management and Hydrology, Royal Irrigation Department. Retrieved 9 June 2014.
+        └────── Link: {'text:"ปริมาณการใช้น้ำของพืชอ้างอิงโดยวิธีของ Penman Monteith (Reference Crop Evapotranspiration by Penman Monteith)"': 'http://water.rid.go.th/hwm/cropwater/CWRdata/ETo/ETo_PenMon_2554.pdf'}
+        [8, 93] Type: Item
+        │       Label: "แผนการบริหารจัดการน้ำและการเพาะปลูกพืชฤดูแล้งในเขตชลประทาน ปี 2556/2557" (PDF). Retrieved 10 June 2014.
+        └────── Link: {'text:"แผนการบริหารจัดการน้ำและการเพาะปลูกพืชฤดูแล้งในเขตชลประทาน ปี 2556/2557"': 'http://water.rid.go.th/flood/planfile/plan57.pdf'}
+        [8, 94] Type: Item
+        │       Label: "Climate of Bangkok" (in Russian). Weather and Climate (Погода и климат). Retrieved 8 October 2014.
+        └────── Link: {'text:"Climate of Bangkok"': 'http://www.pogodaiklimat.ru/climate2/48455.htm'}
+        [8, 95] Type: Item
+        │       Label: "Climate Normals for Bangkok". National Oceanic and Atmospheric Administration. Retrieved 4 November 2018.
+        └────── Link: {'text:"Climate Normals for Bangkok"': 'ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/RA-II/TH/48455.TXT', 'text:National Oceanic and Atmospheric Administration': 'http://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration'}
+        [8, 96] Type: Item
+        │       Label: Department of Provincial Administration, Ministry of Interior, Royal Thai Government. As of December 2009 (in Thai) Archived 2011-02-06 at the Wayback Machine
+        └────── Link: {'text:Department of Provincial Administration, Ministry of Interior, Royal Thai Government. As of December 2009': 'http://203.113.86.149/xstat/p5210_01.html', 'text:Archived': 'https://web.archive.org/web/20110206092856/http://203.113.86.149/xstat/p5210_01.html', 'text:Wayback Machine': 'http://en.wikipedia.org/wiki/Wayback_Machine'}
+        [8, 97] Type: Item
+        │       Label: Krongkaew, Medhi (1996). "The changing urban system in a fast-growing city and economy: The case of Bangkok and Thailand".  In Lo, Fu-chen; Yeung, Yue-man (eds.). Emerging World Cities in Pacific Asia. United Nations University Press. p. 322. ISBN 978-92-808-0907-7.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-92-808-0907-7': 'http://en.wikipedia.org/wiki/Special:BookSources/978-92-808-0907-7'}
+        [8, 98] Type: Item
+        │       Label: "History". CPD. City Planning Department. Archived from the original on 1 January 2013. Retrieved 25 September 2012.
+        └────── Link: {'text:"History"': 'https://web.archive.org/web/20130101120642/http://www.bangkokplan.org/website/index.php?option=com_wrapper&view=wrapper&Itemid=54&lang=en', 'text:the original': 'http://www.bangkokplan.org/website/index.php?option=com_wrapper&view=wrapper&Itemid=54&lang=en'}
+        [8, 99] Type: Item
+        │       Label: McGrath, Brian (2005). "Bangkok's CSD".  In Benites, Cecilia; Lyster, Clare (eds.). Regarding Public Space. New York: Princeton Architectural Press. pp. 46–53. ISBN 9781568985442.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9781568985442': 'http://en.wikipedia.org/wiki/Special:BookSources/9781568985442'}
+        [8, 100] Type: Item
+        └─────── Label: Hamilton 2000, pp. 465–466.
+        [8, 101] Type: Item
+        │        Label: "The World's Best Skylines".
+        └─────── Link: {'text:"The World\'s Best Skylines"': 'http://tudl0867.home.xs4all.nl/skylines.html'}
+        [8, 102] Type: Item
+        │        Label: Pornchokchai, Sopon (2003). "Global report on human settlements 2003 – City report: Bangkok" (PDF).
+        └─────── Link: {'text:"Global report on human settlements 2003 – City report: Bangkok"': 'http://www.thaiappraisal.org/pdfNew/HABITAT1new.pdf'}
+        [8, 103] Type: Item
+        │        Label: Thaiutsa, Bunvong; Puangchit, Ladawan; Kjelgren, Roger; Arunpraparut, Wanchai (1 August 2008). "Urban green space, street tree and heritage large tree assessment in Bangkok, Thailand". Urban Forestry & Urban Greening. 7 (3): 219–229. doi:10.1016/j.ufug.2008.03.002.
+        └─────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/j.ufug.2008.03.002': 'https://doi.org/10.1016%2Fj.ufug.2008.03.002'}
+        [8, 104] Type: Item
+        │        Label: Ocharoenchai, Nanticha (19 November 2018). "Seeing green is believing". Bangkok Post. Retrieved 14 December 2018.
+        └─────── Link: {'text:"Seeing green is believing"': 'https://www.bangkokpost.com/lifestyle/social-and-lifestyle/1578442/seeing-green-is-believing'}
+        [8, 105] Type: Item
+        │        Label: "Tower project 'suspicious'" (Editorial). Bangkok Post. 1 July 2017. Retrieved 1 July 2017.
+        └─────── Link: {'text:"Tower project \'suspicious\'"': 'http://www.bangkokpost.com/opinion/opinion/1278859/tower-project-suspicious'}
+        [8, 106] Type: Item
+        │        Label: "A shopping complex, or a 'green lung'". The Nation. 13 May 2015. Retrieved 13 May 2015.
+        └─────── Link: {'text:"A shopping complex, or a \'green lung\'"': 'http://www.nationmultimedia.com/opinion/A-shopping-complex-or-a-green-lung-30259964.html'}
+        [8, 107] Type: Item
+        │        Label: Yokohari, Makoto; Takeuchi, Kazuhiko; Watanabe, Takashi; Yokota, Shigehiro (10 April 2000). "Beyond greenbelts and zoning: A new planning concept for the environment of Asian mega-cities". Landscape and Urban Planning. 47 (3–4): 159–171. doi:10.1016/S0169-2046(99)00084-5.
+        └─────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/S0169-2046(99)00084-5': 'https://doi.org/10.1016%2FS0169-2046%2899%2900084-5'}
+        [8, 108] Type: Item
+        │        Label: Public Park Office, Environment Department. "Public Park Office website". Bangkok Metropolitan Administration. Retrieved 18 September 2012.CS1 maint: uses authors parameter (link)
+        └─────── Link: {'text:"Public Park Office website"': 'http://www.bangkok.go.th/publicpark/', 'text:link': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_uses_authors_parameter'}
+        [8, 109] Type: Item
+        │        Label: Statistical Forecasting Bureau (2010). 2010 Thailand Statistical Yearbook (Special edition) (PDF). National Statistical Office.
+        └─────── Link: {'text:2010 Thailand Statistical Yearbook (Special edition)': 'http://service.nso.go.th/nso/nsopublish/download/syb_53/SYB53_T.pdf'}
+        [8, 110] Type: Item
+        │        Label: "รายงานสถิติจำนวนประชากรและบ้าน ประจำปี พ.ศ. 2557 (Population and household statistics, 2014)". Department of Provincial Administration. Retrieved 30 July 2015.
+        └─────── Link: {'text:"รายงานสถิติจำนวนประชากรและบ้าน ประจำปี พ.ศ. 2557 (Population and household statistics, 2014)"': 'http://stat.bora.dopa.go.th/stat/statnew/statTDD/views/showDistrictData.php?rcode=10&statType=1&year=57'}
+        [8, 111] Type: Item
+        │        Label: "Table 5 Population by nationality and sex" (PDF). The 2010 Population and Housing Census: Bangkok. popcensus.nso.go.th. National Statistical Office. 2012. Retrieved 5 January 2019.
+        └─────── Link: {'text:"Table 5 Population by nationality and sex"': 'http://popcensus.nso.go.th/report/Bangkok_T.pdf'}
+        [8, 112] Type: Item
+        │        Label: Crawfurd, John (1830). Journal of an embassy from the governor-general of India to the courts of Siam and Cochin China; exhibiting a view of the actual state of those kingdoms. 2. London: H. Colburn and R. Bentley. p. 215.
+        └─────── Link: {'text:Journal of an embassy from the governor-general of India to the courts of Siam and Cochin China; exhibiting a view of the actual state of those kingdoms': 'https://archive.org/details/journalanembass03crawgoog', 'text:215': 'https://archive.org/details/journalanembass03crawgoog/page/n239'}
+        [8, 113] Type: Item
+        │        Label: Sternstein, Larry (March 1984). "The growth of the population of the world's pre-eminent "primate city": Bangkok at its bicentenary". Journal of Southeast Asian Studies. 15 (1): 43–68. doi:10.1017/S0022463400012200. PMID 12266027.
+        └─────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1017/S0022463400012200': 'https://doi.org/10.1017%2FS0022463400012200', 'text:PMID': 'http://en.wikipedia.org/wiki/PubMed_Identifier', 'text:12266027': 'http://pubmed.ncbi.nlm.nih.gov/12266027'}
+        [8, 114] Type: Item
+        │        Label: Fong, Jack (May 2012). "Political Vulnerabilities of a Primate City: The May 2010 Red Shirts Uprising in Bangkok, Thailand". Journal of Asian and African Studies. 48 (3): 332–347. doi:10.1177/0021909612453981.
+        └─────── Link: {'text:"Political Vulnerabilities of a Primate City: The May 2010 Red Shirts Uprising in Bangkok, Thailand"': 'https://www.researchgate.net/publication/270425419', 'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1177/0021909612453981': 'https://doi.org/10.1177%2F0021909612453981'}
+        [8, 115] Type: Item
+        │        Label: Thak Chaloemtiarana (2007), Thailand: The Politics of Despotic Paternalism, Ithaca, NY: Cornell Southeast Asia Program, pp. 245–246, ISBN 978-0-8772-7742-2
+        └─────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-8772-7742-2': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-8772-7742-2'}
+        [8, 116] Type: Item
+        │        Label: Askew, Marc (2004). Bangkok: Place, Practice and Representation. p. 38. ISBN 978-1134659869.
+        └─────── Link: {'text:Bangkok: Place, Practice and Representation': 'https://books.google.com/books?id=Bt6FAgAAQBAJ', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1134659869': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1134659869'}
+        [8, 117] Type: Item
+        └─────── Label: Thavisin et al. (eds) 2006, p. 7.
+        [8, 118] Type: Item
+        │        Label: Caldwell, John C. (1967). "The Demographic Structure".  In Silcock, T.H. (ed.). Thailand, Social and Economic Studies in Development. Canberra: Australian National University Press. pp. 29–33. and Skinner, G. William (1957). Chinese Society in Thailand: An Analytical History. Ithaca, NY: Cornell University Press. pp. 17–18. cited in Goldstein, Sidney (August 1972). The Demography of Bangkok: A case study of differentials between big city and rural populations (PDF). Research reports. Bangkok: Institute of Population Studies, Chulalongkorn University. p. 32. Archived from the original (PDF) on 31 July 2013.
+        └─────── Link: {'text:The Demography of Bangkok: A case study of differentials between big city and rural populations': 'https://web.archive.org/web/20130731203525/http://www.cps.chula.ac.th/pop_info_2551/Image+Data/Publications/Cps_res/Data/RR-No07_Full.pdf', 'text:the original': 'http://www.cps.chula.ac.th/pop_info_2551/Image+Data/Publications/Cps_res/Data/RR-No07_Full.pdf'}
+        [8, 119] Type: Item
+        │        Label: Chen, Jennifer (20 March 2007). "Shophouses: Reviving the distinctive face of Bangkok" – via New York Times.
+        └─────── Link: {'text:"Shophouses: Reviving the distinctive face of Bangkok"': 'https://www.nytimes.com/2007/03/20/realestate/20iht-reshop.4966716.html'}
+        [8, 120] Type: Item
+        │        Label: "Table 4 Population by religion, region and area: 2010". National Statistical Office. National Statistics Office. Retrieved 18 September 2012.
+        └─────── Link: {'text:"Table 4 Population by religion, region and area: 2010"': 'http://service.nso.go.th/nso/nso_center/project/table/files/C-pop/2553/000/00_C-pop_2553_000_010000_00400.xls'}
+        [8, 121] Type: Item
+        └─────── Label: NESDB 2012, pp. 26, 39–40, 48–49, 62–63, 218–219.
+        [8, 122] Type: Item
+        └─────── Label: Naudin (ed.) 2010, p. 85.
+        [8, 123] Type: Item
+        └─────── Label: NESDB 2012, pp.48–49, 62–63, 218–219.
+        [8, 124] Type: Item
+        └─────── Label: Naudin (ed.) 2010, p. 83.
+        [8, 125] Type: Item
+        │        Label: "Internal tourism in Bangkok" (PDF). Department of Tourism. Archived from the original (PDF) on 7 December 2013. Retrieved 22 September 2012.
+        └─────── Link: {'text:"Internal tourism in Bangkok"': 'https://web.archive.org/web/20131207064853/http://www.tourism.go.th/2010/upload/filecenter/file/stat_2554/Sep/Update53%20on%206sep/bangkok.pdf', 'text:the original': 'http://www.tourism.go.th/2010/upload/filecenter/file/stat_2554/Sep/Update53%20on%206sep/bangkok.pdf'}
+        [8, 126] Type: Item
+        └─────── Label: Stock Exchange of Thailand 2012, pp. 22, 25.
+        [8, 127] Type: Item
+        │        Label: Globalization and World Cities Research Network (13 November 2018). "The World According to GaWC 2018". GaWC website. Loughborough University. Retrieved 27 February 2018.
+        └─────── Link: {'text:"The World According to GaWC 2018"': 'https://www.lboro.ac.uk/gawc/world2018t.html'}
+        [8, 128] Type: Item
+        │        Label: Yeandle, Mark (March 2012). The Global Financial Centres Index 11 (PDF). Long Finance. p. 5. ISBN 978-0-9546207-7-6. Archived from the original (PDF) on 19 March 2012. Retrieved 25 September 2012.
+        └─────── Link: {'text:The Global Financial Centres Index 11': 'https://web.archive.org/web/20120319194027/http://www.longfinance.net/Publications/GFCI%2011.pdf', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-9546207-7-6': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-9546207-7-6', 'text:the original': 'http://www.longfinance.net/Publications/GFCI%2011.pdf'}
+        [8, 129] Type: Item
+        │        Label: "The World's Biggest Public Companies". Forbes.com. Forbes.com LLC. April 2012. Retrieved 25 September 2012.
+        └─────── Link: {'text:"The World\'s Biggest Public Companies"': 'https://www.forbes.com/global2000/'}
+        [8, 130] Type: Item
+        │        Label: "Fortune's annual ranking of the world's largest corporations". CNN. July 2012. Retrieved 23 July 2012.
+        └─────── Link: {'text:"Fortune\'s annual ranking of the world\'s largest corporations"': 'http://money.cnn.com/magazines/fortune/global500/2012/full_list/index.html'}
+        [8, 131] Type: Item
+        │        Label: "ตารางที่ 1.2 สัดส่วนคนจนด้านรายจ่าย จำแนกตามภาคและพื้นที่ ปี พ.ศ. 2531–2553 (Poverty rates by expenses, sorted by region and area, 1988–2010)". Social and Quality of Life Database System (in Thai). Office of the National Economic and Social Development Board. 26 September 2011. Archived from the original on 4 September 2015. Retrieved 25 September 2012.
+        └─────── Link: {'text:"ตารางที่ 1.2 สัดส่วนคนจนด้านรายจ่าย จำแนกตามภาคและพื้นที่ ปี พ.ศ. 2531–2553 (Poverty rates by expenses, sorted by region and area, 1988–2010)"': 'https://web.archive.org/web/20150904061248/http://social.nesdb.go.th/SocialStat/StatReport_Final.aspx?reportid=299&template=2R1C&yeartype=M&subcatid=31', 'text:the original': 'http://social.nesdb.go.th/SocialStat/StatReport_Final.aspx?reportid=299&template=2R1C&yeartype=M&subcatid=31'}
+        [8, 132] Type: Item
+        │        Label: Moreno, Eduardo López; Oyeyinka, Oyebanji; Mboup, Gora (2008). State of the World's Cities 2010/2011 – Cities for All: Bridging the Urban Divide. State of the World's Cities. London, Sterling, VA: Earthscan. p. 194. ISBN 978-1-84971-176-0. Archived from the original (PDF) on 23 May 2012. Retrieved 25 September 2012.
+        └─────── Link: {"text:State of the World's Cities 2010/2011 – Cities for All: Bridging the Urban Divide": 'https://web.archive.org/web/20120523102723/http://www.unhabitat.org/pmss/getElectronicVersion.aspx?nr=2917&alt=1', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-84971-176-0': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-84971-176-0', 'text:the original': 'http://www.unhabitat.org/pmss/getElectronicVersion.aspx?nr=2917&alt=1'}
+        [8, 133] Type: Item
+        │        Label: "Big Cities, Big Business: Bangkok, London and Paris Lead the Way in Mastercard's 2018 Global Destination Cities Index" (Press release). 25 September 2018. Retrieved 6 October 2018.
+        └─────── Link: {'text:"Big Cities, Big Business: Bangkok, London and Paris Lead the Way in Mastercard\'s 2018 Global Destination Cities Index"': 'https://newsroom.mastercard.com/press-releases/big-cities-big-business-bangkok-london-and-paris-lead-the-way-in-mastercards-2018-global-destination-cities-index/'}
+        [8, 134] Type: Item
+        │        Label: "Bangkok Claims Title as World's Most Visited City: 2016 Mastercard Global Destination Cities Index" (Press release). Mastercard. 22 September 2016.
+        └─────── Link: {'text:"Bangkok Claims Title as World\'s Most Visited City: 2016 Mastercard Global Destination Cities Index"': 'http://newsroom.mastercard.com/asia-pacific/press-releases/bangkok-claims-title-as-worlds-most-visited-city-2016-mastercard-global-destination-cities-index/'}
+        [8, 135] Type: Item
+        │        Label: "Defining What Makes a City a Destination (2017 Destination Index)" (Press release). MasterCard. 26 September 2017. Retrieved 6 October 2018.
+        └─────── Link: {'text:"Defining What Makes a City a Destination (2017 Destination Index)"': 'https://newsroom.mastercard.com/press-releases/defining-what-makes-a-city-a-destination/'}
+        [8, 136] Type: Item
+        │        Label: "Top 100 Cities Destination Ranking". Euromonitor International. 21 January 2013. Retrieved 6 June 2013.
+        └─────── Link: {'text:"Top 100 Cities Destination Ranking"': 'http://blog.euromonitor.com/2016/01/top-100-city-destinations-ranking-2016.html'}
+        [8, 137] Type: Item
+        │        Label: "2013 World's Best Cities". Travel + Leisure. American Express Publishing Corporation. Retrieved 31 July 2013.
+        └─────── Link: {'text:"2013 World\'s Best Cities"': 'http://www.travelandleisure.com/worldsbest/2013/cities'}
+        [8, 138] Type: Item
+        │        Label: Talty, Alexandra (26 September 2017). "Bangkok Named Most Popular City For International Tourists in 2017". Forbes. Retrieved 2 October 2017.
+        └─────── Link: {'text:"Bangkok Named Most Popular City For International Tourists in 2017"': 'https://www.forbes.com/sites/alexandratalty/2017/09/26/bangkok-named-most-popular-city-for-international-tourists-in-2017/#6fc3021725a2'}
+        [8, 139] Type: Item
+        │        Label: Hao, Karen (26 September 2017). "The overwhelming majority of popular tourist destinations are in Asia". Quartz. Retrieved 2 October 2017.
+        └─────── Link: {'text:"The overwhelming majority of popular tourist destinations are in Asia"': 'https://qz.com/1086848/bangkok-london-and-paris-are-the-most-popular-tourist-destinations-in-the-world/'}
+        [8, 140] Type: Item
+        │        Label: Hunter, Marnie (26 September 2017). "10 most popular cities for international travelers in 2017". CNN Travel (Cable News Network). Retrieved 2 October 2017.
+        └─────── Link: {'text:"10 most popular cities for international travelers in 2017"': 'http://www.cnn.com/travel/article/most-popular-cities-international-travel-2017-mastercard/index.html', 'text:Cable News Network': 'http://en.wikipedia.org/wiki/Cable_News_Network'}
+        [8, 141] Type: Item
+        │        Label: Morton, Caitlin (26 September 2017). "The ten most visited cites of 2017". Conde Nast Traveler. Retrieved 2 October 2017.
+        └─────── Link: {'text:"The ten most visited cites of 2017"': 'https://www.cntraveler.com/galleries/2015-06-03/the-10-most-visited-cities-of-2015-london-bangkok-new-york'}
+        [8, 142] Type: Item
+        └─────── Label: Thavisin et al. (eds) 2006, pp. 63–69.
+        [8, 143] Type: Item
+        │        Label: Emmons, Ron; Eveland, Jennifer; White, Daniel (28 June 2011). Frommer's Southeast Asia. John Wiley & Sons. p. 79. ISBN 978-1-118-00979-6. Retrieved 8 April 2012.
+        └─────── Link: {"text:Frommer's Southeast Asia": 'https://books.google.com/books?id=4OnMMOZhn54C&pg=PA79', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-118-00979-6': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-118-00979-6'}
+        [8, 144] Type: Item
+        │        Label: Howard, Robert W. (June 2009). "Risky business? Asking tourists what hazards they actually encountered in Thailand". Tourism Management. 30 (3): 359–365. doi:10.1016/j.tourman.2008.08.007.
+        └─────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/j.tourman.2008.08.007': 'https://doi.org/10.1016%2Fj.tourman.2008.08.007'}
+        [8, 145] Type: Item
+        └─────── Label: Hamilton 2000, p. 468.
+        [8, 146] Type: Item
+        └─────── Label: Bhowmik, Sharit K (28 May – 4 June 2005). "Street Vendors in Asia: A Review". Economic and Political Weekly: 2256–2264.
+        [8, 147] Type: Item
+        │        Label: Nualkhair, Chawadee (12 February 2017). "Bangkok's street food under threat from gentrification". The Guardian. Retrieved 13 February 2017.
+        └─────── Link: {'text:"Bangkok\'s street food under threat from gentrification"': 'https://www.theguardian.com/travel/2017/feb/12/bangkok-street-food-stalls-under-threat'}
+        [8, 148] Type: Item
+        │        Label: Mokkhasen, Sasiwan (5 July 2016). "Vanishing Bangkok: What is the Capital Being Remade Into, And For Whom?". Khaosod English. Retrieved 3 February 2017.
+        └─────── Link: {'text:"Vanishing Bangkok: What is the Capital Being Remade Into, And For Whom?"': 'http://www.khaosodenglish.com/news/bangkok/2016/07/05/reorganization/'}
+        [8, 149] Type: Item
+        │        Label: Sauers, Craig (23 August 2016). "Bangkok's disappearing street food". BBC Travel. Retrieved 3 February 2017.
+        └─────── Link: {'text:"Bangkok\'s disappearing street food"': 'http://www.bbc.com/travel/story/20160817-bangkoks-disappearing-street-food'}
+        [8, 150] Type: Item
+        └─────── Label: Thavisin et al. (eds) 2006, p. 72.
+        [8, 151] Type: Item
+        │        Label: "ข้อมูลทั่วไป (General information)". Thai Rath Online. Wacharapol. Archived from the original on 11 September 2012. Retrieved 23 September 2012.
+        └─────── Link: {'text:"ข้อมูลทั่วไป (General information)"': 'https://web.archive.org/web/20120911034352/http://www.thairath.co.th/corp/index?subMenu=info', 'text:the original': 'http://www.thairath.co.th/corp/index?subMenu=info'}
+        [8, 152] Type: Item
+        │        Label: Chongkittavorn, Kavi (2002). "The Media and Access to Information in Thailand".  In Islam, Roumeen (ed.). The Right to Tell: The Role of Mass Media in Economic Development. WBI Development Studies. Washington, D.C.: The World Bank. pp. 255–266. ISBN 978-0-8213-5203-8.
+        └─────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-8213-5203-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-8213-5203-8'}
+        [8, 153] Type: Item
+        │        Label: Krich, John (6 March 2009). "Center Stage". The Wall Street Journal. Retrieved 26 September 2012.
+        └─────── Link: {'text:"Center Stage"': 'https://www.wsj.com/articles/SB123623705280938041'}
+        [8, 154] Type: Item
+        │        Label: "สรุปรายได้และปริมาณรถ: สิงหาคม 2555 (Revenue and traffic, August 2012)". EXAT website (in Thai). Expressway Authority of Thailand. 4 September 2012. Archived from the original on 23 September 2012. Retrieved 11 September 2012.
+        └─────── Link: {'text:"สรุปรายได้และปริมาณรถ: สิงหาคม 2555 (Revenue and traffic, August 2012)"': 'https://web.archive.org/web/20120923083010/http://www.exat.co.th/statistics/10/12/', 'text:the original': 'http://www.exat.co.th/statistics/10/12/'}
+        [8, 155] Type: Item
+        │        Label: "Developing Integrated Emission Strategies for Existing Land-transport" (PDF). Clean Air Initiative. Archived from the original (PDF) on 3 June 2013. Retrieved 15 September 2012.
+        └─────── Link: {'text:"Developing Integrated Emission Strategies for Existing Land-transport"': 'https://web.archive.org/web/20130603110642/http://cleanairinitiative.org/portal/system/files/articles-72628_Ch3.pdf', 'text:the original': 'http://cleanairinitiative.org/portal/system/files/articles-72628_Ch3.pdf'}
+        [8, 156] Type: Item
+        │        Label: "In Bangkok gridlock, Thai traffic police double as midwives". AFP. 17 April 2008. Archived from the original on 27 May 2013. Retrieved 22 September 2012.
+        └─────── Link: {'text:"In Bangkok gridlock, Thai traffic police double as midwives"': 'https://web.archive.org/web/20130527060147/http://afp.google.com/article/ALeqM5jMfzhH0cMlYhkVxkytUzlBScCrDQ', 'text:the original': 'http://afp.google.com/article/ALeqM5jMfzhH0cMlYhkVxkytUzlBScCrDQ'}
+        [8, 157] Type: Item
+        │        Label: Tanaboriboon, Yordphol (1993). "Bangkok traffic" (PDF). IATSS Research. 7 (1). Retrieved 15 September 2012.
+        └─────── Link: {'text:"Bangkok traffic"': 'http://iatss.or.jp/english/research/17-1/pdf/17-1-02.pdf'}
+        [8, 158] Type: Item
+        │        Label: Fuller, Thomas (23 February 2007). "Bangkok's template for an air-quality turnaround". New York Times. Retrieved 15 September 2012.
+        └─────── Link: {'text:"Bangkok\'s template for an air-quality turnaround"': 'https://www.nytimes.com/2007/02/23/world/asia/23iht-bangkok.html'}
+        [8, 159] Type: Item
+        │        Label: Thin Lei Win (18 May 2017). "Choked by traffic, Bangkok revs up to beat air pollution". Reuters. Retrieved 15 February 2018.
+        └─────── Link: {'text:"Choked by traffic, Bangkok revs up to beat air pollution"': 'https://www.reuters.com/article/us-bangkok-environment-pollution/choked-by-traffic-bangkok-revs-up-to-beat-air-pollution-idUSKCN18E0KB'}
+        [8, 160] Type: Item
+        │        Label: Chuwiruch, Natnicha; Suwannakij, Supunnabul (15 February 2018). "There's a New Contender for Title of Asia's Most Polluted City". Bloomberg. Retrieved 15 February 2018.
+        └─────── Link: {'text:"There\'s a New Contender for Title of Asia\'s Most Polluted City"': 'https://www.bloomberg.com/news/articles/2018-02-15/planning-a-vacation-in-bangkok-don-t-forget-your-pollution-mask'}
+        [8, 161] Type: Item
+        │        Label: "City smog worsens to danger level". Bangkok Post. 15 February 2018. Retrieved 15 February 2018.
+        └─────── Link: {'text:"City smog worsens to danger level"': 'https://www.bangkokpost.com/news/general/1412290/city-smog-worsens-to-danger-level'}
+        [8, 162] Type: Item
+        └─────── Label: Traffic and Transportation Department, p. 154.
+        [8, 163] Type: Item
+        └─────── Label: Traffic and Transportation Department, p. 112.
+        [8, 164] Type: Item
+        │        Label: Transport Statistics Sub-division, Planning Division. "Number of Vehicles Registered in Thailand as of 31 August 2012". Department of Land Transport website. Department of Land Transport. Archived from the original on 4 September 2015. Retrieved 16 September 2012.
+        └─────── Link: {'text:"Number of Vehicles Registered in Thailand as of 31 August 2012"': 'https://web.archive.org/web/20150904061249/http://apps.dlt.go.th/statistics_web/st1/bkk_Aug12.xls', 'text:the original': 'http://apps.dlt.go.th/statistics_web/st1/bkk_Aug12.xls'}
+        [8, 165] Type: Item
+        │        Label: Sereemongkonpol, Pornchai (14 September 2012). "Bangkok's best taxi drivers". Bangkok Post. Retrieved 16 September 2012.
+        └─────── Link: {'text:"Bangkok\'s best taxi drivers"': 'http://www.bangkokpost.com/feature/people/312301/bangkok-s-best-taxi-drivers'}
+        [8, 166] Type: Item
+        └─────── Label: Rujopakarn, Wiroj (October 2003). "Bangkok transport system development: what went wrong?". Journal of the Eastern Asia Society for Transportation Studies. 5: 3302–15.
+        [8, 167] Type: Item
+        │        Label: "Company's Profile". Bangkok Mass Transit System PCL Ltd. Retrieved 30 July 2019.
+        └─────── Link: {'text:"Company\'s Profile"': 'https://www.bts.co.th/eng/info/info-history.html'}
+        [8, 168] Type: Item
+        │        Label: "BTS Group Holdings – The Nation".
+        └─────── Link: {'text:"BTS Group Holdings – The Nation"': 'http://www.nationmultimedia.com/business/BTS-Group-Holding-Plc-30176106.html'}
+        [8, 169] Type: Item
+        │        Label: "New BMCL boss eyes boosting commercial revenue – The Nation".
+        └─────── Link: {'text:"New BMCL boss eyes boosting commercial revenue – The Nation"': 'http://www.nationmultimedia.com/business/New-BMCL-boss-eyes-boosting-commercial-revenue-30172472.html'}
+        [8, 170] Type: Item
+        └─────── Label: Traffic and Transportation Department, pp. 113–122.
+        [8, 171] Type: Item
+        │        Label: Sukdanont, Sumalee (July 2011). "ท่าเรือกรุงเทพ". Transportation Institute, Chulalongkorn University. Archived from the original on 5 March 2013. Retrieved 19 September 2012.
+        └─────── Link: {'text:"ท่าเรือกรุงเทพ"': 'https://web.archive.org/web/20130305120205/http://www.tri.chula.ac.th/triresearch/bangkokport/bangkokport.html', 'text:the original': 'http://www.tri.chula.ac.th/triresearch/bangkokport/bangkokport.html'}
+        [8, 172] Type: Item
+        │        Label: "สรุปผลการดำเนินงานของกทท. 8 เดือน ปีงบประมาณ 2553 (ต.ค.52-พ.ค.53)" (PDF). PAT website. Port Authority of Thailand. Archived from the original (PDF) on 20 November 2012. Retrieved 19 September 2012.
+        └─────── Link: {'text:"สรุปผลการดำเนินงานของกทท. 8 เดือน ปีงบประมาณ 2553 (ต.ค.52-พ.ค.53)"': 'https://web.archive.org/web/20121120152600/http://www.port.co.th/pat/topic7/stat_012.pdf', 'text:the original': 'http://www.port.co.th/pat/topic7/stat_012.pdf'}
+        [8, 173] Type: Item
+        │        Label: "2015 Year to date Passenger Traffic". www.aci.aero. Retrieved 10 December 2016.
+        └─────── Link: {'text:"2015 Year to date Passenger Traffic"': 'http://www.aci.aero/Data-Centre/Monthly-Traffic-Data/Passenger-Summary/Year-to-date'}
+        [8, 174] Type: Item
+        │        Label: "In With the Old", Aviation Week & Space Technology, 1 January 2007.
+        └─────── Link: {'text:Aviation Week & Space Technology': 'http://en.wikipedia.org/wiki/Aviation_Week_%26_Space_Technology'}
+        [8, 175] Type: Item
+        │        Label: Mahitthirook, Amornrat (1 October 2012). "Don Mueang airport reopens". Bangkok Post. Retrieved 11 October 2012.
+        └─────── Link: {'text:"Don Mueang airport reopens"': 'http://www.bangkokpost.com/news/local/314973/don-mueang-airport-reopens'}
+        [8, 176] Type: Item
+        │        Label: "Thai airport operator to spend $5.5 bln on expansion". Reuters Asia. Reuters. Retrieved 19 May 2017.
+        └─────── Link: {'text:"Thai airport operator to spend $5.5 bln on expansion"': 'https://www.reuters.com/article/thailand-airports-expansion-idUSL4N1983E9'}
+        [8, 177] Type: Item
+        │        Label: Lao, Rattana (2015). "The changing role of the Thai state and higher education administration". A Critical Study of Thailand's Higher Education Reforms: The culture of borrowing. Routledge Critical Studies in Asian Education. Routledge. ISBN 9781317691921.
+        └─────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9781317691921': 'http://en.wikipedia.org/wiki/Special:BookSources/9781317691921'}
+        [8, 178] Type: Item
+        │        Label: Bureau of Information and Communication Technology, OPS, MOE. Educational Statistics in Brief 2011. Ministry of Education. pp. 28–29. Archived from the original on 10 October 2014. Retrieved 15 June 2014.CS1 maint: uses authors parameter (link)
+        └─────── Link: {'text:Educational Statistics in Brief 2011': 'https://web.archive.org/web/20141010035137/http://www.mis.moe.go.th/mis-th/images/news-2555/260555/EIS/stat54/html/T001.html', 'text:the original': 'http://www.mis.moe.go.th/mis-th/images/news-2555/260555/EIS/stat54/html/T001.html', 'text:link': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_uses_authors_parameter'}
+        [8, 179] Type: Item
+        │        Label: "QS World University Rankings". QS Quacquarelli Symonds Limited. Retrieved 26 September 2012.
+        └─────── Link: {'text:"QS World University Rankings"': 'http://www.topuniversities.com/university-rankings/world-university-rankings/2012'}
+        [8, 180] Type: Item
+        │        Label: "King Mongkut's University of Technology, Thonburi". Times Higher Education World University Rankings. TSL Education. Retrieved 20 April 2013.
+        └─────── Link: {'text:"King Mongkut\'s University of Technology, Thonburi"': 'http://www.timeshighereducation.co.uk/world-university-rankings/2012-13/world-ranking/institution/king-mongkuts-university-of-technology-thonburi'}
+        [8, 181] Type: Item
+        │        Label: Nitungkorn, Sukanya (June 1988). "The problems of secondary education expansion in Thailand" (PDF). Southeast Asian Studies. 26 (1). Retrieved 22 September 2012.
+        └─────── Link: {'text:"The problems of secondary education expansion in Thailand"': 'http://kyoto-seas.org/pdf/26/1/260102.pdf'}
+        [8, 182] Type: Item
+        │        Label: Nishiura, Hiroshi; Barua, Sujan; Lawpoolsri, Saranath; Kittitrakul, Chatporn; Leman, Martinus Martin; Maha, Masri Sembiring; Muangnoicharoen, Sant (3 September 2004). "Health inequalities in Thailand: geographic distribution of medical supplies in the provinces" (PDF). Southeast Asian Journal of Tropical Medicine and Public Health. 35 (3): 735–40. PMID 15689097. Archived from the original (PDF) on 3 March 2016.
+        └─────── Link: {'text:"Health inequalities in Thailand: geographic distribution of medical supplies in the provinces"': 'https://web.archive.org/web/20160303175713/http://www.tm.mahidol.ac.th/seameo/2004_35_3/42-3238.pdf', 'text:PMID': 'http://en.wikipedia.org/wiki/PubMed_Identifier', 'text:15689097': 'http://pubmed.ncbi.nlm.nih.gov/15689097', 'text:the original': 'http://www.tm.mahidol.ac.th/seameo/2004_35_3/42-3238.pdf'}
+        [8, 183] Type: Item
+        │        Label: "สถิติสถานพยาบาลเอกชน ปี 2554 (Private healthcare provider statistics, 2011)". Medical Registration Division, Department of Health Service Support, Ministry of Public Health. Archived from the original (Microsoft Excel spreadsheet) on 1 May 2013. Retrieved 15 September 2012.
+        └─────── Link: {'text:"สถิติสถานพยาบาลเอกชน ปี 2554 (Private healthcare provider statistics, 2011)"': 'https://web.archive.org/web/20130501194858/http://203.157.6.204/Admin/filestat/57.xls', 'text:the original': 'http://203.157.6.204/Admin/filestat/57.xls'}
+        [8, 184] Type: Item
+        │        Label: Eden, Caroline (4 September 2012). "The rise of medical tourism in Bangkok". BBC. Retrieved 22 September 2012.
+        └─────── Link: {'text:"The rise of medical tourism in Bangkok"': 'http://www.bbc.com/travel/feature/20120828-the-rise-of-medical-tourism-in-bangkok'}
+        [8, 185] Type: Item
+        │        Label: This article incorporates public domain material from the Overseas Security Advisory Council document: "Thailand 2012 Crime and Safety Report: Bangkok". Overseas Security Advisory Council website. Bureau of Diplomatic Security, U.S. Department of State. 14 March 2012. Retrieved 24 September 2012.
+        └─────── Link: {'text:public domain material': 'http://en.wikipedia.org/wiki/Copyright_status_of_works_by_the_federal_government_of_the_United_States', 'text:Overseas Security Advisory Council': 'http://en.wikipedia.org/wiki/Overseas_Security_Advisory_Council', 'text:"Thailand 2012 Crime and Safety Report: Bangkok"': 'https://www.osac.gov/Pages/ContentReportDetails.aspx?cid=12189'}
+        [8, 186] Type: Item
+        │        Label: "Thailand tops road death ranking list". Bangkok Post. Retrieved 23 May 2019.
+        └─────── Link: {'text:"Thailand tops road death ranking list"': 'https://www.bangkokpost.com/news/general/1376875/thailand-tops-road-death-ranking-list'}
+        [8, 187] Type: Item
+        │        Label: "Thailand profile". BBC News. 9 January 2018. Retrieved 25 December 2018.
+        └─────── Link: {'text:"Thailand profile"': 'https://www.bbc.com/news/world-asia-15641745'}
+        [8, 188] Type: Item
+        └─────── Label: Watanavanich, Prathan (1995). "Urban Crime in the Changing Thai Society: The Case of Bangkok Metropolis".  In Miyazawa, Koichi; Miyazawa, Setsuo (eds.). Crime Prevention in the Urban Community. Deventer, The Netherlands: Kluwer Law and Taxation Publishers. pp. 193–210.
+        [8, 189] Type: Item
+        │        Label: Davis, Antony (13 October 2000). "Bangkok as Crime Central". Asiaweek. 26 (40). Retrieved 24 September 2012.
+        └─────── Link: {'text:"Bangkok as Crime Central"': 'http://edition.cnn.com/ASIANOW/asiaweek/magazine/2000/1013/nat.thailand.html'}
+        [8, 190] Type: Item
+        │        Label: AFP. "Thai police seize $45 million worth of meth from convoy in Bangkok". Frontier Myanmar. Retrieved 25 December 2018.
+        └─────── Link: {'text:"Thai police seize $45\xa0million worth of meth from convoy in Bangkok"': 'https://frontiermyanmar.net/en/thai-police-seize-45-million-worth-of-meth-from-convoy-in-bangkok'}
+        [8, 191] Type: Item
+        │        Label: "Thai Police Seize $20 Million Worth of 'Yaba' Meth Pills". BenarNews. Retrieved 25 December 2018.
+        └─────── Link: {'text:"Thai Police Seize $20 Million Worth of \'Yaba\' Meth Pills"': 'https://www.benarnews.org/english/news/thai/drug-raids-07052017163506.html'}
+        [8, 192] Type: Item
+        │        Label: สถิติคดีอาญา 5 กลุ่ม ปี 2553 [5-group criminal case statistics, 2010]. สถิติคดีอาญา (Criminal case statistics) (in Thai). Office of Information and Communication Technology, Royal Thai Police. Archived from the original (XLS) on 27 August 2011. Retrieved 24 September 2012.
+        └─────── Link: {'text:สถิติคดีอาญา 5 กลุ่ม ปี 2553': 'https://web.archive.org/web/20110827062830/http://statistic.police.go.th/stat/40_50/MONTH53.xls', 'text:the original': 'http://statistic.police.go.th/stat/40_50/MONTH53.xls'}
+        [8, 193] Type: Item
+        │        Label: "ข้อมูลสถิติอาชญากรรมภาคประชาชนในกรุงเทพมหานคร (Crime victim statistics, Bangkok)" (PDF). Thailand Crime Victim Survey, 2007. Office of Justice Affairs. Archived from the original (PDF) on 4 September 2015. Retrieved 24 September 2012.
+        └─────── Link: {'text:"ข้อมูลสถิติอาชญากรรมภาคประชาชนในกรุงเทพมหานคร (Crime victim statistics, Bangkok)"': 'https://web.archive.org/web/20150904061248/http://www.thaicvs.org/images/51/13Bkk.pdf', 'text:the original': 'http://www.thaicvs.org/images/51/13Bkk.pdf'}
+        [8, 194] Type: Item
+        └─────── Label: Traffic and Transportation Department, pp. 138–144.
+        [8, 195] Type: Item
+        │        Label: "Stray Dogs Overwhelming Bangkok". National Geographic. National Geographic Society. AP. 8 June 2009. Retrieved 24 September 2012.
+        └─────── Link: {'text:"Stray Dogs Overwhelming Bangkok"': 'http://news.nationalgeographic.com/news/2009/06/090608-thailand-straydogs-video-ap.html'}
+        [8, 196] Type: Item
+        │        Label: Bhanganada, Kasian; Wilde, Henry; Sakolsataydorn, Piyasakol; Oonsombat, Pairoj (December 1993). "Dog-bite injuries at a Bangkok teaching hospital". Acta Tropica. 55 (4): 249–255. doi:10.1016/0001-706X(93)90082-M. PMID 8147281.
+        └─────── Link: {'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1016/0001-706X(93)90082-M': 'https://doi.org/10.1016%2F0001-706X%2893%2990082-M', 'text:PMID': 'http://en.wikipedia.org/wiki/PubMed_Identifier', 'text:8147281': 'http://pubmed.ncbi.nlm.nih.gov/8147281'}
+    [9] Type: List
+    │   Label: Bibliography
+    │   Dimension: 1
+    └── Number of Member: 6
+        [9, 0] Type: Item
+        │      Label: Baker, Chris; Phongpaichit, Pasuk (2005). A History of Thailand. Cambridge University Press. ISBN 978-0-521-01647-6.
+        └───── Link: {'text:A History of Thailand': 'https://archive.org/details/historyofthailan00bake', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-521-01647-6': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-521-01647-6'}
+        [9, 1] Type: Item
+        │      Label: Hamilton, Annette (2000). "Wonderful, Terrible: Everyday Life in Bangkok".  In Bridge, Gary; Vatson, Sophie (eds.). A Companion to the City. Blackwell Publishing. pp. 460–471. ISBN 978-0-631-23578-1.
+        └───── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-631-23578-1': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-631-23578-1'}
+        [9, 2] Type: Item
+        │      Label: Naudin, Thierry, ed. (2010). The State of Asian Cities 2010/11 (PDF). United Nations Human Settlements Programme. ISBN 978-92-1-132274-3. Archived from the original (PDF) on 19 January 2013. Retrieved 25 September 2012.
+        └───── Link: {'text:The State of Asian Cities 2010/11': 'https://web.archive.org/web/20130119175347/http://www.unescap.org/esd/apuf-5/documents/SACR.pdf', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-92-1-132274-3': 'http://en.wikipedia.org/wiki/Special:BookSources/978-92-1-132274-3', 'text:the original': 'http://www.unescap.org/esd/apuf-5/documents/sacr.pdf'}
+        [9, 3] Type: Item
+        │      Label: Office of the National Economic and Social Development Board (NESDB) (August 2012). Gross Regional and Provincial Product chain volume measures 1995–2010 edition. Office of the National Economic and Social Development Board. Archived from the original (ZIP/PDF) on 4 February 2013. Retrieved 25 September 2012.
+        └───── Link: {'text:Gross Regional and Provincial Product chain volume measures 1995–2010 edition': 'https://web.archive.org/web/20130204201228/http://www.nesdb.go.th/Portals/0/eco_datas/account/gpp/2010/All%20GPP%20Book%202010p.zip', 'text:the original': 'http://www.nesdb.go.th/Portals/0/eco_datas/account/gpp/2010/All%20GPP%20Book%202010p.zip'}
+        [9, 4] Type: Item
+        │      Label: Thavisin, Nathanon; Semson, Pongsak; Padhanarath, Kriengpol, eds. (2006). Your Key to Bangkok. Bangkok: International Affairs Division, Bangkok Metropolitan Administration. ISBN 978-974-9565-72-8. Archived from the original on 2 October 2013.
+        └───── Link: {'text:Your Key to Bangkok': 'https://web.archive.org/web/20131002125223/http://office.bangkok.go.th/iad/eng/viewpage.php?page_id=17', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-974-9565-72-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-974-9565-72-8', 'text:the original': 'http://office.bangkok.go.th/iad/eng/viewpage.php?page_id=17'}
+        [9, 5] Type: Item
+        │      Label: Traffic and Transportation Department (2011). สถิติจราจร ปี 2553 (Traffic statistics, 2010) (PDF). Traffic and Transportation Department, Bangkok Metropolitan Administration. Archived from the original (PDF) on 19 September 2018. Retrieved 19 September 2018.
+        └───── Link: {'text:สถิติจราจร ปี 2553 (Traffic statistics, 2010)': 'https://web.archive.org/web/20180919171614/http://bhs.doh.go.th/files/accident/53/report_accident53.pdf', 'text:the original': 'http://bhs.doh.go.th/files/accident/53/report_accident53.pdf'}
+    [10] Type: List
+    │    Label: Further reading
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [10, 0] Type: Item
+        │       Label: Cornwel-Smith, Philip (2020). Very Bangkok; In the City of the Senses (Book review). Bangkok: River Books. ISBN 9786164510432. Retrieved 21 February 2020.
+        └────── Link: {'text:Very Bangkok; In the City of the Senses': 'https://www.bangkokpost.com/life/arts-and-entertainment/1862459/a-love-letter-to-a-city-in-flux', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9786164510432': 'http://en.wikipedia.org/wiki/Special:BookSources/9786164510432'}
+        [10, 1] Type: Item
+        │       Label: Ünaldi, Serhat (May 2016). Working Towards the Monarchy; The Politics of Space in Downtown Bangkok (Hardcover ed.). University of Hawaii Press. ISBN 9780824855727. Retrieved 31 May 2019.
+        └────── Link: {'text:Working Towards the Monarchy; The Politics of Space in Downtown Bangkok': 'https://uhpress.hawaii.edu/title/working-towards-the-monarchy-the-politics-of-space-in-downtown-bangkok/', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9780824855727': 'http://en.wikipedia.org/wiki/Special:BookSources/9780824855727'}
+        [10, 2] Type: Item
+        │       Label: Van Beek, Steve (2018). News from the 90s; Bangkok 1890–1899. Bangkok: ปิยวีร์ รื่นจินดา. ISBN 9786169317104. Retrieved 24 November 2018.
+        └────── Link: {'text:News from the 90s; Bangkok 1890–1899': 'https://www.asiabooks.com/news-from-the-90s-bangkok-1890-1899-225724.html', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9786169317104': 'http://en.wikipedia.org/wiki/Special:BookSources/9786169317104'}
+    [11] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 9
+        [11, 0] Type: Item
+        │       Label: Definitions from Wiktionary
+        └────── Link: {'text:Definitions': 'https://en.wiktionary.org/wiki/Special:Search/Bangkok'}
+        [11, 1] Type: Item
+        │       Label: Media from Wikimedia Commons
+        └────── Link: {'text:Media': 'https://commons.wikimedia.org/wiki/Special:Search/Bangkok'}
+        [11, 2] Type: Item
+        │       Label: News from Wikinews
+        └────── Link: {'text:News': 'https://en.wikinews.org/wiki/Special:Search/Bangkok'}
+        [11, 3] Type: Item
+        │       Label: Quotations from Wikiquote
+        └────── Link: {'text:Quotations': 'https://en.wikiquote.org/wiki/Special:Search/Bangkok'}
+        [11, 4] Type: Item
+        │       Label: Texts from Wikisource
+        └────── Link: {'text:Texts': 'https://en.wikisource.org/wiki/Special:Search/Bangkok'}
+        [11, 5] Type: Item
+        │       Label: Textbooks from Wikibooks
+        └────── Link: {'text:Textbooks': 'https://en.wikibooks.org/wiki/Special:Search/Bangkok'}
+        [11, 6] Type: Item
+        │       Label: Travel guide from Wikivoyage
+        └────── Link: {'text:Travel guide': 'https://en.wikivoyage.org/wiki/Bangkok'}
+        [11, 7] Type: Item
+        │       Label: Resources from Wikiversity
+        └────── Link: {'text:Resources': 'https://en.wikiversity.org/wiki/Special:Search/Bangkok'}
+        [11, 8] Type: Item
+        │       Label: Data from Wikidata
+        └────── Link: {'text:Data': 'https://www.wikidata.org/wiki/Q1861'}
+    [12] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [12, 0] Type: Item
+        │       Label: Bangkok Metropolitan Administration official website
+        └────── Link: {'text:Bangkok Metropolitan Administration official website': 'http://www.bangkok.go.th'}
+        [12, 1] Type: Item
+        │       Label: bangkoktourist.com - Official travel guide by the BMA Culture, Sports and Tourism Department
+        └────── Link: {'text:bangkoktourist.com - Official travel guide by the BMA Culture, Sports and Tourism Department': 'http://www.bangkoktourist.com/'}
+        [12, 2] Type: Item
+        │       Label: Tourism Authority of Thailand (Bangkok)
+        └────── Link: {'text:Tourism Authority of Thailand (Bangkok)': 'https://www.tourismthailand.org/About-Thailand/Destination/Bangkok'}
+    [13] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [13, 0] Type: Item
+        │       Label: Bangkok
+        └────── Link: {'text:Bangkok': 'http://en.wikipedia.org/wiki/Category:Bangkok'}
+        [13, 1] Type: Item
+        │       Label: Capitals in Asia
+        └────── Link: {'text:Capitals in Asia': 'http://en.wikipedia.org/wiki/Category:Capitals_in_Asia'}
+        [13, 2] Type: Item
+        │       Label: Cities and towns in Thailand
+        └────── Link: {'text:Cities and towns in Thailand': 'http://en.wikipedia.org/wiki/Category:Cities_and_towns_in_Thailand'}
+        [13, 3] Type: Item
+        │       Label: Populated places established in the 18th century
+        └────── Link: {'text:Populated places established in the 18th century': 'http://en.wikipedia.org/wiki/Category:Populated_places_established_in_the_18th_century'}
+        [13, 4] Type: Item
+        │       Label: Provinces of Thailand
+        └────── Link: {'text:Provinces of Thailand': 'http://en.wikipedia.org/wiki/Category:Provinces_of_Thailand'}
+        [13, 5] Type: Item
+        │       Label: Gulf of Thailand
+        └────── Link: {'text:Gulf of Thailand': 'http://en.wikipedia.org/wiki/Category:Gulf_of_Thailand'}
+        [13, 6] Type: Item
+        │       Label: 18th-century establishments in Asia
+        └────── Link: {'text:18th-century establishments in Asia': 'http://en.wikipedia.org/wiki/Category:18th-century_establishments_in_Asia'}
+        [13, 7] Type: Item
+        │       Label: Populated places on the Chao Phraya River
+        └────── Link: {'text:Populated places on the Chao Phraya River': 'http://en.wikipedia.org/wiki/Category:Populated_places_on_the_Chao_Phraya_River'}
+    [14] Type: List
+    │    Label: External links
+    │    Dimension: 1
+    └─── Number of Member: 32
+        [14, 0] Type: Item
+        │       Label: Articles containing Thai-language text
+        └────── Link: {'text:Articles containing Thai-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text'}
+        [14, 1] Type: Item
+        │       Label: Articles with hAudio microformats
+        └────── Link: {'text:Articles with hAudio microformats': 'http://en.wikipedia.org/wiki/Category:Articles_with_hAudio_microformats'}
+        [14, 2] Type: Item
+        │       Label: CS1 uses Thai-language script (th)
+        └────── Link: {'text:CS1 uses Thai-language script (th)': 'http://en.wikipedia.org/wiki/Category:CS1_uses_Thai-language_script_(th)'}
+        [14, 3] Type: Item
+        │       Label: CS1 Thai-language sources (th)
+        └────── Link: {'text:CS1 Thai-language sources (th)': 'http://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)'}
+        [14, 4] Type: Item
+        │       Label: All articles with dead external links
+        └────── Link: {'text:All articles with dead external links': 'http://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links'}
+        [14, 5] Type: Item
+        │       Label: Articles with dead external links from July 2017
+        └────── Link: {'text:Articles with dead external links from July 2017': 'http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2017'}
+        [14, 6] Type: Item
+        │       Label: Articles with permanently dead external links
+        └────── Link: {'text:Articles with permanently dead external links': 'http://en.wikipedia.org/wiki/Category:Articles_with_permanently_dead_external_links'}
+        [14, 7] Type: Item
+        │       Label: Pages with DOIs inactive as of 2020 March
+        └────── Link: {'text:Pages with DOIs inactive as of 2020 March': 'http://en.wikipedia.org/wiki/Category:Pages_with_DOIs_inactive_as_of_2020_March'}
+        [14, 8] Type: Item
+        │       Label: CS1 Russian-language sources (ru)
+        └────── Link: {'text:CS1 Russian-language sources (ru)': 'http://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)'}
+        [14, 9] Type: Item
+        │       Label: Articles with Thai-language sources (th)
+        └────── Link: {'text:Articles with Thai-language sources (th)': 'http://en.wikipedia.org/wiki/Category:Articles_with_Thai-language_sources_(th)'}
+        [14, 10] Type: Item
+        │        Label: Webarchive template wayback links
+        └─────── Link: {'text:Webarchive template wayback links': 'http://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links'}
+        [14, 11] Type: Item
+        │        Label: CS1 maint: uses authors parameter
+        └─────── Link: {'text:CS1 maint: uses authors parameter': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_uses_authors_parameter'}
+        [14, 12] Type: Item
+        │        Label: Use dmy dates from October 2013
+        └─────── Link: {'text:Use dmy dates from October 2013': 'http://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_October_2013'}
+        [14, 13] Type: Item
+        │        Label: Articles with short description
+        └─────── Link: {'text:Articles with short description': 'http://en.wikipedia.org/wiki/Category:Articles_with_short_description'}
+        [14, 14] Type: Item
+        │        Label: Coordinates on Wikidata
+        └─────── Link: {'text:Coordinates on Wikidata': 'http://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata'}
+        [14, 15] Type: Item
+        │        Label: Articles containing Khmer-language text
+        └─────── Link: {'text:Articles containing Khmer-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_Khmer-language_text'}
+        [14, 16] Type: Item
+        │        Label: Articles containing potentially dated statements from 2019
+        └─────── Link: {'text:Articles containing potentially dated statements from 2019': 'http://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_2019'}
+        [14, 17] Type: Item
+        │        Label: All articles containing potentially dated statements
+        └─────── Link: {'text:All articles containing potentially dated statements': 'http://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements'}
+        [14, 18] Type: Item
+        │        Label: Articles needing additional references from April 2018
+        └─────── Link: {'text:Articles needing additional references from April 2018': 'http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_April_2018'}
+        [14, 19] Type: Item
+        │        Label: All articles needing additional references
+        └─────── Link: {'text:All articles needing additional references': 'http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references'}
+        [14, 20] Type: Item
+        │        Label: Articles containing potentially dated statements from August 2012
+        └─────── Link: {'text:Articles containing potentially dated statements from August 2012': 'http://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_August_2012'}
+        [14, 21] Type: Item
+        │        Label: Articles containing potentially dated statements from July 2019
+        └─────── Link: {'text:Articles containing potentially dated statements from July 2019': 'http://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2019'}
+        [14, 22] Type: Item
+        │        Label: Articles with dead external links from March 2014
+        └─────── Link: {'text:Articles with dead external links from March 2014': 'http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_March_2014'}
+        [14, 23] Type: Item
+        │        Label: Wikipedia articles with GND identifiers
+        └─────── Link: {'text:Wikipedia articles with GND identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_GND_identifiers'}
+        [14, 24] Type: Item
+        │        Label: Wikipedia articles with ISNI identifiers
+        └─────── Link: {'text:Wikipedia articles with ISNI identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_ISNI_identifiers'}
+        [14, 25] Type: Item
+        │        Label: Wikipedia articles with LCCN identifiers
+        └─────── Link: {'text:Wikipedia articles with LCCN identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_LCCN_identifiers'}
+        [14, 26] Type: Item
+        │        Label: Wikipedia articles with MusicBrainz area identifiers
+        └─────── Link: {'text:Wikipedia articles with MusicBrainz area identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers'}
+        [14, 27] Type: Item
+        │        Label: Wikipedia articles with NARA identifiers
+        └─────── Link: {'text:Wikipedia articles with NARA identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NARA_identifiers'}
+        [14, 28] Type: Item
+        │        Label: Wikipedia articles with NDL identifiers
+        └─────── Link: {'text:Wikipedia articles with NDL identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NDL_identifiers'}
+        [14, 29] Type: Item
+        │        Label: Wikipedia articles with NKC identifiers
+        └─────── Link: {'text:Wikipedia articles with NKC identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_NKC_identifiers'}
+        [14, 30] Type: Item
+        │        Label: Wikipedia articles with VIAF identifiers
+        └─────── Link: {'text:Wikipedia articles with VIAF identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_VIAF_identifiers'}
+        [14, 31] Type: Item
+        │        Label: Wikipedia articles with WorldCat identifiers
+        └─────── Link: {'text:Wikipedia articles with WorldCat identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers'}
+    [15] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [15, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Bangkok'}
+        [15, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Bangkok'}
+        [15, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [15, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [15, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Bangkok&oldid=946737822'}
+        [15, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Bangkok&action=info'}
+        [15, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q1861'}
+        [15, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Bangkok&id=946737822&wpFormIdentifier=titleform'}
+    [16] Type: List
+    │    Label: In other projects
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [16, 0] Type: Item
+        │       Label: Wikimedia Commons
+        └────── Link: {'text:Wikimedia Commons': 'https://commons.wikimedia.org/wiki/Category:Bangkok'}
+        [16, 1] Type: Item
+        │       Label: Wikinews
+        └────── Link: {'text:Wikinews': 'https://en.wikinews.org/wiki/Category:Bangkok'}
+        [16, 2] Type: Item
+        │       Label: Wikivoyage
+        └────── Link: {'text:Wikivoyage': 'https://en.wikivoyage.org/wiki/Bangkok'}
+    [17] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [17, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Bangkok'}
+        [17, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Bangkok&action=show-download-screen'}
+        [17, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Bangkok&printable=yes'}
+    [18] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 190
+        [18, 0] Type: Item
+        │       Label: Acèh
+        └────── Link: {'text:Acèh': 'https://ace.wikipedia.org/wiki/Bangkok'}
+        [18, 1] Type: Item
+        │       Label: Afrikaans
+        └────── Link: {'text:Afrikaans': 'https://af.wikipedia.org/wiki/Bangkok'}
+        [18, 2] Type: Item
+        │       Label: Alemannisch
+        └────── Link: {'text:Alemannisch': 'https://als.wikipedia.org/wiki/Bangkok'}
+        [18, 3] Type: Item
+        │       Label: አማርኛ
+        └────── Link: {'text:አማርኛ': 'https://am.wikipedia.org/wiki/%E1%89%A3%E1%8A%95%E1%8C%8D%E1%8A%AE%E1%8A%AD'}
+        [18, 4] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D9%83%D9%88%D9%83'}
+        [18, 5] Type: Item
+        │       Label: Aragonés
+        └────── Link: {'text:Aragonés': 'https://an.wikipedia.org/wiki/Bangkok'}
+        [18, 6] Type: Item
+        │       Label: Արեւմտահայերէն
+        └────── Link: {'text:Արեւմտահայերէն': 'https://hyw.wikipedia.org/wiki/%D5%8A%D5%A1%D5%B6%D6%84%D5%B8%D6%84'}
+        [18, 7] Type: Item
+        │       Label: Arpetan
+        └────── Link: {'text:Arpetan': 'https://frp.wikipedia.org/wiki/Bangkok'}
+        [18, 8] Type: Item
+        │       Label: অসমীয়া
+        └────── Link: {'text:অসমীয়া': 'https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A7%87%E0%A6%82%E0%A6%95%E0%A6%95'}
+        [18, 9] Type: Item
+        │       Label: Asturianu
+        └────── Link: {'text:Asturianu': 'https://ast.wikipedia.org/wiki/Bangkok'}
+        [18, 10] Type: Item
+        │        Label: Avañe'ẽ
+        └─────── Link: {"text:Avañe'ẽ": 'https://gn.wikipedia.org/wiki/V%C3%A3koke'}
+        [18, 11] Type: Item
+        │        Label: Azərbaycanca
+        └─────── Link: {'text:Azərbaycanca': 'https://az.wikipedia.org/wiki/Banqkok'}
+        [18, 12] Type: Item
+        │        Label: تۆرکجه
+        └─────── Link: {'text:تۆرکجه': 'https://azb.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%D9%88%DA%A9'}
+        [18, 13] Type: Item
+        │        Label: Bamanankan
+        └─────── Link: {'text:Bamanankan': 'https://bm.wikipedia.org/wiki/Bangkok'}
+        [18, 14] Type: Item
+        │        Label: বাংলা
+        └─────── Link: {'text:বাংলা': 'https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%95'}
+        [18, 15] Type: Item
+        │        Label: Banjar
+        └─────── Link: {'text:Banjar': 'https://bjn.wikipedia.org/wiki/Bangkok'}
+        [18, 16] Type: Item
+        │        Label: Bân-lâm-gú
+        └─────── Link: {'text:Bân-lâm-gú': 'https://zh-min-nan.wikipedia.org/wiki/Bangkok'}
+        [18, 17] Type: Item
+        │        Label: Башҡортса
+        └─────── Link: {'text:Башҡортса': 'https://ba.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 18] Type: Item
+        │        Label: Беларуская
+        └─────── Link: {'text:Беларуская': 'https://be.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 19] Type: Item
+        │        Label: Беларуская (тарашкевіца)‎
+        └─────── Link: {'text:Беларуская (тарашкевіца)\u200e': 'https://be-x-old.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 20] Type: Item
+        │        Label: भोजपुरी
+        └─────── Link: {'text:भोजपुरी': 'https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%95'}
+        [18, 21] Type: Item
+        │        Label: Bikol Central
+        └─────── Link: {'text:Bikol Central': 'https://bcl.wikipedia.org/wiki/Bangkok'}
+        [18, 22] Type: Item
+        │        Label: Bislama
+        └─────── Link: {'text:Bislama': 'https://bi.wikipedia.org/wiki/Bangkok'}
+        [18, 23] Type: Item
+        │        Label: Български
+        └─────── Link: {'text:Български': 'https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%BE%D0%BA'}
+        [18, 24] Type: Item
+        │        Label: བོད་ཡིག
+        └─────── Link: {'text:བོད་ཡིག': 'https://bo.wikipedia.org/wiki/%E0%BD%94%E0%BD%93%E0%BC%8B%E0%BD%80%E0%BD%BC%E0%BD%82'}
+        [18, 25] Type: Item
+        │        Label: Bosanski
+        └─────── Link: {'text:Bosanski': 'https://bs.wikipedia.org/wiki/Bangkok'}
+        [18, 26] Type: Item
+        │        Label: Brezhoneg
+        └─────── Link: {'text:Brezhoneg': 'https://br.wikipedia.org/wiki/Bangkok'}
+        [18, 27] Type: Item
+        │        Label: Буряад
+        └─────── Link: {'text:Буряад': 'https://bxr.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 28] Type: Item
+        │        Label: Català
+        └─────── Link: {'text:Català': 'https://ca.wikipedia.org/wiki/Bangkok'}
+        [18, 29] Type: Item
+        │        Label: Чӑвашла
+        └─────── Link: {'text:Чӑвашла': 'https://cv.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 30] Type: Item
+        │        Label: Cebuano
+        └─────── Link: {'text:Cebuano': 'https://ceb.wikipedia.org/wiki/Bangkok'}
+        [18, 31] Type: Item
+        │        Label: Čeština
+        └─────── Link: {'text:Čeština': 'https://cs.wikipedia.org/wiki/Bangkok'}
+        [18, 32] Type: Item
+        │        Label: Chavacano de Zamboanga
+        └─────── Link: {'text:Chavacano de Zamboanga': 'https://cbk-zam.wikipedia.org/wiki/Bangkok'}
+        [18, 33] Type: Item
+        │        Label: Chi-Chewa
+        └─────── Link: {'text:Chi-Chewa': 'https://ny.wikipedia.org/wiki/Bangkok'}
+        [18, 34] Type: Item
+        │        Label: ChiShona
+        └─────── Link: {'text:ChiShona': 'https://sn.wikipedia.org/wiki/Bangkok'}
+        [18, 35] Type: Item
+        │        Label: Cymraeg
+        └─────── Link: {'text:Cymraeg': 'https://cy.wikipedia.org/wiki/Bangkok'}
+        [18, 36] Type: Item
+        │        Label: Dansk
+        └─────── Link: {'text:Dansk': 'https://da.wikipedia.org/wiki/Bangkok'}
+        [18, 37] Type: Item
+        │        Label: Davvisámegiella
+        └─────── Link: {'text:Davvisámegiella': 'https://se.wikipedia.org/wiki/Bangkok'}
+        [18, 38] Type: Item
+        │        Label: Deitsch
+        └─────── Link: {'text:Deitsch': 'https://pdc.wikipedia.org/wiki/Bangkok'}
+        [18, 39] Type: Item
+        │        Label: Deutsch
+        └─────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Bangkok'}
+        [18, 40] Type: Item
+        │        Label: Dolnoserbski
+        └─────── Link: {'text:Dolnoserbski': 'https://dsb.wikipedia.org/wiki/Bangkok'}
+        [18, 41] Type: Item
+        │        Label: डोटेली
+        └─────── Link: {'text:डोटेली': 'https://dty.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%95'}
+        [18, 42] Type: Item
+        │        Label: Eesti
+        └─────── Link: {'text:Eesti': 'https://et.wikipedia.org/wiki/Bangkok'}
+        [18, 43] Type: Item
+        │        Label: Ελληνικά
+        └─────── Link: {'text:Ελληνικά': 'https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%B1%CE%BD%CE%B3%CE%BA%CF%8C%CE%BA'}
+        [18, 44] Type: Item
+        │        Label: Эрзянь
+        └─────── Link: {'text:Эрзянь': 'https://myv.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 45] Type: Item
+        │        Label: Español
+        └─────── Link: {'text:Español': 'https://es.wikipedia.org/wiki/Bangkok'}
+        [18, 46] Type: Item
+        │        Label: Esperanto
+        └─────── Link: {'text:Esperanto': 'https://eo.wikipedia.org/wiki/Bankoko'}
+        [18, 47] Type: Item
+        │        Label: Estremeñu
+        └─────── Link: {'text:Estremeñu': 'https://ext.wikipedia.org/wiki/Bangkok'}
+        [18, 48] Type: Item
+        │        Label: Euskara
+        └─────── Link: {'text:Euskara': 'https://eu.wikipedia.org/wiki/Bangkok'}
+        [18, 49] Type: Item
+        │        Label: فارسی
+        └─────── Link: {'text:فارسی': 'https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%D9%88%DA%A9'}
+        [18, 50] Type: Item
+        │        Label: Fiji Hindi
+        └─────── Link: {'text:Fiji Hindi': 'https://hif.wikipedia.org/wiki/Bangkok'}
+        [18, 51] Type: Item
+        │        Label: Føroyskt
+        └─────── Link: {'text:Føroyskt': 'https://fo.wikipedia.org/wiki/Bangkok'}
+        [18, 52] Type: Item
+        │        Label: Français
+        └─────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Bangkok'}
+        [18, 53] Type: Item
+        │        Label: Frysk
+        └─────── Link: {'text:Frysk': 'https://fy.wikipedia.org/wiki/Bangkok'}
+        [18, 54] Type: Item
+        │        Label: Gaeilge
+        └─────── Link: {'text:Gaeilge': 'https://ga.wikipedia.org/wiki/Banc%C3%A1c'}
+        [18, 55] Type: Item
+        │        Label: Gàidhlig
+        └─────── Link: {'text:Gàidhlig': 'https://gd.wikipedia.org/wiki/Bangkok'}
+        [18, 56] Type: Item
+        │        Label: Galego
+        └─────── Link: {'text:Galego': 'https://gl.wikipedia.org/wiki/Bangkok'}
+        [18, 57] Type: Item
+        │        Label: ГӀалгӀай
+        └─────── Link: {'text:ГӀалгӀай': 'https://inh.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 58] Type: Item
+        │        Label: 客家語/Hak-kâ-ngî
+        └─────── Link: {'text:客家語/Hak-kâ-ngî': 'https://hak.wikipedia.org/wiki/Bangkok'}
+        [18, 59] Type: Item
+        │        Label: Хальмг
+        └─────── Link: {'text:Хальмг': 'https://xal.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA_%D0%B1%D0%B0%D0%BB%D2%BB%D1%81%D0%BD'}
+        [18, 60] Type: Item
+        │        Label: 한국어
+        └─────── Link: {'text:한국어': 'https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%BD%95'}
+        [18, 61] Type: Item
+        │        Label: Hausa
+        └─────── Link: {'text:Hausa': 'https://ha.wikipedia.org/wiki/Bangkok'}
+        [18, 62] Type: Item
+        │        Label: Հայերեն
+        └─────── Link: {'text:Հայերեն': 'https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%B6%D5%A3%D5%AF%D5%B8%D5%AF'}
+        [18, 63] Type: Item
+        │        Label: हिन्दी
+        └─────── Link: {'text:हिन्दी': 'https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95%E0%A5%89%E0%A4%95'}
+        [18, 64] Type: Item
+        │        Label: Hornjoserbsce
+        └─────── Link: {'text:Hornjoserbsce': 'https://hsb.wikipedia.org/wiki/Bangkok'}
+        [18, 65] Type: Item
+        │        Label: Hrvatski
+        └─────── Link: {'text:Hrvatski': 'https://hr.wikipedia.org/wiki/Bangkok'}
+        [18, 66] Type: Item
+        │        Label: Ido
+        └─────── Link: {'text:Ido': 'https://io.wikipedia.org/wiki/Bangkok'}
+        [18, 67] Type: Item
+        │        Label: Ilokano
+        └─────── Link: {'text:Ilokano': 'https://ilo.wikipedia.org/wiki/Bangkok'}
+        [18, 68] Type: Item
+        │        Label: বিষ্ণুপ্রিয়া মণিপুরী
+        └─────── Link: {'text:বিষ্ণুপ্রিয়া মণিপুরী': 'https://bpy.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%82%E0%A7%B1%E0%A6%BE%E0%A6%A4_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%95'}
+        [18, 69] Type: Item
+        │        Label: Bahasa Indonesia
+        └─────── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/Bangkok'}
+        [18, 70] Type: Item
+        │        Label: Interlingua
+        └─────── Link: {'text:Interlingua': 'https://ia.wikipedia.org/wiki/Bangkok'}
+        [18, 71] Type: Item
+        │        Label: Interlingue
+        └─────── Link: {'text:Interlingue': 'https://ie.wikipedia.org/wiki/Banghok'}
+        [18, 72] Type: Item
+        │        Label: Ирон
+        └─────── Link: {'text:Ирон': 'https://os.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 73] Type: Item
+        │        Label: Íslenska
+        └─────── Link: {'text:Íslenska': 'https://is.wikipedia.org/wiki/Bangkok'}
+        [18, 74] Type: Item
+        │        Label: Italiano
+        └─────── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/Bangkok'}
+        [18, 75] Type: Item
+        │        Label: עברית
+        └─────── Link: {'text:עברית': 'https://he.wikipedia.org/wiki/%D7%91%D7%A0%D7%92%D7%A7%D7%95%D7%A7'}
+        [18, 76] Type: Item
+        │        Label: Jawa
+        └─────── Link: {'text:Jawa': 'https://jv.wikipedia.org/wiki/Bangkok'}
+        [18, 77] Type: Item
+        │        Label: Kabɩyɛ
+        └─────── Link: {'text:Kabɩyɛ': 'https://kbp.wikipedia.org/wiki/Pa%C5%8Bk%C9%94k%C9%A9'}
+        [18, 78] Type: Item
+        │        Label: Kalaallisut
+        └─────── Link: {'text:Kalaallisut': 'https://kl.wikipedia.org/wiki/Bangkok'}
+        [18, 79] Type: Item
+        │        Label: ಕನ್ನಡ
+        └─────── Link: {'text:ಕನ್ನಡ': 'https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%82%E0%B2%95%E0%B2%BE%E0%B2%95%E0%B3%8D'}
+        [18, 80] Type: Item
+        │        Label: ქართული
+        └─────── Link: {'text:ქართული': 'https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%9C%E1%83%92%E1%83%99%E1%83%9D%E1%83%99%E1%83%98'}
+        [18, 81] Type: Item
+        │        Label: Қазақша
+        └─────── Link: {'text:Қазақша': 'https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 82] Type: Item
+        │        Label: Kernowek
+        └─────── Link: {'text:Kernowek': 'https://kw.wikipedia.org/wiki/Bangkok'}
+        [18, 83] Type: Item
+        │        Label: Kiswahili
+        └─────── Link: {'text:Kiswahili': 'https://sw.wikipedia.org/wiki/Bangkok'}
+        [18, 84] Type: Item
+        │        Label: Коми
+        └─────── Link: {'text:Коми': 'https://kv.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 85] Type: Item
+        │        Label: Kreyòl ayisyen
+        └─────── Link: {'text:Kreyòl ayisyen': 'https://ht.wikipedia.org/wiki/Bangkok'}
+        [18, 86] Type: Item
+        │        Label: Kurdî
+        └─────── Link: {'text:Kurdî': 'https://ku.wikipedia.org/wiki/Bangkok'}
+        [18, 87] Type: Item
+        │        Label: Кыргызча
+        └─────── Link: {'text:Кыргызча': 'https://ky.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 88] Type: Item
+        │        Label: Ladino
+        └─────── Link: {'text:Ladino': 'https://lad.wikipedia.org/wiki/Bangkok'}
+        [18, 89] Type: Item
+        │        Label: ລາວ
+        └─────── Link: {'text:ລາວ': 'https://lo.wikipedia.org/wiki/%E0%BA%9A%E0%BA%B2%E0%BA%87%E0%BA%81%E0%BA%AD%E0%BA%81'}
+        [18, 90] Type: Item
+        │        Label: لۊری شومالی
+        └─────── Link: {'text:لۊری شومالی': 'https://lrc.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%D9%88%DA%A9'}
+        [18, 91] Type: Item
+        │        Label: Latina
+        └─────── Link: {'text:Latina': 'https://la.wikipedia.org/wiki/Bancocum'}
+        [18, 92] Type: Item
+        │        Label: Latviešu
+        └─────── Link: {'text:Latviešu': 'https://lv.wikipedia.org/wiki/Bangkoka'}
+        [18, 93] Type: Item
+        │        Label: Lëtzebuergesch
+        └─────── Link: {'text:Lëtzebuergesch': 'https://lb.wikipedia.org/wiki/Bangkok'}
+        [18, 94] Type: Item
+        │        Label: Лезги
+        └─────── Link: {'text:Лезги': 'https://lez.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 95] Type: Item
+        │        Label: Lietuvių
+        └─────── Link: {'text:Lietuvių': 'https://lt.wikipedia.org/wiki/Bankokas'}
+        [18, 96] Type: Item
+        │        Label: Ligure
+        └─────── Link: {'text:Ligure': 'https://lij.wikipedia.org/wiki/Bangk%C3%B2k'}
+        [18, 97] Type: Item
+        │        Label: Limburgs
+        └─────── Link: {'text:Limburgs': 'https://li.wikipedia.org/wiki/Bangkok'}
+        [18, 98] Type: Item
+        │        Label: Livvinkarjala
+        └─────── Link: {'text:Livvinkarjala': 'https://olo.wikipedia.org/wiki/Bangkok'}
+        [18, 99] Type: Item
+        │        Label: Lumbaart
+        └─────── Link: {'text:Lumbaart': 'https://lmo.wikipedia.org/wiki/Bangkok'}
+        [18, 100] Type: Item
+        │         Label: Magyar
+        └──────── Link: {'text:Magyar': 'https://hu.wikipedia.org/wiki/Bangkok'}
+        [18, 101] Type: Item
+        │         Label: मैथिली
+        └──────── Link: {'text:मैथिली': 'https://mai.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%95'}
+        [18, 102] Type: Item
+        │         Label: Македонски
+        └──────── Link: {'text:Македонски': 'https://mk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 103] Type: Item
+        │         Label: Malagasy
+        └──────── Link: {'text:Malagasy': 'https://mg.wikipedia.org/wiki/Bangkok'}
+        [18, 104] Type: Item
+        │         Label: മലയാളം
+        └──────── Link: {'text:മലയാളം': 'https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D'}
+        [18, 105] Type: Item
+        │         Label: मराठी
+        └──────── Link: {'text:मराठी': 'https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A4%81%E0%A4%95%E0%A5%89%E0%A4%95'}
+        [18, 106] Type: Item
+        │         Label: მარგალური
+        └──────── Link: {'text:მარგალური': 'https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%9C%E1%83%92%E1%83%99%E1%83%9D%E1%83%99%E1%83%98'}
+        [18, 107] Type: Item
+        │         Label: مصرى
+        └──────── Link: {'text:مصرى': 'https://arz.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D9%83%D9%88%D9%83'}
+        [18, 108] Type: Item
+        │         Label: مازِرونی
+        └──────── Link: {'text:مازِرونی': 'https://mzn.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%D9%88%DA%A9'}
+        [18, 109] Type: Item
+        │         Label: Bahasa Melayu
+        └──────── Link: {'text:Bahasa Melayu': 'https://ms.wikipedia.org/wiki/Bangkok'}
+        [18, 110] Type: Item
+        │         Label: Minangkabau
+        └──────── Link: {'text:Minangkabau': 'https://min.wikipedia.org/wiki/Bangkok'}
+        [18, 111] Type: Item
+        │         Label: Mìng-dĕ̤ng-ngṳ̄
+        └──────── Link: {'text:Mìng-dĕ̤ng-ngṳ̄': 'https://cdo.wikipedia.org/wiki/Bangkok'}
+        [18, 112] Type: Item
+        │         Label: Mirandés
+        └──────── Link: {'text:Mirandés': 'https://mwl.wikipedia.org/wiki/Banguecoque'}
+        [18, 113] Type: Item
+        │         Label: Монгол
+        └──────── Link: {'text:Монгол': 'https://mn.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 114] Type: Item
+        │         Label: မြန်မာဘာသာ
+        └──────── Link: {'text:မြန်မာဘာသာ': 'https://my.wikipedia.org/wiki/%E1%80%98%E1%80%94%E1%80%BA%E1%80%80%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7'}
+        [18, 115] Type: Item
+        │         Label: Nāhuatl
+        └──────── Link: {'text:Nāhuatl': 'https://nah.wikipedia.org/wiki/Bangkok'}
+        [18, 116] Type: Item
+        │         Label: Nederlands
+        └──────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/Bangkok'}
+        [18, 117] Type: Item
+        │         Label: नेपाली
+        └──────── Link: {'text:नेपाली': 'https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%95'}
+        [18, 118] Type: Item
+        │         Label: नेपाल भाषा
+        └──────── Link: {'text:नेपाल भाषा': 'https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95%E0%A4%95'}
+        [18, 119] Type: Item
+        │         Label: 日本語
+        └──────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF'}
+        [18, 120] Type: Item
+        │         Label: Нохчийн
+        └──────── Link: {'text:Нохчийн': 'https://ce.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 121] Type: Item
+        │         Label: Nordfriisk
+        └──────── Link: {'text:Nordfriisk': 'https://frr.wikipedia.org/wiki/Bangkok'}
+        [18, 122] Type: Item
+        │         Label: Norsk bokmål
+        └──────── Link: {'text:Norsk bokmål': 'https://no.wikipedia.org/wiki/Bangkok'}
+        [18, 123] Type: Item
+        │         Label: Norsk nynorsk
+        └──────── Link: {'text:Norsk nynorsk': 'https://nn.wikipedia.org/wiki/Bangkok'}
+        [18, 124] Type: Item
+        │         Label: Occitan
+        └──────── Link: {'text:Occitan': 'https://oc.wikipedia.org/wiki/Bangk%C3%B2k'}
+        [18, 125] Type: Item
+        │         Label: Олык марий
+        └──────── Link: {'text:Олык марий': 'https://mhr.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 126] Type: Item
+        │         Label: Oʻzbekcha/ўзбекча
+        └──────── Link: {'text:Oʻzbekcha/ўзбекча': 'https://uz.wikipedia.org/wiki/Bangkok'}
+        [18, 127] Type: Item
+        │         Label: ਪੰਜਾਬੀ
+        └──────── Link: {'text:ਪੰਜਾਬੀ': 'https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%88%E0%A8%82%E0%A8%95%E0%A8%BE%E0%A8%95'}
+        [18, 128] Type: Item
+        │         Label: پنجابی
+        └──────── Link: {'text:پنجابی': 'https://pnb.wikipedia.org/wiki/%D8%A8%D9%86%DA%A9%D8%A7%DA%A9'}
+        [18, 129] Type: Item
+        │         Label: Papiamentu
+        └──────── Link: {'text:Papiamentu': 'https://pap.wikipedia.org/wiki/Bangkok'}
+        [18, 130] Type: Item
+        │         Label: پښتو
+        └──────── Link: {'text:پښتو': 'https://ps.wikipedia.org/wiki/%D8%A8%D9%86%DA%A9%D8%A7%DA%A9'}
+        [18, 131] Type: Item
+        │         Label: Перем Коми
+        └──────── Link: {'text:Перем Коми': 'https://koi.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 132] Type: Item
+        │         Label: ភាសាខ្មែរ
+        └──────── Link: {'text:ភាសាខ្មែរ': 'https://km.wikipedia.org/wiki/%E1%9E%94%E1%9E%B6%E1%9E%84%E1%9E%80%E1%9E%80'}
+        [18, 133] Type: Item
+        │         Label: Piemontèis
+        └──────── Link: {'text:Piemontèis': 'https://pms.wikipedia.org/wiki/Bangkok'}
+        [18, 134] Type: Item
+        │         Label: Polski
+        └──────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/Bangkok'}
+        [18, 135] Type: Item
+        │         Label: Português
+        └──────── Link: {'text:Português': 'https://pt.wikipedia.org/wiki/Banguecoque'}
+        [18, 136] Type: Item
+        │         Label: Qaraqalpaqsha
+        └──────── Link: {'text:Qaraqalpaqsha': 'https://kaa.wikipedia.org/wiki/Bangkok'}
+        [18, 137] Type: Item
+        │         Label: Română
+        └──────── Link: {'text:Română': 'https://ro.wikipedia.org/wiki/Bangkok'}
+        [18, 138] Type: Item
+        │         Label: Runa Simi
+        └──────── Link: {'text:Runa Simi': 'https://qu.wikipedia.org/wiki/Bangkok'}
+        [18, 139] Type: Item
+        │         Label: Русиньскый
+        └──────── Link: {'text:Русиньскый': 'https://rue.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%BE%D0%BA'}
+        [18, 140] Type: Item
+        │         Label: Русский
+        └──────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 141] Type: Item
+        │         Label: Саха тыла
+        └──────── Link: {'text:Саха тыла': 'https://sah.wikipedia.org/wiki/%D0%91%D0%B0%D2%A5%D0%BA%D0%BE%D0%BA'}
+        [18, 142] Type: Item
+        │         Label: Scots
+        └──────── Link: {'text:Scots': 'https://sco.wikipedia.org/wiki/Bangkok'}
+        [18, 143] Type: Item
+        │         Label: Seeltersk
+        └──────── Link: {'text:Seeltersk': 'https://stq.wikipedia.org/wiki/Bangkok'}
+        [18, 144] Type: Item
+        │         Label: Shqip
+        └──────── Link: {'text:Shqip': 'https://sq.wikipedia.org/wiki/Bangkoku'}
+        [18, 145] Type: Item
+        │         Label: Sicilianu
+        └──────── Link: {'text:Sicilianu': 'https://scn.wikipedia.org/wiki/Bangkok'}
+        [18, 146] Type: Item
+        │         Label: සිංහල
+        └──────── Link: {'text:සිංහල': 'https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%90%E0%B6%82%E0%B6%9A%E0%B7%9C%E0%B6%9A%E0%B7%8A'}
+        [18, 147] Type: Item
+        │         Label: Simple English
+        └──────── Link: {'text:Simple English': 'https://simple.wikipedia.org/wiki/Bangkok'}
+        [18, 148] Type: Item
+        │         Label: سنڌي
+        └──────── Link: {'text:سنڌي': 'https://sd.wikipedia.org/wiki/%D8%A8%D9%8A%D9%86%DA%AA%D8%A7%DA%AA'}
+        [18, 149] Type: Item
+        │         Label: Slovenčina
+        └──────── Link: {'text:Slovenčina': 'https://sk.wikipedia.org/wiki/Bangkok'}
+        [18, 150] Type: Item
+        │         Label: Slovenščina
+        └──────── Link: {'text:Slovenščina': 'https://sl.wikipedia.org/wiki/Bangkok'}
+        [18, 151] Type: Item
+        │         Label: Ślůnski
+        └──────── Link: {'text:Ślůnski': 'https://szl.wikipedia.org/wiki/Bangkok'}
+        [18, 152] Type: Item
+        │         Label: Soomaaliga
+        └──────── Link: {'text:Soomaaliga': 'https://so.wikipedia.org/wiki/Bangkok'}
+        [18, 153] Type: Item
+        │         Label: کوردی
+        └──────── Link: {'text:کوردی': 'https://ckb.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%DB%86%DA%A9'}
+        [18, 154] Type: Item
+        │         Label: Српски / srpski
+        └──────── Link: {'text:Српски / srpski': 'https://sr.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 155] Type: Item
+        │         Label: Srpskohrvatski / српскохрватски
+        └──────── Link: {'text:Srpskohrvatski / српскохрватски': 'https://sh.wikipedia.org/wiki/Bangkok'}
+        [18, 156] Type: Item
+        │         Label: Sunda
+        └──────── Link: {'text:Sunda': 'https://su.wikipedia.org/wiki/Bangkok'}
+        [18, 157] Type: Item
+        │         Label: Suomi
+        └──────── Link: {'text:Suomi': 'https://fi.wikipedia.org/wiki/Bangkok'}
+        [18, 158] Type: Item
+        │         Label: Svenska
+        └──────── Link: {'text:Svenska': 'https://sv.wikipedia.org/wiki/Bangkok'}
+        [18, 159] Type: Item
+        │         Label: Tagalog
+        └──────── Link: {'text:Tagalog': 'https://tl.wikipedia.org/wiki/Bangkok'}
+        [18, 160] Type: Item
+        │         Label: தமிழ்
+        └──────── Link: {'text:தமிழ்': 'https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%95%E0%AF%8D'}
+        [18, 161] Type: Item
+        │         Label: Tarandíne
+        └──────── Link: {'text:Tarandíne': 'https://roa-tara.wikipedia.org/wiki/Bangkok'}
+        [18, 162] Type: Item
+        │         Label: Татарча/tatarça
+        └──────── Link: {'text:Татарча/tatarça': 'https://tt.wikipedia.org/wiki/Bangkok'}
+        [18, 163] Type: Item
+        │         Label: తెలుగు
+        └──────── Link: {'text:తెలుగు': 'https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%82%E0%B0%95%E0%B0%BE%E0%B0%95%E0%B1%8D'}
+        [18, 164] Type: Item
+        │         Label: ไทย
+        └──────── Link: {'text:ไทย': 'https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3'}
+        [18, 165] Type: Item
+        │         Label: Тоҷикӣ
+        └──────── Link: {'text:Тоҷикӣ': 'https://tg.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 166] Type: Item
+        │         Label: Tsetsêhestâhese
+        └──────── Link: {'text:Tsetsêhestâhese': 'https://chy.wikipedia.org/wiki/Bangkok'}
+        [18, 167] Type: Item
+        │         Label: Türkçe
+        └──────── Link: {'text:Türkçe': 'https://tr.wikipedia.org/wiki/Bangkok'}
+        [18, 168] Type: Item
+        │         Label: Türkmençe
+        └──────── Link: {'text:Türkmençe': 'https://tk.wikipedia.org/wiki/Bangkok'}
+        [18, 169] Type: Item
+        │         Label: Twi
+        └──────── Link: {'text:Twi': 'https://tw.wikipedia.org/wiki/Bangkok'}
+        [18, 170] Type: Item
+        │         Label: Українська
+        └──────── Link: {'text:Українська': 'https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA'}
+        [18, 171] Type: Item
+        │         Label: اردو
+        └──────── Link: {'text:اردو': 'https://ur.wikipedia.org/wiki/%D8%A8%DB%8C%D9%86%DA%A9%D8%A7%DA%A9'}
+        [18, 172] Type: Item
+        │         Label: ئۇيغۇرچە / Uyghurche
+        └──────── Link: {'text:ئۇيغۇرچە / Uyghurche': 'https://ug.wikipedia.org/wiki/%D8%A8%D8%A7%DA%AD%D9%83%D9%88%D9%83'}
+        [18, 173] Type: Item
+        │         Label: Vahcuengh
+        └──────── Link: {'text:Vahcuengh': 'https://za.wikipedia.org/wiki/Bangkok'}
+        [18, 174] Type: Item
+        │         Label: Vèneto
+        └──────── Link: {'text:Vèneto': 'https://vec.wikipedia.org/wiki/Bangkok'}
+        [18, 175] Type: Item
+        │         Label: Vepsän kel’
+        └──────── Link: {'text:Vepsän kel’': 'https://vep.wikipedia.org/wiki/Bankok'}
+        [18, 176] Type: Item
+        │         Label: Tiếng Việt
+        └──────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/B%C4%83ng_C%E1%BB%91c'}
+        [18, 177] Type: Item
+        │         Label: Volapük
+        └──────── Link: {'text:Volapük': 'https://vo.wikipedia.org/wiki/Bangkok'}
+        [18, 178] Type: Item
+        │         Label: Võro
+        └──────── Link: {'text:Võro': 'https://fiu-vro.wikipedia.org/wiki/Bangkok'}
+        [18, 179] Type: Item
+        │         Label: 文言
+        └──────── Link: {'text:文言': 'https://zh-classical.wikipedia.org/wiki/%E6%9B%BC%E8%B0%B7'}
+        [18, 180] Type: Item
+        │         Label: West-Vlams
+        └──────── Link: {'text:West-Vlams': 'https://vls.wikipedia.org/wiki/Bangkok_(Thailand)'}
+        [18, 181] Type: Item
+        │         Label: Winaray
+        └──────── Link: {'text:Winaray': 'https://war.wikipedia.org/wiki/Bangkok'}
+        [18, 182] Type: Item
+        │         Label: 吴语
+        └──────── Link: {'text:吴语': 'https://wuu.wikipedia.org/wiki/%E6%9B%BC%E8%B0%B7'}
+        [18, 183] Type: Item
+        │         Label: ייִדיש
+        └──────── Link: {'text:ייִדיש': 'https://yi.wikipedia.org/wiki/%D7%91%D7%90%D7%A0%D7%92%D7%A7%D7%90%D7%A7'}
+        [18, 184] Type: Item
+        │         Label: Yorùbá
+        └──────── Link: {'text:Yorùbá': 'https://yo.wikipedia.org/wiki/Bangkok'}
+        [18, 185] Type: Item
+        │         Label: 粵語
+        └──────── Link: {'text:粵語': 'https://zh-yue.wikipedia.org/wiki/%E6%9B%BC%E8%B0%B7'}
+        [18, 186] Type: Item
+        │         Label: Zazaki
+        └──────── Link: {'text:Zazaki': 'https://diq.wikipedia.org/wiki/Bangkok'}
+        [18, 187] Type: Item
+        │         Label: Zeêuws
+        └──────── Link: {'text:Zeêuws': 'https://zea.wikipedia.org/wiki/Bangkok'}
+        [18, 188] Type: Item
+        │         Label: Žemaitėška
+        └──────── Link: {'text:Žemaitėška': 'https://bat-smg.wikipedia.org/wiki/Bankoks'}
+        [18, 189] Type: Item
+        │         Label: 中文
+        └──────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E6%9B%BC%E8%B0%B7'}

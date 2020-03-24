@@ -1,0 +1,863 @@
+[] Type: Page
+│  Label: Thai people
+└─ Number of Member: 14
+    [0] Type: Table
+    │   Label: Thai
+ไทยสยาม
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 48
+            [0, 0, 0] Type: Cell
+            │         Label: Thai people at a cremation ceremony Wat Chedi Luang in Chiang Mai
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chan_Kusalo_cremation_15.jpg/250px-Chan_Kusalo_cremation_15.jpg': 'http://en.wikipedia.org/wiki/File:Chan_Kusalo_cremation_15.jpg', 'text:Wat Chedi Luang': 'http://en.wikipedia.org/wiki/Wat_Chedi_Luang', 'text:Chiang Mai': 'http://en.wikipedia.org/wiki/Chiang_Mai'}
+            [0, 0, 1] Type: Cell
+            │         Label: Total population
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 2] Type: Cell
+            │         Label: c. 52–59 million
+            └──────── Style: GrpSpan
+            [0, 0, 3] Type: Cell
+            │         Label: Regions with significant populations
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 4] Type: Cell
+            │         Label: Thailand c. 51–57.8 million
+            │         Style: GrpSpan
+            └──────── Link: {'text:Thailand': 'http://en.wikipedia.org/wiki/Thailand'}
+            [0, 0, 5] Type: Cell
+            │         Label: Thai diaspora
+            │         Style: Emphasize
+            └──────── Link: {'text:Thai diaspora': 'http://en.wikipedia.org/wiki/Thai_diaspora'}
+            [0, 0, 6] Type: Cell
+            │         Label: United States
+            │         Style: Emphasize
+            └──────── Link: {'text:United States': 'http://en.wikipedia.org/wiki/United_States'}
+            [0, 0, 7] Type: Cell
+            │         Label: South Korea
+            │         Style: Emphasize
+            └──────── Link: {'text:South Korea': 'http://en.wikipedia.org/wiki/South_Korea'}
+            [0, 0, 8] Type: Cell
+            │         Label: Australia
+            │         Style: Emphasize
+            └──────── Link: {'text:Australia': 'http://en.wikipedia.org/wiki/Australia'}
+            [0, 0, 9] Type: Cell
+            │         Label: Taiwan
+            │         Style: Emphasize
+            └──────── Link: {'text:Taiwan': 'http://en.wikipedia.org/wiki/Taiwan'}
+            [0, 0, 10] Type: Cell
+            │          Label: Germany
+            │          Style: Emphasize
+            └───────── Link: {'text:Germany': 'http://en.wikipedia.org/wiki/Germany'}
+            [0, 0, 11] Type: Cell
+            │          Label: Malaysia
+            │          Style: Emphasize
+            └───────── Link: {'text:Malaysia': 'http://en.wikipedia.org/wiki/Malaysia'}
+            [0, 0, 12] Type: Cell
+            │          Label: Japan
+            │          Style: Emphasize
+            └───────── Link: {'text:Japan': 'http://en.wikipedia.org/wiki/Japan'}
+            [0, 0, 13] Type: Cell
+            │          Label: Singapore
+            │          Style: Emphasize
+            └───────── Link: {'text:Singapore': 'http://en.wikipedia.org/wiki/Singapore'}
+            [0, 0, 14] Type: Cell
+            │          Label: United Kingdom
+            │          Style: Emphasize
+            └───────── Link: {'text:United Kingdom': 'http://en.wikipedia.org/wiki/United_Kingdom'}
+            [0, 0, 15] Type: Cell
+            │          Label: Sweden
+            │          Style: Emphasize
+            └───────── Link: {'text:Sweden': 'http://en.wikipedia.org/wiki/Sweden'}
+            [0, 0, 16] Type: Cell
+            │          Label: France
+            │          Style: Emphasize
+            └───────── Link: {'text:France': 'http://en.wikipedia.org/wiki/France'}
+            [0, 0, 17] Type: Cell
+            │          Label: Israel
+            │          Style: Emphasize
+            └───────── Link: {'text:Israel': 'http://en.wikipedia.org/wiki/Israel'}
+            [0, 0, 18] Type: Cell
+            │          Label: Libya
+            │          Style: Emphasize
+            └───────── Link: {'text:Libya': 'http://en.wikipedia.org/wiki/Libya'}
+            [0, 0, 19] Type: Cell
+            │          Label: Netherlands
+            │          Style: Emphasize
+            └───────── Link: {'text:Netherlands': 'http://en.wikipedia.org/wiki/Netherlands'}
+            [0, 0, 20] Type: Cell
+            │          Label: Canada
+            │          Style: Emphasize
+            └───────── Link: {'text:Canada': 'http://en.wikipedia.org/wiki/Canada'}
+            [0, 0, 21] Type: Cell
+            │          Label: Norway
+            │          Style: Emphasize
+            └───────── Link: {'text:Norway': 'http://en.wikipedia.org/wiki/Norway'}
+            [0, 0, 22] Type: Cell
+            │          Label: Laos
+            │          Style: Emphasize
+            └───────── Link: {'text:Laos': 'http://en.wikipedia.org/wiki/Laos'}
+            [0, 0, 23] Type: Cell
+            │          Label: UAE
+            │          Style: Emphasize
+            └───────── Link: {'text:UAE': 'http://en.wikipedia.org/wiki/United_Arab_Emirates'}
+            [0, 0, 24] Type: Cell
+            │          Label: Denmark
+            │          Style: Emphasize
+            └───────── Link: {'text:Denmark': 'http://en.wikipedia.org/wiki/Denmark'}
+            [0, 0, 25] Type: Cell
+            │          Label: Finland
+            │          Style: Emphasize
+            └───────── Link: {'text:Finland': 'http://en.wikipedia.org/wiki/Finland'}
+            [0, 0, 26] Type: Cell
+            │          Label: Hong Kong
+            │          Style: Emphasize
+            └───────── Link: {'text:Hong Kong': 'http://en.wikipedia.org/wiki/Hong_Kong'}
+            [0, 0, 27] Type: Cell
+            │          Label: Saudi Arabia
+            │          Style: Emphasize
+            └───────── Link: {'text:Saudi Arabia': 'http://en.wikipedia.org/wiki/Saudi_Arabia'}
+            [0, 0, 28] Type: Cell
+            │          Label: Switzerland
+            │          Style: Emphasize
+            └───────── Link: {'text:Switzerland': 'http://en.wikipedia.org/wiki/Switzerland'}
+            [0, 0, 29] Type: Cell
+            │          Label: China
+            │          Style: Emphasize
+            └───────── Link: {'text:China': 'http://en.wikipedia.org/wiki/China'}
+            [0, 0, 30] Type: Cell
+            │          Label: New Zealand
+            │          Style: Emphasize
+            └───────── Link: {'text:New Zealand': 'http://en.wikipedia.org/wiki/New_Zealand'}
+            [0, 0, 31] Type: Cell
+            │          Label: Italy
+            │          Style: Emphasize
+            └───────── Link: {'text:Italy': 'http://en.wikipedia.org/wiki/Italy'}
+            [0, 0, 32] Type: Cell
+            │          Label: Brunei
+            │          Style: Emphasize
+            └───────── Link: {'text:Brunei': 'http://en.wikipedia.org/wiki/Brunei'}
+            [0, 0, 33] Type: Cell
+            │          Label: Belgium
+            │          Style: Emphasize
+            └───────── Link: {'text:Belgium': 'http://en.wikipedia.org/wiki/Belgium'}
+            [0, 0, 34] Type: Cell
+            │          Label: Austria
+            │          Style: Emphasize
+            └───────── Link: {'text:Austria': 'http://en.wikipedia.org/wiki/Austria'}
+            [0, 0, 35] Type: Cell
+            │          Label: India
+            │          Style: Emphasize
+            └───────── Link: {'text:India': 'http://en.wikipedia.org/wiki/India'}
+            [0, 0, 36] Type: Cell
+            │          Label: South Africa
+            │          Style: Emphasize
+            └───────── Link: {'text:South Africa': 'http://en.wikipedia.org/wiki/South_Africa'}
+            [0, 0, 37] Type: Cell
+            │          Label: Qatar
+            │          Style: Emphasize
+            └───────── Link: {'text:Qatar': 'http://en.wikipedia.org/wiki/Qatar'}
+            [0, 0, 38] Type: Cell
+            │          Label: Bahrain
+            │          Style: Emphasize
+            └───────── Link: {'text:Bahrain': 'http://en.wikipedia.org/wiki/Bahrain'}
+            [0, 0, 39] Type: Cell
+            │          Label: Kuwait
+            │          Style: Emphasize
+            └───────── Link: {'text:Kuwait': 'http://en.wikipedia.org/wiki/Kuwait'}
+            [0, 0, 40] Type: Cell
+            │          Label: Egypt
+            │          Style: Emphasize
+            └───────── Link: {'text:Egypt': 'http://en.wikipedia.org/wiki/Egypt'}
+            [0, 0, 41] Type: Cell
+            │          Label: Rest of the world
+            └───────── Style: Emphasize
+            [0, 0, 42] Type: Cell
+            │          Label: Languages
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 43] Type: Cell
+            │          Label: Thai
+(Central Thai)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Thai': 'http://en.wikipedia.org/wiki/Thai_language'}
+            [0, 0, 44] Type: Cell
+            │          Label: Religion
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 45] Type: Cell
+            │          Label: Predominantly Theravada Buddhism and Tai folk religion
+            │          Style: GrpSpan
+            └───────── Link: {'text:Theravada': 'http://en.wikipedia.org/wiki/Theravada', 'text:Buddhism': 'http://en.wikipedia.org/wiki/Buddhism', 'text:Tai folk religion': 'http://en.wikipedia.org/wiki/Tai_folk_religion'}
+            [0, 0, 46] Type: Cell
+            │          Label: Related ethnic groups
+            └───────── Style: Emphasize, GrpSpan
+            [0, 0, 47] Type: Cell
+            │          Label: Other Tai peoples
+(e.g. Lao people, Shan people, Dai people, Ahom people)
+Thai Chinese, Malaysian Siamese
+            │          Style: GrpSpan
+            └───────── Link: {'text:Tai peoples': 'http://en.wikipedia.org/wiki/Tai_peoples', 'text:Lao people': 'http://en.wikipedia.org/wiki/Lao_people', 'text:Shan people': 'http://en.wikipedia.org/wiki/Shan_people', 'text:Dai people': 'http://en.wikipedia.org/wiki/Dai_people', 'text:Ahom people': 'http://en.wikipedia.org/wiki/Ahom_people', 'text:Thai Chinese': 'http://en.wikipedia.org/wiki/Thai_Chinese', 'text:Malaysian Siamese': 'http://en.wikipedia.org/wiki/Malaysian_Siamese'}
+        [0, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 48
+            [0, 1, 0] Type: Cell
+            │         Label: Thai people at a cremation ceremony Wat Chedi Luang in Chiang Mai
+            │         Style: GrpSpan
+            └──────── Link: {'image:http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Chan_Kusalo_cremation_15.jpg/250px-Chan_Kusalo_cremation_15.jpg': 'http://en.wikipedia.org/wiki/File:Chan_Kusalo_cremation_15.jpg', 'text:Wat Chedi Luang': 'http://en.wikipedia.org/wiki/Wat_Chedi_Luang', 'text:Chiang Mai': 'http://en.wikipedia.org/wiki/Chiang_Mai'}
+            [0, 1, 1] Type: Cell
+            │         Label: Total population
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 2] Type: Cell
+            │         Label: c. 52–59 million
+            └──────── Style: GrpSpan
+            [0, 1, 3] Type: Cell
+            │         Label: Regions with significant populations
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 4] Type: Cell
+            │         Label: Thailand c. 51–57.8 million
+            │         Style: GrpSpan
+            └──────── Link: {'text:Thailand': 'http://en.wikipedia.org/wiki/Thailand'}
+            [0, 1, 5] Type: Cell
+            └──────── Label: c. 1.1 million
+            [0, 1, 6] Type: Cell
+            └──────── Label: 319,794 (2017)
+            [0, 1, 7] Type: Cell
+            └──────── Label: 185,389 (2018)
+            [0, 1, 8] Type: Cell
+            └──────── Label: 79,040 (2018)
+            [0, 1, 9] Type: Cell
+            └──────── Label: 64,922 (2018)
+            [0, 1, 10] Type: Cell
+            └───────── Label: 58,820 (2017)
+            [0, 1, 11] Type: Cell
+            └───────── Label: 51,000–70,000 (2012)
+            [0, 1, 12] Type: Cell
+            └───────── Label: 50,179 (2017)
+            [0, 1, 13] Type: Cell
+            └───────── Label: 47,700 (2012)
+            [0, 1, 14] Type: Cell
+            └───────── Label: 45,000 (2018)
+            [0, 1, 15] Type: Cell
+            └───────── Label: 43,556 (2019)
+            [0, 1, 16] Type: Cell
+            └───────── Label: 30,000 (2012)
+            [0, 1, 17] Type: Cell
+            └───────── Label: 28,000 (2011)
+            [0, 1, 18] Type: Cell
+            └───────── Label: 24,600 (2011)
+            [0, 1, 19] Type: Cell
+            └───────── Label: 20,106 (2017)
+            [0, 1, 20] Type: Cell
+            └───────── Label: 19,010 (2016)
+            [0, 1, 21] Type: Cell
+            └───────── Label: 18,324 (2016)
+            [0, 1, 22] Type: Cell
+            └───────── Label: 15,497 (2015)
+            [0, 1, 23] Type: Cell
+            └───────── Label: 14,232 (2012)
+            [0, 1, 24] Type: Cell
+            └───────── Label: 12,524 (2018)
+            [0, 1, 25] Type: Cell
+            └───────── Label: 11,553
+            [0, 1, 26] Type: Cell
+            └───────── Label: 11,493 (2016)
+            [0, 1, 27] Type: Cell
+            └───────── Label: 11,240 (2012)
+            [0, 1, 28] Type: Cell
+            └───────── Label: 9,058 (2015)
+            [0, 1, 29] Type: Cell
+            └───────── Label: 8,618 (2012)
+            [0, 1, 30] Type: Cell
+            └───────── Label: 8,500 (2012)
+            [0, 1, 31] Type: Cell
+            └───────── Label: 5,766 (2016)
+            [0, 1, 32] Type: Cell
+            └───────── Label: 5,466 (2012)
+            [0, 1, 33] Type: Cell
+            └───────── Label: 3,811 (2012)
+            [0, 1, 34] Type: Cell
+            └───────── Label: 3,773 (2012)
+            [0, 1, 35] Type: Cell
+            └───────── Label: 3,715 (2012)
+            [0, 1, 36] Type: Cell
+            └───────── Label: 3,500 (2012)
+            [0, 1, 37] Type: Cell
+            └───────── Label: 2,500 (2012)
+            [0, 1, 38] Type: Cell
+            └───────── Label: 2,424 (2012)
+            [0, 1, 39] Type: Cell
+            └───────── Label: 2,378 (2012)
+            [0, 1, 40] Type: Cell
+            └───────── Label: 2,331 (2012)
+            [0, 1, 41] Type: Cell
+            └───────── Label: c. 47,000
+            [0, 1, 42] Type: Cell
+            │          Label: Languages
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 43] Type: Cell
+            │          Label: Thai
+(Central Thai)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Thai': 'http://en.wikipedia.org/wiki/Thai_language'}
+            [0, 1, 44] Type: Cell
+            │          Label: Religion
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 45] Type: Cell
+            │          Label: Predominantly Theravada Buddhism and Tai folk religion
+            │          Style: GrpSpan
+            └───────── Link: {'text:Theravada': 'http://en.wikipedia.org/wiki/Theravada', 'text:Buddhism': 'http://en.wikipedia.org/wiki/Buddhism', 'text:Tai folk religion': 'http://en.wikipedia.org/wiki/Tai_folk_religion'}
+            [0, 1, 46] Type: Cell
+            │          Label: Related ethnic groups
+            └───────── Style: Emphasize, GrpSpan
+            [0, 1, 47] Type: Cell
+            │          Label: Other Tai peoples
+(e.g. Lao people, Shan people, Dai people, Ahom people)
+Thai Chinese, Malaysian Siamese
+            │          Style: GrpSpan
+            └───────── Link: {'text:Tai peoples': 'http://en.wikipedia.org/wiki/Tai_peoples', 'text:Lao people': 'http://en.wikipedia.org/wiki/Lao_people', 'text:Shan people': 'http://en.wikipedia.org/wiki/Shan_people', 'text:Dai people': 'http://en.wikipedia.org/wiki/Dai_people', 'text:Ahom people': 'http://en.wikipedia.org/wiki/Ahom_people', 'text:Thai Chinese': 'http://en.wikipedia.org/wiki/Thai_Chinese', 'text:Malaysian Siamese': 'http://en.wikipedia.org/wiki/Malaysian_Siamese'}
+    [1] Type: List
+    │   Label: Contents
+    │   Dimension: 1
+    └── Number of Member: 11
+        [1, 0] Type: Item
+        │      Label: Etymology
+        └───── Link: {'text:Etymology': 'http://en.wikipedia.org/wiki/Thai_people#Etymology'}
+        [1, 1] Type: Item
+        │      Label: History
+        └───── Link: {'text:History': 'http://en.wikipedia.org/wiki/Thai_people#History'}
+        [1, 2] Type: Item
+        │      Label: Geography and demographics
+        └───── Link: {'text:Geography and demographics': 'http://en.wikipedia.org/wiki/Thai_people#Geography_and_demographics'}
+        [1, 3] Type: Item
+        │      Label: Culture and society
+        └───── Link: {'text:Culture and society': 'http://en.wikipedia.org/wiki/Thai_people#Culture_and_society'}
+        [1, 4] Type: Item
+        │      Label: Religion
+        └───── Link: {'text:Religion': 'http://en.wikipedia.org/wiki/Thai_people#Religion'}
+        [1, 5] Type: Item
+        │      Label: Craniometry
+        └───── Link: {'text:Craniometry': 'http://en.wikipedia.org/wiki/Thai_people#Craniometry'}
+        [1, 6] Type: Item
+        │      Label: See also
+        └───── Link: {'text:See also': 'http://en.wikipedia.org/wiki/Thai_people#See_also'}
+        [1, 7] Type: Item
+        │      Label: Notes
+        └───── Link: {'text:Notes': 'http://en.wikipedia.org/wiki/Thai_people#Notes'}
+        [1, 8] Type: Item
+        │      Label: References
+        └───── Link: {'text:References': 'http://en.wikipedia.org/wiki/Thai_people#References'}
+        [1, 9] Type: Item
+        │      Label: Bibliography
+        └───── Link: {'text:Bibliography': 'http://en.wikipedia.org/wiki/Thai_people#Bibliography'}
+        [1, 10] Type: Item
+        │       Label: External links
+        └────── Link: {'text:External links': 'http://en.wikipedia.org/wiki/Thai_people#External_links'}
+    [2] Type: List
+    │   Label: See also
+    │   Dimension: 1
+    └── Number of Member: 13
+        [2, 0] Type: Item
+        │      Label: Ethnic groups in Thailand
+        └───── Link: {'text:Ethnic groups in Thailand': 'http://en.wikipedia.org/wiki/Ethnic_groups_in_Thailand'}
+        [2, 1] Type: Item
+        │      Label: List of Thai actresses
+        └───── Link: {'text:List of Thai actresses': 'http://en.wikipedia.org/wiki/List_of_Thai_actresses'}
+        [2, 2] Type: Item
+        │      Label: List of Thai actors
+        └───── Link: {'text:List of Thai actors': 'http://en.wikipedia.org/wiki/List_of_Thai_actors'}
+        [2, 3] Type: Item
+        │      Label: List of Thai people
+        └───── Link: {'text:List of Thai people': 'http://en.wikipedia.org/wiki/List_of_Thai_people'}
+        [2, 4] Type: Item
+        │      Label: Overseas Thai
+        └───── Link: {'text:Overseas Thai': 'http://en.wikipedia.org/wiki/Overseas_Thai'}
+        [2, 5] Type: Item
+        │      Label: Peopling of Thailand
+        └───── Link: {'text:Peopling of Thailand': 'http://en.wikipedia.org/wiki/Peopling_of_Thailand'}
+        [2, 6] Type: Item
+        │      Label: Thai American
+        └───── Link: {'text:Thai American': 'http://en.wikipedia.org/wiki/Thai_American'}
+        [2, 7] Type: Item
+        │      Label: Thai British
+        └───── Link: {'text:Thai British': 'http://en.wikipedia.org/wiki/Thai_community_in_the_United_Kingdom'}
+        [2, 8] Type: Item
+        │      Label: Thai culture
+        └───── Link: {'text:Thai culture': 'http://en.wikipedia.org/wiki/Thai_culture'}
+        [2, 9] Type: Item
+        │      Label: Thai folklore
+        └───── Link: {'text:Thai folklore': 'http://en.wikipedia.org/wiki/Thai_folklore'}
+        [2, 10] Type: Item
+        │       Label: Thais in Hong Kong
+        └────── Link: {'text:Thais in Hong Kong': 'http://en.wikipedia.org/wiki/Thais_in_Hong_Kong'}
+        [2, 11] Type: Item
+        │       Label: Thai marriage
+        └────── Link: {'text:Thai marriage': 'http://en.wikipedia.org/wiki/Thai_marriage'}
+        [2, 12] Type: Item
+        │       Label: Thailand
+        └────── Link: {'text:Thailand': 'http://en.wikipedia.org/wiki/Thailand'}
+    [3] Type: List
+    │   Label: Notes
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 1
+        [3, 0] Type: Item
+        └───── Label: The total figure is merely an estimation; sum of all the referenced populations below.
+    [4] Type: List
+    │   Label: Notes
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 1
+        [4, 0] Type: Item
+        │      Label: Thai people make up approximately 75–85% population of the country (68 million) if including the Southern Thai and, more controversially, the Northern Thai and Isan people, all of which include significant populations of non Tai-Kadai ethnic groups
+        └───── Link: {'text:Southern Thai': 'http://en.wikipedia.org/wiki/Southern_Thailand', 'text:Northern Thai': 'http://en.wikipedia.org/wiki/Northern_Thai_people', 'text:Isan people': 'http://en.wikipedia.org/wiki/Isan_people'}
+    [5] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 61
+        [5, 0] Type: Item
+        │      Label: McCargo, D.; Hongladarom, K. (2004). "Contesting Isan‐ness: Discourses of politics and identity in Northeast Thailand" (PDF). Asian Ethnicity. 5 (2): 219. doi:10.1080/1463136042000221898.
+        └───── Link: {'text:"Contesting Isan‐ness: Discourses of politics and identity in Northeast Thailand"': 'http://thaipolitics.leeds.ac.uk/files/2014/05/mccargo-and-krisadawan-2004.pdf', 'text:doi': 'http://en.wikipedia.org/wiki/Digital_object_identifier', 'text:10.1080/1463136042000221898': 'https://doi.org/10.1080%2F1463136042000221898'}
+        [5, 1] Type: Item
+        │      Label: David Levinson (1998), Ethnic Groups Worldwide: A Ready Reference Handbook, Oryx Pres, p. 287, ISBN 978-1-57356-019-1
+        └───── Link: {'text:Ethnic Groups Worldwide: A Ready Reference Handbook': 'https://archive.org/details/ethnicgroupsworl00levi/page/287', 'text:287': 'https://archive.org/details/ethnicgroupsworl00levi/page/287', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-57356-019-1': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-57356-019-1'}
+        [5, 2] Type: Item
+        │      Label: Paul, Lewis M.; Simons, Gary F.; Fennig, Charles D. (2013), Ethnologue: Languages of the World, SIL International, ISBN 978-1-55671-216-6
+        └───── Link: {'text:Ethnologue: Languages of the World': 'http://www.ethnologue.com', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-55671-216-6': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-55671-216-6'}
+        [5, 3] Type: Item
+        │      Label: "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS". factfinder.census.gov. Retrieved 2 May 2019.
+        └───── Link: {'text:"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS"': 'https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_B02018'}
+        [5, 4] Type: Item
+        │      Label: "출입국·외국인정책 내부용 통계월보 (2018년 7월호)" (PDF). gov.kr (in Korean). Retrieved 2 May 2019.
+        └───── Link: {'text:"출입국·외국인정책 내부용 통계월보 (2018년 7월호)"': 'http://gzone.kr/cmmn/FileDown.do?atchFileId=226381&fileSn=67807'}
+        [5, 5] Type: Item
+        │      Label: "Estimated resident population, Country of birth, Age and sex - as at 30 June 1996 to 2018". stat.data.abs.gov.au. Retrieved 2 May 2019.
+        └───── Link: {'text:"Estimated resident population, Country of birth, Age and sex - as at 30 June 1996 to 2018"': 'http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ERP_COB'}
+        [5, 6] Type: Item
+        │      Label: "108.02Foreign Residents by Nationality (03/25/2019)". immigration.gov.tw (in Chinese). Retrieved 2 May 2019.
+        └───── Link: {'text:"108.02Foreign Residents by Nationality (03/25/2019)"': 'https://www.immigration.gov.tw/5475/5478/141478/141380/170070/'}
+        [5, 7] Type: Item
+        │      Label: "Bevölkerung, Familien, Lebensformen (Ausländische Bevölkerung in Deutschland 2017)" (PDF). Destatis (in German). Retrieved 2 May 2019.
+        └───── Link: {'text:"Bevölkerung, Familien, Lebensformen (Ausländische Bevölkerung in Deutschland 2017)"': 'https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-bevoelkerung.pdf?__blob=publicationFile&v=6', 'text:Destatis': 'http://en.wikipedia.org/wiki/Federal_Statistical_Office_of_Germany'}
+        [5, 8] Type: Item
+        │      Label: "รายงานจำนวนประมาณการคนไทยในต่างประเทศ 2012" (PDF). consular.go.th (in Thai). March 5, 2012.
+        └───── Link: {'text:"รายงานจำนวนประมาณการคนไทยในต่างประเทศ 2012"': 'http://www.consular.go.th/main/contents/files/services-20120630-141533-674689.pdf'}
+        [5, 9] Type: Item
+        │      Label: Nop Nai Samrong (8 January 2014). "SIAMESE MALAYSIANS: They are part of our society". New Straits Times. Archived from the original on 8 January 2014. Retrieved 10 January 2014.
+        └───── Link: {'text:"SIAMESE MALAYSIANS: They are part of our society"': 'https://web.archive.org/web/20140108111857/http://www.nst.com.my/opinion/letters-to-the-editor/siamese-malaysians-they-are-part-of-our-society-1.457322', 'text:New Straits Times': 'http://en.wikipedia.org/wiki/New_Straits_Times', 'text:the original': 'http://www.nst.com.my/opinion/letters-to-the-editor/siamese-malaysians-they-are-part-of-our-society-1.457322'}
+        [5, 10] Type: Item
+        │       Label: "平成２９年末現在における在留外国人数について（確定値）" (PDF). Ministry of Justice (Japan) (in Japanese). Retrieved 2 May 2019.
+        └────── Link: {'text:"平成２９年末現在における在留外国人数について（確定値）"': 'http://www.moj.go.jp/content/001256897.pdf', 'text:Ministry of Justice (Japan)': 'http://en.wikipedia.org/wiki/Ministry_of_Justice_(Japan)'}
+        [5, 11] Type: Item
+        │       Label: "Population of the United Kingdom by Country of Birth and Nationality (July 2017 to June 2018)". ons.gov.uk. 29 November 2018. Retrieved 2 May 2019.
+        └────── Link: {'text:"Population of the United Kingdom by Country of Birth and Nationality (July 2017 to June 2018)"': 'https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/populationoftheunitedkingdombycountryofbirthandnationality'}
+        [5, 12] Type: Item
+        │       Label: "Foreign-born persons – Population by country of birth, age and sex. Year 2000 - 2018". Statistics Sweden. 2019-02-21. Retrieved 25 February 2020.
+        └────── Link: {'text:"Foreign-born persons – Population by country of birth, age and sex. Year 2000 - 2018"': 'http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101E/FodelselandArK/table/tableViewLayout1/', 'text:Statistics Sweden': 'http://en.wikipedia.org/wiki/Statistics_Sweden'}
+        [5, 13] Type: Item
+        │       Label: "Bevolking; generatie, geslacht, leeftijd en herkomstgroepering". statline.cbs.nl (in Dutch). July 18, 2017.
+        └────── Link: {'text:"Bevolking; generatie, geslacht, leeftijd en herkomstgroepering"': 'http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=37325&D1=0&D2=a&D3=0&D4=0&D5=a&D6=l&HDR=G2,G3&STB=G1,G5,T,G4&VW=T'}
+        [5, 14] Type: Item
+        │       Label: "Data tables, 2016 Census". Statistics Canada. 16 January 2018. Retrieved 5 July 2018.
+        └────── Link: {'text:"Data tables, 2016 Census"': 'http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=110528&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=120&VID=0', 'text:Statistics Canada': 'http://en.wikipedia.org/wiki/Statistics_Canada'}
+        [5, 15] Type: Item
+        │       Label: "Befolkningen etter innvandringskategori og landbakgrunn (Innvandrere og Norskfødte med innvandrerforeldre)". ssb.no (in Norwegian). 3 March 2016. Retrieved February 21, 2017.
+        └────── Link: {'text:"Befolkningen etter innvandringskategori og landbakgrunn (Innvandrere og Norskfødte med innvandrerforeldre)"': 'https://ssb.no/befolkning/statistikker/innvbef/aar/2016-03-03?fane=tabell&sort=nummer&tabell=258401'}
+        [5, 16] Type: Item
+        │       Label: "Table P4.8 Overseas Migrant Population 10 Years Old and Over by Country of Origin and Province of Current Residence" (PDF). lsb.gov.la. Retrieved February 14, 2017.
+        └────── Link: {'text:"Table P4.8 Overseas Migrant Population 10 Years Old and Over by Country of Origin and Province of Current Residence"': 'http://lsb.gov.la/PDF/PHC-ENG-FNAL-WEB.pdf'}
+        [5, 17] Type: Item
+        │       Label: "FOLK2 Folketal 1. januar efter køn, alder, herkomst, oprindelsesland og statsborgerskab (1980–2018)". statistikbanken.dk (in Danish). Retrieved 4 March 2018.
+        └────── Link: {'text:"FOLK2 Folketal 1. januar efter køn, alder, herkomst, oprindelsesland og statsborgerskab (1980–2018)"': 'https://www.statbank.dk/statbank5a/SelectVarVal/Define.asp?Maintable=FOLK2'}
+        [5, 18] Type: Item
+        │       Label: "United Nations Population Division | Department of Economic and Social Affairs". un.org. Retrieved 2018-06-29.
+        └────── Link: {'text:"United Nations Population Division | Department of Economic and Social Affairs"': 'http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml'}
+        [5, 19] Type: Item
+        │       Label: "2016 Population By-census: Summary Results 2016年中期人口統計：簡要報告 (by nationality)" (PDF). bycensus2016.gov.hk. Retrieved 26 December 2017.
+        └────── Link: {'text:"2016 Population By-census: Summary Results 2016年中期人口統計：簡要報告 (by nationality)"': 'http://www.bycensus2016.gov.hk/data/16bc-summary-results.pdf'}
+        [5, 20] Type: Item
+        │       Label: "Ständige ausländische Wohnbevölkerung nach Staatsangehörigkeit". bfs.admin.ch (in German). August 26, 2016.
+        └────── Link: {'text:"Ständige ausländische Wohnbevölkerung nach Staatsangehörigkeit"': 'https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/auslaendische-bevoelkerung.assetdetail.104539.html'}
+        [5, 21] Type: Item
+        │       Label: "Cittadini Stranieri. Popolazione residente per sesso e cittadinanza al 31 dicembre 2016". Istat (in Italian). Retrieved July 14, 2017.
+        └────── Link: {'text:"Cittadini Stranieri. Popolazione residente per sesso e cittadinanza al 31 dicembre 2016"': 'http://demo.istat.it/str2016/index.html', 'text:Istat': 'http://en.wikipedia.org/wiki/National_Institute_of_Statistics_(Italy)'}
+        [5, 22] Type: Item
+        │       Label: "Trends in International Migrant Stock: Migrants by Destination and Origin" (XLSX). United Nations. 1 December 2015. Retrieved 14 July 2016.
+        └────── Link: {'text:"Trends in International Migrant Stock: Migrants by Destination and Origin"': 'https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByOriginAndDestination_2015.xlsx'}
+        [5, 23] Type: Item
+        └────── Label: Cheesman, P. (1988). Lao textiles: ancient symbols-living art. Bangkok, Thailand: White Lotus Co., Thailand.
+        [5, 24] Type: Item
+        └────── Label: Fox, M. (1997). A history of Laos. Cambridge, U.K.: Cambridge University Press.
+        [5, 25] Type: Item
+        └────── Label: Fox, M. (2008). Historical Dictionary of Laos (3rd ed.). Lanham: Scarecrow Press.
+        [5, 26] Type: Item
+        └────── Label: Goodden, C. (1999). Around Lan-na: a guide to Thailand's northern border region from Chiang Mai to Nan. Halesworth, Suffolk: Jungle Books.
+        [5, 27] Type: Item
+        │       Label: Gehan Wijeyewardene (1990). Ethnic Groups across National Boundaries in Mainland Southeast Asia. Singapore: Institute of Southeast Asian Studies. p. 48. ISBN 978-981-3035-57-7. The word 'Thai' is today generally used for citizens of the Kingdom of Thailand, and more specifically for the 'Siamese'.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-981-3035-57-7': 'http://en.wikipedia.org/wiki/Special:BookSources/978-981-3035-57-7'}
+        [5, 28] Type: Item
+        │       Label: Barbara A. West (2009), Encyclopedia of the Peoples of Asia and Oceania, Facts on File, p. 794, ISBN 978-1-4381-1913-7
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-4381-1913-7': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-4381-1913-7'}
+        [5, 29] Type: Item
+        └────── Label: Antonio L. Rappa; Lionel Wee (2006), Language Policy and Modernity in Southeast Asia: Malaysia, the Philippines, Singapore, and Thailand, Springer, pp. 114–115
+        [5, 30] Type: Item
+        │       Label: Ferlus, Michel (2009). Formation of Ethnonyms in Southeast Asia. 42nd International Conference on Sino-Tibetan Languages and Linguistics, Nov 2009, Chiang Mai, Thailand. 2009, p.3.
+        └────── Link: {'text:Ferlus, Michel (2009). Formation of Ethnonyms in Southeast Asia': 'https://hal.inria.fr/halshs-01182596/document'}
+        [5, 31] Type: Item
+        │       Label: Pain, Frédéric (2008). An Introduction to Thai Ethnonymy: Examples from Shan and Northern Thai. Journal of the American Oriental Society Vol. 128, No. 4 (Oct. - Dec., 2008), p.646.
+        └────── Link: {'text:Pain, Frédéric (2008). An Introduction to Thai Ethnonymy: Examples from Shan and Northern Thai': 'https://www.jstor.org/stable/25608449?seq=6#page_scan_tab_contents'}
+        [5, 32] Type: Item
+        │       Label: Luo, Wei; Hartmann, John; Li, Jinfang; Sysamouth, Vinya (December 2000). "GIS Mapping and Analysis of Tai Linguistic and Settlement Patterns in Southern China" (PDF). Geographic Information Sciences. 6 (2): 129–136. Retrieved May 28, 2013. Abstract. By integrating linguistic information and physical geographic features in a GIS environment, this paper maps the spatial variation of terms connected with wet-rice farming of Tai minority groups in southern China and shows that the primary candidate of origin for proto-Tai is in the region of Guangxi-Guizhou, not Yunnan or the middle Yangtze River region as others have proposed....
+        └────── Link: {'text:"GIS Mapping and Analysis of Tai Linguistic and Settlement Patterns in Southern China"': 'http://www.niu.edu/landform/papers/JGIS_Tai_Origin.pdf', 'text:GIS': 'http://en.wikipedia.org/wiki/Geographic_information_system'}
+        [5, 33] Type: Item
+        │       Label: Du Yuting; Chen Lufan (1989). "Did Kublai Khan's Conquest of the Dali Kingdom Give Rise to the Mass Migration of the Thai People to the South?" (PDF). Journal of the Siam Society. JSS Vol. 77.1c (digital). image 7 of p. 39. Retrieved March 17, 2013. The Thai people in the north as well as in the south did not in any sense "migrate en masse to the south" after Kublai Khan's conquest of the Dali Kingdom.
+        └────── Link: {'text:"Did Kublai Khan\'s Conquest of the Dali Kingdom Give Rise to the Mass Migration of the Thai People to the South?"': 'http://www.siamese-heritage.org/jsspdf/1981/JSS_077_1c_DuYutingChenLufan_KublaiKhanConquestAndThaiMigration.pdf', 'text:Journal of the Siam Society': 'http://en.wikipedia.org/wiki/Journal_of_the_Siam_Society', 'text:Kublai Khan': 'http://en.wikipedia.org/wiki/Kublai_Khan', 'text:Dali Kingdom': 'http://en.wikipedia.org/wiki/Dali_Kingdom'}
+        [5, 34] Type: Item
+        │       Label: Pittayaporn, Pittayawat (2014). Layers of Chinese Loanwords in Proto-Southwestern Tai as Evidence for the Dating of the Spread of Southwestern Tai. MANUSYA: Journal of Humanities, Special Issue No 20: 47-64.
+        └────── Link: {'text:Pittayaporn, Pittayawat (2014). Layers of Chinese Loanwords in Proto-Southwestern Tai as Evidence for the Dating of the Spread of Southwestern Tai': 'http://www.manusya.journals.chula.ac.th/files/essay/Pittayawat%2047-68.pdf'}
+        [5, 35] Type: Item
+        └────── Label: Charles F. Keyes (1997), "Cultural Diversity and National Identity in Thailand", Government policies and ethnic relations in Asia and the Pacific, MIT Press, p. 203
+        [5, 36] Type: Item
+        │       Label: "Ayodhya-Ayutthaya – SEAArch – The Southeast Asian Archaeology Newsblog". Southeastasianarchaeology.com. 2008-05-05. Retrieved 12 December 2017.
+        └────── Link: {'text:"Ayodhya-Ayutthaya – SEAArch – The Southeast Asian Archaeology Newsblog"': 'http://www.southeastasianarchaeology.com/2008/05/05/ayodhya-ayutthaya/'}
+        [5, 37] Type: Item
+        │       Label: Thak Chaloemtiarana. Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand. CHINESE SOUTHERN DIASPORA STUDIES, VOLUME SEVEN, 2014–15, p. 186.
+        └────── Link: {'text:Thak Chaloemtiarana. Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand': 'https://chl-old.anu.edu.au/publications/csds/csds2014/csds2014_15.pdf'}
+        [5, 38] Type: Item
+        │       Label: Baker, Chris; Phongpaichit, Pasuk. A History of Thailand. Cambridge University Press (2009), p. 206. ISBN 978-1-107-39373-8.
+        └────── Link: {'text:Baker, Chris; Phongpaichit, Pasuk. A History of Thailand': 'https://books.google.co.th/books?id=JT1dAAAAQBAJ&lpg=PP1&pg=PA206#v=onepage&q&f=false', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-107-39373-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-107-39373-8'}
+        [5, 39] Type: Item
+        │       Label: Thak Chaloemtiarana (2007), Thailand: The Politics of Despotic Paternalism, Ithaca, NY: Cornell Southeast Asia Program, pp. 245–246, ISBN 978-0-87727-742-2
+        └────── Link: {'text:Thailand: The Politics of Despotic Paternalism': 'https://books.google.co.th/books?id=6f0CMvP203wC&lpg=PP1&pg=PA246#v=onepage&q&f=false', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-87727-742-2': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-87727-742-2'}
+        [5, 40] Type: Item
+        │       Label: Richter, Frank-Jürgen (1999). Business Networks in Asia: Promises, Doubts, and Perspectives. Praeger. p. 193. ISBN 978-1-56720-302-8.
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-1-56720-302-8': 'http://en.wikipedia.org/wiki/Special:BookSources/978-1-56720-302-8'}
+        [5, 41] Type: Item
+        │       Label: Yeung, Henry Dr. "Economic Globalization, Crisis and the Emergence of Chinese Business Communities in Southeast Asia" (PDF). National University of Singapore.
+        └────── Link: {'text:"Economic Globalization, Crisis and the Emergence of Chinese Business Communities in Southeast Asia"': 'http://courses.nus.edu.sg/course/geoywc/publication/Int%27l%20Sociology.pdf'}
+        [5, 42] Type: Item
+        │       Label: Theraphan Luangthongkum (2007), "The Position of Non-Thai Languages in Thailand", Language, Nation and Development in Southeast Asia, ISEAS Publishing, p. 191, ISBN 9789812304827
+        └────── Link: {'text:Theraphan Luangthongkum': 'http://en.wikipedia.org/wiki/Theraphan_Luangthongkum', 'text:"The Position of Non-Thai Languages in Thailand"': 'https://books.google.com/?id=ImjVqAVxO74C&lpg=PA181&dq=the%20position%20of%20non%20thai%20languages%20in%20thailand&pg=PA191#v=onepage&q&f=false', 'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:9789812304827': 'http://en.wikipedia.org/wiki/Special:BookSources/9789812304827'}
+        [5, 43] Type: Item
+        └────── Label: Streckfuss, David (1993). "The mixed colonial legacy in Siam: Origins of Thai racialist thought, 1890–1910". Autonomous Histories, Particular Truths: Essays in the Honor of John R. W. Smail. Madison, WI: Centre for Southeast Asian Studies. pp. 123–153.
+        [5, 44] Type: Item
+        │       Label: Iijima, Akiko (2018). "The invention of "Isan" history". Journal of the Siam Society. 106: 171–200.
+        └────── Link: {'text:"The invention of "Isan" history"': 'https://so06.tci-thaijo.org/index.php/pub_jss/article/view/157699'}
+        [5, 45] Type: Item
+        └────── Label: Tejapira, Kasian (2003), "De-Othering Jek Communists: Rewriting Thai History from the Viewpoint of the Ethno-Ideological Order", Southeast Asia Over Three Generations: Essays Presented to Benedict R. O'G. Anderson, Ithaca, NY: Cornell Southeast Asia Program, p. 247
+        [5, 46] Type: Item
+        └────── Label: Thanet Aphornsuvan (1998), "Slavery and Modernity: Freedom in the Making of Modern Siam", Asian Freedoms: The Idea of Freedom in East and Southeast Asia, Cambridge University Press, p. 181
+        [5, 47] Type: Item
+        └────── Label: Chris Baker; Pasuk Phongpaichit (2009), A History of Thailand (Second ed.), Cambridge University Press, pp. 172–175
+        [5, 48] Type: Item
+        │       Label: "CIA – The World Factbook". Cia.gov. Retrieved 2012-08-29. 95.9% of 67,497,151 (July 2013 est.)
+        └────── Link: {'text:"CIA – The World Factbook"': 'https://www.cia.gov/library/publications/the-world-factbook/geos/th.html#People'}
+        [5, 49] Type: Item
+        │       Label: Strate, Shane, author. The lost territories : Thailand's history of national humiliation. ISBN 978-0-8248-6971-7. OCLC 986596797.CS1 maint: multiple names: authors list (link)
+        └────── Link: {'text:ISBN': 'http://en.wikipedia.org/wiki/International_Standard_Book_Number', 'text:978-0-8248-6971-7': 'http://en.wikipedia.org/wiki/Special:BookSources/978-0-8248-6971-7', 'text:OCLC': 'http://en.wikipedia.org/wiki/OCLC', 'text:986596797': 'http://www.worldcat.org/oclc/986596797', 'text:link': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list'}
+        [5, 50] Type: Item
+        │       Label: Breazeale, Kennon. (1975). The integration of the Lao States into the Thai Kingdom. Bodleian Library, Oxford University. OCLC 223634347.
+        └────── Link: {'text:OCLC': 'http://en.wikipedia.org/wiki/OCLC', 'text:223634347': 'http://www.worldcat.org/oclc/223634347'}
+        [5, 51] Type: Item
+        └────── Label: Patit Paban Mishra (2010), The History of Thailand, Greenwood, p. 11
+        [5, 52] Type: Item
+        └────── Label: S.N. Desai (1980), Hinduism in Thai Life, Bombay: Popular Prakashan Private
+        [5, 53] Type: Item
+        └────── Label: Pattana Kitiarsa (2011), "The Horror of the Modern: Violation, Violence and Rampaging Urban Youths in Contemporary Thai Ghost Films", Engaging the Spirit World: Popular Beliefs and Practices in Modern Southeast Asia, Berghahn Books, pp. 200–220
+        [5, 54] Type: Item
+        └────── Label: Patit Paban Mishra (2010), The History of Thailand, Greenwood, pp. 11–12
+        [5, 55] Type: Item
+        └────── Label: Desai (1980), Hinduism in Thai Life, p. 63
+        [5, 56] Type: Item
+        └────── Label: Desai (1980), Hinduism in Thai Life, p. 26
+        [5, 57] Type: Item
+        └────── Label: Kate Crosby (2014), Theravada Buddhism: Continuity, Diversity, and Identity, Chichester (West Sussex): Wiley Blackwell, p. 277
+        [5, 58] Type: Item
+        └────── Label: Timothy D. Hoare (2004), Thailand: A Global Studies Handbook, Santa Barbara CA: ABC-CLIO, p. 144
+        [5, 59] Type: Item
+        └────── Label: Justin Thomas McDaniel (2011), The Lovelorn Ghost and the Magical Monk: Practicing Buddhism in Modern Thailand, New York: Columbia University Press
+        [5, 60] Type: Item
+        │       Label: Rooppakhun, Supakit et al. (2010). Craniometric Study of Thai Skull Based on Three-Dimensional Computed Tomography (CT) Data. Journal of the Medical Association of Thailand, 93(1). Pages 91 & 96. Retrieved January 25, 2018, from link.
+        └────── Link: {'text:link.': 'http://www.thaiscience.info/Journals/Article/JMAT/10749105.pdf'}
+    [6] Type: List
+    │   Label: Bibliography
+    │   Dimension: 1
+    └── Number of Member: 3
+        [6, 0] Type: Item
+        └───── Label: Girsling, John L.S., Thailand: Society and Politics (Cornell University Press, 1981).
+        [6, 1] Type: Item
+        └───── Label: Terwiel, B.J., A History of Modern Thailand (Univ. of Queensland Press, 1984).
+        [6, 2] Type: Item
+        └───── Label: Wyatt, D.K., Thailand: A Short History (Yale University Press, 1986).
+    [7] Type: List
+    │   Label: External links
+    │   Dimension: 1
+    └── Number of Member: 1
+        [7, 0] Type: Item
+        │      Label: US Library of Congress Country Studies, Thailand, The Thai and Other Tai-Speaking Peoples
+        └───── Link: {'text:US Library of Congress Country Studies, Thailand, The Thai and Other Tai-Speaking Peoples': 'http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+th0053)'}
+    [8] Type: List
+    │   Label: External links
+    │   Dimension: 1
+    └── Number of Member: 2
+        [8, 0] Type: Item
+        │      Label: Tai peoples
+        └───── Link: {'text:Tai peoples': 'http://en.wikipedia.org/wiki/Category:Tai_peoples'}
+        [8, 1] Type: Item
+        │      Label: Ethnic groups in Thailand
+        └───── Link: {'text:Ethnic groups in Thailand': 'http://en.wikipedia.org/wiki/Category:Ethnic_groups_in_Thailand'}
+    [9] Type: List
+    │   Label: External links
+    │   Dimension: 1
+    └── Number of Member: 23
+        [9, 0] Type: Item
+        │      Label: CS1 Korean-language sources (ko)
+        └───── Link: {'text:CS1 Korean-language sources (ko)': 'http://en.wikipedia.org/wiki/Category:CS1_Korean-language_sources_(ko)'}
+        [9, 1] Type: Item
+        │      Label: CS1 Chinese-language sources (zh)
+        └───── Link: {'text:CS1 Chinese-language sources (zh)': 'http://en.wikipedia.org/wiki/Category:CS1_Chinese-language_sources_(zh)'}
+        [9, 2] Type: Item
+        │      Label: CS1 German-language sources (de)
+        └───── Link: {'text:CS1 German-language sources (de)': 'http://en.wikipedia.org/wiki/Category:CS1_German-language_sources_(de)'}
+        [9, 3] Type: Item
+        │      Label: CS1 Thai-language sources (th)
+        └───── Link: {'text:CS1 Thai-language sources (th)': 'http://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)'}
+        [9, 4] Type: Item
+        │      Label: CS1 Japanese-language sources (ja)
+        └───── Link: {'text:CS1 Japanese-language sources (ja)': 'http://en.wikipedia.org/wiki/Category:CS1_Japanese-language_sources_(ja)'}
+        [9, 5] Type: Item
+        │      Label: CS1 Dutch-language sources (nl)
+        └───── Link: {'text:CS1 Dutch-language sources (nl)': 'http://en.wikipedia.org/wiki/Category:CS1_Dutch-language_sources_(nl)'}
+        [9, 6] Type: Item
+        │      Label: CS1 Norwegian-language sources (no)
+        └───── Link: {'text:CS1 Norwegian-language sources (no)': 'http://en.wikipedia.org/wiki/Category:CS1_Norwegian-language_sources_(no)'}
+        [9, 7] Type: Item
+        │      Label: CS1 Danish-language sources (da)
+        └───── Link: {'text:CS1 Danish-language sources (da)': 'http://en.wikipedia.org/wiki/Category:CS1_Danish-language_sources_(da)'}
+        [9, 8] Type: Item
+        │      Label: CS1 Italian-language sources (it)
+        └───── Link: {'text:CS1 Italian-language sources (it)': 'http://en.wikipedia.org/wiki/Category:CS1_Italian-language_sources_(it)'}
+        [9, 9] Type: Item
+        │      Label: CS1: long volume value
+        └───── Link: {'text:CS1: long volume value': 'http://en.wikipedia.org/wiki/Category:CS1:_long_volume_value'}
+        [9, 10] Type: Item
+        │       Label: CS1 maint: multiple names: authors list
+        └────── Link: {'text:CS1 maint: multiple names: authors list': 'http://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list'}
+        [9, 11] Type: Item
+        │       Label: Articles with short description
+        └────── Link: {'text:Articles with short description': 'http://en.wikipedia.org/wiki/Category:Articles_with_short_description'}
+        [9, 12] Type: Item
+        │       Label: Pages using deprecated image syntax
+        └────── Link: {'text:Pages using deprecated image syntax': 'http://en.wikipedia.org/wiki/Category:Pages_using_deprecated_image_syntax'}
+        [9, 13] Type: Item
+        │       Label: "Related ethnic groups" needing confirmation
+        └────── Link: {'text:"Related ethnic groups" needing confirmation': 'http://en.wikipedia.org/wiki/Category:%22Related_ethnic_groups%22_needing_confirmation'}
+        [9, 14] Type: Item
+        │       Label: Articles using infobox ethnic group with image parameters
+        └────── Link: {'text:Articles using infobox ethnic group with image parameters': 'http://en.wikipedia.org/wiki/Category:Articles_using_infobox_ethnic_group_with_image_parameters'}
+        [9, 15] Type: Item
+        │       Label: Articles containing Thai-language text
+        └────── Link: {'text:Articles containing Thai-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text'}
+        [9, 16] Type: Item
+        │       Label: All articles with specifically marked weasel-worded phrases
+        └────── Link: {'text:All articles with specifically marked weasel-worded phrases': 'http://en.wikipedia.org/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases'}
+        [9, 17] Type: Item
+        │       Label: Articles with specifically marked weasel-worded phrases from June 2018
+        └────── Link: {'text:Articles with specifically marked weasel-worded phrases from June 2018': 'http://en.wikipedia.org/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2018'}
+        [9, 18] Type: Item
+        │       Label: Articles containing Chinese-language text
+        └────── Link: {'text:Articles containing Chinese-language text': 'http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text'}
+        [9, 19] Type: Item
+        │       Label: Commons category link is on Wikidata
+        └────── Link: {'text:Commons category link is on Wikidata': 'http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata'}
+        [9, 20] Type: Item
+        │       Label: Commons category link is on Wikidata using P373
+        └────── Link: {'text:Commons category link is on Wikidata using P373': 'http://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373'}
+        [9, 21] Type: Item
+        │       Label: Wikipedia articles with BNF identifiers
+        └────── Link: {'text:Wikipedia articles with BNF identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_BNF_identifiers'}
+        [9, 22] Type: Item
+        │       Label: Wikipedia articles with LCCN identifiers
+        └────── Link: {'text:Wikipedia articles with LCCN identifiers': 'http://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_LCCN_identifiers'}
+    [10] Type: List
+    │    Label: Tools
+    │    Dimension: 1
+    └─── Number of Member: 8
+        [10, 0] Type: Item
+        │       Label: What links here
+        └────── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Thai_people'}
+        [10, 1] Type: Item
+        │       Label: Related changes
+        └────── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Thai_people'}
+        [10, 2] Type: Item
+        │       Label: Upload file
+        └────── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [10, 3] Type: Item
+        │       Label: Special pages
+        └────── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [10, 4] Type: Item
+        │       Label: Permanent link
+        └────── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Thai_people&oldid=945015079'}
+        [10, 5] Type: Item
+        │       Label: Page information
+        └────── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Thai_people&action=info'}
+        [10, 6] Type: Item
+        │       Label: Wikidata item
+        └────── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q472834'}
+        [10, 7] Type: Item
+        │       Label: Cite this page
+        └────── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Thai_people&id=945015079&wpFormIdentifier=titleform'}
+    [11] Type: List
+    │    Label: In other projects
+    │    Dimension: 1
+    └─── Number of Member: 1
+        [11, 0] Type: Item
+        │       Label: Wikimedia Commons
+        └────── Link: {'text:Wikimedia Commons': 'https://commons.wikimedia.org/wiki/Category:People_of_Thailand'}
+    [12] Type: List
+    │    Label: Print/export
+    │    Dimension: 1
+    └─── Number of Member: 3
+        [12, 0] Type: Item
+        │       Label: Create a book
+        └────── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Thai+people'}
+        [12, 1] Type: Item
+        │       Label: Download as PDF
+        └────── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Thai+people&action=show-download-screen'}
+        [12, 2] Type: Item
+        │       Label: Printable version
+        └────── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Thai_people&printable=yes'}
+    [13] Type: List
+    │    Label: Languages
+    │    Dimension: 1
+    └─── Number of Member: 43
+        [13, 0] Type: Item
+        │       Label: Afrikaans
+        └────── Link: {'text:Afrikaans': 'https://af.wikipedia.org/wiki/Thai_(volk)'}
+        [13, 1] Type: Item
+        │       Label: العربية
+        └────── Link: {'text:العربية': 'https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%8A%D9%88%D9%86'}
+        [13, 2] Type: Item
+        │       Label: Bân-lâm-gú
+        └────── Link: {'text:Bân-lâm-gú': 'https://zh-min-nan.wikipedia.org/wiki/Th%C3%A0i-cho%CC%8Dk'}
+        [13, 3] Type: Item
+        │       Label: Български
+        └────── Link: {'text:Български': 'https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8'}
+        [13, 4] Type: Item
+        │       Label: Català
+        └────── Link: {'text:Català': 'https://ca.wikipedia.org/wiki/Tailandesos'}
+        [13, 5] Type: Item
+        │       Label: Čeština
+        └────── Link: {'text:Čeština': 'https://cs.wikipedia.org/wiki/Thajci'}
+        [13, 6] Type: Item
+        │       Label: Deutsch
+        └────── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Thai_(Volk)'}
+        [13, 7] Type: Item
+        │       Label: Eesti
+        └────── Link: {'text:Eesti': 'https://et.wikipedia.org/wiki/Tailased'}
+        [13, 8] Type: Item
+        │       Label: Esperanto
+        └────── Link: {'text:Esperanto': 'https://eo.wikipedia.org/wiki/Tajoj'}
+        [13, 9] Type: Item
+        │       Label: Euskara
+        └────── Link: {'text:Euskara': 'https://eu.wikipedia.org/wiki/Thailandiar'}
+        [13, 10] Type: Item
+        │        Label: فارسی
+        └─────── Link: {'text:فارسی': 'https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%AF%D9%85_%D8%AA%D8%A7%DB%8C%D9%84%D9%86%D8%AF'}
+        [13, 11] Type: Item
+        │        Label: Français
+        └─────── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Tha%C3%AF_(peuple)'}
+        [13, 12] Type: Item
+        │        Label: Gaeilge
+        └─────── Link: {'text:Gaeilge': 'https://ga.wikipedia.org/wiki/T%C3%A9alannaigh'}
+        [13, 13] Type: Item
+        │        Label: 한국어
+        └─────── Link: {'text:한국어': 'https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EC%9D%B8'}
+        [13, 14] Type: Item
+        │        Label: हिन्दी
+        └─────── Link: {'text:हिन्दी': 'https://hi.wikipedia.org/wiki/%E0%A4%A5%E0%A4%BE%E0%A4%88_%E0%A4%B2%E0%A5%8B%E0%A4%97'}
+        [13, 15] Type: Item
+        │        Label: Hrvatski
+        └─────── Link: {'text:Hrvatski': 'https://hr.wikipedia.org/wiki/Thai'}
+        [13, 16] Type: Item
+        │        Label: Bahasa Indonesia
+        └─────── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/Suku_Thai'}
+        [13, 17] Type: Item
+        │        Label: Italiano
+        └─────── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/Thai'}
+        [13, 18] Type: Item
+        │        Label: Кыргызча
+        └─────── Link: {'text:Кыргызча': 'https://ky.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B0%D1%80'}
+        [13, 19] Type: Item
+        │        Label: ລາວ
+        └─────── Link: {'text:ລາວ': 'https://lo.wikipedia.org/wiki/%E0%BB%84%E0%BA%97%E0%BA%AA%E0%BA%B0%E0%BA%AB%E0%BA%8D%E0%BA%B2%E0%BA%A1'}
+        [13, 20] Type: Item
+        │        Label: Lietuvių
+        └─────── Link: {'text:Lietuvių': 'https://lt.wikipedia.org/wiki/Tajai'}
+        [13, 21] Type: Item
+        │        Label: മലയാളം
+        └─────── Link: {'text:മലയാളം': 'https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B4%BE%E0%B4%AF%E0%B5%8D_%E0%B4%9C%E0%B4%A8%E0%B4%A4'}
+        [13, 22] Type: Item
+        │        Label: Bahasa Melayu
+        └─────── Link: {'text:Bahasa Melayu': 'https://ms.wikipedia.org/wiki/Orang_Thai'}
+        [13, 23] Type: Item
+        │        Label: Монгол
+        └─────── Link: {'text:Монгол': 'https://mn.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9_%D2%AF%D0%BD%D0%B4%D1%8D%D1%81%D1%82%D1%8D%D0%BD'}
+        [13, 24] Type: Item
+        │        Label: Nederlands
+        └─────── Link: {'text:Nederlands': 'https://nl.wikipedia.org/wiki/Thai_(volk)'}
+        [13, 25] Type: Item
+        │        Label: 日本語
+        └─────── Link: {'text:日本語': 'https://ja.wikipedia.org/wiki/%E5%B0%8F%E3%82%BF%E3%82%A4%E6%97%8F'}
+        [13, 26] Type: Item
+        │        Label: Oʻzbekcha/ўзбекча
+        └─────── Link: {'text:Oʻzbekcha/ўзбекча': 'https://uz.wikipedia.org/wiki/Tailar'}
+        [13, 27] Type: Item
+        │        Label: Polski
+        └─────── Link: {'text:Polski': 'https://pl.wikipedia.org/wiki/Tajowie'}
+        [13, 28] Type: Item
+        │        Label: Português
+        └─────── Link: {'text:Português': 'https://pt.wikipedia.org/wiki/Tai_(grupo_%C3%A9tnico)'}
+        [13, 29] Type: Item
+        │        Label: Română
+        └─────── Link: {'text:Română': 'https://ro.wikipedia.org/wiki/Thailandezi'}
+        [13, 30] Type: Item
+        │        Label: Русский
+        └─────── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%86%D1%8B'}
+        [13, 31] Type: Item
+        │        Label: Саха тыла
+        └─────── Link: {'text:Саха тыла': 'https://sah.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B0%D0%B9%D0%B4%D0%B0%D1%80'}
+        [13, 32] Type: Item
+        │        Label: Shqip
+        └─────── Link: {'text:Shqip': 'https://sq.wikipedia.org/wiki/Tai'}
+        [13, 33] Type: Item
+        │        Label: Simple English
+        └─────── Link: {'text:Simple English': 'https://simple.wikipedia.org/wiki/Thai_people'}
+        [13, 34] Type: Item
+        │        Label: Српски / srpski
+        └─────── Link: {'text:Српски / srpski': 'https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)'}
+        [13, 35] Type: Item
+        │        Label: Srpskohrvatski / српскохрватски
+        └─────── Link: {'text:Srpskohrvatski / српскохрватски': 'https://sh.wikipedia.org/wiki/Tajlan%C4%91ani'}
+        [13, 36] Type: Item
+        │        Label: Suomi
+        └─────── Link: {'text:Suomi': 'https://fi.wikipedia.org/wiki/Thait'}
+        [13, 37] Type: Item
+        │        Label: Svenska
+        └─────── Link: {'text:Svenska': 'https://sv.wikipedia.org/wiki/Thai_(etnisk_grupp)'}
+        [13, 38] Type: Item
+        │        Label: ไทย
+        └─────── Link: {'text:ไทย': 'https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1'}
+        [13, 39] Type: Item
+        │        Label: Українська
+        └─────── Link: {'text:Українська': 'https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%86%D1%96'}
+        [13, 40] Type: Item
+        │        Label: ئۇيغۇرچە / Uyghurche
+        └─────── Link: {'text:ئۇيغۇرچە / Uyghurche': 'https://ug.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%84%D9%89%D9%82%D9%84%D8%A7%D8%B1'}
+        [13, 41] Type: Item
+        │        Label: Tiếng Việt
+        └─────── Link: {'text:Tiếng Việt': 'https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Th%C3%A1i_(Th%C3%A1i_Lan)'}
+        [13, 42] Type: Item
+        │        Label: 中文
+        └─────── Link: {'text:中文': 'https://zh.wikipedia.org/wiki/%E6%B3%B0%E6%97%8F'}

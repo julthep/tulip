@@ -1,0 +1,911 @@
+[] Type: Page
+│  Label: Thai (Unicode block)
+└─ Number of Member: 9
+    [0] Type: Table
+    │   Label: Thai (Unicode block)
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 2
+        [0, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 14
+            [0, 0, 0] Type: Cell
+            │         Label: Thai
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 1] Type: Cell
+            │         Label: Range
+            └──────── Style: Emphasize
+            [0, 0, 2] Type: Cell
+            │         Label: Plane
+            └──────── Style: Emphasize
+            [0, 0, 3] Type: Cell
+            │         Label: Scripts
+            └──────── Style: Emphasize
+            [0, 0, 4] Type: Cell
+            │         Label: Major alphabets
+            └──────── Style: Emphasize
+            [0, 0, 5] Type: Cell
+            │         Label: Assigned
+            └──────── Style: Emphasize
+            [0, 0, 6] Type: Cell
+            │         Label: Unused
+            └──────── Style: Emphasize
+            [0, 0, 7] Type: Cell
+            │         Label: Source standards
+            └──────── Style: Emphasize
+            [0, 0, 8] Type: Cell
+            │         Label: Unicode version history
+            └──────── Style: Emphasize, GrpSpan
+            [0, 0, 9] Type: Cell
+            │         Label: 
+            └──────── Style: GrpSpan
+            [0, 0, 10] Type: Cell
+            │          Label: 1.0.0
+            └───────── Style: Emphasize
+            [0, 0, 11] Type: Cell
+            │          Label: 1.0.1
+            └───────── Style: Emphasize
+            [0, 0, 12] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 0, 13] Type: Cell
+            │          Label: Note: Five characters were removed from the Thai block in version 1.0.1 during the process of unifying with ISO 10646.
+            │          Style: GrpSpan
+            └───────── Link: {'text:ISO 10646': 'http://en.wikipedia.org/wiki/Universal_Coded_Character_Set'}
+        [0, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 14
+            [0, 1, 0] Type: Cell
+            │         Label: Thai
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 1] Type: Cell
+            └──────── Label: U+0E00..U+0E7F
+(128 code points)
+            [0, 1, 2] Type: Cell
+            │         Label: BMP
+            └──────── Link: {'text:BMP': 'http://en.wikipedia.org/wiki/Basic_Multilingual_Plane'}
+            [0, 1, 3] Type: Cell
+            │         Label: Thai (86 char.)
+Common (1 char.)
+            └──────── Link: {'text:Thai': 'http://en.wikipedia.org/wiki/Thai_script', 'text:Common': 'http://en.wikipedia.org/wiki/Script_(Unicode)#Special_script_property_values'}
+            [0, 1, 4] Type: Cell
+            │         Label: Thai
+Northern Thai
+Pali
+            └──────── Link: {'text:Thai': 'http://en.wikipedia.org/wiki/Thai_alphabet', 'text:Northern Thai': 'http://en.wikipedia.org/wiki/Northern_Thai_language#Script', 'text:Pali': 'http://en.wikipedia.org/wiki/Pali#Writing'}
+            [0, 1, 5] Type: Cell
+            └──────── Label: 87 code points
+            [0, 1, 6] Type: Cell
+            └──────── Label: 41 reserved code points
+            [0, 1, 7] Type: Cell
+            └──────── Label: Thai Industrial Standard 620-2529 and 620-2533
+            [0, 1, 8] Type: Cell
+            │         Label: Unicode version history
+            └──────── Style: Emphasize, GrpSpan
+            [0, 1, 9] Type: Cell
+            │         Label: 
+            └──────── Style: GrpSpan
+            [0, 1, 10] Type: Cell
+            └───────── Label: 92 (+92)
+            [0, 1, 11] Type: Cell
+            └───────── Label: 87 (-5)
+            [0, 1, 12] Type: Cell
+            │          Label: 
+            └───────── Style: GrpSpan
+            [0, 1, 13] Type: Cell
+            │          Label: Note: Five characters were removed from the Thai block in version 1.0.1 during the process of unifying with ISO 10646.
+            │          Style: GrpSpan
+            └───────── Link: {'text:ISO 10646': 'http://en.wikipedia.org/wiki/Universal_Coded_Character_Set'}
+    [1] Type: Table
+    │   Label: Block
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 17
+        [1, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 0, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 0, 1] Type: Cell
+            └──────── Label: 
+            [1, 0, 2] Type: Cell
+            └──────── Label: U+0E0x
+            [1, 0, 3] Type: Cell
+            └──────── Label: U+0E1x
+            [1, 0, 4] Type: Cell
+            └──────── Label: U+0E2x
+            [1, 0, 5] Type: Cell
+            └──────── Label: U+0E3x
+            [1, 0, 6] Type: Cell
+            └──────── Label: U+0E4x
+            [1, 0, 7] Type: Cell
+            └──────── Label: U+0E5x
+            [1, 0, 8] Type: Cell
+            └──────── Label: U+0E6x
+            [1, 0, 9] Type: Cell
+            └──────── Label: U+0E7x
+            [1, 0, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 1, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 1, 1] Type: Cell
+            └──────── Label: 0
+            [1, 1, 2] Type: Cell
+            └──────── Label: 
+            [1, 1, 3] Type: Cell
+            └──────── Label: ฐ
+            [1, 1, 4] Type: Cell
+            └──────── Label: ภ
+            [1, 1, 5] Type: Cell
+            └──────── Label: ะ
+            [1, 1, 6] Type: Cell
+            └──────── Label: เ
+            [1, 1, 7] Type: Cell
+            └──────── Label: ๐
+            [1, 1, 8] Type: Cell
+            └──────── Label: 
+            [1, 1, 9] Type: Cell
+            └──────── Label: 
+            [1, 1, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 2, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 2, 1] Type: Cell
+            └──────── Label: 1
+            [1, 2, 2] Type: Cell
+            └──────── Label: ก
+            [1, 2, 3] Type: Cell
+            └──────── Label: ฑ
+            [1, 2, 4] Type: Cell
+            └──────── Label: ม
+            [1, 2, 5] Type: Cell
+            └──────── Label: ั
+            [1, 2, 6] Type: Cell
+            └──────── Label: แ
+            [1, 2, 7] Type: Cell
+            └──────── Label: ๑
+            [1, 2, 8] Type: Cell
+            └──────── Label: 
+            [1, 2, 9] Type: Cell
+            └──────── Label: 
+            [1, 2, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 3, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 3, 1] Type: Cell
+            └──────── Label: 2
+            [1, 3, 2] Type: Cell
+            └──────── Label: ข
+            [1, 3, 3] Type: Cell
+            └──────── Label: ฒ
+            [1, 3, 4] Type: Cell
+            └──────── Label: ย
+            [1, 3, 5] Type: Cell
+            └──────── Label: า
+            [1, 3, 6] Type: Cell
+            └──────── Label: โ
+            [1, 3, 7] Type: Cell
+            └──────── Label: ๒
+            [1, 3, 8] Type: Cell
+            └──────── Label: 
+            [1, 3, 9] Type: Cell
+            └──────── Label: 
+            [1, 3, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 4, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 4, 1] Type: Cell
+            └──────── Label: 3
+            [1, 4, 2] Type: Cell
+            └──────── Label: ฃ
+            [1, 4, 3] Type: Cell
+            └──────── Label: ณ
+            [1, 4, 4] Type: Cell
+            └──────── Label: ร
+            [1, 4, 5] Type: Cell
+            └──────── Label: ำ
+            [1, 4, 6] Type: Cell
+            └──────── Label: ใ
+            [1, 4, 7] Type: Cell
+            └──────── Label: ๓
+            [1, 4, 8] Type: Cell
+            └──────── Label: 
+            [1, 4, 9] Type: Cell
+            └──────── Label: 
+            [1, 4, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 5] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 5, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 5, 1] Type: Cell
+            └──────── Label: 4
+            [1, 5, 2] Type: Cell
+            └──────── Label: ค
+            [1, 5, 3] Type: Cell
+            └──────── Label: ด
+            [1, 5, 4] Type: Cell
+            └──────── Label: ฤ
+            [1, 5, 5] Type: Cell
+            └──────── Label: ิ
+            [1, 5, 6] Type: Cell
+            └──────── Label: ไ
+            [1, 5, 7] Type: Cell
+            └──────── Label: ๔
+            [1, 5, 8] Type: Cell
+            └──────── Label: 
+            [1, 5, 9] Type: Cell
+            └──────── Label: 
+            [1, 5, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 6] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 6, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 6, 1] Type: Cell
+            └──────── Label: 5
+            [1, 6, 2] Type: Cell
+            └──────── Label: ฅ
+            [1, 6, 3] Type: Cell
+            └──────── Label: ต
+            [1, 6, 4] Type: Cell
+            └──────── Label: ล
+            [1, 6, 5] Type: Cell
+            └──────── Label: ี
+            [1, 6, 6] Type: Cell
+            └──────── Label: ๅ
+            [1, 6, 7] Type: Cell
+            └──────── Label: ๕
+            [1, 6, 8] Type: Cell
+            └──────── Label: 
+            [1, 6, 9] Type: Cell
+            └──────── Label: 
+            [1, 6, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 7] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 7, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 7, 1] Type: Cell
+            └──────── Label: 6
+            [1, 7, 2] Type: Cell
+            └──────── Label: ฆ
+            [1, 7, 3] Type: Cell
+            └──────── Label: ถ
+            [1, 7, 4] Type: Cell
+            └──────── Label: ฦ
+            [1, 7, 5] Type: Cell
+            └──────── Label: ึ
+            [1, 7, 6] Type: Cell
+            └──────── Label: ๆ
+            [1, 7, 7] Type: Cell
+            └──────── Label: ๖
+            [1, 7, 8] Type: Cell
+            └──────── Label: 
+            [1, 7, 9] Type: Cell
+            └──────── Label: 
+            [1, 7, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 8] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 8, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 8, 1] Type: Cell
+            └──────── Label: 7
+            [1, 8, 2] Type: Cell
+            └──────── Label: ง
+            [1, 8, 3] Type: Cell
+            └──────── Label: ท
+            [1, 8, 4] Type: Cell
+            └──────── Label: ว
+            [1, 8, 5] Type: Cell
+            └──────── Label: ื
+            [1, 8, 6] Type: Cell
+            └──────── Label: ็
+            [1, 8, 7] Type: Cell
+            └──────── Label: ๗
+            [1, 8, 8] Type: Cell
+            └──────── Label: 
+            [1, 8, 9] Type: Cell
+            └──────── Label: 
+            [1, 8, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 9] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 11
+            [1, 9, 0] Type: Cell
+            │         Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │         Style: GrpSpan
+            └──────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 9, 1] Type: Cell
+            └──────── Label: 8
+            [1, 9, 2] Type: Cell
+            └──────── Label: จ
+            [1, 9, 3] Type: Cell
+            └──────── Label: ธ
+            [1, 9, 4] Type: Cell
+            └──────── Label: ศ
+            [1, 9, 5] Type: Cell
+            └──────── Label: ุ
+            [1, 9, 6] Type: Cell
+            └──────── Label: ่
+            [1, 9, 7] Type: Cell
+            └──────── Label: ๘
+            [1, 9, 8] Type: Cell
+            └──────── Label: 
+            [1, 9, 9] Type: Cell
+            └──────── Label: 
+            [1, 9, 10] Type: Cell
+            │          Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │          Style: GrpSpan
+            └───────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 10] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 10, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 10, 1] Type: Cell
+            └───────── Label: 9
+            [1, 10, 2] Type: Cell
+            └───────── Label: ฉ
+            [1, 10, 3] Type: Cell
+            └───────── Label: น
+            [1, 10, 4] Type: Cell
+            └───────── Label: ษ
+            [1, 10, 5] Type: Cell
+            └───────── Label: ู
+            [1, 10, 6] Type: Cell
+            └───────── Label: ้
+            [1, 10, 7] Type: Cell
+            └───────── Label: ๙
+            [1, 10, 8] Type: Cell
+            └───────── Label: 
+            [1, 10, 9] Type: Cell
+            └───────── Label: 
+            [1, 10, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 11] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 11, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 11, 1] Type: Cell
+            └───────── Label: A
+            [1, 11, 2] Type: Cell
+            └───────── Label: ช
+            [1, 11, 3] Type: Cell
+            └───────── Label: บ
+            [1, 11, 4] Type: Cell
+            └───────── Label: ส
+            [1, 11, 5] Type: Cell
+            └───────── Label: ฺ
+            [1, 11, 6] Type: Cell
+            └───────── Label: ๊
+            [1, 11, 7] Type: Cell
+            └───────── Label: ๚
+            [1, 11, 8] Type: Cell
+            └───────── Label: 
+            [1, 11, 9] Type: Cell
+            └───────── Label: 
+            [1, 11, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 12] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 12, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 12, 1] Type: Cell
+            └───────── Label: B
+            [1, 12, 2] Type: Cell
+            └───────── Label: ซ
+            [1, 12, 3] Type: Cell
+            └───────── Label: ป
+            [1, 12, 4] Type: Cell
+            └───────── Label: ห
+            [1, 12, 5] Type: Cell
+            └───────── Label: 
+            [1, 12, 6] Type: Cell
+            └───────── Label: ๋
+            [1, 12, 7] Type: Cell
+            └───────── Label: ๛
+            [1, 12, 8] Type: Cell
+            └───────── Label: 
+            [1, 12, 9] Type: Cell
+            └───────── Label: 
+            [1, 12, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 13] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 13, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 13, 1] Type: Cell
+            └───────── Label: C
+            [1, 13, 2] Type: Cell
+            └───────── Label: ฌ
+            [1, 13, 3] Type: Cell
+            └───────── Label: ผ
+            [1, 13, 4] Type: Cell
+            └───────── Label: ฬ
+            [1, 13, 5] Type: Cell
+            └───────── Label: 
+            [1, 13, 6] Type: Cell
+            └───────── Label: ์
+            [1, 13, 7] Type: Cell
+            └───────── Label: 
+            [1, 13, 8] Type: Cell
+            └───────── Label: 
+            [1, 13, 9] Type: Cell
+            └───────── Label: 
+            [1, 13, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 14] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 14, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 14, 1] Type: Cell
+            └───────── Label: D
+            [1, 14, 2] Type: Cell
+            └───────── Label: ญ
+            [1, 14, 3] Type: Cell
+            └───────── Label: ฝ
+            [1, 14, 4] Type: Cell
+            └───────── Label: อ
+            [1, 14, 5] Type: Cell
+            └───────── Label: 
+            [1, 14, 6] Type: Cell
+            └───────── Label: ํ
+            [1, 14, 7] Type: Cell
+            └───────── Label: 
+            [1, 14, 8] Type: Cell
+            └───────── Label: 
+            [1, 14, 9] Type: Cell
+            └───────── Label: 
+            [1, 14, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 15] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 15, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 15, 1] Type: Cell
+            └───────── Label: E
+            [1, 15, 2] Type: Cell
+            └───────── Label: ฎ
+            [1, 15, 3] Type: Cell
+            └───────── Label: พ
+            [1, 15, 4] Type: Cell
+            └───────── Label: ฮ
+            [1, 15, 5] Type: Cell
+            └───────── Label: 
+            [1, 15, 6] Type: Cell
+            └───────── Label: ๎
+            [1, 15, 7] Type: Cell
+            └───────── Label: 
+            [1, 15, 8] Type: Cell
+            └───────── Label: 
+            [1, 15, 9] Type: Cell
+            └───────── Label: 
+            [1, 15, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+        [1, 16] Type: Column
+        │       Style: Enumerate
+        └────── Number of Member: 11
+            [1, 16, 0] Type: Cell
+            │          Label: Thai
+Official Unicode Consortium code chart (PDF)
+            │          Style: GrpSpan
+            └───────── Link: {'text:Official Unicode Consortium code chart': 'https://www.unicode.org/charts/PDF/U0E00.pdf'}
+            [1, 16, 1] Type: Cell
+            └───────── Label: F
+            [1, 16, 2] Type: Cell
+            └───────── Label: ฏ
+            [1, 16, 3] Type: Cell
+            └───────── Label: ฟ
+            [1, 16, 4] Type: Cell
+            └───────── Label: ฯ
+            [1, 16, 5] Type: Cell
+            └───────── Label: ฿
+            [1, 16, 6] Type: Cell
+            └───────── Label: ๏
+            [1, 16, 7] Type: Cell
+            └───────── Label: 
+            [1, 16, 8] Type: Cell
+            └───────── Label: 
+            [1, 16, 9] Type: Cell
+            └───────── Label: 
+            [1, 16, 10] Type: Cell
+            │           Label: Notes
+1.^ As of Unicode version 13.0
+2.^ Grey areas indicate non-assigned code points
+            │           Style: GrpSpan
+            └────────── Link: {'text:^': 'http://en.wikipedia.org/wiki/Thai_(Unicode_block)#ref_U0E00_grey'}
+    [2] Type: Table
+    │   Label: History
+    │   Style: Enumerate, ColMajor
+    │   Dimension: 2
+    └── Number of Member: 6
+        [2, 0] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [2, 0, 0] Type: Cell
+            │         Label: Version
+            │         Style: Emphasize
+            └──────── Link: {'text:Version': 'http://en.wikipedia.org/wiki/Unicode#Versions'}
+            [2, 0, 1] Type: Cell
+            │         Label: 1.0.0
+            └──────── Style: LineSpan
+            [2, 0, 2] Type: Cell
+            │         Label: 1.0.0
+            └──────── Style: LineSpan
+            [2, 0, 3] Type: Cell
+            │         Label: 1.0.0
+            └──────── Style: LineSpan
+            [2, 0, 4] Type: Cell
+            │         Label: 1.0.0
+            └──────── Style: LineSpan
+            [2, 0, 5] Type: Cell
+            │         Label: Proposed code points and characters names may differ from final code points and names
+            └──────── Style: GrpSpan
+            [2, 0, 6] Type: 
+            [2, 0, 7] Type: 
+            [2, 0, 8] Type: 
+            [2, 0, 9] Type: 
+            [2, 0, 10] Type: 
+            [2, 0, 11] Type: 
+            [2, 0, 12] Type: 
+        [2, 1] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [2, 1, 0] Type: Cell
+            │         Label: Final code points
+            └──────── Style: Emphasize
+            [2, 1, 1] Type: Cell
+            │         Label: U+0E01..0E3A, 0E3F..0E5B
+            └──────── Style: LineSpan
+            [2, 1, 2] Type: Cell
+            │         Label: U+0E01..0E3A, 0E3F..0E5B
+            └──────── Style: LineSpan
+            [2, 1, 3] Type: Cell
+            │         Label: U+0E01..0E3A, 0E3F..0E5B
+            └──────── Style: LineSpan
+            [2, 1, 4] Type: Cell
+            │         Label: U+0E01..0E3A, 0E3F..0E5B
+            └──────── Style: LineSpan
+            [2, 1, 5] Type: Cell
+            │         Label: Proposed code points and characters names may differ from final code points and names
+            └──────── Style: GrpSpan
+            [2, 1, 6] Type: 
+            [2, 1, 7] Type: 
+            [2, 1, 8] Type: 
+            [2, 1, 9] Type: 
+            [2, 1, 10] Type: 
+            [2, 1, 11] Type: 
+            [2, 1, 12] Type: 
+        [2, 2] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [2, 2, 0] Type: Cell
+            │         Label: Count
+            └──────── Style: Emphasize
+            [2, 2, 1] Type: Cell
+            │         Label: 87
+            └──────── Style: LineSpan
+            [2, 2, 2] Type: Cell
+            │         Label: 87
+            └──────── Style: LineSpan
+            [2, 2, 3] Type: Cell
+            │         Label: 87
+            └──────── Style: LineSpan
+            [2, 2, 4] Type: Cell
+            │         Label: 87
+            └──────── Style: LineSpan
+            [2, 2, 5] Type: Cell
+            │         Label: Proposed code points and characters names may differ from final code points and names
+            └──────── Style: GrpSpan
+            [2, 2, 6] Type: 
+            [2, 2, 7] Type: 
+            [2, 2, 8] Type: 
+            [2, 2, 9] Type: 
+            [2, 2, 10] Type: 
+            [2, 2, 11] Type: 
+            [2, 2, 12] Type: 
+        [2, 3] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [2, 3, 0] Type: Cell
+            │         Label: UTC ID
+            │         Style: Emphasize
+            └──────── Link: {'text:UTC': 'http://en.wikipedia.org/wiki/Unicode_Consortium'}
+            [2, 3, 1] Type: Cell
+            └──────── Label: UTC/1991-058
+            [2, 3, 2] Type: Cell
+            │         Label: UTC/1991-048B
+            └──────── Link: {'text:UTC/1991-048B': 'https://www.unicode.org/L2/L1991-UTC/UTC46-draft.txt'}
+            [2, 3, 3] Type: Cell
+            │         Label: UTC/1992-xxx
+            └──────── Link: {'text:UTC/1992-xxx': 'https://www.unicode.org/L2/L1992-UTC/UTC52-draft.txt'}
+            [2, 3, 4] Type: Cell
+            └──────── Label: 
+            [2, 3, 5] Type: Cell
+            │         Label: Proposed code points and characters names may differ from final code points and names
+            └──────── Style: GrpSpan
+            [2, 3, 6] Type: 
+            [2, 3, 7] Type: 
+            [2, 3, 8] Type: 
+            [2, 3, 9] Type: 
+            [2, 3, 10] Type: 
+            [2, 3, 11] Type: 
+            [2, 3, 12] Type: 
+        [2, 4] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [2, 4, 0] Type: Cell
+            │         Label: L2 ID
+            │         Style: Emphasize
+            └──────── Link: {'text:L2': 'http://en.wikipedia.org/wiki/International_Committee_for_Information_Technology_Standards'}
+            [2, 4, 1] Type: Cell
+            └──────── Label: 
+            [2, 4, 2] Type: Cell
+            └──────── Label: 
+            [2, 4, 3] Type: Cell
+            └──────── Label: 
+            [2, 4, 4] Type: Cell
+            │         Label: L2/02-017
+            └──────── Link: {'text:L2/02-017': 'https://www.unicode.org/L2/L2002/02017-whistler.pdf'}
+            [2, 4, 5] Type: Cell
+            │         Label: Proposed code points and characters names may differ from final code points and names
+            └──────── Style: GrpSpan
+            [2, 4, 6] Type: 
+            [2, 4, 7] Type: 
+            [2, 4, 8] Type: 
+            [2, 4, 9] Type: 
+            [2, 4, 10] Type: 
+            [2, 4, 11] Type: 
+            [2, 4, 12] Type: 
+        [2, 5] Type: Column
+        │      Style: Enumerate
+        └───── Number of Member: 13
+            [2, 5, 0] Type: Cell
+            │         Label: Document
+            └──────── Style: Emphasize
+            [2, 5, 1] Type: Cell
+            └──────── Label: Whistler, Ken, Thai, Lao
+            [2, 5, 2] Type: Cell
+            └──────── Label: Whistler, Ken (1991-03-27), "Thai, Lao", Draft Minutes from the UTC meeting #46 day 2, 3/27 at Apple
+            [2, 5, 3] Type: Cell
+            └──────── Label: Freytag, Asmus (1992-05-12), "B. Indic SC", Unconfirmed minutes for UTC Meeting #52, May 8, 1992 at Xerox
+            [2, 5, 4] Type: Cell
+            └──────── Label: Whistler, Ken (2002-01-14), Character Properties for avagrahas, etc.
+            [2, 5, 5] Type: Cell
+            │         Label: Proposed code points and characters names may differ from final code points and names
+            └──────── Style: GrpSpan
+            [2, 5, 6] Type: 
+            [2, 5, 7] Type: 
+            [2, 5, 8] Type: 
+            [2, 5, 9] Type: 
+            [2, 5, 10] Type: 
+            [2, 5, 11] Type: 
+            [2, 5, 12] Type: 
+    [3] Type: List
+    │   Label: History
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 1
+        [3, 0] Type: Item
+        └───── Label: Proposed code points and characters names may differ from final code points and names
+    [4] Type: List
+    │   Label: References
+    │   Style: Enumerate
+    │   Dimension: 1
+    └── Number of Member: 3
+        [4, 0] Type: Item
+        │      Label: "Unicode 1.0.1 Addendum" (PDF). The Unicode Standard. 1992-11-03. Retrieved 2016-07-09.
+        └───── Link: {'text:"Unicode 1.0.1 Addendum"': 'https://www.unicode.org/versions/Unicode1.0.0/Notice.pdf'}
+        [4, 1] Type: Item
+        │      Label: "Unicode character database". The Unicode Standard. Retrieved 2016-07-09.
+        └───── Link: {'text:"Unicode character database"': 'https://www.unicode.org'}
+        [4, 2] Type: Item
+        │      Label: "Enumerated Versions of The Unicode Standard". The Unicode Standard. Retrieved 2016-07-09.
+        └───── Link: {'text:"Enumerated Versions of The Unicode Standard"': 'https://www.unicode.org/versions/enumeratedversions.html'}
+    [5] Type: List
+    │   Label: References
+    │   Dimension: 1
+    └── Number of Member: 2
+        [5, 0] Type: Item
+        │      Label: Unicode blocks
+        └───── Link: {'text:Unicode blocks': 'http://en.wikipedia.org/wiki/Category:Unicode_blocks'}
+        [5, 1] Type: Item
+        │      Label: Encodings of Thai
+        └───── Link: {'text:Encodings of Thai': 'http://en.wikipedia.org/wiki/Category:Encodings_of_Thai'}
+    [6] Type: List
+    │   Label: Tools
+    │   Dimension: 1
+    └── Number of Member: 8
+        [6, 0] Type: Item
+        │      Label: What links here
+        └───── Link: {'text:What links here': 'http://en.wikipedia.org/wiki/Special:WhatLinksHere/Thai_(Unicode_block)'}
+        [6, 1] Type: Item
+        │      Label: Related changes
+        └───── Link: {'text:Related changes': 'http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Thai_(Unicode_block)'}
+        [6, 2] Type: Item
+        │      Label: Upload file
+        └───── Link: {'text:Upload file': 'http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard'}
+        [6, 3] Type: Item
+        │      Label: Special pages
+        └───── Link: {'text:Special pages': 'http://en.wikipedia.org/wiki/Special:SpecialPages'}
+        [6, 4] Type: Item
+        │      Label: Permanent link
+        └───── Link: {'text:Permanent link': 'http://en.wikipedia.org/w/index.php?title=Thai_(Unicode_block)&oldid=939735570'}
+        [6, 5] Type: Item
+        │      Label: Page information
+        └───── Link: {'text:Page information': 'http://en.wikipedia.org/w/index.php?title=Thai_(Unicode_block)&action=info'}
+        [6, 6] Type: Item
+        │      Label: Wikidata item
+        └───── Link: {'text:Wikidata item': 'https://www.wikidata.org/wiki/Special:EntityPage/Q1354367'}
+        [6, 7] Type: Item
+        │      Label: Cite this page
+        └───── Link: {'text:Cite this page': 'http://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Thai_%28Unicode_block%29&id=939735570'}
+    [7] Type: List
+    │   Label: Print/export
+    │   Dimension: 1
+    └── Number of Member: 3
+        [7, 0] Type: Item
+        │      Label: Create a book
+        └───── Link: {'text:Create a book': 'http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Thai+%28Unicode+block%29'}
+        [7, 1] Type: Item
+        │      Label: Download as PDF
+        └───── Link: {'text:Download as PDF': 'http://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Thai+%28Unicode+block%29&action=show-download-screen'}
+        [7, 2] Type: Item
+        │      Label: Printable version
+        └───── Link: {'text:Printable version': 'http://en.wikipedia.org/w/index.php?title=Thai_(Unicode_block)&printable=yes'}
+    [8] Type: List
+    │   Label: Languages
+    │   Dimension: 1
+    └── Number of Member: 7
+        [8, 0] Type: Item
+        │      Label: বাংলা
+        └───── Link: {'text:বাংলা': 'https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8B%E0%A6%A1%E0%A7%87_%E0%A6%A5%E0%A6%BE%E0%A6%87_%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BF'}
+        [8, 1] Type: Item
+        │      Label: Deutsch
+        └───── Link: {'text:Deutsch': 'https://de.wikipedia.org/wiki/Unicodeblock_Thail%C3%A4ndisch'}
+        [8, 2] Type: Item
+        │      Label: Français
+        └───── Link: {'text:Français': 'https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode/U0E00'}
+        [8, 3] Type: Item
+        │      Label: Bahasa Indonesia
+        └───── Link: {'text:Bahasa Indonesia': 'https://id.wikipedia.org/wiki/Thai_(blok_Unicode)'}
+        [8, 4] Type: Item
+        │      Label: Italiano
+        └───── Link: {'text:Italiano': 'https://it.wikipedia.org/wiki/Thai_(Unicode)'}
+        [8, 5] Type: Item
+        │      Label: Русский
+        └───── Link: {'text:Русский': 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_(%D0%B1%D0%BB%D0%BE%D0%BA_%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4%D0%B0)'}
+        [8, 6] Type: Item
+        │      Label: ไทย
+        └───── Link: {'text:ไทย': 'https://th.wikipedia.org/wiki/Thai_(%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%A2%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B9%82%E0%B8%84%E0%B8%94)'}
